@@ -39,6 +39,76 @@
       "entryTime": "2026-10-19T13:53:22.312066+00:00",
       "status": "OPEN",
       "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "ZECUSDT",
+      "side": "BUY",
+      "entry": 1151.36,
+      "stopLoss": 1134.0896,
+      "takeProfit": 1185.9008,
+      "entryTime": "2026-10-19T23:02:38.643180+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "SOLUSDT",
+      "side": "BUY",
+      "entry": 105.21,
+      "stopLoss": 103.63185,
+      "takeProfit": 108.3663,
+      "entryTime": "2026-10-19T23:02:38.643180+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "USD1USDT",
+      "side": "BUY",
+      "entry": 0.99986,
+      "stopLoss": 0.9848621,
+      "takeProfit": 1.0298558,
+      "entryTime": "2026-10-19T23:02:38.643180+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "XRPUSDT",
+      "side": "BUY",
+      "entry": 1.3055,
+      "stopLoss": 1.2859175,
+      "takeProfit": 1.344665,
+      "entryTime": "2026-10-19T23:02:38.643180+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "BNBUSDT",
+      "side": "BUY",
+      "entry": 732.2,
+      "stopLoss": 721.217,
+      "takeProfit": 754.166,
+      "entryTime": "2026-10-19T23:02:38.643180+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "WLDUSDT",
+      "side": "BUY",
+      "entry": 0.528,
+      "stopLoss": 0.52008,
+      "takeProfit": 0.54384,
+      "entryTime": "2026-10-19T23:02:38.643180+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "SNDKBUSDT",
+      "side": "BUY",
+      "entry": 1385.76,
+      "stopLoss": 1364.9736,
+      "takeProfit": 1427.3328,
+      "entryTime": "2026-10-19T23:02:38.643180+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
     }
   ],
   "closed": []
