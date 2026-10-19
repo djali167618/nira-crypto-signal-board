@@ -1,0 +1,45 @@
+{
+  "open": [
+    {
+      "symbol": "BTCUSDT",
+      "side": "SELL",
+      "entry": 82196.42,
+      "stopLoss": 83429.3663,
+      "takeProfit": 79730.5274,
+      "entryTime": "2026-10-19T13:53:22.312066+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "ETHUSDT",
+      "side": "SELL",
+      "entry": 2404.55,
+      "stopLoss": 2440.61825,
+      "takeProfit": 2332.4135,
+      "entryTime": "2026-10-19T13:53:22.312066+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "DOGEUSDT",
+      "side": "BUY",
+      "entry": 0.07917,
+      "stopLoss": 0.07798245,
+      "takeProfit": 0.0815451,
+      "entryTime": "2026-10-19T13:53:22.312066+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "SUIUSDT",
+      "side": "SELL",
+      "entry": 0.9941,
+      "stopLoss": 1.0090115,
+      "takeProfit": 0.964277,
+      "entryTime": "2026-10-19T13:53:22.312066+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
+    }
+  ],
+  "closed": []
+}
