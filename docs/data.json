@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-19 23:02:38 UTC",
+  "generatedAt": "2026-10-20 01:42:05 UTC",
   "interval": "15m candles",
-  "marketSentiment": 12,
+  "marketSentiment": 6,
   "overallNewsScore": 0,
   "fearGreed": {
-    "value": 59,
+    "value": 55,
     "label": "Greed",
     "source": "Alternative.me"
   },
@@ -12,17 +12,17 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 82076.0,
-      "change24h": 0.439,
-      "volume24h": 1080673464.5429542,
+      "price": 81694.29,
+      "change24h": -0.9,
+      "volume24h": 1044259918.350393,
       "technical": {
-        "rsi": 48.8,
-        "ema9": 82074.54589147684,
-        "ema21": 82064.71094815015,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.93,
-        "score": 77
+        "rsi": 35.5,
+        "ema9": 81669.31350698305,
+        "ema21": 81838.18374893127,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 1.8,
+        "score": 16
       },
       "newsScore": 23,
       "newsCount": 5,
@@ -63,25 +63,25 @@
           "text": "Strategy buys $22M in Bitcoin, repurchases $193M in STRC Strategy added 267 Bitcoin to its holdings as it bought back 1.94 million STRC shares and boosted its preferred stock buyback program to $3 billion."
         }
       ],
-      "marketSentiment": 12,
-      "combinedScore": 68,
-      "signal": "BUY",
-      "reason": "Technical 77/100; News +23; Market sentiment +12."
+      "marketSentiment": 6,
+      "combinedScore": 37,
+      "signal": "WAIT",
+      "reason": "Technical 16/100; News +23; Market sentiment +6."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2408.75,
-      "change24h": 0.705,
-      "volume24h": 424214593.166419,
+      "price": 2398.2,
+      "change24h": -1.098,
+      "volume24h": 416880045.488583,
       "technical": {
-        "rsi": 52.3,
-        "ema9": 2406.2699516008843,
-        "ema21": 2404.844448419157,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.76,
-        "score": 77
+        "rsi": 40.7,
+        "ema9": 2396.8250257816158,
+        "ema21": 2400.8739220225475,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 1.61,
+        "score": 16
       },
       "newsScore": 13,
       "newsCount": 5,
@@ -122,56 +122,25 @@
           "text": "Deutsche Bank targets Asia crypto custody expansion in 2027 as German launch nears The service will initially support bitcoin, ether and the stablecoins USDC, EURC and EURAU, with the bank managing clients’ wallets and private keys."
         }
       ],
-      "marketSentiment": 12,
-      "combinedScore": 67,
-      "signal": "BUY",
-      "reason": "Technical 77/100; News +13; Market sentiment +12."
-    },
-    {
-      "symbol": "ZECUSDT",
-      "coin": "ZEC",
-      "price": 1151.36,
-      "change24h": 3.28,
-      "volume24h": 203726048.1605,
-      "technical": {
-        "rsi": 58.5,
-        "ema9": 1146.8920245124386,
-        "ema21": 1140.09221319101,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.79,
-        "score": 89
-      },
-      "newsScore": 100,
-      "newsCount": 1,
-      "news": [
-        {
-          "title": "Zcash developers plan a fix to keep ZEC swaps private from future quantum computers",
-          "link": "https://www.coindesk.com/tech/2026/10/19/zcash-developers-plan-a-fix-to-keep-zec-swaps-private-from-future-quantum-computers",
-          "published": "Mon, 19 Oct 2026 05:23:02 +0000",
-          "source": "CoinDesk",
-          "text": "Zcash developers plan a fix to keep ZEC swaps private from future quantum computers The team behind Zakura wants every swap through NEAR Intents to get its own key, so a refund address left on NEAR’s public chain can’t expose a user’s wider payment history."
-        }
-      ],
-      "marketSentiment": 12,
-      "combinedScore": 86,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +100; Market sentiment +12."
+      "marketSentiment": 6,
+      "combinedScore": 36,
+      "signal": "WAIT",
+      "reason": "Technical 16/100; News +13; Market sentiment +6."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 105.21,
-      "change24h": 1.28,
-      "volume24h": 200618513.60063,
+      "price": 104.73,
+      "change24h": -0.057,
+      "volume24h": 199680687.64511,
       "technical": {
-        "rsi": 60.7,
-        "ema9": 104.97204080546105,
-        "ema21": 104.73110448842019,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 1.1,
-        "score": 89
+        "rsi": 42.3,
+        "ema9": 104.56031398095446,
+        "ema21": 104.67457544025113,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 1.66,
+        "score": 16
       },
       "newsScore": 100,
       "newsCount": 2,
@@ -191,24 +160,24 @@
           "text": "Solana shows resilience, but some areas need continued observation, Fidelity says Solana has had no reported mainnet outages in two years, but concentrations in stake, hosting and client software should be monitored, according to a report."
         }
       ],
-      "marketSentiment": 12,
-      "combinedScore": 86,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +100; Market sentiment +12."
+      "marketSentiment": 6,
+      "combinedScore": 49,
+      "signal": "WAIT",
+      "reason": "Technical 16/100; News +100; Market sentiment +6."
     },
     {
       "symbol": "USD1USDT",
       "coin": "USD1",
-      "price": 0.99986,
+      "price": 0.99987,
       "change24h": -0.034,
-      "volume24h": 170520844.99379,
+      "volume24h": 174240734.23946,
       "technical": {
-        "rsi": 57.4,
-        "ema9": 0.9998381630164881,
-        "ema21": 0.999792665086831,
+        "rsi": 58.2,
+        "ema9": 0.9998442683661578,
+        "ema21": 0.99982259879663,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.1,
+        "volumeRatio": 0.65,
         "score": 89
       },
       "newsScore": 0,
@@ -222,25 +191,56 @@
           "text": "World Liberty’s USD1 stablecoin sheds $400M in market cap in two weeks World Liberty Financial’s USD1 stablecoin saw its market cap decrease more than $400 million over two weeks of large redemptions on Ethereum and BNB Chain."
         }
       ],
-      "marketSentiment": 12,
-      "combinedScore": 71,
+      "marketSentiment": 6,
+      "combinedScore": 70,
       "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment +12."
+      "reason": "Technical 89/100; News +0; Market sentiment +6."
+    },
+    {
+      "symbol": "ZECUSDT",
+      "coin": "ZEC",
+      "price": 1145.21,
+      "change24h": -1.807,
+      "volume24h": 156401066.77353,
+      "technical": {
+        "rsi": 47.4,
+        "ema9": 1139.3634367840755,
+        "ema21": 1140.5285632283615,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 2.08,
+        "score": 28
+      },
+      "newsScore": 100,
+      "newsCount": 1,
+      "news": [
+        {
+          "title": "Zcash developers plan a fix to keep ZEC swaps private from future quantum computers",
+          "link": "https://www.coindesk.com/tech/2026/10/19/zcash-developers-plan-a-fix-to-keep-zec-swaps-private-from-future-quantum-computers",
+          "published": "Mon, 19 Oct 2026 05:23:02 +0000",
+          "source": "CoinDesk",
+          "text": "Zcash developers plan a fix to keep ZEC swaps private from future quantum computers The team behind Zakura wants every swap through NEAR Intents to get its own key, so a refund address left on NEAR’s public chain can’t expose a user’s wider payment history."
+        }
+      ],
+      "marketSentiment": 6,
+      "combinedScore": 55,
+      "signal": "WAIT",
+      "reason": "Technical 28/100; News +100; Market sentiment +6."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 4.917,
-      "change24h": -0.466,
-      "volume24h": 116829136.5488,
+      "price": 4.879,
+      "change24h": -4.032,
+      "volume24h": 112537455.4259,
       "technical": {
-        "rsi": 47.2,
-        "ema9": 4.930752195947789,
-        "ema21": 4.935459816271608,
-        "macdBull": true,
+        "rsi": 36.8,
+        "ema9": 4.854574835165867,
+        "ema21": 4.888155121267532,
+        "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.68,
-        "score": 47
+        "volumeRatio": 0.57,
+        "score": 11
       },
       "newsScore": 44,
       "newsCount": 3,
@@ -267,25 +267,25 @@
           "text": "Zcash developers plan a fix to keep ZEC swaps private from future quantum computers The team behind Zakura wants every swap through NEAR Intents to get its own key, so a refund address left on NEAR’s public chain can’t expose a user’s wider payment history."
         }
       ],
-      "marketSentiment": 12,
-      "combinedScore": 56,
+      "marketSentiment": 6,
+      "combinedScore": 38,
       "signal": "WAIT",
-      "reason": "Technical 47/100; News +44; Market sentiment +12."
+      "reason": "Technical 11/100; News +44; Market sentiment +6."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 1.3055,
-      "change24h": 0.454,
-      "volume24h": 90608924.5839,
+      "price": 1.3009,
+      "change24h": -0.733,
+      "volume24h": 87790432.22992,
       "technical": {
-        "rsi": 51.6,
-        "ema9": 1.3049420784902659,
-        "ema21": 1.304192127525224,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.59,
-        "score": 77
+        "rsi": 38.9,
+        "ema9": 1.2975160471652991,
+        "ema21": 1.3005027930912378,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 1.75,
+        "score": 16
       },
       "newsScore": 100,
       "newsCount": 1,
@@ -298,25 +298,25 @@
           "text": "XRP Ledger is set to fix its lending code before anyone can use it Validators have a bug-fix patch on course to go live Friday. The lending system it partly repairs is still 10 votes short of approval."
         }
       ],
-      "marketSentiment": 12,
-      "combinedScore": 80,
-      "signal": "BUY",
-      "reason": "Technical 77/100; News +100; Market sentiment +12."
+      "marketSentiment": 6,
+      "combinedScore": 49,
+      "signal": "WAIT",
+      "reason": "Technical 16/100; News +100; Market sentiment +6."
     },
     {
       "symbol": "BNBUSDT",
       "coin": "BNB",
-      "price": 732.2,
-      "change24h": 1.733,
-      "volume24h": 75949791.41462,
+      "price": 728.86,
+      "change24h": 0.424,
+      "volume24h": 75577123.77595,
       "technical": {
-        "rsi": 64.5,
-        "ema9": 730.4915769895512,
-        "ema21": 729.2334102937016,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.57,
-        "score": 89
+        "rsi": 45.1,
+        "ema9": 729.006046362459,
+        "ema21": 729.412353429893,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.89,
+        "score": 23
       },
       "newsScore": 0,
       "newsCount": 1,
@@ -329,56 +329,56 @@
           "text": "World Liberty’s USD1 stablecoin sheds $400M in market cap in two weeks World Liberty Financial’s USD1 stablecoin saw its market cap decrease more than $400 million over two weeks of large redemptions on Ethereum and BNB Chain."
         }
       ],
-      "marketSentiment": 12,
-      "combinedScore": 71,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment +12."
+      "marketSentiment": 6,
+      "combinedScore": 37,
+      "signal": "WAIT",
+      "reason": "Technical 23/100; News +0; Market sentiment +6."
     },
     {
       "symbol": "WLDUSDT",
       "coin": "WLD",
-      "price": 0.528,
-      "change24h": 9.771,
-      "volume24h": 37778972.93888,
+      "price": 0.5384,
+      "change24h": 10.012,
+      "volume24h": 45109421.45688,
       "technical": {
-        "rsi": 65.7,
-        "ema9": 0.5237727746445159,
-        "ema21": 0.517793717426564,
-        "macdBull": true,
+        "rsi": 55.9,
+        "ema9": 0.5305676218102955,
+        "ema21": 0.5265327220032868,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 1.18,
-        "score": 89
+        "volumeRatio": 1.36,
+        "score": 65
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": 12,
-      "combinedScore": 71,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment +12."
+      "marketSentiment": 6,
+      "combinedScore": 58,
+      "signal": "WAIT",
+      "reason": "Technical 65/100; News +0; Market sentiment +6."
     },
     {
-      "symbol": "SNDKBUSDT",
-      "coin": "SNDKB",
-      "price": 1385.76,
-      "change24h": 7.363,
-      "volume24h": 37302389.642176,
+      "symbol": "SUIUSDT",
+      "coin": "SUI",
+      "price": 0.9927,
+      "change24h": -0.77,
+      "volume24h": 33586839.26456,
       "technical": {
-        "rsi": 57.6,
-        "ema9": 1379.9333779241865,
-        "ema21": 1379.0294113817438,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.52,
-        "score": 89
+        "rsi": 43.2,
+        "ema9": 0.9913523420234006,
+        "ema21": 0.9927681564138324,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 2.21,
+        "score": 16
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": 12,
-      "combinedScore": 71,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment +12."
+      "marketSentiment": 6,
+      "combinedScore": 34,
+      "signal": "SELL",
+      "reason": "Technical 16/100; News +0; Market sentiment +6."
     }
   ],
   "news": [
