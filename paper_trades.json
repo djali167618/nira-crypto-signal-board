@@ -91,16 +91,6 @@
       "mode": "PAPER ONLY"
     },
     {
-      "symbol": "WLDUSDT",
-      "side": "BUY",
-      "entry": 0.528,
-      "stopLoss": 0.52008,
-      "takeProfit": 0.54384,
-      "entryTime": "2026-10-19T23:02:38.643180+00:00",
-      "status": "OPEN",
-      "mode": "PAPER ONLY"
-    },
-    {
       "symbol": "SNDKBUSDT",
       "side": "BUY",
       "entry": 1385.76,
@@ -109,7 +99,31 @@
       "entryTime": "2026-10-19T23:02:38.643180+00:00",
       "status": "OPEN",
       "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "WLDUSDT",
+      "side": "BUY",
+      "entry": 0.5446,
+      "stopLoss": 0.536431,
+      "takeProfit": 0.560938,
+      "entryTime": "2026-10-20T12:07:57.297834+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
     }
   ],
-  "closed": []
+  "closed": [
+    {
+      "symbol": "WLDUSDT",
+      "side": "BUY",
+      "entry": 0.528,
+      "stopLoss": 0.52008,
+      "takeProfit": 0.54384,
+      "entryTime": "2026-10-19T23:02:38.643180+00:00",
+      "status": "TAKE_PROFIT",
+      "mode": "PAPER ONLY",
+      "exitPrice": 0.5446,
+      "exitTime": "2026-10-20T12:07:57.297834+00:00",
+      "pnlPercent": 3.144
+    }
+  ]
 }
