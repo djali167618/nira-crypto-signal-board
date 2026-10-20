@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-20 01:42:05 UTC",
+  "generatedAt": "2026-10-20 06:37:55 UTC",
   "interval": "15m candles",
-  "marketSentiment": 6,
-  "overallNewsScore": 0,
+  "marketSentiment": 4,
+  "overallNewsScore": -8,
   "fearGreed": {
     "value": 55,
     "label": "Greed",
@@ -12,21 +12,35 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 81694.29,
-      "change24h": -0.9,
-      "volume24h": 1044259918.350393,
+      "price": 81772.01,
+      "change24h": -1.343,
+      "volume24h": 993543846.5936002,
       "technical": {
-        "rsi": 35.5,
-        "ema9": 81669.31350698305,
-        "ema21": 81838.18374893127,
+        "rsi": 45.5,
+        "ema9": 81861.77701689306,
+        "ema21": 81886.9881571393,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 1.8,
-        "score": 16
+        "volumeRatio": 0.7,
+        "score": 23
       },
-      "newsScore": 23,
+      "newsScore": 13,
       "newsCount": 5,
       "news": [
+        {
+          "title": "US Bitcoin ETFs draw $527M in biggest showing since September",
+          "link": "https://cointelegraph.com/markets/bitcoin-etfs-527m-inflows-biggest-since-september?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Tue, 20 Oct 2026 05:39:20 +0000",
+          "source": "Cointelegraph",
+          "text": "US Bitcoin ETFs draw $527M in biggest showing since September BlackRock’s IBIT led the gains with $665.2 million in inflows, offsetting withdrawals from Fidelity and Grayscale, while other funds recorded no net flows."
+        },
+        {
+          "title": "Bitcoin rally could revive treasury buying, but easy-money days over",
+          "link": "https://cointelegraph.com/markets/bitcoin-rally-could-revive-treasury-buying-but-easy-money-days-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Tue, 20 Oct 2026 01:35:00 +0000",
+          "source": "Cointelegraph",
+          "text": "Bitcoin rally could revive treasury buying, but easy-money days over “A return to last year’s indiscriminate capital raising looks unlikely,” said Bitfinex head of derivatives Jag Kooner."
+        },
         {
           "title": "Here’s what happened in crypto today",
           "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -47,41 +61,27 @@
           "published": "Mon, 19 Oct 2026 16:30:18 +0000",
           "source": "Cointelegraph",
           "text": "Strive buys $335M in Bitcoin, boosting holdings to 36,818 BTC The Bitcoin treasury company added another 1,223 BTC after an earlier purchase pushed it past MARA Holdings, while continuing to expand its reserves through equity financing."
-        },
-        {
-          "title": "Bitcoin is rejected at $83K as US bond yields reverse higher with equities",
-          "link": "https://cointelegraph.com/markets/bitcoin-is-rejected-at-83k-as-us-bond-yields-reverse-higher-with-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Mon, 19 Oct 2026 16:05:57 +0000",
-          "source": "Cointelegraph",
-          "text": "Bitcoin is rejected at $83K as US bond yields reverse higher with equities Bitcoin price action failed to improve with equities as a sell wall at $83,000 kept BTC in a tight range."
-        },
-        {
-          "title": "Strategy buys $22M in Bitcoin, repurchases $193M in STRC",
-          "link": "https://cointelegraph.com/news/strategy-btc-22-million-buy-strc-buyback-193-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Mon, 19 Oct 2026 12:30:00 +0000",
-          "source": "Cointelegraph",
-          "text": "Strategy buys $22M in Bitcoin, repurchases $193M in STRC Strategy added 267 Bitcoin to its holdings as it bought back 1.94 million STRC shares and boosted its preferred stock buyback program to $3 billion."
         }
       ],
-      "marketSentiment": 6,
-      "combinedScore": 37,
+      "marketSentiment": 4,
+      "combinedScore": 39,
       "signal": "WAIT",
-      "reason": "Technical 16/100; News +23; Market sentiment +6."
+      "reason": "Technical 23/100; News +13; Market sentiment +4."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2398.2,
-      "change24h": -1.098,
-      "volume24h": 416880045.488583,
+      "price": 2396.16,
+      "change24h": -1.546,
+      "volume24h": 403917165.343936,
       "technical": {
-        "rsi": 40.7,
-        "ema9": 2396.8250257816158,
-        "ema21": 2400.8739220225475,
+        "rsi": 44.6,
+        "ema9": 2401.740604183247,
+        "ema21": 2403.2447513040647,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 1.61,
-        "score": 16
+        "volumeRatio": 1.0,
+        "score": 11
       },
       "newsScore": 13,
       "newsCount": 5,
@@ -94,11 +94,11 @@
           "text": "World Liberty’s USD1 stablecoin sheds $400M in market cap in two weeks World Liberty Financial’s USD1 stablecoin saw its market cap decrease more than $400 million over two weeks of large redemptions on Ethereum and BNB Chain."
         },
         {
-          "title": "JPMorgan takes JPM Coin to Ethereum for institutional clients: Report",
+          "title": "JPMorgan takes JPM Coin to Ethereum for institutional clients",
           "link": "https://cointelegraph.com/news/jpmorgan-jpm-coin-ethereum-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "published": "Mon, 19 Oct 2026 08:58:45 +0000",
           "source": "Cointelegraph",
-          "text": "JPMorgan takes JPM Coin to Ethereum for institutional clients: Report JPMorgan is reportedly expanding its JPM Coin deposit token to Ethereum, allowing institutional clients to make payments and settle tokenized asset transactions."
+          "text": "JPMorgan takes JPM Coin to Ethereum for institutional clients JPMorgan is expanding its JPM Coin deposit token to Ethereum, allowing institutional clients to make payments and settle tokenized asset transactions."
         },
         {
           "title": "Bitcoin, Ether ETFs shed $549M as October ETH outflows near $1B",
@@ -122,28 +122,28 @@
           "text": "Deutsche Bank targets Asia crypto custody expansion in 2027 as German launch nears The service will initially support bitcoin, ether and the stablecoins USDC, EURC and EURAU, with the bank managing clients’ wallets and private keys."
         }
       ],
-      "marketSentiment": 6,
-      "combinedScore": 36,
-      "signal": "WAIT",
-      "reason": "Technical 16/100; News +13; Market sentiment +6."
+      "marketSentiment": 4,
+      "combinedScore": 33,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +13; Market sentiment +4."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 104.73,
-      "change24h": -0.057,
-      "volume24h": 199680687.64511,
+      "price": 104.62,
+      "change24h": -1.171,
+      "volume24h": 194179549.63897,
       "technical": {
-        "rsi": 42.3,
-        "ema9": 104.56031398095446,
-        "ema21": 104.67457544025113,
+        "rsi": 46.2,
+        "ema9": 104.76450498559628,
+        "ema21": 104.85268913883925,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 1.66,
-        "score": 16
+        "volumeRatio": 0.56,
+        "score": 23
       },
       "newsScore": 100,
-      "newsCount": 2,
+      "newsCount": 1,
       "news": [
         {
           "title": "Solana treasury firm SkyAI sells all SOL holdings, launches $201M buyback",
@@ -151,34 +151,27 @@
           "published": "Mon, 19 Oct 2026 21:04:34 +0000",
           "source": "Cointelegraph",
           "text": "Solana treasury firm SkyAI sells all SOL holdings, launches $201M buyback The former medical device maker has liquidated its Solana treasury and is offering to repurchase shares and warrants using its $223.8 million cash holdings."
-        },
-        {
-          "title": "Solana shows resilience, but some areas need continued observation, Fidelity says",
-          "link": "https://cointelegraph.com/news/solana-shows-resilience-but-some-areas-need-continued-observation-fidelity-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Sat, 17 Oct 2026 13:01:00 +0000",
-          "source": "Cointelegraph",
-          "text": "Solana shows resilience, but some areas need continued observation, Fidelity says Solana has had no reported mainnet outages in two years, but concentrations in stake, hosting and client software should be monitored, according to a report."
         }
       ],
-      "marketSentiment": 6,
-      "combinedScore": 49,
+      "marketSentiment": 4,
+      "combinedScore": 52,
       "signal": "WAIT",
-      "reason": "Technical 16/100; News +100; Market sentiment +6."
+      "reason": "Technical 23/100; News +100; Market sentiment +4."
     },
     {
       "symbol": "USD1USDT",
       "coin": "USD1",
-      "price": 0.99987,
-      "change24h": -0.034,
-      "volume24h": 174240734.23946,
+      "price": 0.99984,
+      "change24h": -0.021,
+      "volume24h": 175671359.28231,
       "technical": {
-        "rsi": 58.2,
-        "ema9": 0.9998442683661578,
-        "ema21": 0.99982259879663,
+        "rsi": 53.5,
+        "ema9": 0.9998358467296053,
+        "ema21": 0.9998219576477168,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.65,
-        "score": 89
+        "volumeRatio": 0.73,
+        "score": 77
       },
       "newsScore": 0,
       "newsCount": 1,
@@ -191,24 +184,24 @@
           "text": "World Liberty’s USD1 stablecoin sheds $400M in market cap in two weeks World Liberty Financial’s USD1 stablecoin saw its market cap decrease more than $400 million over two weeks of large redemptions on Ethereum and BNB Chain."
         }
       ],
-      "marketSentiment": 6,
-      "combinedScore": 70,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment +6."
+      "marketSentiment": 4,
+      "combinedScore": 64,
+      "signal": "WAIT",
+      "reason": "Technical 77/100; News +0; Market sentiment +4."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 1145.21,
-      "change24h": -1.807,
-      "volume24h": 156401066.77353,
+      "price": 1136.96,
+      "change24h": -2.19,
+      "volume24h": 125617672.99824,
       "technical": {
-        "rsi": 47.4,
-        "ema9": 1139.3634367840755,
-        "ema21": 1140.5285632283615,
+        "rsi": 45.9,
+        "ema9": 1142.1492052905733,
+        "ema21": 1143.4274089522,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 2.08,
+        "volumeRatio": 1.59,
         "score": 28
       },
       "newsScore": 100,
@@ -222,24 +215,24 @@
           "text": "Zcash developers plan a fix to keep ZEC swaps private from future quantum computers The team behind Zakura wants every swap through NEAR Intents to get its own key, so a refund address left on NEAR’s public chain can’t expose a user’s wider payment history."
         }
       ],
-      "marketSentiment": 6,
-      "combinedScore": 55,
+      "marketSentiment": 4,
+      "combinedScore": 54,
       "signal": "WAIT",
-      "reason": "Technical 28/100; News +100; Market sentiment +6."
+      "reason": "Technical 28/100; News +100; Market sentiment +4."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 4.879,
-      "change24h": -4.032,
-      "volume24h": 112537455.4259,
+      "price": 4.768,
+      "change24h": -5.994,
+      "volume24h": 114310911.7038,
       "technical": {
-        "rsi": 36.8,
-        "ema9": 4.854574835165867,
-        "ema21": 4.888155121267532,
+        "rsi": 41.1,
+        "ema9": 4.794700784839215,
+        "ema21": 4.8193956981996156,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.57,
+        "volumeRatio": 1.36,
         "score": 11
       },
       "newsScore": 44,
@@ -267,25 +260,25 @@
           "text": "Zcash developers plan a fix to keep ZEC swaps private from future quantum computers The team behind Zakura wants every swap through NEAR Intents to get its own key, so a refund address left on NEAR’s public chain can’t expose a user’s wider payment history."
         }
       ],
-      "marketSentiment": 6,
+      "marketSentiment": 4,
       "combinedScore": 38,
       "signal": "WAIT",
-      "reason": "Technical 11/100; News +44; Market sentiment +6."
+      "reason": "Technical 11/100; News +44; Market sentiment +4."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 1.3009,
-      "change24h": -0.733,
-      "volume24h": 87790432.22992,
+      "price": 1.3021,
+      "change24h": -1.011,
+      "volume24h": 87851946.32921,
       "technical": {
-        "rsi": 38.9,
-        "ema9": 1.2975160471652991,
-        "ema21": 1.3005027930912378,
+        "rsi": 49.3,
+        "ema9": 1.3029566601561509,
+        "ema21": 1.3028905986488877,
         "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 1.75,
-        "score": 16
+        "emaBull": true,
+        "volumeRatio": 2.93,
+        "score": 58
       },
       "newsScore": 100,
       "newsCount": 1,
@@ -298,25 +291,25 @@
           "text": "XRP Ledger is set to fix its lending code before anyone can use it Validators have a bug-fix patch on course to go live Friday. The lending system it partly repairs is still 10 votes short of approval."
         }
       ],
-      "marketSentiment": 6,
-      "combinedScore": 49,
-      "signal": "WAIT",
-      "reason": "Technical 16/100; News +100; Market sentiment +6."
+      "marketSentiment": 4,
+      "combinedScore": 69,
+      "signal": "BUY",
+      "reason": "Technical 58/100; News +100; Market sentiment +4."
     },
     {
       "symbol": "BNBUSDT",
       "coin": "BNB",
-      "price": 728.86,
-      "change24h": 0.424,
-      "volume24h": 75577123.77595,
+      "price": 729.53,
+      "change24h": 0.305,
+      "volume24h": 70700784.326,
       "technical": {
-        "rsi": 45.1,
-        "ema9": 729.006046362459,
-        "ema21": 729.412353429893,
+        "rsi": 48.4,
+        "ema9": 730.0464089996242,
+        "ema21": 730.0039837412578,
         "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.89,
-        "score": 23
+        "emaBull": true,
+        "volumeRatio": 0.67,
+        "score": 53
       },
       "newsScore": 0,
       "newsCount": 1,
@@ -329,59 +322,87 @@
           "text": "World Liberty’s USD1 stablecoin sheds $400M in market cap in two weeks World Liberty Financial’s USD1 stablecoin saw its market cap decrease more than $400 million over two weeks of large redemptions on Ethereum and BNB Chain."
         }
       ],
-      "marketSentiment": 6,
-      "combinedScore": 37,
+      "marketSentiment": 4,
+      "combinedScore": 52,
       "signal": "WAIT",
-      "reason": "Technical 23/100; News +0; Market sentiment +6."
+      "reason": "Technical 53/100; News +0; Market sentiment +4."
     },
     {
       "symbol": "WLDUSDT",
       "coin": "WLD",
-      "price": 0.5384,
-      "change24h": 10.012,
-      "volume24h": 45109421.45688,
+      "price": 0.5405,
+      "change24h": 8.556,
+      "volume24h": 59155924.42808,
       "technical": {
-        "rsi": 55.9,
-        "ema9": 0.5305676218102955,
-        "ema21": 0.5265327220032868,
+        "rsi": 55.8,
+        "ema9": 0.5397409857772595,
+        "ema21": 0.5382540896099612,
         "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 1.36,
+        "volumeRatio": 1.02,
         "score": 65
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": 6,
+      "marketSentiment": 4,
       "combinedScore": 58,
       "signal": "WAIT",
-      "reason": "Technical 65/100; News +0; Market sentiment +6."
+      "reason": "Technical 65/100; News +0; Market sentiment +4."
     },
     {
       "symbol": "SUIUSDT",
       "coin": "SUI",
-      "price": 0.9927,
-      "change24h": -0.77,
-      "volume24h": 33586839.26456,
+      "price": 0.9949,
+      "change24h": -1.592,
+      "volume24h": 31198298.53363,
       "technical": {
-        "rsi": 43.2,
-        "ema9": 0.9913523420234006,
-        "ema21": 0.9927681564138324,
+        "rsi": 49.8,
+        "ema9": 0.9953215786378758,
+        "ema21": 0.9957109299291396,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 2.21,
-        "score": 16
+        "volumeRatio": 0.66,
+        "score": 23
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": 6,
-      "combinedScore": 34,
-      "signal": "SELL",
-      "reason": "Technical 16/100; News +0; Market sentiment +6."
+      "marketSentiment": 4,
+      "combinedScore": 37,
+      "signal": "WAIT",
+      "reason": "Technical 23/100; News +0; Market sentiment +4."
     }
   ],
   "news": [
+    {
+      "title": "US Bitcoin ETFs draw $527M in biggest showing since September",
+      "link": "https://cointelegraph.com/markets/bitcoin-etfs-527m-inflows-biggest-since-september?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 20 Oct 2026 05:39:20 +0000",
+      "source": "Cointelegraph",
+      "text": "US Bitcoin ETFs draw $527M in biggest showing since September BlackRock’s IBIT led the gains with $665.2 million in inflows, offsetting withdrawals from Fidelity and Grayscale, while other funds recorded no net flows."
+    },
+    {
+      "title": "Sophon sets Nov. 25 withdrawal deadline ahead of mainnet shutdown",
+      "link": "https://cointelegraph.com/news/sophon-sets-nov-25-withdrawal-deadline-ahead-of-mainnet-shutdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 20 Oct 2026 05:14:11 +0000",
+      "source": "Cointelegraph",
+      "text": "Sophon sets Nov. 25 withdrawal deadline ahead of mainnet shutdown In June, Sophon’s developers said the costs of maintaining a standalone blockchain no longer justified its benefits and announced plans to focus on consumer finance and AI applications on Base."
+    },
+    {
+      "title": "US bans DeepSeek from civilian agency IT systems",
+      "link": "https://cointelegraph.com/news/us-bans-deepseek-from-civilian-agency-it-systems?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 20 Oct 2026 04:07:58 +0000",
+      "source": "Cointelegraph",
+      "text": "US bans DeepSeek from civilian agency IT systems The restrictions extend earlier bans within US defense and security agencies, amid concerns that DeepSeek could expose federal information to China."
+    },
+    {
+      "title": "Bitcoin rally could revive treasury buying, but easy-money days over",
+      "link": "https://cointelegraph.com/markets/bitcoin-rally-could-revive-treasury-buying-but-easy-money-days-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 20 Oct 2026 01:35:00 +0000",
+      "source": "Cointelegraph",
+      "text": "Bitcoin rally could revive treasury buying, but easy-money days over “A return to last year’s indiscriminate capital raising looks unlikely,” said Bitfinex head of derivatives Jag Kooner."
+    },
     {
       "title": "Solana treasury firm SkyAI sells all SOL holdings, launches $201M buyback",
       "link": "https://cointelegraph.com/news/solana-treasury-skyai-sells-all-sol-holdings-launches-201m-buyback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -493,34 +514,6 @@
       "published": "Mon, 19 Oct 2026 10:22:30 +0000",
       "source": "Cointelegraph",
       "text": "France advances stablecoin tax, eyes self-custodial wallets and exit tax proposals France’s National Assembly adopted a crypto tax amendment targeting certain stablecoin swaps, while separate proposals on exit taxes and self-custodial wallet reporting remain under consideration."
-    },
-    {
-      "title": "Stocks rebound into key tech earnings: Three things to know in Bitcoin this week",
-      "link": "https://cointelegraph.com/markets/stocks-rebound-into-key-tech-earnings-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 19 Oct 2026 10:20:00 +0000",
-      "source": "Cointelegraph",
-      "text": "Stocks rebound into key tech earnings: Three things to know in Bitcoin this week Analysts expect Bitcoin to retest $80,000 support again as stock markets attempt to recover last week’s losses."
-    },
-    {
-      "title": "JPMorgan takes JPM Coin to Ethereum for institutional clients: Report",
-      "link": "https://cointelegraph.com/news/jpmorgan-jpm-coin-ethereum-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 19 Oct 2026 08:58:45 +0000",
-      "source": "Cointelegraph",
-      "text": "JPMorgan takes JPM Coin to Ethereum for institutional clients: Report JPMorgan is reportedly expanding its JPM Coin deposit token to Ethereum, allowing institutional clients to make payments and settle tokenized asset transactions."
-    },
-    {
-      "title": "Bitcoin, Ether ETFs shed $549M as October ETH outflows near $1B",
-      "link": "https://cointelegraph.com/markets/bitcoin-ether-etfs-549-million-weekly-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 19 Oct 2026 07:54:13 +0000",
-      "source": "Cointelegraph",
-      "text": "Bitcoin, Ether ETFs shed $549M as October ETH outflows near $1B US spot Ether ETFs recorded around $955 million in October net outflows so far, while Bitcoin funds extended their weekly withdrawal streak to two weeks."
-    },
-    {
-      "title": "Zoom adds ‘proof of human’ badges to show you’re not a deepfake",
-      "link": "https://cointelegraph.com/news/zoom-proof-of-human-badges-world-id-ai-deepfakes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 19 Oct 2026 05:55:44 +0000",
-      "source": "Cointelegraph",
-      "text": "Zoom adds ‘proof of human’ badges to show you’re not a deepfake Sam Altman-backed World has rolled out biometric verification badges for Zoom enterprise users, aiming to combat AI deepfake impersonation and fraud."
     }
   ],
   "paper": {
