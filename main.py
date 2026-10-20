@@ -47,7 +47,6 @@ COIN_ALIASES = {
     "AAVE": ["aave"],
     "ATOM": ["cosmos", "atom"]
 }
-
 def fetch_json(url, timeout=15):
     req = Request(url, headers={"User-Agent": USER_AGENT})
     with urlopen(req, timeout=timeout) as response:
@@ -83,6 +82,7 @@ def rsi(values, period=14):
         losses.append(max(-diff, 0))
     avg_gain = sum(gains[:period]) / period
     avg_loss = sum(losses[:period]) / period
+    
     for i in range(period, len(gains)):
         avg_gain = (avg_gain * (period - 1) + gains[i]) / period
         avg_loss = (avg_loss * (period - 1) + losses[i]) / period
@@ -126,6 +126,7 @@ def get_top_coins():
         })
     selected.sort(key=lambda x: x["volume24h"], reverse=True)
     return selected[:10]
+    
 
 def analyze_technical(symbol):
     query = urlencode({"symbol": symbol, "interval": "15m", "limit": 100})
@@ -159,6 +160,7 @@ def analyze_technical(symbol):
         "macdBull": macd_bull, "emaBull": ema_bull,
         "volumeRatio": round(vol_ratio, 2), "score": score
     }
+    
 
 def get_news():
     feeds = [
@@ -189,7 +191,7 @@ def sentiment_score(text):
     if pos + neg == 0:
         return 0
     return max(-100, min(100, round(100 * (pos-neg) / (pos+neg))))
-
+    
 def coin_news_score(coin, news):
     aliases = COIN_ALIASES.get(coin, [coin.lower()])
     matches = []
@@ -210,7 +212,7 @@ def get_fear_greed():
     except Exception as e:
         print("Fear & Greed unavailable:", str(e)[:160])
         return {"value": None, "label": "Unavailable", "source": "Alternative.me"}
-
+        
 def build_signals():
     coins = get_top_coins()
     news = get_news()
@@ -244,6 +246,7 @@ def build_signals():
                 "combinedScore": combined, "signal": signal,
                 "reason": f"Technical {tech['score']}/100; News {news_score:+}; Market sentiment {market_sentiment:+}."
             })
+            
         except Exception as e:
             results.append({
                 **coin, "technical": None, "newsScore": 0, "newsCount": 0, "news": [],
@@ -294,6 +297,7 @@ def update_paper_trades(results):
                           "pnlPercent": round(((price-trade["entry"])/trade["entry"]*100) *
                                              (1 if trade["side"] == "BUY" else -1), 3)})
             paper.setdefault("closed", []).append(trade)
+            
         else:
             remaining.append(trade)
     paper["open"] = remaining
@@ -339,7 +343,8 @@ def write_dashboard(results, news, fng, market_sentiment, overall_news, paper):
             "<td><b>" + str(c["combinedScore"]) + "</b>/100</td>"
             "<td>" + (str(t.get("rsi", "—")) if t else "—") + "</td>"
             "<td>" + str(c["newsScore"]) + "</td></tr>"
-        )
+)
+        
     news_cards = []
     for item in news[:12]:
         news_cards.append("<article><small>" + html.escape(item["source"]) + " · " + html.escape(item["published"]) +
@@ -362,6 +367,7 @@ table{border-collapse:collapse;width:100%;min-width:650px}th,td{text-align:left;
 th{color:var(--muted);font-weight:600;font-size:12px}td small{display:block}.pill{color:white;border-radius:8px;padding:5px 8px;font-weight:750;font-size:12px}
 article{padding:11px 0;border-bottom:1px solid var(--line)}article a{display:block;color:#9ec5ff;text-decoration:none;margin-top:4px}article a:hover{text-decoration:underline}
 .notice{border:1px solid #8b6d27;background:#302817;padding:12px;border-radius:12px;margin:14px 0;color:#ffedbd}
+    
 @media(max-width:650px){main{padding:11px}.grid{grid-template-columns:1fr 1fr}.big{font-size:21px}h1{font-size:20px}}
 </style></head><body><main>
 <header><div><h1>🧠 NIRA Crypto Signal Board</h1><div class="muted">Top 10 USDT pairs · 15m Technical + News + Sentiment</div></div>
@@ -376,6 +382,7 @@ article{padding:11px 0;border-bottom:1px solid var(--line)}article a{display:blo
 <div class="grid" style="grid-template-columns:repeat(auto-fit,minmax(280px,1fr))">
 <section class="card"><h2>Latest crypto news</h2>""" + ("".join(news_cards) if news_cards else "<p class='muted'>News feeds unavailable in latest run.</p>") + """</section>
 <section class="card"><h2>Open paper trades</h2>""" + ("".join("<article><b>"+html.escape(t["symbol"])+" · "+t["side"]+"</b><br><small>Entry: "+str(t["entry"])+" | SL: "+str(t["stopLoss"])+" | TP: "+str(t["takeProfit"])+"</small></article>" for t in paper_open) if paper_open else "<p class='muted'>No open paper trades.</p>") + """<h2 style="margin-top:18px">Recent closed paper trades</h2>""" + ("".join("<article><b>"+html.escape(t["symbol"])+" · "+html.escape(t["status"])+"</b><br><small>P/L: "+str(t.get("pnlPercent","—"))+"%</small></article>" for t in paper_closed[-8:][::-1]) if paper_closed else "<p class='muted'>No closed trades yet.</p>") + """</section></div>
+    
 <footer class="muted" style="padding:18px 0;font-size:12px">Sources: Binance public market data · Alternative.me Fear & Greed · Crypto news RSS. """ + html.escape("Generated " + generated) + """<br>For research and education only. No guarantee of accuracy or profit.</footer>
 </main></body></html>"""
     with open(os.path.join(DOCS, "index.html"), "w", encoding="utf-8") as f:
@@ -409,3 +416,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+    
