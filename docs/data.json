@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20 20:16:37 UTC",
+  "generatedAt": "2026-10-20 23:13:32 UTC",
   "interval": "15m candles",
   "marketSentiment": 14,
   "overallNewsScore": 20,
@@ -12,17 +12,17 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 82641.2,
-      "change24h": 0.762,
-      "volume24h": 1096544101.4657488,
+      "price": 82984.01,
+      "change24h": 1.166,
+      "volume24h": 1133815128.375912,
       "technical": {
-        "rsi": 55.6,
-        "ema9": 82592.85405140377,
-        "ema21": 82534.5980880598,
-        "macdBull": false,
+        "rsi": 65.5,
+        "ema9": 82963.97223879037,
+        "ema21": 82811.1103616794,
+        "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.84,
-        "score": 65
+        "volumeRatio": 1.51,
+        "score": 94
       },
       "newsScore": 30,
       "newsCount": 5,
@@ -64,24 +64,24 @@
         }
       ],
       "marketSentiment": 14,
-      "combinedScore": 63,
-      "signal": "WAIT",
-      "reason": "Technical 65/100; News +30; Market sentiment +14."
+      "combinedScore": 78,
+      "signal": "BUY",
+      "reason": "Technical 94/100; News +30; Market sentiment +14."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2439.42,
-      "change24h": 1.607,
-      "volume24h": 500657491.340207,
+      "price": 2450.33,
+      "change24h": 1.809,
+      "volume24h": 576856311.659015,
       "technical": {
-        "rsi": 53.3,
-        "ema9": 2438.5079244538733,
-        "ema21": 2436.7852363279753,
-        "macdBull": false,
+        "rsi": 60.4,
+        "ema9": 2454.2479283975936,
+        "ema21": 2448.137891302381,
+        "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.42,
-        "score": 53
+        "volumeRatio": 0.46,
+        "score": 89
       },
       "newsScore": 0,
       "newsCount": 3,
@@ -109,24 +109,24 @@
         }
       ],
       "marketSentiment": 14,
-      "combinedScore": 53,
-      "signal": "WAIT",
-      "reason": "Technical 53/100; News +0; Market sentiment +14."
+      "combinedScore": 71,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment +14."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 106.12,
-      "change24h": 1.434,
-      "volume24h": 211281138.34756,
+      "price": 106.56,
+      "change24h": 1.389,
+      "volume24h": 215166631.33536,
       "technical": {
-        "rsi": 53.0,
-        "ema9": 106.02033045234717,
-        "ema21": 105.96501866285568,
-        "macdBull": false,
+        "rsi": 58.9,
+        "ema9": 106.76324703545643,
+        "ema21": 106.49527116776791,
+        "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.25,
-        "score": 53
+        "volumeRatio": 0.76,
+        "score": 89
       },
       "newsScore": 100,
       "newsCount": 2,
@@ -147,58 +147,50 @@
         }
       ],
       "marketSentiment": 14,
-      "combinedScore": 68,
-      "signal": "WAIT",
-      "reason": "Technical 53/100; News +100; Market sentiment +14."
+      "combinedScore": 86,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +100; Market sentiment +14."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 1211.54,
-      "change24h": 7.326,
-      "volume24h": 173891396.74058,
+      "price": 1256.32,
+      "change24h": 9.664,
+      "volume24h": 194785837.66539,
       "technical": {
-        "rsi": 58.0,
-        "ema9": 1205.9675938838973,
-        "ema21": 1200.966599383851,
-        "macdBull": false,
+        "rsi": 67.8,
+        "ema9": 1257.0806619261166,
+        "ema21": 1237.7583684524107,
+        "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.53,
-        "score": 65
+        "volumeRatio": 0.91,
+        "score": 89
       },
-      "newsScore": 100,
-      "newsCount": 1,
-      "news": [
-        {
-          "title": "Zcash developers plan a fix to keep ZEC swaps private from future quantum computers",
-          "link": "https://www.coindesk.com/tech/2026/10/19/zcash-developers-plan-a-fix-to-keep-zec-swaps-private-from-future-quantum-computers",
-          "published": "Mon, 19 Oct 2026 05:23:02 +0000",
-          "source": "CoinDesk",
-          "text": "Zcash developers plan a fix to keep ZEC swaps private from future quantum computers The team behind Zakura wants every swap through NEAR Intents to get its own key, so a refund address left on NEAR’s public chain can’t expose a user’s wider payment history."
-        }
-      ],
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
       "marketSentiment": 14,
-      "combinedScore": 74,
+      "combinedScore": 71,
       "signal": "BUY",
-      "reason": "Technical 65/100; News +100; Market sentiment +14."
+      "reason": "Technical 89/100; News +0; Market sentiment +14."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 4.863,
-      "change24h": -1.698,
-      "volume24h": 169832763.9493,
+      "price": 4.903,
+      "change24h": -0.163,
+      "volume24h": 172743393.9176,
       "technical": {
-        "rsi": 49.2,
-        "ema9": 4.878539511302057,
-        "ema21": 4.876681024600441,
+        "rsi": 52.2,
+        "ema9": 4.947910956024623,
+        "ema21": 4.927959649155223,
         "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 0.36,
+        "volumeRatio": 0.72,
         "score": 53
       },
-      "newsScore": 50,
-      "newsCount": 2,
+      "newsScore": 0,
+      "newsCount": 1,
       "news": [
         {
           "title": "Live updates: Bitcoin holds near $82,000 as Nasdaq rebounds more than 1%",
@@ -206,57 +198,50 @@
           "published": "Mon, 19 Oct 2026 11:05:54 +0000",
           "source": "CoinDesk",
           "text": "Live updates: Bitcoin holds near $82,000 as Nasdaq rebounds more than 1% Bitcoin treasury company Strive continued to add large numbers of BTC to its balance sheet, while far larger peer Strategy acquired only a small amount."
-        },
-        {
-          "title": "Zcash developers plan a fix to keep ZEC swaps private from future quantum computers",
-          "link": "https://www.coindesk.com/tech/2026/10/19/zcash-developers-plan-a-fix-to-keep-zec-swaps-private-from-future-quantum-computers",
-          "published": "Mon, 19 Oct 2026 05:23:02 +0000",
-          "source": "CoinDesk",
-          "text": "Zcash developers plan a fix to keep ZEC swaps private from future quantum computers The team behind Zakura wants every swap through NEAR Intents to get its own key, so a refund address left on NEAR’s public chain can’t expose a user’s wider payment history."
         }
       ],
       "marketSentiment": 14,
-      "combinedScore": 60,
+      "combinedScore": 53,
       "signal": "WAIT",
-      "reason": "Technical 53/100; News +50; Market sentiment +14."
+      "reason": "Technical 53/100; News +0; Market sentiment +14."
     },
     {
       "symbol": "USD1USDT",
       "coin": "USD1",
-      "price": 0.99972,
-      "change24h": 0.011,
-      "volume24h": 162626858.19913,
+      "price": 0.9998,
+      "change24h": -0.006,
+      "volume24h": 155552334.25746,
       "technical": {
-        "rsi": 38.6,
-        "ema9": 0.9997640729061299,
-        "ema21": 0.9997783471765849,
+        "rsi": 54.1,
+        "ema9": 0.9997652309212638,
+        "ema21": 0.9997687323481517,
         "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 1.57,
-        "score": 30
+        "volumeRatio": 0.94,
+        "score": 47
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": 14,
-      "combinedScore": 41,
+      "combinedScore": 50,
       "signal": "WAIT",
-      "reason": "Technical 30/100; News +0; Market sentiment +14."
+      "reason": "Technical 47/100; News +0; Market sentiment +14."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 1.3301,
-      "change24h": 2.017,
-      "volume24h": 106389526.07995,
+      "price": 1.3358,
+      "change24h": 2.352,
+      "volume24h": 108299434.83569,
       "technical": {
-        "rsi": 59.7,
-        "ema9": 1.3259534211040873,
-        "ema21": 1.323189394298451,
-        "macdBull": false,
+        "rsi": 64.9,
+        "ema9": 1.335319735367109,
+        "ema21": 1.3311129584893515,
+        "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.53,
-        "score": 65
+        "volumeRatio": 0.91,
+        "score": 89
       },
       "newsScore": 100,
       "newsCount": 2,
@@ -277,23 +262,23 @@
         }
       ],
       "marketSentiment": 14,
-      "combinedScore": 74,
+      "combinedScore": 86,
       "signal": "BUY",
-      "reason": "Technical 65/100; News +100; Market sentiment +14."
+      "reason": "Technical 89/100; News +100; Market sentiment +14."
     },
     {
       "symbol": "WLDUSDT",
       "coin": "WLD",
-      "price": 0.5811,
-      "change24h": 12.616,
-      "volume24h": 94192106.59762,
+      "price": 0.5909,
+      "change24h": 11.281,
+      "volume24h": 101100164.4097,
       "technical": {
-        "rsi": 64.2,
-        "ema9": 0.5791926521990673,
-        "ema21": 0.5735689843422302,
+        "rsi": 61.8,
+        "ema9": 0.5891159506645973,
+        "ema21": 0.5841231175964164,
         "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 0.78,
+        "volumeRatio": 0.58,
         "score": 65
       },
       "newsScore": 0,
@@ -307,16 +292,16 @@
     {
       "symbol": "BNBUSDT",
       "coin": "BNB",
-      "price": 739.65,
-      "change24h": 1.581,
-      "volume24h": 67376077.18762,
+      "price": 741.41,
+      "change24h": 1.223,
+      "volume24h": 66861268.97565,
       "technical": {
-        "rsi": 62.1,
-        "ema9": 738.2268120534109,
-        "ema21": 736.9121071662381,
+        "rsi": 69.0,
+        "ema9": 741.454067424122,
+        "ema21": 739.7915223409825,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.44,
+        "volumeRatio": 0.99,
         "score": 89
       },
       "newsScore": 0,
@@ -330,16 +315,16 @@
     {
       "symbol": "PEPEUSDT",
       "coin": "PEPE",
-      "price": 4.58e-06,
-      "change24h": 11.165,
-      "volume24h": 58231627.75928175,
+      "price": 4.57e-06,
+      "change24h": 9.592,
+      "volume24h": 61796027.96187483,
       "technical": {
-        "rsi": 59.7,
-        "ema9": 4.598002380644033e-06,
-        "ema21": 4.552237750070469e-06,
+        "rsi": 56.0,
+        "ema9": 4.548056103884025e-06,
+        "ema21": 4.547475239019748e-06,
         "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 0.25,
+        "volumeRatio": 0.79,
         "score": 65
       },
       "newsScore": 0,
@@ -352,6 +337,20 @@
     }
   ],
   "news": [
+    {
+      "title": "Utah AG sues Kalshi, pursues profits from prediction market company",
+      "link": "https://cointelegraph.com/news/utah-lawsuit-kalshi-susquehanna-prediction-markets-illegal-bets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 20 Oct 2026 21:19:15 +0000",
+      "source": "Cointelegraph",
+      "text": "Utah AG sues Kalshi, pursues profits from prediction market company Derek Brown likened the prediction market company to a “public nuisance“ that was “causing a significant and substantial ongoing harm“ to state residents."
+    },
+    {
+      "title": "Bitwise, Hyperliquid seek SEC rule changes for token trading, airdrops",
+      "link": "https://cointelegraph.com/news/bitwise-hyperliquid-seek-sec-rule-changes-for-token-trading-airdrops?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 20 Oct 2026 20:38:00 +0000",
+      "source": "Cointelegraph",
+      "text": "Bitwise, Hyperliquid seek SEC rule changes for token trading, airdrops The firms are seeking clearer guidance on the classification of crypto assets and secondary-market trading as the SEC’s public comment period comes to a close."
+    },
     {
       "title": "Crypto’s 2026 shutdown wave claims 82 projects. What went wrong?",
       "link": "https://cointelegraph.com/news/crypto-project-shutdowns-2026-what-went-wrong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -477,20 +476,6 @@
       "published": "Tue, 20 Oct 2026 08:54:27 +0000",
       "source": "Cointelegraph",
       "text": "JPMorgan projects Bitcoin to outperform US stocks and gold over next decade JPMorgan included Bitcoin in its long-term capital market outlook for the first time but warned that volatility and unstable correlations limit its role in investment portfolios."
-    },
-    {
-      "title": "BlackRock files for third Bitcoin ETF, still no Solana or XRP",
-      "link": "https://cointelegraph.com/news/blackrock-ishares-bitcoin-managed-protection-etf-pbit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 20 Oct 2026 08:12:57 +0000",
-      "source": "Cointelegraph",
-      "text": "BlackRock files for third Bitcoin ETF, still no Solana or XRP BlackRock’s proposed Bitcoin fund would use options to limit potential losses and gains, adding another strategy to its existing Bitcoin and Ether ETF lineup."
-    },
-    {
-      "title": "US Bitcoin ETFs draw $527M in biggest showing since September",
-      "link": "https://cointelegraph.com/markets/bitcoin-etfs-527m-inflows-biggest-since-september?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 20 Oct 2026 05:39:20 +0000",
-      "source": "Cointelegraph",
-      "text": "US Bitcoin ETFs draw $527M in biggest showing since September BlackRock’s IBIT led the gains with $665.2 million in inflows, offsetting withdrawals from Fidelity and Grayscale, while other funds recorded no net flows."
     }
   ],
   "paper": {
@@ -586,22 +571,22 @@
         "mode": "PAPER ONLY"
       },
       {
-        "symbol": "ZECUSDT",
-        "side": "BUY",
-        "entry": 1209.59,
-        "stopLoss": 1191.44615,
-        "takeProfit": 1245.8777,
-        "entryTime": "2026-10-20T16:56:25.185727+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
         "symbol": "PEPEUSDT",
         "side": "BUY",
         "entry": 4.6e-06,
         "stopLoss": 4.531e-06,
         "takeProfit": 4.738e-06,
         "entryTime": "2026-10-20T16:56:25.185727+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "ZECUSDT",
+        "side": "BUY",
+        "entry": 1256.32,
+        "stopLoss": 1237.4752,
+        "takeProfit": 1294.0096,
+        "entryTime": "2026-10-20T23:13:32.169473+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       }
@@ -671,6 +656,19 @@
         "exitPrice": 4.863,
         "exitTime": "2026-10-20T20:16:37.000085+00:00",
         "pnlPercent": -1.817
+      },
+      {
+        "symbol": "ZECUSDT",
+        "side": "BUY",
+        "entry": 1209.59,
+        "stopLoss": 1191.44615,
+        "takeProfit": 1245.8777,
+        "entryTime": "2026-10-20T16:56:25.185727+00:00",
+        "status": "TAKE_PROFIT",
+        "mode": "PAPER ONLY",
+        "exitPrice": 1256.32,
+        "exitTime": "2026-10-20T23:13:32.169473+00:00",
+        "pnlPercent": 3.863
       }
     ]
   },

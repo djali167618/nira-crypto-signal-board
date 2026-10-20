@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-20T20:16:37.001863+00:00",
+  "updatedAt": "2026-10-20T23:13:32.171329+00:00",
   "signals": {
-    "BTCUSDT": "WAIT",
-    "ETHUSDT": "WAIT",
-    "SOLUSDT": "WAIT",
+    "BTCUSDT": "BUY",
+    "ETHUSDT": "BUY",
+    "SOLUSDT": "BUY",
     "ZECUSDT": "BUY",
     "NEARUSDT": "WAIT",
     "USD1USDT": "WAIT",
