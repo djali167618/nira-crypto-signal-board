@@ -11,16 +11,6 @@
       "mode": "PAPER ONLY"
     },
     {
-      "symbol": "ETHUSDT",
-      "side": "SELL",
-      "entry": 2404.55,
-      "stopLoss": 2440.61825,
-      "takeProfit": 2332.4135,
-      "entryTime": "2026-10-19T13:53:22.312066+00:00",
-      "status": "OPEN",
-      "mode": "PAPER ONLY"
-    },
-    {
       "symbol": "DOGEUSDT",
       "side": "BUY",
       "entry": 0.07917,
@@ -37,16 +27,6 @@
       "stopLoss": 1.0090115,
       "takeProfit": 0.964277,
       "entryTime": "2026-10-19T13:53:22.312066+00:00",
-      "status": "OPEN",
-      "mode": "PAPER ONLY"
-    },
-    {
-      "symbol": "ZECUSDT",
-      "side": "BUY",
-      "entry": 1151.36,
-      "stopLoss": 1134.0896,
-      "takeProfit": 1185.9008,
-      "entryTime": "2026-10-19T23:02:38.643180+00:00",
       "status": "OPEN",
       "mode": "PAPER ONLY"
     },
@@ -101,12 +81,42 @@
       "mode": "PAPER ONLY"
     },
     {
-      "symbol": "WLDUSDT",
+      "symbol": "ETHUSDT",
       "side": "BUY",
-      "entry": 0.5446,
-      "stopLoss": 0.536431,
-      "takeProfit": 0.560938,
-      "entryTime": "2026-10-20T12:07:57.297834+00:00",
+      "entry": 2451.93,
+      "stopLoss": 2415.15105,
+      "takeProfit": 2525.4879,
+      "entryTime": "2026-10-20T16:56:25.185727+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "ZECUSDT",
+      "side": "BUY",
+      "entry": 1209.59,
+      "stopLoss": 1191.44615,
+      "takeProfit": 1245.8777,
+      "entryTime": "2026-10-20T16:56:25.185727+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "NEARUSDT",
+      "side": "BUY",
+      "entry": 4.953,
+      "stopLoss": 4.878705,
+      "takeProfit": 5.10159,
+      "entryTime": "2026-10-20T16:56:25.185727+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "PEPEUSDT",
+      "side": "BUY",
+      "entry": 4.6e-06,
+      "stopLoss": 4.531e-06,
+      "takeProfit": 4.738e-06,
+      "entryTime": "2026-10-20T16:56:25.185727+00:00",
       "status": "OPEN",
       "mode": "PAPER ONLY"
     }
@@ -124,6 +134,45 @@
       "exitPrice": 0.5446,
       "exitTime": "2026-10-20T12:07:57.297834+00:00",
       "pnlPercent": 3.144
+    },
+    {
+      "symbol": "ETHUSDT",
+      "side": "SELL",
+      "entry": 2404.55,
+      "stopLoss": 2440.61825,
+      "takeProfit": 2332.4135,
+      "entryTime": "2026-10-19T13:53:22.312066+00:00",
+      "status": "STOP_LOSS",
+      "mode": "PAPER ONLY",
+      "exitPrice": 2451.93,
+      "exitTime": "2026-10-20T16:56:25.185727+00:00",
+      "pnlPercent": -1.97
+    },
+    {
+      "symbol": "ZECUSDT",
+      "side": "BUY",
+      "entry": 1151.36,
+      "stopLoss": 1134.0896,
+      "takeProfit": 1185.9008,
+      "entryTime": "2026-10-19T23:02:38.643180+00:00",
+      "status": "TAKE_PROFIT",
+      "mode": "PAPER ONLY",
+      "exitPrice": 1209.59,
+      "exitTime": "2026-10-20T16:56:25.185727+00:00",
+      "pnlPercent": 5.057
+    },
+    {
+      "symbol": "WLDUSDT",
+      "side": "BUY",
+      "entry": 0.5446,
+      "stopLoss": 0.536431,
+      "takeProfit": 0.560938,
+      "entryTime": "2026-10-20T12:07:57.297834+00:00",
+      "status": "TAKE_PROFIT",
+      "mode": "PAPER ONLY",
+      "exitPrice": 0.5671,
+      "exitTime": "2026-10-20T16:56:25.185727+00:00",
+      "pnlPercent": 4.131
     }
   ]
 }
