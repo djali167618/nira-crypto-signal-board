@@ -119,6 +119,16 @@
       "entryTime": "2026-10-21T01:36:45.877427+00:00",
       "status": "OPEN",
       "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "WLDUSDT",
+      "side": "SELL",
+      "entry": 0.5829,
+      "stopLoss": 0.5916435,
+      "takeProfit": 0.565413,
+      "entryTime": "2026-10-21T06:32:21.292581+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
     }
   ],
   "closed": [

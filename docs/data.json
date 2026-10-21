@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-21 01:36:45 UTC",
+  "generatedAt": "2026-10-21 06:32:21 UTC",
   "interval": "15m candles",
-  "marketSentiment": 26,
-  "overallNewsScore": 25,
+  "marketSentiment": 24,
+  "overallNewsScore": 20,
   "fearGreed": {
     "value": 63,
     "label": "Greed",
@@ -12,25 +12,25 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 82946.05,
-      "change24h": 1.699,
-      "volume24h": 1114322721.8805358,
+      "price": 82816.67,
+      "change24h": 1.223,
+      "volume24h": 1068203989.7077978,
       "technical": {
-        "rsi": 53.1,
-        "ema9": 82998.77228830988,
-        "ema21": 82935.1117595538,
+        "rsi": 44.6,
+        "ema9": 82753.6078106385,
+        "ema21": 82799.18259791652,
         "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.71,
-        "score": 53
+        "emaBull": false,
+        "volumeRatio": 1.01,
+        "score": 11
       },
-      "newsScore": 30,
+      "newsScore": 40,
       "newsCount": 5,
       "news": [
         {
           "title": "Here’s what happened in crypto today",
           "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Tue, 20 Oct 2026 19:17:40 +0000",
+          "published": "Wed, 21 Oct 2026 06:00:00 +0000",
           "source": "Cointelegraph",
           "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
         },
@@ -63,25 +63,25 @@
           "text": "JPMorgan projects Bitcoin to outperform US stocks and gold over next decade JPMorgan included Bitcoin in its long-term capital market outlook for the first time but warned that volatility and unstable correlations limit its role in investment portfolios."
         }
       ],
-      "marketSentiment": 26,
-      "combinedScore": 59,
+      "marketSentiment": 24,
+      "combinedScore": 39,
       "signal": "WAIT",
-      "reason": "Technical 53/100; News +30; Market sentiment +26."
+      "reason": "Technical 11/100; News +40; Market sentiment +24."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2451.52,
-      "change24h": 2.452,
-      "volume24h": 570973228.256429,
+      "price": 2442.96,
+      "change24h": 1.859,
+      "volume24h": 617991778.917915,
       "technical": {
-        "rsi": 53.3,
-        "ema9": 2451.299941950636,
-        "ema21": 2449.8699566795226,
+        "rsi": 39.5,
+        "ema9": 2442.5118913930896,
+        "ema21": 2445.114513162997,
         "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.35,
-        "score": 53
+        "emaBull": false,
+        "volumeRatio": 1.46,
+        "score": 11
       },
       "newsScore": 0,
       "newsCount": 3,
@@ -108,51 +108,59 @@
           "text": "JPMorgan brings JPM Coin, representing dollar deposits, to Ethereum JPMorgan's dollar deposit token is heading to Ethereum as the lender looks to offer it to wider selection of institutional clients."
         }
       ],
-      "marketSentiment": 26,
-      "combinedScore": 54,
-      "signal": "WAIT",
-      "reason": "Technical 53/100; News +0; Market sentiment +26."
+      "marketSentiment": 24,
+      "combinedScore": 33,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment +24."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 1270.1,
-      "change24h": 11.188,
-      "volume24h": 209726342.48141,
+      "price": 1259.43,
+      "change24h": 10.481,
+      "volume24h": 217223784.60006,
       "technical": {
-        "rsi": 63.7,
-        "ema9": 1268.6877438205531,
-        "ema21": 1256.6082208747664,
+        "rsi": 49.0,
+        "ema9": 1258.3834021289508,
+        "ema21": 1259.6348171776572,
         "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.71,
-        "score": 65
+        "emaBull": false,
+        "volumeRatio": 0.32,
+        "score": 23
       },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": 26,
-      "combinedScore": 60,
+      "newsScore": 100,
+      "newsCount": 1,
+      "news": [
+        {
+          "title": "Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11%",
+          "link": "https://www.coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11",
+          "published": "Wed, 21 Oct 2026 04:07:07 +0000",
+          "source": "CoinDesk",
+          "text": "Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11% Strong results from SpaceX and Super Micro sent Asian chip stocks surging, and ZEC led crypto higher after developers set a date for its next network upgrade."
+        }
+      ],
+      "marketSentiment": 24,
+      "combinedScore": 54,
       "signal": "WAIT",
-      "reason": "Technical 65/100; News +0; Market sentiment +26."
+      "reason": "Technical 23/100; News +100; Market sentiment +24."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 106.6,
-      "change24h": 2.146,
-      "volume24h": 209720331.00126,
+      "price": 106.11,
+      "change24h": 1.337,
+      "volume24h": 208372989.41054,
       "technical": {
-        "rsi": 53.2,
-        "ema9": 106.63630416414591,
-        "ema21": 106.56945658872418,
+        "rsi": 44.2,
+        "ema9": 105.87989856047561,
+        "ema21": 106.03972594527612,
         "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.67,
-        "score": 53
+        "emaBull": false,
+        "volumeRatio": 0.55,
+        "score": 11
       },
-      "newsScore": 100,
-      "newsCount": 2,
+      "newsScore": 67,
+      "newsCount": 3,
       "news": [
         {
           "title": "BlackRock files for third Bitcoin ETF, still no Solana or XRP",
@@ -167,27 +175,34 @@
           "published": "Mon, 19 Oct 2026 21:04:34 +0000",
           "source": "Cointelegraph",
           "text": "Solana treasury firm SkyAI sells all SOL holdings, launches $201M buyback The former medical device maker has liquidated its Solana treasury and is offering to repurchase shares and warrants using its $223.8 million cash holdings."
+        },
+        {
+          "title": "Solana’s Alpenglow, its biggest network overhaul since 2020, goes live Wednesday",
+          "link": "https://www.coindesk.com/tech/2026/10/21/solana-s-alpenglow-its-biggest-network-overhaul-since-2020-goes-live-wednesday",
+          "published": "Wed, 21 Oct 2026 04:35:52 +0000",
+          "source": "CoinDesk",
+          "text": "Solana’s Alpenglow, its biggest network overhaul since 2020, goes live Wednesday Alpenglow will replace the voting system Solana has used since 2020, targeting roughly 150-millisecond finality after months of testing that included a failed migration and rollback."
         }
       ],
-      "marketSentiment": 26,
-      "combinedScore": 69,
+      "marketSentiment": 24,
+      "combinedScore": 43,
       "signal": "WAIT",
-      "reason": "Technical 53/100; News +100; Market sentiment +26."
+      "reason": "Technical 11/100; News +67; Market sentiment +24."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 5.044,
-      "change24h": 4.086,
-      "volume24h": 174669416.4497,
+      "price": 5.023,
+      "change24h": 5.04,
+      "volume24h": 177404214.4214,
       "technical": {
-        "rsi": 64.2,
-        "ema9": 4.978044108847734,
-        "ema21": 4.953578716956521,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 1.12,
-        "score": 89
+        "rsi": 49.3,
+        "ema9": 5.004444200816476,
+        "ema21": 5.005793842326391,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.58,
+        "score": 23
       },
       "newsScore": 0,
       "newsCount": 1,
@@ -200,51 +215,51 @@
           "text": "Live updates: Bitcoin holds near $82,000 as Nasdaq rebounds more than 1% Bitcoin treasury company Strive continued to add large numbers of BTC to its balance sheet, while far larger peer Strategy acquired only a small amount."
         }
       ],
-      "marketSentiment": 26,
-      "combinedScore": 72,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment +26."
+      "marketSentiment": 24,
+      "combinedScore": 39,
+      "signal": "WAIT",
+      "reason": "Technical 23/100; News +0; Market sentiment +24."
     },
     {
       "symbol": "USD1USDT",
       "coin": "USD1",
-      "price": 0.99982,
-      "change24h": -0.002,
-      "volume24h": 147287405.65892,
+      "price": 0.99981,
+      "change24h": -0.004,
+      "volume24h": 136510815.86301,
       "technical": {
-        "rsi": 56.4,
-        "ema9": 0.9998006488799804,
-        "ema21": 0.9997920075144899,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.62,
-        "score": 89
+        "rsi": 51.2,
+        "ema9": 0.9998121784229825,
+        "ema21": 0.9998154707284694,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 1.54,
+        "score": 28
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": 26,
-      "combinedScore": 72,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment +26."
+      "marketSentiment": 24,
+      "combinedScore": 41,
+      "signal": "WAIT",
+      "reason": "Technical 28/100; News +0; Market sentiment +24."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 1.3368,
-      "change24h": 3.085,
-      "volume24h": 106983621.31622,
+      "price": 1.3366,
+      "change24h": 2.531,
+      "volume24h": 104280206.44478,
       "technical": {
-        "rsi": 56.9,
-        "ema9": 1.336501062238567,
-        "ema21": 1.3345060954485963,
+        "rsi": 51.2,
+        "ema9": 1.3344274942092218,
+        "ema21": 1.3343291033911324,
         "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 1.29,
-        "score": 65
+        "volumeRatio": 0.64,
+        "score": 53
       },
-      "newsScore": 100,
-      "newsCount": 2,
+      "newsScore": 67,
+      "newsCount": 3,
       "news": [
         {
           "title": "XRP 30-day exchange inflows pass 6B tokens as whales move to the sidelines",
@@ -259,84 +274,112 @@
           "published": "Tue, 20 Oct 2026 08:12:57 +0000",
           "source": "Cointelegraph",
           "text": "BlackRock files for third Bitcoin ETF, still no Solana or XRP BlackRock’s proposed Bitcoin fund would use options to limit potential losses and gains, adding another strategy to its existing Bitcoin and Ether ETF lineup."
+        },
+        {
+          "title": "Ripple brings Wall Street into 24/7 stock bets, but HSBC warns markets are still thin",
+          "link": "https://www.coindesk.com/markets/2026/10/21/ripple-brings-wall-street-into-24-7-stock-bets-but-hsbc-warns-markets-are-still-thin",
+          "published": "Wed, 21 Oct 2026 05:25:57 +0000",
+          "source": "CoinDesk",
+          "text": "Ripple brings Wall Street into 24/7 stock bets, but HSBC warns markets are still thin Institutions can trade through Ripple Prime and post RLUSD as collateral. Finding enough buyers and sellers for large positions could prove harder."
         }
       ],
-      "marketSentiment": 26,
-      "combinedScore": 75,
-      "signal": "BUY",
-      "reason": "Technical 65/100; News +100; Market sentiment +26."
+      "marketSentiment": 24,
+      "combinedScore": 64,
+      "signal": "WAIT",
+      "reason": "Technical 53/100; News +67; Market sentiment +24."
     },
     {
       "symbol": "WLDUSDT",
       "coin": "WLD",
-      "price": 0.5908,
-      "change24h": 11.262,
-      "volume24h": 100894519.60717,
+      "price": 0.5829,
+      "change24h": 7.526,
+      "volume24h": 94635985.85583,
       "technical": {
-        "rsi": 58.7,
-        "ema9": 0.5862175973871452,
-        "ema21": 0.5853785535989328,
-        "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.66,
-        "score": 65
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": 26,
-      "combinedScore": 60,
-      "signal": "WAIT",
-      "reason": "Technical 65/100; News +0; Market sentiment +26."
-    },
-    {
-      "symbol": "BNBUSDT",
-      "coin": "BNB",
-      "price": 742.15,
-      "change24h": 1.998,
-      "volume24h": 67536119.46011,
-      "technical": {
-        "rsi": 57.8,
-        "ema9": 742.1983630029858,
-        "ema21": 741.2823006881863,
-        "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 1.37,
-        "score": 65
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": 26,
-      "combinedScore": 60,
-      "signal": "WAIT",
-      "reason": "Technical 65/100; News +0; Market sentiment +26."
-    },
-    {
-      "symbol": "PEPEUSDT",
-      "coin": "PEPE",
-      "price": 4.5e-06,
-      "change24h": 8.173,
-      "volume24h": 60899853.66198668,
-      "technical": {
-        "rsi": 44.7,
-        "ema9": 4.539888508642695e-06,
-        "ema21": 4.54610863085073e-06,
+        "rsi": 41.4,
+        "ema9": 0.5857501165906809,
+        "ema21": 0.5870014894760952,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.47,
+        "volumeRatio": 0.72,
         "score": 11
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": 26,
+      "marketSentiment": 24,
       "combinedScore": 33,
       "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment +26."
+      "reason": "Technical 11/100; News +0; Market sentiment +24."
+    },
+    {
+      "symbol": "BNBUSDT",
+      "coin": "BNB",
+      "price": 743.86,
+      "change24h": 1.896,
+      "volume24h": 69829021.08638,
+      "technical": {
+        "rsi": 61.5,
+        "ema9": 742.7731353337824,
+        "ema21": 742.1600890132879,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 1.2,
+        "score": 89
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": 24,
+      "combinedScore": 72,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment +24."
+    },
+    {
+      "symbol": "PEPEUSDT",
+      "coin": "PEPE",
+      "price": 4.5e-06,
+      "change24h": 7.399,
+      "volume24h": 60201282.05920967,
+      "technical": {
+        "rsi": 46.1,
+        "ema9": 4.490461088192624e-06,
+        "ema21": 4.501972422416943e-06,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.99,
+        "score": 23
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": 24,
+      "combinedScore": 39,
+      "signal": "WAIT",
+      "reason": "Technical 23/100; News +0; Market sentiment +24."
     }
   ],
   "news": [
+    {
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 21 Oct 2026 06:00:00 +0000",
+      "source": "Cointelegraph",
+      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "title": "Malaysia central bank launches DLT platform for tokenized bonds",
+      "link": "https://cointelegraph.com/news/malaysia-central-bank-tokenized-bonds-sukuk-dlt-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 21 Oct 2026 05:56:29 +0000",
+      "source": "Cointelegraph",
+      "text": "Malaysia central bank launches DLT platform for tokenized bonds The platform tracks tokenized securities ownership and transfers, linking to Malaysia’s RENTAS+ system to settle corresponding payments in central bank money."
+    },
+    {
+      "title": "Tech giants rush to block 8 eMudhra certs that could enable fake sites",
+      "link": "https://cointelegraph.com/news/tech-giants-rush-to-block-flawed-emudhra-certs-that-could-enable-fake-sites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 21 Oct 2026 05:15:00 +0000",
+      "source": "Cointelegraph",
+      "text": "Tech giants rush to block 8 eMudhra certs that could enable fake sites A private key generation flaw allowed anyone to guess them and forge HTTPS certificates for any website."
+    },
     {
       "title": "Musk says SpaceX-Tesla merger a ‘good idea’ as AI revenue jumps ninefold",
       "link": "https://cointelegraph.com/markets/musk-says-spacex-tesla-merger-a-good-idea-as-ai-revenue-jumps-ninefold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -371,13 +414,6 @@
       "published": "Tue, 20 Oct 2026 19:59:39 +0000",
       "source": "Cointelegraph",
       "text": "Crypto’s 2026 shutdown wave claims 82 projects. What went wrong? Crypto projects are struggling to survive as falling revenues, depleted funding and security breaches force closures across DeFi, blockchain infrastructure and gaming."
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 20 Oct 2026 19:17:40 +0000",
-      "source": "Cointelegraph",
-      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
       "title": "Strive closes $630M SATS IPO, leaves Bitcoin allocation unspecified",
@@ -462,20 +498,6 @@
       "published": "Tue, 20 Oct 2026 11:12:21 +0000",
       "source": "Cointelegraph",
       "text": "Kazakhstan court orders curbs on Coinbase, BingX and four others Nine other crypto platforms voluntarily restricted app access in Kazakhstan, prompting the regulator to withdraw its claims against them."
-    },
-    {
-      "title": "XRP 30-day exchange inflows pass 6B tokens as whales move to the sidelines",
-      "link": "https://cointelegraph.com/markets/xrp-30-day-exchange-inflows-pass-6b-tokens-as-whales-move-to-the-sidelines?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 20 Oct 2026 10:20:58 +0000",
-      "source": "Cointelegraph",
-      "text": "XRP 30-day exchange inflows pass 6B tokens as whales move to the sidelines More than 6 billion XRP reached exchanges tracked by CryptoQuant in the 30 days to Oct. 19, the most since March."
-    },
-    {
-      "title": "Mt. Gox pushes creditor repayment deadline to 2027 in sixth extension",
-      "link": "https://cointelegraph.com/news/mt-gox-creditor-repayment-deadline-extended-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 20 Oct 2026 10:20:13 +0000",
-      "source": "Cointelegraph",
-      "text": "Mt. Gox pushes creditor repayment deadline to 2027 in sixth extension Mt. Gox extended its repayment deadline by another year as some creditors remain unpaid due to incomplete procedures and payment processing issues."
     }
   ],
   "paper": {
@@ -597,6 +619,16 @@
         "stopLoss": 4.5675e-06,
         "takeProfit": 4.365e-06,
         "entryTime": "2026-10-21T01:36:45.877427+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "WLDUSDT",
+        "side": "SELL",
+        "entry": 0.5829,
+        "stopLoss": 0.5916435,
+        "takeProfit": 0.565413,
+        "entryTime": "2026-10-21T06:32:21.292581+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       }
