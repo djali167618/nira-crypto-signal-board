@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-21 20:42:01 UTC",
+  "generatedAt": "2026-10-21 23:38:50 UTC",
   "interval": "15m candles",
-  "marketSentiment": 27,
-  "overallNewsScore": 29,
+  "marketSentiment": 26,
+  "overallNewsScore": 25,
   "fearGreed": {
     "value": 63,
     "label": "Greed",
@@ -12,17 +12,17 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 84749.99,
-      "change24h": 2.434,
-      "volume24h": 1355390955.1417181,
+      "price": 84350.01,
+      "change24h": 1.758,
+      "volume24h": 1377444470.2275307,
       "technical": {
-        "rsi": 57.3,
-        "ema9": 84527.04672309621,
-        "ema21": 84449.48528481765,
+        "rsi": 40.3,
+        "ema9": 84517.5717857758,
+        "ema21": 84539.6893731452,
         "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.62,
-        "score": 65
+        "emaBull": false,
+        "volumeRatio": 0.51,
+        "score": 11
       },
       "newsScore": 23,
       "newsCount": 5,
@@ -63,25 +63,25 @@
           "text": "Ether ETF outflows continue, pass $1B in October so far US spot Ether ETFs have shed $1.08 billion so far in October, the biggest monthly outflow of 2026, while Bitcoin ETF inflows slowed after Monday’s spike."
         }
       ],
-      "marketSentiment": 27,
-      "combinedScore": 64,
+      "marketSentiment": 26,
+      "combinedScore": 37,
       "signal": "WAIT",
-      "reason": "Technical 65/100; News +23; Market sentiment +27."
+      "reason": "Technical 11/100; News +23; Market sentiment +26."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2497.18,
-      "change24h": 2.248,
-      "volume24h": 906008309.067856,
+      "price": 2478.69,
+      "change24h": 1.296,
+      "volume24h": 840043963.1258,
       "technical": {
-        "rsi": 46.3,
-        "ema9": 2497.8887880493157,
-        "ema21": 2498.66638670634,
+        "rsi": 32.6,
+        "ema9": 2486.8977174892034,
+        "ema21": 2491.965572457354,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.2,
-        "score": 23
+        "volumeRatio": 0.55,
+        "score": 11
       },
       "newsScore": -34,
       "newsCount": 2,
@@ -101,25 +101,25 @@
           "text": "Ether ETF outflows continue, pass $1B in October so far US spot Ether ETFs have shed $1.08 billion so far in October, the biggest monthly outflow of 2026, while Bitcoin ETF inflows slowed after Monday’s spike."
         }
       ],
-      "marketSentiment": 27,
-      "combinedScore": 34,
+      "marketSentiment": 26,
+      "combinedScore": 28,
       "signal": "SELL",
-      "reason": "Technical 23/100; News -34; Market sentiment +27."
+      "reason": "Technical 11/100; News -34; Market sentiment +26."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 1355.77,
-      "change24h": 10.46,
-      "volume24h": 253896377.02743,
+      "price": 1315.94,
+      "change24h": 4.456,
+      "volume24h": 249985583.58154,
       "technical": {
-        "rsi": 53.7,
-        "ema9": 1349.6210073710915,
-        "ema21": 1343.0316956438062,
+        "rsi": 33.8,
+        "ema9": 1339.3678297773108,
+        "ema21": 1342.7285885513306,
         "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.65,
-        "score": 53
+        "emaBull": false,
+        "volumeRatio": 1.93,
+        "score": 6
       },
       "newsScore": 100,
       "newsCount": 1,
@@ -132,25 +132,25 @@
           "text": "Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11% Strong results from SpaceX and Super Micro sent Asian chip stocks surging, and ZEC led crypto higher after developers set a date for its next network upgrade."
         }
       ],
-      "marketSentiment": 27,
-      "combinedScore": 69,
+      "marketSentiment": 26,
+      "combinedScore": 46,
       "signal": "WAIT",
-      "reason": "Technical 53/100; News +100; Market sentiment +27."
+      "reason": "Technical 6/100; News +100; Market sentiment +26."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 108.45,
-      "change24h": 1.888,
-      "volume24h": 201894309.73131,
+      "price": 107.07,
+      "change24h": 0.639,
+      "volume24h": 200217579.3784,
       "technical": {
-        "rsi": 51.4,
-        "ema9": 108.24563948531997,
-        "ema21": 108.16025247763186,
+        "rsi": 32.1,
+        "ema9": 107.58343388996035,
+        "ema21": 107.84873733986353,
         "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.36,
-        "score": 53
+        "emaBull": false,
+        "volumeRatio": 0.67,
+        "score": 11
       },
       "newsScore": 50,
       "newsCount": 2,
@@ -170,25 +170,25 @@
           "text": "Solana’s Alpenglow, its biggest network overhaul since 2020, goes live Wednesday Alpenglow will replace the voting system Solana has used since 2020, targeting roughly 150-millisecond finality after months of testing that included a failed migration and rollback."
         }
       ],
-      "marketSentiment": 27,
-      "combinedScore": 62,
+      "marketSentiment": 26,
+      "combinedScore": 41,
       "signal": "WAIT",
-      "reason": "Technical 53/100; News +50; Market sentiment +27."
+      "reason": "Technical 11/100; News +50; Market sentiment +26."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 5.315,
-      "change24h": 7.722,
-      "volume24h": 174094471.9916,
+      "price": 5.242,
+      "change24h": 6.697,
+      "volume24h": 169881100.6349,
       "technical": {
-        "rsi": 45.4,
-        "ema9": 5.302289836253979,
-        "ema21": 5.303656435136877,
+        "rsi": 41.8,
+        "ema9": 5.296038254334862,
+        "ema21": 5.302499936540412,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.35,
-        "score": 23
+        "volumeRatio": 0.67,
+        "score": 11
       },
       "newsScore": 50,
       "newsCount": 2,
@@ -208,48 +208,48 @@
           "text": "Bitcoin ‘top buyers’ halt BTC price upside with $87.7K now key: Glassnode Bitcoin price current resistance near $87,000 was reinforced by investors who bought BTC in late 2025, per new research."
         }
       ],
-      "marketSentiment": 27,
-      "combinedScore": 47,
+      "marketSentiment": 26,
+      "combinedScore": 41,
       "signal": "WAIT",
-      "reason": "Technical 23/100; News +50; Market sentiment +27."
+      "reason": "Technical 11/100; News +50; Market sentiment +26."
     },
     {
       "symbol": "USD1USDT",
       "coin": "USD1",
-      "price": 0.99978,
-      "change24h": 0.003,
-      "volume24h": 142586254.16528,
+      "price": 0.99975,
+      "change24h": -0.005,
+      "volume24h": 142750256.86715,
       "technical": {
         "rsi": 45.7,
-        "ema9": 0.9997916395053298,
-        "ema21": 0.99981276962146,
-        "macdBull": false,
+        "ema9": 0.9997541855414556,
+        "ema21": 0.9997718592132074,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.48,
-        "score": 23
+        "volumeRatio": 0.5,
+        "score": 47
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": 27,
-      "combinedScore": 39,
+      "marketSentiment": 26,
+      "combinedScore": 51,
       "signal": "WAIT",
-      "reason": "Technical 23/100; News +0; Market sentiment +27."
+      "reason": "Technical 47/100; News +0; Market sentiment +26."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 1.3918,
-      "change24h": 4.442,
-      "volume24h": 134951347.6001,
+      "price": 1.3664,
+      "change24h": 2.444,
+      "volume24h": 141435855.82429,
       "technical": {
-        "rsi": 61.2,
-        "ema9": 1.3883663198496097,
-        "ema21": 1.383815568768804,
+        "rsi": 30.8,
+        "ema9": 1.374555976378169,
+        "ema21": 1.3787310718873584,
         "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.44,
-        "score": 65
+        "emaBull": false,
+        "volumeRatio": 0.88,
+        "score": 11
       },
       "newsScore": 0,
       "newsCount": 1,
@@ -262,48 +262,25 @@
           "text": "Ripple brings Wall Street into 24/7 stock bets, but HSBC warns markets are still thin Institutions can trade through Ripple Prime and post RLUSD as collateral. Finding enough buyers and sellers for large positions could prove harder."
         }
       ],
-      "marketSentiment": 27,
-      "combinedScore": 60,
-      "signal": "WAIT",
-      "reason": "Technical 65/100; News +0; Market sentiment +27."
-    },
-    {
-      "symbol": "SPCXBUSDT",
-      "coin": "SPCXB",
-      "price": 158.6,
-      "change24h": 4.832,
-      "volume24h": 77237729.45198,
-      "technical": {
-        "rsi": 46.5,
-        "ema9": 159.04802987594098,
-        "ema21": 159.72166677538186,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.85,
-        "score": 23
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": 27,
-      "combinedScore": 39,
-      "signal": "WAIT",
-      "reason": "Technical 23/100; News +0; Market sentiment +27."
+      "marketSentiment": 26,
+      "combinedScore": 33,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment +26."
     },
     {
       "symbol": "BNBUSDT",
       "coin": "BNB",
-      "price": 749.87,
-      "change24h": 1.496,
-      "volume24h": 77231423.38508,
+      "price": 747.96,
+      "change24h": 0.905,
+      "volume24h": 81193826.45105,
       "technical": {
-        "rsi": 51.2,
-        "ema9": 749.3044015570724,
-        "ema21": 749.1563539579162,
+        "rsi": 34.1,
+        "ema9": 748.7827781392841,
+        "ema21": 749.1757858436308,
         "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.53,
-        "score": 53
+        "emaBull": false,
+        "volumeRatio": 4.13,
+        "score": 6
       },
       "newsScore": 0,
       "newsCount": 1,
@@ -316,36 +293,74 @@
           "text": "PancakeSwap TVL tops $380M as major fee overhaul heads to vote PancakeSwap’s proposed fee-sharing overhaul would give liquidity providers 88% of swap fees and cut CAKE emissions by 69%, as BNB Chain’s DeFi activity expands."
         }
       ],
-      "marketSentiment": 27,
-      "combinedScore": 54,
-      "signal": "WAIT",
-      "reason": "Technical 53/100; News +0; Market sentiment +27."
+      "marketSentiment": 26,
+      "combinedScore": 31,
+      "signal": "SELL",
+      "reason": "Technical 6/100; News +0; Market sentiment +26."
     },
     {
-      "symbol": "WLDUSDT",
-      "coin": "WLD",
-      "price": 0.5744,
-      "change24h": -2.809,
-      "volume24h": 61950639.40222,
+      "symbol": "SPCXBUSDT",
+      "coin": "SPCXB",
+      "price": 157.07,
+      "change24h": -0.952,
+      "volume24h": 68507722.58635,
       "technical": {
-        "rsi": 45.1,
-        "ema9": 0.571032747521,
-        "ema21": 0.5728869469474568,
-        "macdBull": true,
+        "rsi": 33.8,
+        "ema9": 157.4202955174487,
+        "ema21": 158.3078491642347,
+        "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.69,
-        "score": 47
+        "volumeRatio": 1.02,
+        "score": 11
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": 27,
+      "marketSentiment": 26,
+      "combinedScore": 33,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment +26."
+    },
+    {
+      "symbol": "RLUSDUSDT",
+      "coin": "RLUSD",
+      "price": 1.0008,
+      "change24h": -0.03,
+      "volume24h": 59600694.3731,
+      "technical": {
+        "rsi": 47.6,
+        "ema9": 1.0008162474432825,
+        "ema21": 1.0008318938826093,
+        "macdBull": true,
+        "emaBull": false,
+        "volumeRatio": 0.0,
+        "score": 47
+      },
+      "newsScore": 0,
+      "newsCount": 1,
+      "news": [
+        {
+          "title": "Ripple brings Wall Street into 24/7 stock bets, but HSBC warns markets are still thin",
+          "link": "https://www.coindesk.com/markets/2026/10/21/ripple-brings-wall-street-into-24-7-stock-bets-but-hsbc-warns-markets-are-still-thin",
+          "published": "Wed, 21 Oct 2026 05:25:57 +0000",
+          "source": "CoinDesk",
+          "text": "Ripple brings Wall Street into 24/7 stock bets, but HSBC warns markets are still thin Institutions can trade through Ripple Prime and post RLUSD as collateral. Finding enough buyers and sellers for large positions could prove harder."
+        }
+      ],
+      "marketSentiment": 26,
       "combinedScore": 51,
       "signal": "WAIT",
-      "reason": "Technical 47/100; News +0; Market sentiment +27."
+      "reason": "Technical 47/100; News +0; Market sentiment +26."
     }
   ],
   "news": [
+    {
+      "title": "American Bankers Association: OCC’s GENIUS rules ‘undermine’ US Congress",
+      "link": "https://cointelegraph.com/news/american-bankers-association-occ-genius-rules-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 21 Oct 2026 21:53:48 +0000",
+      "source": "Cointelegraph",
+      "text": "American Bankers Association: OCC’s GENIUS rules ‘undermine’ US Congress Banking advocacy organizations are pushing back against the OCC’s finalized rules on a stablecoin law, arguing against changes to provisions on yield."
+    },
     {
       "title": "Tether backs Bolivian fintech bringing USDT payments to food delivery and banking",
       "link": "https://cointelegraph.com/news/tether-backs-bolivian-fintech-bringing-usdt-payments-to-food-delivery-and-banking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -478,13 +493,6 @@
       "published": "Wed, 21 Oct 2026 10:13:52 +0000",
       "source": "Cointelegraph",
       "text": "Drift exploiter sends $109M in Ether to Tornado Cash in 2 days Wallets linked to the $295 million April hack still held $138 million in Ether after sending another $46 million to the mixer Wednesday."
-    },
-    {
-      "title": "Ether ETF outflows continue, pass $1B in October so far",
-      "link": "https://cointelegraph.com/markets/ether-etf-outflows-near-1-1-billion-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 21 Oct 2026 08:11:50 +0000",
-      "source": "Cointelegraph",
-      "text": "Ether ETF outflows continue, pass $1B in October so far US spot Ether ETFs have shed $1.08 billion so far in October, the biggest monthly outflow of 2026, while Bitcoin ETF inflows slowed after Monday’s spike."
     }
   ],
   "paper": {
@@ -590,22 +598,12 @@
         "mode": "PAPER ONLY"
       },
       {
-        "symbol": "ZECUSDT",
-        "side": "BUY",
-        "entry": 1344.9,
-        "stopLoss": 1324.7265,
-        "takeProfit": 1385.247,
-        "entryTime": "2026-10-21T17:18:25.044461+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
-        "symbol": "NEARUSDT",
-        "side": "BUY",
-        "entry": 5.337,
-        "stopLoss": 5.256945,
-        "takeProfit": 5.49711,
-        "entryTime": "2026-10-21T17:18:25.044461+00:00",
+        "symbol": "SPCXBUSDT",
+        "side": "SELL",
+        "entry": 157.07,
+        "stopLoss": 159.42605,
+        "takeProfit": 152.3579,
+        "entryTime": "2026-10-21T23:38:50.867319+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       }
@@ -766,6 +764,32 @@
         "exitPrice": 108.45,
         "exitTime": "2026-10-21T20:42:01.904191+00:00",
         "pnlPercent": 3.08
+      },
+      {
+        "symbol": "ZECUSDT",
+        "side": "BUY",
+        "entry": 1344.9,
+        "stopLoss": 1324.7265,
+        "takeProfit": 1385.247,
+        "entryTime": "2026-10-21T17:18:25.044461+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 1315.94,
+        "exitTime": "2026-10-21T23:38:50.867319+00:00",
+        "pnlPercent": -2.153
+      },
+      {
+        "symbol": "NEARUSDT",
+        "side": "BUY",
+        "entry": 5.337,
+        "stopLoss": 5.256945,
+        "takeProfit": 5.49711,
+        "entryTime": "2026-10-21T17:18:25.044461+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 5.242,
+        "exitTime": "2026-10-21T23:38:50.867319+00:00",
+        "pnlPercent": -1.78
       }
     ]
   },

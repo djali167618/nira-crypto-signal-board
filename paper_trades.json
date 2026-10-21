@@ -101,22 +101,12 @@
       "mode": "PAPER ONLY"
     },
     {
-      "symbol": "ZECUSDT",
-      "side": "BUY",
-      "entry": 1344.9,
-      "stopLoss": 1324.7265,
-      "takeProfit": 1385.247,
-      "entryTime": "2026-10-21T17:18:25.044461+00:00",
-      "status": "OPEN",
-      "mode": "PAPER ONLY"
-    },
-    {
-      "symbol": "NEARUSDT",
-      "side": "BUY",
-      "entry": 5.337,
-      "stopLoss": 5.256945,
-      "takeProfit": 5.49711,
-      "entryTime": "2026-10-21T17:18:25.044461+00:00",
+      "symbol": "SPCXBUSDT",
+      "side": "SELL",
+      "entry": 157.07,
+      "stopLoss": 159.42605,
+      "takeProfit": 152.3579,
+      "entryTime": "2026-10-21T23:38:50.867319+00:00",
       "status": "OPEN",
       "mode": "PAPER ONLY"
     }
@@ -277,6 +267,32 @@
       "exitPrice": 108.45,
       "exitTime": "2026-10-21T20:42:01.904191+00:00",
       "pnlPercent": 3.08
+    },
+    {
+      "symbol": "ZECUSDT",
+      "side": "BUY",
+      "entry": 1344.9,
+      "stopLoss": 1324.7265,
+      "takeProfit": 1385.247,
+      "entryTime": "2026-10-21T17:18:25.044461+00:00",
+      "status": "STOP_LOSS",
+      "mode": "PAPER ONLY",
+      "exitPrice": 1315.94,
+      "exitTime": "2026-10-21T23:38:50.867319+00:00",
+      "pnlPercent": -2.153
+    },
+    {
+      "symbol": "NEARUSDT",
+      "side": "BUY",
+      "entry": 5.337,
+      "stopLoss": 5.256945,
+      "takeProfit": 5.49711,
+      "entryTime": "2026-10-21T17:18:25.044461+00:00",
+      "status": "STOP_LOSS",
+      "mode": "PAPER ONLY",
+      "exitPrice": 5.242,
+      "exitTime": "2026-10-21T23:38:50.867319+00:00",
+      "pnlPercent": -1.78
     }
   ]
 }
