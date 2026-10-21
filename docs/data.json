@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-20 23:13:32 UTC",
+  "generatedAt": "2026-10-21 01:36:45 UTC",
   "interval": "15m candles",
-  "marketSentiment": 14,
-  "overallNewsScore": 20,
+  "marketSentiment": 26,
+  "overallNewsScore": 25,
   "fearGreed": {
-    "value": 55,
+    "value": 63,
     "label": "Greed",
     "source": "Alternative.me"
   },
@@ -12,17 +12,17 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 82984.01,
-      "change24h": 1.166,
-      "volume24h": 1133815128.375912,
+      "price": 82946.05,
+      "change24h": 1.699,
+      "volume24h": 1114322721.8805358,
       "technical": {
-        "rsi": 65.5,
-        "ema9": 82963.97223879037,
-        "ema21": 82811.1103616794,
-        "macdBull": true,
+        "rsi": 53.1,
+        "ema9": 82998.77228830988,
+        "ema21": 82935.1117595538,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 1.51,
-        "score": 94
+        "volumeRatio": 0.71,
+        "score": 53
       },
       "newsScore": 30,
       "newsCount": 5,
@@ -63,25 +63,25 @@
           "text": "JPMorgan projects Bitcoin to outperform US stocks and gold over next decade JPMorgan included Bitcoin in its long-term capital market outlook for the first time but warned that volatility and unstable correlations limit its role in investment portfolios."
         }
       ],
-      "marketSentiment": 14,
-      "combinedScore": 78,
-      "signal": "BUY",
-      "reason": "Technical 94/100; News +30; Market sentiment +14."
+      "marketSentiment": 26,
+      "combinedScore": 59,
+      "signal": "WAIT",
+      "reason": "Technical 53/100; News +30; Market sentiment +26."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2450.33,
-      "change24h": 1.809,
-      "volume24h": 576856311.659015,
+      "price": 2451.52,
+      "change24h": 2.452,
+      "volume24h": 570973228.256429,
       "technical": {
-        "rsi": 60.4,
-        "ema9": 2454.2479283975936,
-        "ema21": 2448.137891302381,
-        "macdBull": true,
+        "rsi": 53.3,
+        "ema9": 2451.299941950636,
+        "ema21": 2449.8699566795226,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 0.46,
-        "score": 89
+        "volumeRatio": 0.35,
+        "score": 53
       },
       "newsScore": 0,
       "newsCount": 3,
@@ -108,25 +108,48 @@
           "text": "JPMorgan brings JPM Coin, representing dollar deposits, to Ethereum JPMorgan's dollar deposit token is heading to Ethereum as the lender looks to offer it to wider selection of institutional clients."
         }
       ],
-      "marketSentiment": 14,
-      "combinedScore": 71,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment +14."
+      "marketSentiment": 26,
+      "combinedScore": 54,
+      "signal": "WAIT",
+      "reason": "Technical 53/100; News +0; Market sentiment +26."
+    },
+    {
+      "symbol": "ZECUSDT",
+      "coin": "ZEC",
+      "price": 1270.1,
+      "change24h": 11.188,
+      "volume24h": 209726342.48141,
+      "technical": {
+        "rsi": 63.7,
+        "ema9": 1268.6877438205531,
+        "ema21": 1256.6082208747664,
+        "macdBull": false,
+        "emaBull": true,
+        "volumeRatio": 0.71,
+        "score": 65
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": 26,
+      "combinedScore": 60,
+      "signal": "WAIT",
+      "reason": "Technical 65/100; News +0; Market sentiment +26."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 106.56,
-      "change24h": 1.389,
-      "volume24h": 215166631.33536,
+      "price": 106.6,
+      "change24h": 2.146,
+      "volume24h": 209720331.00126,
       "technical": {
-        "rsi": 58.9,
-        "ema9": 106.76324703545643,
-        "ema21": 106.49527116776791,
-        "macdBull": true,
+        "rsi": 53.2,
+        "ema9": 106.63630416414591,
+        "ema21": 106.56945658872418,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 0.76,
-        "score": 89
+        "volumeRatio": 0.67,
+        "score": 53
       },
       "newsScore": 100,
       "newsCount": 2,
@@ -146,48 +169,25 @@
           "text": "Solana treasury firm SkyAI sells all SOL holdings, launches $201M buyback The former medical device maker has liquidated its Solana treasury and is offering to repurchase shares and warrants using its $223.8 million cash holdings."
         }
       ],
-      "marketSentiment": 14,
-      "combinedScore": 86,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +100; Market sentiment +14."
-    },
-    {
-      "symbol": "ZECUSDT",
-      "coin": "ZEC",
-      "price": 1256.32,
-      "change24h": 9.664,
-      "volume24h": 194785837.66539,
-      "technical": {
-        "rsi": 67.8,
-        "ema9": 1257.0806619261166,
-        "ema21": 1237.7583684524107,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.91,
-        "score": 89
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": 14,
-      "combinedScore": 71,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment +14."
+      "marketSentiment": 26,
+      "combinedScore": 69,
+      "signal": "WAIT",
+      "reason": "Technical 53/100; News +100; Market sentiment +26."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 4.903,
-      "change24h": -0.163,
-      "volume24h": 172743393.9176,
+      "price": 5.044,
+      "change24h": 4.086,
+      "volume24h": 174669416.4497,
       "technical": {
-        "rsi": 52.2,
-        "ema9": 4.947910956024623,
-        "ema21": 4.927959649155223,
-        "macdBull": false,
+        "rsi": 64.2,
+        "ema9": 4.978044108847734,
+        "ema21": 4.953578716956521,
+        "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.72,
-        "score": 53
+        "volumeRatio": 1.12,
+        "score": 89
       },
       "newsScore": 0,
       "newsCount": 1,
@@ -200,48 +200,48 @@
           "text": "Live updates: Bitcoin holds near $82,000 as Nasdaq rebounds more than 1% Bitcoin treasury company Strive continued to add large numbers of BTC to its balance sheet, while far larger peer Strategy acquired only a small amount."
         }
       ],
-      "marketSentiment": 14,
-      "combinedScore": 53,
-      "signal": "WAIT",
-      "reason": "Technical 53/100; News +0; Market sentiment +14."
+      "marketSentiment": 26,
+      "combinedScore": 72,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment +26."
     },
     {
       "symbol": "USD1USDT",
       "coin": "USD1",
-      "price": 0.9998,
-      "change24h": -0.006,
-      "volume24h": 155552334.25746,
+      "price": 0.99982,
+      "change24h": -0.002,
+      "volume24h": 147287405.65892,
       "technical": {
-        "rsi": 54.1,
-        "ema9": 0.9997652309212638,
-        "ema21": 0.9997687323481517,
+        "rsi": 56.4,
+        "ema9": 0.9998006488799804,
+        "ema21": 0.9997920075144899,
         "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.94,
-        "score": 47
+        "emaBull": true,
+        "volumeRatio": 0.62,
+        "score": 89
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": 14,
-      "combinedScore": 50,
-      "signal": "WAIT",
-      "reason": "Technical 47/100; News +0; Market sentiment +14."
+      "marketSentiment": 26,
+      "combinedScore": 72,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment +26."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 1.3358,
-      "change24h": 2.352,
-      "volume24h": 108299434.83569,
+      "price": 1.3368,
+      "change24h": 3.085,
+      "volume24h": 106983621.31622,
       "technical": {
-        "rsi": 64.9,
-        "ema9": 1.335319735367109,
-        "ema21": 1.3311129584893515,
-        "macdBull": true,
+        "rsi": 56.9,
+        "ema9": 1.336501062238567,
+        "ema21": 1.3345060954485963,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 0.91,
-        "score": 89
+        "volumeRatio": 1.29,
+        "score": 65
       },
       "newsScore": 100,
       "newsCount": 2,
@@ -261,82 +261,96 @@
           "text": "BlackRock files for third Bitcoin ETF, still no Solana or XRP BlackRock’s proposed Bitcoin fund would use options to limit potential losses and gains, adding another strategy to its existing Bitcoin and Ether ETF lineup."
         }
       ],
-      "marketSentiment": 14,
-      "combinedScore": 86,
+      "marketSentiment": 26,
+      "combinedScore": 75,
       "signal": "BUY",
-      "reason": "Technical 89/100; News +100; Market sentiment +14."
+      "reason": "Technical 65/100; News +100; Market sentiment +26."
     },
     {
       "symbol": "WLDUSDT",
       "coin": "WLD",
-      "price": 0.5909,
-      "change24h": 11.281,
-      "volume24h": 101100164.4097,
+      "price": 0.5908,
+      "change24h": 11.262,
+      "volume24h": 100894519.60717,
       "technical": {
-        "rsi": 61.8,
-        "ema9": 0.5891159506645973,
-        "ema21": 0.5841231175964164,
+        "rsi": 58.7,
+        "ema9": 0.5862175973871452,
+        "ema21": 0.5853785535989328,
         "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 0.58,
+        "volumeRatio": 0.66,
         "score": 65
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": 14,
-      "combinedScore": 59,
+      "marketSentiment": 26,
+      "combinedScore": 60,
       "signal": "WAIT",
-      "reason": "Technical 65/100; News +0; Market sentiment +14."
+      "reason": "Technical 65/100; News +0; Market sentiment +26."
     },
     {
       "symbol": "BNBUSDT",
       "coin": "BNB",
-      "price": 741.41,
-      "change24h": 1.223,
-      "volume24h": 66861268.97565,
+      "price": 742.15,
+      "change24h": 1.998,
+      "volume24h": 67536119.46011,
       "technical": {
-        "rsi": 69.0,
-        "ema9": 741.454067424122,
-        "ema21": 739.7915223409825,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.99,
-        "score": 89
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": 14,
-      "combinedScore": 71,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment +14."
-    },
-    {
-      "symbol": "PEPEUSDT",
-      "coin": "PEPE",
-      "price": 4.57e-06,
-      "change24h": 9.592,
-      "volume24h": 61796027.96187483,
-      "technical": {
-        "rsi": 56.0,
-        "ema9": 4.548056103884025e-06,
-        "ema21": 4.547475239019748e-06,
+        "rsi": 57.8,
+        "ema9": 742.1983630029858,
+        "ema21": 741.2823006881863,
         "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 0.79,
+        "volumeRatio": 1.37,
         "score": 65
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": 14,
-      "combinedScore": 59,
+      "marketSentiment": 26,
+      "combinedScore": 60,
       "signal": "WAIT",
-      "reason": "Technical 65/100; News +0; Market sentiment +14."
+      "reason": "Technical 65/100; News +0; Market sentiment +26."
+    },
+    {
+      "symbol": "PEPEUSDT",
+      "coin": "PEPE",
+      "price": 4.5e-06,
+      "change24h": 8.173,
+      "volume24h": 60899853.66198668,
+      "technical": {
+        "rsi": 44.7,
+        "ema9": 4.539888508642695e-06,
+        "ema21": 4.54610863085073e-06,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.47,
+        "score": 11
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": 26,
+      "combinedScore": 33,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment +26."
     }
   ],
   "news": [
+    {
+      "title": "Musk says SpaceX-Tesla merger a ‘good idea’ as AI revenue jumps ninefold",
+      "link": "https://cointelegraph.com/markets/musk-says-spacex-tesla-merger-a-good-idea-as-ai-revenue-jumps-ninefold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 21 Oct 2026 01:19:14 +0000",
+      "source": "Cointelegraph",
+      "text": "Musk says SpaceX-Tesla merger a ‘good idea’ as AI revenue jumps ninefold A merger would bring Tesla into the same corporate group as Grok developer SpaceXAI and social media platform X."
+    },
+    {
+      "title": "Qubic restarts blockchain, opens recovery claims after $1.4M hack",
+      "link": "https://cointelegraph.com/news/qubic-restarts-blockchain-opens-recovery-claims-after-14m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 20 Oct 2026 23:26:02 +0000",
+      "source": "Cointelegraph",
+      "text": "Qubic restarts blockchain, opens recovery claims after $1.4M hack The network’s validators approved a recovery plan and opened claims until May 1, 2027."
+    },
     {
       "title": "Utah AG sues Kalshi, pursues profits from prediction market company",
       "link": "https://cointelegraph.com/news/utah-lawsuit-kalshi-susquehanna-prediction-markets-illegal-bets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -462,20 +476,6 @@
       "published": "Tue, 20 Oct 2026 10:20:13 +0000",
       "source": "Cointelegraph",
       "text": "Mt. Gox pushes creditor repayment deadline to 2027 in sixth extension Mt. Gox extended its repayment deadline by another year as some creditors remain unpaid due to incomplete procedures and payment processing issues."
-    },
-    {
-      "title": "Bitget plans Thai crypto exchange acquisition weeks after $388M hack",
-      "link": "https://cointelegraph.com/news/bitget-plans-thai-crypto-exchange-acquisition-weeks-after-388m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 20 Oct 2026 10:00:00 +0000",
-      "source": "Cointelegraph",
-      "text": "Bitget plans Thai crypto exchange acquisition weeks after $388M hack The proposed acquisition would give Bitget a route into Thailand’s crypto market through a locally licensed operator."
-    },
-    {
-      "title": "JPMorgan projects Bitcoin to outperform US stocks and gold over next decade",
-      "link": "https://cointelegraph.com/markets/jpmorgan-bitcoin-outperform-stocks-gold-annual-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 20 Oct 2026 08:54:27 +0000",
-      "source": "Cointelegraph",
-      "text": "JPMorgan projects Bitcoin to outperform US stocks and gold over next decade JPMorgan included Bitcoin in its long-term capital market outlook for the first time but warned that volatility and unstable correlations limit its role in investment portfolios."
     }
   ],
   "paper": {
@@ -571,22 +571,32 @@
         "mode": "PAPER ONLY"
       },
       {
-        "symbol": "PEPEUSDT",
-        "side": "BUY",
-        "entry": 4.6e-06,
-        "stopLoss": 4.531e-06,
-        "takeProfit": 4.738e-06,
-        "entryTime": "2026-10-20T16:56:25.185727+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
         "symbol": "ZECUSDT",
         "side": "BUY",
         "entry": 1256.32,
         "stopLoss": 1237.4752,
         "takeProfit": 1294.0096,
         "entryTime": "2026-10-20T23:13:32.169473+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "NEARUSDT",
+        "side": "BUY",
+        "entry": 5.044,
+        "stopLoss": 4.96834,
+        "takeProfit": 5.19532,
+        "entryTime": "2026-10-21T01:36:45.877427+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "PEPEUSDT",
+        "side": "SELL",
+        "entry": 4.5e-06,
+        "stopLoss": 4.5675e-06,
+        "takeProfit": 4.365e-06,
+        "entryTime": "2026-10-21T01:36:45.877427+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       }
@@ -669,6 +679,19 @@
         "exitPrice": 1256.32,
         "exitTime": "2026-10-20T23:13:32.169473+00:00",
         "pnlPercent": 3.863
+      },
+      {
+        "symbol": "PEPEUSDT",
+        "side": "BUY",
+        "entry": 4.6e-06,
+        "stopLoss": 4.531e-06,
+        "takeProfit": 4.738e-06,
+        "entryTime": "2026-10-20T16:56:25.185727+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 4.5e-06,
+        "exitTime": "2026-10-21T01:36:45.877427+00:00",
+        "pnlPercent": -2.174
       }
     ]
   },
