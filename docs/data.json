@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-21 06:32:21 UTC",
+  "generatedAt": "2026-10-21 12:16:26 UTC",
   "interval": "15m candles",
-  "marketSentiment": 24,
-  "overallNewsScore": 20,
+  "marketSentiment": 26,
+  "overallNewsScore": 25,
   "fearGreed": {
     "value": 63,
     "label": "Greed",
@@ -12,21 +12,35 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 82816.67,
-      "change24h": 1.223,
-      "volume24h": 1068203989.7077978,
+      "price": 83556.01,
+      "change24h": 2.601,
+      "volume24h": 1118131624.0577443,
       "technical": {
-        "rsi": 44.6,
-        "ema9": 82753.6078106385,
-        "ema21": 82799.18259791652,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 1.01,
-        "score": 11
+        "rsi": 65.1,
+        "ema9": 83459.01012075997,
+        "ema21": 83331.44113602355,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.8,
+        "score": 89
       },
-      "newsScore": 40,
+      "newsScore": 33,
       "newsCount": 5,
       "news": [
+        {
+          "title": "Bitcoin ‘top buyers’ halt BTC price upside with $87.7K now key: Glassnode",
+          "link": "https://cointelegraph.com/markets/bitcoin-top-buyers-halt-btc-price-upside-with-877k-now-key-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Wed, 21 Oct 2026 10:39:13 +0000",
+          "source": "Cointelegraph",
+          "text": "Bitcoin ‘top buyers’ halt BTC price upside with $87.7K now key: Glassnode Bitcoin price current resistance near $87,000 was reinforced by investors who bought BTC in late 2025, per new research."
+        },
+        {
+          "title": "Ether ETF outflows continue, pass $1B in October so far",
+          "link": "https://cointelegraph.com/markets/ether-etf-outflows-near-1-1-billion-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Wed, 21 Oct 2026 08:11:50 +0000",
+          "source": "Cointelegraph",
+          "text": "Ether ETF outflows continue, pass $1B in October so far US spot Ether ETFs have shed $1.08 billion so far in October, the biggest monthly outflow of 2026, while Bitcoin ETF inflows slowed after Monday’s spike."
+        },
         {
           "title": "Here’s what happened in crypto today",
           "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -47,86 +61,72 @@
           "published": "Tue, 20 Oct 2026 16:14:09 +0000",
           "source": "Cointelegraph",
           "text": "Bitcoin price spikes to $83.3K as US stocks rise on Q3 earnings, oil falls High US corporate earnings reports boosted stock markets and saw BTC price hit $83,300 before reversing at a 21-day trend line."
-        },
-        {
-          "title": "FINMA approves Switzerland’s first Bitcoin ETF for retail investors",
-          "link": "https://cointelegraph.com/news/finma-approves-switzerlands-first-bitcoin-etf-retail?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Tue, 20 Oct 2026 13:10:00 +0000",
-          "source": "Cointelegraph",
-          "text": "FINMA approves Switzerland’s first Bitcoin ETF for retail investors The Swiss regulator cited a growing appetite for cryptocurrency investments and said that multiple fund providers have submitted Bitcoin ETF applications."
-        },
-        {
-          "title": "JPMorgan projects Bitcoin to outperform US stocks and gold over next decade",
-          "link": "https://cointelegraph.com/markets/jpmorgan-bitcoin-outperform-stocks-gold-annual-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Tue, 20 Oct 2026 08:54:27 +0000",
-          "source": "Cointelegraph",
-          "text": "JPMorgan projects Bitcoin to outperform US stocks and gold over next decade JPMorgan included Bitcoin in its long-term capital market outlook for the first time but warned that volatility and unstable correlations limit its role in investment portfolios."
         }
       ],
-      "marketSentiment": 24,
-      "combinedScore": 39,
-      "signal": "WAIT",
-      "reason": "Technical 11/100; News +40; Market sentiment +24."
+      "marketSentiment": 26,
+      "combinedScore": 77,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +33; Market sentiment +26."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2442.96,
-      "change24h": 1.859,
-      "volume24h": 617991778.917915,
+      "price": 2469.04,
+      "change24h": 3.48,
+      "volume24h": 763725095.887493,
       "technical": {
-        "rsi": 39.5,
-        "ema9": 2442.5118913930896,
-        "ema21": 2445.114513162997,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 1.46,
-        "score": 11
+        "rsi": 63.7,
+        "ema9": 2463.083122023695,
+        "ema21": 2458.3777208618894,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.55,
+        "score": 89
       },
-      "newsScore": 0,
+      "newsScore": -56,
       "newsCount": 3,
       "news": [
+        {
+          "title": "Drift exploiter sends $109M in Ether to Tornado Cash in 2 days",
+          "link": "https://cointelegraph.com/news/drift-exploiter-moves-109m-eth-tornado-cash-2-days?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Wed, 21 Oct 2026 10:13:52 +0000",
+          "source": "Cointelegraph",
+          "text": "Drift exploiter sends $109M in Ether to Tornado Cash in 2 days Wallets linked to the $295 million April hack still held $138 million in Ether after sending another $46 million to the mixer Wednesday."
+        },
+        {
+          "title": "Ether ETF outflows continue, pass $1B in October so far",
+          "link": "https://cointelegraph.com/markets/ether-etf-outflows-near-1-1-billion-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Wed, 21 Oct 2026 08:11:50 +0000",
+          "source": "Cointelegraph",
+          "text": "Ether ETF outflows continue, pass $1B in October so far US spot Ether ETFs have shed $1.08 billion so far in October, the biggest monthly outflow of 2026, while Bitcoin ETF inflows slowed after Monday’s spike."
+        },
         {
           "title": "Drift exploiter sends $61M ETH to Tornado Cash, holds $194M",
           "link": "https://cointelegraph.com/news/drift-exploiter-eth-tornado-cash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "published": "Tue, 20 Oct 2026 12:38:28 +0000",
           "source": "Cointelegraph",
           "text": "Drift exploiter sends $61M ETH to Tornado Cash, holds $194M The April 1 hack caused about $295 million in losses and was later attributed to a North Korean threat group in a Mandiant investigation."
-        },
-        {
-          "title": "BlackRock files for third Bitcoin ETF, still no Solana or XRP",
-          "link": "https://cointelegraph.com/news/blackrock-ishares-bitcoin-managed-protection-etf-pbit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Tue, 20 Oct 2026 08:12:57 +0000",
-          "source": "Cointelegraph",
-          "text": "BlackRock files for third Bitcoin ETF, still no Solana or XRP BlackRock’s proposed Bitcoin fund would use options to limit potential losses and gains, adding another strategy to its existing Bitcoin and Ether ETF lineup."
-        },
-        {
-          "title": "JPMorgan brings JPM Coin, representing dollar deposits, to Ethereum",
-          "link": "https://www.coindesk.com/markets/2026/10/19/jpmorgan-s-jpm-coin-representing-dollar-deposits-is-coming-to-ethereum-bloomberg",
-          "published": "Mon, 19 Oct 2026 10:03:47 +0000",
-          "source": "CoinDesk",
-          "text": "JPMorgan brings JPM Coin, representing dollar deposits, to Ethereum JPMorgan's dollar deposit token is heading to Ethereum as the lender looks to offer it to wider selection of institutional clients."
         }
       ],
-      "marketSentiment": 24,
-      "combinedScore": 33,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment +24."
+      "marketSentiment": 26,
+      "combinedScore": 64,
+      "signal": "WAIT",
+      "reason": "Technical 89/100; News -56; Market sentiment +26."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 1259.43,
-      "change24h": 10.481,
-      "volume24h": 217223784.60006,
+      "price": 1289.69,
+      "change24h": 12.874,
+      "volume24h": 230411096.97375,
       "technical": {
-        "rsi": 49.0,
-        "ema9": 1258.3834021289508,
-        "ema21": 1259.6348171776572,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.32,
-        "score": 23
+        "rsi": 62.3,
+        "ema9": 1281.6059789600336,
+        "ema21": 1275.4146226127311,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 1.0,
+        "score": 89
       },
       "newsScore": 100,
       "newsCount": 1,
@@ -139,43 +139,29 @@
           "text": "Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11% Strong results from SpaceX and Super Micro sent Asian chip stocks surging, and ZEC led crypto higher after developers set a date for its next network upgrade."
         }
       ],
-      "marketSentiment": 24,
-      "combinedScore": 54,
-      "signal": "WAIT",
-      "reason": "Technical 23/100; News +100; Market sentiment +24."
+      "marketSentiment": 26,
+      "combinedScore": 87,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +100; Market sentiment +26."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 106.11,
-      "change24h": 1.337,
-      "volume24h": 208372989.41054,
+      "price": 107.04,
+      "change24h": 2.775,
+      "volume24h": 221417341.7902,
       "technical": {
-        "rsi": 44.2,
-        "ema9": 105.87989856047561,
-        "ema21": 106.03972594527612,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.55,
-        "score": 11
+        "rsi": 59.1,
+        "ema9": 106.79990344682867,
+        "ema21": 106.65846795782895,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 1.47,
+        "score": 89
       },
-      "newsScore": 67,
-      "newsCount": 3,
+      "newsScore": 0,
+      "newsCount": 1,
       "news": [
-        {
-          "title": "BlackRock files for third Bitcoin ETF, still no Solana or XRP",
-          "link": "https://cointelegraph.com/news/blackrock-ishares-bitcoin-managed-protection-etf-pbit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Tue, 20 Oct 2026 08:12:57 +0000",
-          "source": "Cointelegraph",
-          "text": "BlackRock files for third Bitcoin ETF, still no Solana or XRP BlackRock’s proposed Bitcoin fund would use options to limit potential losses and gains, adding another strategy to its existing Bitcoin and Ether ETF lineup."
-        },
-        {
-          "title": "Solana treasury firm SkyAI sells all SOL holdings, launches $201M buyback",
-          "link": "https://cointelegraph.com/news/solana-treasury-skyai-sells-all-sol-holdings-launches-201m-buyback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Mon, 19 Oct 2026 21:04:34 +0000",
-          "source": "Cointelegraph",
-          "text": "Solana treasury firm SkyAI sells all SOL holdings, launches $201M buyback The former medical device maker has liquidated its Solana treasury and is offering to repurchase shares and warrants using its $223.8 million cash holdings."
-        },
         {
           "title": "Solana’s Alpenglow, its biggest network overhaul since 2020, goes live Wednesday",
           "link": "https://www.coindesk.com/tech/2026/10/21/solana-s-alpenglow-its-biggest-network-overhaul-since-2020-goes-live-wednesday",
@@ -184,82 +170,82 @@
           "text": "Solana’s Alpenglow, its biggest network overhaul since 2020, goes live Wednesday Alpenglow will replace the voting system Solana has used since 2020, targeting roughly 150-millisecond finality after months of testing that included a failed migration and rollback."
         }
       ],
-      "marketSentiment": 24,
-      "combinedScore": 43,
-      "signal": "WAIT",
-      "reason": "Technical 11/100; News +67; Market sentiment +24."
+      "marketSentiment": 26,
+      "combinedScore": 72,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment +26."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 5.023,
-      "change24h": 5.04,
-      "volume24h": 177404214.4214,
+      "price": 5.208,
+      "change24h": 11.187,
+      "volume24h": 193851998.7114,
       "technical": {
-        "rsi": 49.3,
-        "ema9": 5.004444200816476,
-        "ema21": 5.005793842326391,
+        "rsi": 57.3,
+        "ema9": 5.182069144290331,
+        "ema21": 5.164864942826508,
         "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.58,
-        "score": 23
+        "emaBull": true,
+        "volumeRatio": 0.56,
+        "score": 65
       },
       "newsScore": 0,
       "newsCount": 1,
       "news": [
         {
-          "title": "Live updates: Bitcoin holds near $82,000 as Nasdaq rebounds more than 1%",
-          "link": "https://www.coindesk.com/markets/2026/10/19/live-updates-bitcoin-tags-usd83-000-and-slips-back-as-chip-stocks-lead-a-rebound",
-          "published": "Mon, 19 Oct 2026 11:05:54 +0000",
-          "source": "CoinDesk",
-          "text": "Live updates: Bitcoin holds near $82,000 as Nasdaq rebounds more than 1% Bitcoin treasury company Strive continued to add large numbers of BTC to its balance sheet, while far larger peer Strategy acquired only a small amount."
+          "title": "Bitcoin ‘top buyers’ halt BTC price upside with $87.7K now key: Glassnode",
+          "link": "https://cointelegraph.com/markets/bitcoin-top-buyers-halt-btc-price-upside-with-877k-now-key-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Wed, 21 Oct 2026 10:39:13 +0000",
+          "source": "Cointelegraph",
+          "text": "Bitcoin ‘top buyers’ halt BTC price upside with $87.7K now key: Glassnode Bitcoin price current resistance near $87,000 was reinforced by investors who bought BTC in late 2025, per new research."
         }
       ],
-      "marketSentiment": 24,
-      "combinedScore": 39,
+      "marketSentiment": 26,
+      "combinedScore": 60,
       "signal": "WAIT",
-      "reason": "Technical 23/100; News +0; Market sentiment +24."
+      "reason": "Technical 65/100; News +0; Market sentiment +26."
     },
     {
       "symbol": "USD1USDT",
       "coin": "USD1",
-      "price": 0.99981,
-      "change24h": -0.004,
-      "volume24h": 136510815.86301,
+      "price": 0.99984,
+      "change24h": -0.005,
+      "volume24h": 138853058.17662,
       "technical": {
-        "rsi": 51.2,
-        "ema9": 0.9998121784229825,
-        "ema21": 0.9998154707284694,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 1.54,
-        "score": 28
+        "rsi": 52.4,
+        "ema9": 0.9998421951377207,
+        "ema21": 0.9998318827944932,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 1.06,
+        "score": 77
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": 24,
-      "combinedScore": 41,
-      "signal": "WAIT",
-      "reason": "Technical 28/100; News +0; Market sentiment +24."
+      "marketSentiment": 26,
+      "combinedScore": 66,
+      "signal": "BUY",
+      "reason": "Technical 77/100; News +0; Market sentiment +26."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 1.3366,
-      "change24h": 2.531,
-      "volume24h": 104280206.44478,
+      "price": 1.3583,
+      "change24h": 4.742,
+      "volume24h": 119082195.73122,
       "technical": {
-        "rsi": 51.2,
-        "ema9": 1.3344274942092218,
-        "ema21": 1.3343291033911324,
+        "rsi": 61.5,
+        "ema9": 1.3571231794159742,
+        "ema21": 1.3527483839225891,
         "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 0.64,
-        "score": 53
+        "volumeRatio": 0.39,
+        "score": 65
       },
-      "newsScore": 67,
-      "newsCount": 3,
+      "newsScore": 50,
+      "newsCount": 2,
       "news": [
         {
           "title": "XRP 30-day exchange inflows pass 6B tokens as whales move to the sidelines",
@@ -269,13 +255,6 @@
           "text": "XRP 30-day exchange inflows pass 6B tokens as whales move to the sidelines More than 6 billion XRP reached exchanges tracked by CryptoQuant in the 30 days to Oct. 19, the most since March."
         },
         {
-          "title": "BlackRock files for third Bitcoin ETF, still no Solana or XRP",
-          "link": "https://cointelegraph.com/news/blackrock-ishares-bitcoin-managed-protection-etf-pbit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Tue, 20 Oct 2026 08:12:57 +0000",
-          "source": "Cointelegraph",
-          "text": "BlackRock files for third Bitcoin ETF, still no Solana or XRP BlackRock’s proposed Bitcoin fund would use options to limit potential losses and gains, adding another strategy to its existing Bitcoin and Ether ETF lineup."
-        },
-        {
           "title": "Ripple brings Wall Street into 24/7 stock bets, but HSBC warns markets are still thin",
           "link": "https://www.coindesk.com/markets/2026/10/21/ripple-brings-wall-street-into-24-7-stock-bets-but-hsbc-warns-markets-are-still-thin",
           "published": "Wed, 21 Oct 2026 05:25:57 +0000",
@@ -283,82 +262,146 @@
           "text": "Ripple brings Wall Street into 24/7 stock bets, but HSBC warns markets are still thin Institutions can trade through Ripple Prime and post RLUSD as collateral. Finding enough buyers and sellers for large positions could prove harder."
         }
       ],
-      "marketSentiment": 24,
-      "combinedScore": 64,
-      "signal": "WAIT",
-      "reason": "Technical 53/100; News +67; Market sentiment +24."
+      "marketSentiment": 26,
+      "combinedScore": 68,
+      "signal": "BUY",
+      "reason": "Technical 65/100; News +50; Market sentiment +26."
     },
     {
       "symbol": "WLDUSDT",
       "coin": "WLD",
-      "price": 0.5829,
-      "change24h": 7.526,
-      "volume24h": 94635985.85583,
+      "price": 0.5915,
+      "change24h": 8.333,
+      "volume24h": 92686787.1459,
       "technical": {
-        "rsi": 41.4,
-        "ema9": 0.5857501165906809,
-        "ema21": 0.5870014894760952,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.72,
-        "score": 11
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": 24,
-      "combinedScore": 33,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment +24."
-    },
-    {
-      "symbol": "BNBUSDT",
-      "coin": "BNB",
-      "price": 743.86,
-      "change24h": 1.896,
-      "volume24h": 69829021.08638,
-      "technical": {
-        "rsi": 61.5,
-        "ema9": 742.7731353337824,
-        "ema21": 742.1600890132879,
+        "rsi": 58.0,
+        "ema9": 0.5887142025691434,
+        "ema21": 0.5865625420944188,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 1.2,
+        "volumeRatio": 1.04,
         "score": 89
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": 24,
+      "marketSentiment": 26,
       "combinedScore": 72,
       "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment +24."
+      "reason": "Technical 89/100; News +0; Market sentiment +26."
+    },
+    {
+      "symbol": "BNBUSDT",
+      "coin": "BNB",
+      "price": 746.3,
+      "change24h": 2.327,
+      "volume24h": 75441799.32425,
+      "technical": {
+        "rsi": 52.1,
+        "ema9": 746.8709362387832,
+        "ema21": 746.3808443426279,
+        "macdBull": false,
+        "emaBull": true,
+        "volumeRatio": 1.01,
+        "score": 53
+      },
+      "newsScore": 0,
+      "newsCount": 1,
+      "news": [
+        {
+          "title": "PancakeSwap TVL tops $380M as major fee overhaul heads to vote",
+          "link": "https://cointelegraph.com/markets/pancakeswap-tvl-jumps-19-percent-fee-overhaul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Wed, 21 Oct 2026 10:50:52 +0000",
+          "source": "Cointelegraph",
+          "text": "PancakeSwap TVL tops $380M as major fee overhaul heads to vote PancakeSwap’s proposed fee-sharing overhaul would give liquidity providers 88% of swap fees and cut CAKE emissions by 69%, as BNB Chain’s DeFi activity expands."
+        }
+      ],
+      "marketSentiment": 26,
+      "combinedScore": 54,
+      "signal": "WAIT",
+      "reason": "Technical 53/100; News +0; Market sentiment +26."
     },
     {
       "symbol": "PEPEUSDT",
       "coin": "PEPE",
-      "price": 4.5e-06,
-      "change24h": 7.399,
-      "volume24h": 60201282.05920967,
+      "price": 4.56e-06,
+      "change24h": 8.314,
+      "volume24h": 60099974.59328777,
       "technical": {
-        "rsi": 46.1,
-        "ema9": 4.490461088192624e-06,
-        "ema21": 4.501972422416943e-06,
+        "rsi": 51.6,
+        "ema9": 4.571616280482728e-06,
+        "ema21": 4.560126167023566e-06,
         "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.99,
-        "score": 23
+        "emaBull": true,
+        "volumeRatio": 0.4,
+        "score": 53
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": 24,
-      "combinedScore": 39,
+      "marketSentiment": 26,
+      "combinedScore": 54,
       "signal": "WAIT",
-      "reason": "Technical 23/100; News +0; Market sentiment +24."
+      "reason": "Technical 53/100; News +0; Market sentiment +26."
     }
   ],
   "news": [
+    {
+      "title": "Standard Chartered signs definitive deal to acquire Zodia Custody",
+      "link": "https://cointelegraph.com/news/standard-chartered-acquire-zodia-custody-uk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 21 Oct 2026 12:06:23 +0000",
+      "source": "Cointelegraph",
+      "text": "Standard Chartered signs definitive deal to acquire Zodia Custody The signing follows shareholders’ acceptance of Standard Chartered’s non-binding offer in May, with regulatory approvals still pending."
+    },
+    {
+      "title": "PancakeSwap TVL tops $380M as major fee overhaul heads to vote",
+      "link": "https://cointelegraph.com/markets/pancakeswap-tvl-jumps-19-percent-fee-overhaul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 21 Oct 2026 10:50:52 +0000",
+      "source": "Cointelegraph",
+      "text": "PancakeSwap TVL tops $380M as major fee overhaul heads to vote PancakeSwap’s proposed fee-sharing overhaul would give liquidity providers 88% of swap fees and cut CAKE emissions by 69%, as BNB Chain’s DeFi activity expands."
+    },
+    {
+      "title": "France proposes liability for crypto exchanges offering DeFi access",
+      "link": "https://cointelegraph.com/news/france-liability-crypto-exchange-defi-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 21 Oct 2026 10:46:00 +0000",
+      "source": "Cointelegraph",
+      "text": "France proposes liability for crypto exchanges offering DeFi access French authorities want crypto exchanges to conduct checks on DeFi protocols and face liability for certain customer losses under proposed changes to EU crypto rules."
+    },
+    {
+      "title": "Bitcoin ‘top buyers’ halt BTC price upside with $87.7K now key: Glassnode",
+      "link": "https://cointelegraph.com/markets/bitcoin-top-buyers-halt-btc-price-upside-with-877k-now-key-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 21 Oct 2026 10:39:13 +0000",
+      "source": "Cointelegraph",
+      "text": "Bitcoin ‘top buyers’ halt BTC price upside with $87.7K now key: Glassnode Bitcoin price current resistance near $87,000 was reinforced by investors who bought BTC in late 2025, per new research."
+    },
+    {
+      "title": "Shinhan, SBI make Japan-Korea tourist spending a test case for yen stablecoins",
+      "link": "https://cointelegraph.com/news/shinhan-sbi-japan-korea-travel-yen-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 21 Oct 2026 10:22:44 +0000",
+      "source": "Cointelegraph",
+      "text": "Shinhan, SBI make Japan-Korea tourist spending a test case for yen stablecoins The companies will assess safeguards for travelers and whether stablecoins can speed up trade settlement between South Korea and Japan."
+    },
+    {
+      "title": "Zcash rallies 12% as developers finalize NU7 activation height",
+      "link": "https://cointelegraph.com/markets/zcash-zec-rallies-12-percent-nu7-mainnet-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 21 Oct 2026 10:15:00 +0000",
+      "source": "Cointelegraph",
+      "text": "Zcash rallies 12% as developers finalize NU7 activation height Zcash extended triple-digit year-to-date gains as developers agreed on the NU7 mainnet activation height, targeting Nov. 5, with node synchronization work still pending."
+    },
+    {
+      "title": "Drift exploiter sends $109M in Ether to Tornado Cash in 2 days",
+      "link": "https://cointelegraph.com/news/drift-exploiter-moves-109m-eth-tornado-cash-2-days?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 21 Oct 2026 10:13:52 +0000",
+      "source": "Cointelegraph",
+      "text": "Drift exploiter sends $109M in Ether to Tornado Cash in 2 days Wallets linked to the $295 million April hack still held $138 million in Ether after sending another $46 million to the mixer Wednesday."
+    },
+    {
+      "title": "Ether ETF outflows continue, pass $1B in October so far",
+      "link": "https://cointelegraph.com/markets/ether-etf-outflows-near-1-1-billion-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 21 Oct 2026 08:11:50 +0000",
+      "source": "Cointelegraph",
+      "text": "Ether ETF outflows continue, pass $1B in October so far US spot Ether ETFs have shed $1.08 billion so far in October, the biggest monthly outflow of 2026, while Bitcoin ETF inflows slowed after Monday’s spike."
+    },
     {
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -442,76 +485,10 @@
       "published": "Tue, 20 Oct 2026 16:23:17 +0000",
       "source": "Cointelegraph",
       "text": "Alphabet, Microsoft add objections to OKX-ICE proposed tokenized stock platform About 25% of the US-listed companies in OKXICE’s initial tokenized stock platform proposal are asking to opt-out of the venture."
-    },
-    {
-      "title": "Bitcoin price spikes to $83.3K as US stocks rise on Q3 earnings, oil falls",
-      "link": "https://cointelegraph.com/markets/bitcoin-price-spikes-to-833k-as-us-stocks-rise-on-q3-earnings-oil-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 20 Oct 2026 16:14:09 +0000",
-      "source": "Cointelegraph",
-      "text": "Bitcoin price spikes to $83.3K as US stocks rise on Q3 earnings, oil falls High US corporate earnings reports boosted stock markets and saw BTC price hit $83,300 before reversing at a 21-day trend line."
-    },
-    {
-      "title": "Agents can trade 24/7 — but Yat Siu warns you could lose access at any time",
-      "link": "https://cointelegraph.com/magazine/ai-trade-sleep-yat-siu-warns-losing-agent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 20 Oct 2026 13:30:00 +0000",
-      "source": "Cointelegraph",
-      "text": "Agents can trade 24/7 — but Yat Siu warns you could lose access at any time The Animoca Brands chairman explains that AI agents can make trades while you sleep, but users need to plan for the day they lose access to the bots."
-    },
-    {
-      "title": "FINMA approves Switzerland’s first Bitcoin ETF for retail investors",
-      "link": "https://cointelegraph.com/news/finma-approves-switzerlands-first-bitcoin-etf-retail?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 20 Oct 2026 13:10:00 +0000",
-      "source": "Cointelegraph",
-      "text": "FINMA approves Switzerland’s first Bitcoin ETF for retail investors The Swiss regulator cited a growing appetite for cryptocurrency investments and said that multiple fund providers have submitted Bitcoin ETF applications."
-    },
-    {
-      "title": "Drift exploiter sends $61M ETH to Tornado Cash, holds $194M",
-      "link": "https://cointelegraph.com/news/drift-exploiter-eth-tornado-cash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 20 Oct 2026 12:38:28 +0000",
-      "source": "Cointelegraph",
-      "text": "Drift exploiter sends $61M ETH to Tornado Cash, holds $194M The April 1 hack caused about $295 million in losses and was later attributed to a North Korean threat group in a Mandiant investigation."
-    },
-    {
-      "title": "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
-      "link": "https://cointelegraph.com/news/tx-ustx-stablecoin-rwa-liquidity-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 20 Oct 2026 12:30:00 +0000",
-      "source": "Cointelegraph",
-      "text": "Tx launches USTX stablecoin to pull RWA liquidity onto its chain The Brale-issued token can be minted with USDC from eight networks and is designed to settle tokenized stocks and other assets on tx."
-    },
-    {
-      "title": "Lloyds and Barclays among UK banks named in crypto transfer complaints, advocacy group says",
-      "link": "https://cointelegraph.com/news/uk-banks-crypto-transfer-complaints-stand-with-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 20 Oct 2026 12:13:44 +0000",
-      "source": "Cointelegraph",
-      "text": "Lloyds and Barclays among UK banks named in crypto transfer complaints, advocacy group says UK banks are facing scrutiny over crypto transfer limits and bans as Stand With Crypto reports thousands of complaints ahead of the country’s 2027 regulatory regime."
-    },
-    {
-      "title": "Netflix FTX trailer was ‘enough to upset me’ in first 30 seconds: former FTX COO",
-      "link": "https://cointelegraph.com/news/netflix-ftx-trailer-upset-first-30-seconds-ftx-coo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 20 Oct 2026 11:23:00 +0000",
-      "source": "Cointelegraph",
-      "text": "Netflix FTX trailer was ‘enough to upset me’ in first 30 seconds: former FTX COO Constance Wang criticized the streamer’s portrayal of her former FTX colleagues as not matching her own experience with Sam Bankman-Fried and Caroline Ellison."
-    },
-    {
-      "title": "Kazakhstan court orders curbs on Coinbase, BingX and four others",
-      "link": "https://cointelegraph.com/news/kazakhstan-court-limits-coinbase-bingx-four?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 20 Oct 2026 11:12:21 +0000",
-      "source": "Cointelegraph",
-      "text": "Kazakhstan court orders curbs on Coinbase, BingX and four others Nine other crypto platforms voluntarily restricted app access in Kazakhstan, prompting the regulator to withdraw its claims against them."
     }
   ],
   "paper": {
     "open": [
-      {
-        "symbol": "BTCUSDT",
-        "side": "SELL",
-        "entry": 82196.42,
-        "stopLoss": 83429.3663,
-        "takeProfit": 79730.5274,
-        "entryTime": "2026-10-19T13:53:22.312066+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
       {
         "symbol": "DOGEUSDT",
         "side": "BUY",
@@ -548,16 +525,6 @@
         "entry": 0.99986,
         "stopLoss": 0.9848621,
         "takeProfit": 1.0298558,
-        "entryTime": "2026-10-19T23:02:38.643180+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
-        "symbol": "XRPUSDT",
-        "side": "BUY",
-        "entry": 1.3055,
-        "stopLoss": 1.2859175,
-        "takeProfit": 1.344665,
         "entryTime": "2026-10-19T23:02:38.643180+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
@@ -603,16 +570,6 @@
         "mode": "PAPER ONLY"
       },
       {
-        "symbol": "NEARUSDT",
-        "side": "BUY",
-        "entry": 5.044,
-        "stopLoss": 4.96834,
-        "takeProfit": 5.19532,
-        "entryTime": "2026-10-21T01:36:45.877427+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
         "symbol": "PEPEUSDT",
         "side": "SELL",
         "entry": 4.5e-06,
@@ -629,6 +586,26 @@
         "stopLoss": 0.5916435,
         "takeProfit": 0.565413,
         "entryTime": "2026-10-21T06:32:21.292581+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "BTCUSDT",
+        "side": "BUY",
+        "entry": 83556.01,
+        "stopLoss": 82302.66985,
+        "takeProfit": 86062.6903,
+        "entryTime": "2026-10-21T12:16:26.547460+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "XRPUSDT",
+        "side": "BUY",
+        "entry": 1.3583,
+        "stopLoss": 1.3379255,
+        "takeProfit": 1.399049,
+        "entryTime": "2026-10-21T12:16:26.547460+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       }
@@ -724,6 +701,45 @@
         "exitPrice": 4.5e-06,
         "exitTime": "2026-10-21T01:36:45.877427+00:00",
         "pnlPercent": -2.174
+      },
+      {
+        "symbol": "BTCUSDT",
+        "side": "SELL",
+        "entry": 82196.42,
+        "stopLoss": 83429.3663,
+        "takeProfit": 79730.5274,
+        "entryTime": "2026-10-19T13:53:22.312066+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 83556.01,
+        "exitTime": "2026-10-21T12:16:26.547460+00:00",
+        "pnlPercent": -1.654
+      },
+      {
+        "symbol": "XRPUSDT",
+        "side": "BUY",
+        "entry": 1.3055,
+        "stopLoss": 1.2859175,
+        "takeProfit": 1.344665,
+        "entryTime": "2026-10-19T23:02:38.643180+00:00",
+        "status": "TAKE_PROFIT",
+        "mode": "PAPER ONLY",
+        "exitPrice": 1.3583,
+        "exitTime": "2026-10-21T12:16:26.547460+00:00",
+        "pnlPercent": 4.044
+      },
+      {
+        "symbol": "NEARUSDT",
+        "side": "BUY",
+        "entry": 5.044,
+        "stopLoss": 4.96834,
+        "takeProfit": 5.19532,
+        "entryTime": "2026-10-21T01:36:45.877427+00:00",
+        "status": "TAKE_PROFIT",
+        "mode": "PAPER ONLY",
+        "exitPrice": 5.208,
+        "exitTime": "2026-10-21T12:16:26.547460+00:00",
+        "pnlPercent": 3.251
       }
     ]
   },
