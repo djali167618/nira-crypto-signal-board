@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21 17:18:25 UTC",
+  "generatedAt": "2026-10-21 20:42:01 UTC",
   "interval": "15m candles",
   "marketSentiment": 27,
   "overallNewsScore": 29,
@@ -12,34 +12,34 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 84449.45,
-      "change24h": 2.064,
-      "volume24h": 1199661855.5353525,
+      "price": 84749.99,
+      "change24h": 2.434,
+      "volume24h": 1355390955.1417181,
       "technical": {
-        "rsi": 61.1,
-        "ema9": 84483.80296732303,
-        "ema21": 84209.87253352572,
+        "rsi": 57.3,
+        "ema9": 84527.04672309621,
+        "ema21": 84449.48528481765,
         "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 0.36,
+        "volumeRatio": 0.62,
         "score": 65
       },
       "newsScore": 23,
       "newsCount": 5,
       "news": [
         {
+          "title": "Here’s what happened in crypto today",
+          "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Wed, 21 Oct 2026 20:10:47 +0000",
+          "source": "Cointelegraph",
+          "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+        },
+        {
           "title": "Bitcoin price tags $84.6K as US stocks head higher on SpaceX Q3 earnings beat",
           "link": "https://cointelegraph.com/markets/bitcoin-price-tags-846k-as-us-stocks-head-higher-on-spacex-q3-earnings-beat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "published": "Wed, 21 Oct 2026 15:13:17 +0000",
           "source": "Cointelegraph",
           "text": "Bitcoin price tags $84.6K as US stocks head higher on SpaceX Q3 earnings beat Bitcoin extended gains to approach $85,000 after US stock markets reacted to higher-than-expected SpaceX earnings."
-        },
-        {
-          "title": "Here’s what happened in crypto today",
-          "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Wed, 21 Oct 2026 13:34:54 +0000",
-          "source": "Cointelegraph",
-          "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
         },
         {
           "title": "5 alternatives to Ledger to store your Bitcoin",
@@ -71,20 +71,20 @@
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2509.55,
-      "change24h": 2.416,
-      "volume24h": 814736441.711217,
+      "price": 2497.18,
+      "change24h": 2.248,
+      "volume24h": 906008309.067856,
       "technical": {
-        "rsi": 63.3,
-        "ema9": 2505.317995286722,
-        "ema21": 2493.178260949982,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.44,
-        "score": 89
+        "rsi": 46.3,
+        "ema9": 2497.8887880493157,
+        "ema21": 2498.66638670634,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.2,
+        "score": 23
       },
-      "newsScore": -56,
-      "newsCount": 3,
+      "newsScore": -34,
+      "newsCount": 2,
       "news": [
         {
           "title": "Drift exploiter sends $109M in Ether to Tornado Cash in 2 days",
@@ -99,34 +99,27 @@
           "published": "Wed, 21 Oct 2026 08:11:50 +0000",
           "source": "Cointelegraph",
           "text": "Ether ETF outflows continue, pass $1B in October so far US spot Ether ETFs have shed $1.08 billion so far in October, the biggest monthly outflow of 2026, while Bitcoin ETF inflows slowed after Monday’s spike."
-        },
-        {
-          "title": "Drift exploiter sends $61M ETH to Tornado Cash, holds $194M",
-          "link": "https://cointelegraph.com/news/drift-exploiter-eth-tornado-cash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Tue, 20 Oct 2026 12:38:28 +0000",
-          "source": "Cointelegraph",
-          "text": "Drift exploiter sends $61M ETH to Tornado Cash, holds $194M The April 1 hack caused about $295 million in losses and was later attributed to a North Korean threat group in a Mandiant investigation."
         }
       ],
       "marketSentiment": 27,
-      "combinedScore": 64,
-      "signal": "WAIT",
-      "reason": "Technical 89/100; News -56; Market sentiment +27."
+      "combinedScore": 34,
+      "signal": "SELL",
+      "reason": "Technical 23/100; News -34; Market sentiment +27."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 1344.9,
-      "change24h": 10.489,
-      "volume24h": 226552124.12535,
+      "price": 1355.77,
+      "change24h": 10.46,
+      "volume24h": 253896377.02743,
       "technical": {
-        "rsi": 70.5,
-        "ema9": 1334.5962376668635,
-        "ema21": 1321.1727940404176,
-        "macdBull": true,
+        "rsi": 53.7,
+        "ema9": 1349.6210073710915,
+        "ema21": 1343.0316956438062,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 0.88,
-        "score": 89
+        "volumeRatio": 0.65,
+        "score": 53
       },
       "newsScore": 100,
       "newsCount": 1,
@@ -140,24 +133,24 @@
         }
       ],
       "marketSentiment": 27,
-      "combinedScore": 87,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +100; Market sentiment +27."
+      "combinedScore": 69,
+      "signal": "WAIT",
+      "reason": "Technical 53/100; News +100; Market sentiment +27."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 108.18,
-      "change24h": 1.587,
-      "volume24h": 189210675.87836,
+      "price": 108.45,
+      "change24h": 1.888,
+      "volume24h": 201894309.73131,
       "technical": {
-        "rsi": 59.9,
-        "ema9": 108.18695339427993,
-        "ema21": 107.76714804133181,
-        "macdBull": true,
+        "rsi": 51.4,
+        "ema9": 108.24563948531997,
+        "ema21": 108.16025247763186,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 0.61,
-        "score": 89
+        "volumeRatio": 0.36,
+        "score": 53
       },
       "newsScore": 50,
       "newsCount": 2,
@@ -178,24 +171,24 @@
         }
       ],
       "marketSentiment": 27,
-      "combinedScore": 80,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +50; Market sentiment +27."
+      "combinedScore": 62,
+      "signal": "WAIT",
+      "reason": "Technical 53/100; News +50; Market sentiment +27."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 5.337,
-      "change24h": 8.432,
-      "volume24h": 175365833.2269,
+      "price": 5.315,
+      "change24h": 7.722,
+      "volume24h": 174094471.9916,
       "technical": {
-        "rsi": 56.5,
-        "ema9": 5.3230835995616825,
-        "ema21": 5.283141205588621,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.38,
-        "score": 89
+        "rsi": 45.4,
+        "ema9": 5.302289836253979,
+        "ema21": 5.303656435136877,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.35,
+        "score": 23
       },
       "newsScore": 50,
       "newsCount": 2,
@@ -216,47 +209,47 @@
         }
       ],
       "marketSentiment": 27,
-      "combinedScore": 80,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +50; Market sentiment +27."
+      "combinedScore": 47,
+      "signal": "WAIT",
+      "reason": "Technical 23/100; News +50; Market sentiment +27."
     },
     {
       "symbol": "USD1USDT",
       "coin": "USD1",
-      "price": 0.9998,
-      "change24h": 0.007,
-      "volume24h": 136657113.21429,
+      "price": 0.99978,
+      "change24h": 0.003,
+      "volume24h": 142586254.16528,
       "technical": {
-        "rsi": 44.3,
-        "ema9": 0.9998282630317239,
-        "ema21": 0.9998498356016505,
+        "rsi": 45.7,
+        "ema9": 0.9997916395053298,
+        "ema21": 0.99981276962146,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 1.1,
-        "score": 11
+        "volumeRatio": 0.48,
+        "score": 23
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": 27,
-      "combinedScore": 33,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment +27."
+      "combinedScore": 39,
+      "signal": "WAIT",
+      "reason": "Technical 23/100; News +0; Market sentiment +27."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 1.3808,
-      "change24h": 3.937,
-      "volume24h": 118829529.38412,
+      "price": 1.3918,
+      "change24h": 4.442,
+      "volume24h": 134951347.6001,
       "technical": {
-        "rsi": 60.3,
-        "ema9": 1.3782505796773776,
-        "ema21": 1.3718894181954278,
-        "macdBull": true,
+        "rsi": 61.2,
+        "ema9": 1.3883663198496097,
+        "ema21": 1.383815568768804,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 0.85,
-        "score": 89
+        "volumeRatio": 0.44,
+        "score": 65
       },
       "newsScore": 0,
       "newsCount": 1,
@@ -270,47 +263,47 @@
         }
       ],
       "marketSentiment": 27,
-      "combinedScore": 72,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment +27."
+      "combinedScore": 60,
+      "signal": "WAIT",
+      "reason": "Technical 65/100; News +0; Market sentiment +27."
     },
     {
       "symbol": "SPCXBUSDT",
       "coin": "SPCXB",
-      "price": 160.91,
-      "change24h": 8.796,
-      "volume24h": 77094123.41055,
+      "price": 158.6,
+      "change24h": 4.832,
+      "volume24h": 77237729.45198,
       "technical": {
-        "rsi": 45.4,
-        "ema9": 162.2795613987407,
-        "ema21": 161.95820149707248,
+        "rsi": 46.5,
+        "ema9": 159.04802987594098,
+        "ema21": 159.72166677538186,
         "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.48,
-        "score": 53
+        "emaBull": false,
+        "volumeRatio": 0.85,
+        "score": 23
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": 27,
-      "combinedScore": 54,
+      "combinedScore": 39,
       "signal": "WAIT",
-      "reason": "Technical 53/100; News +0; Market sentiment +27."
+      "reason": "Technical 23/100; News +0; Market sentiment +27."
     },
     {
       "symbol": "BNBUSDT",
       "coin": "BNB",
-      "price": 750.11,
-      "change24h": 1.79,
-      "volume24h": 75676070.61379,
+      "price": 749.87,
+      "change24h": 1.496,
+      "volume24h": 77231423.38508,
       "technical": {
-        "rsi": 59.3,
-        "ema9": 749.1986236977021,
-        "ema21": 748.2251604583223,
-        "macdBull": true,
+        "rsi": 51.2,
+        "ema9": 749.3044015570724,
+        "ema21": 749.1563539579162,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 1.1,
-        "score": 89
+        "volumeRatio": 0.53,
+        "score": 53
       },
       "newsScore": 0,
       "newsCount": 1,
@@ -324,35 +317,77 @@
         }
       ],
       "marketSentiment": 27,
-      "combinedScore": 72,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment +27."
+      "combinedScore": 54,
+      "signal": "WAIT",
+      "reason": "Technical 53/100; News +0; Market sentiment +27."
     },
     {
       "symbol": "WLDUSDT",
       "coin": "WLD",
-      "price": 0.5708,
-      "change24h": 1.044,
-      "volume24h": 72466090.51791,
+      "price": 0.5744,
+      "change24h": -2.809,
+      "volume24h": 61950639.40222,
       "technical": {
-        "rsi": 38.5,
-        "ema9": 0.5734490660731958,
-        "ema21": 0.5767311048623396,
-        "macdBull": false,
+        "rsi": 45.1,
+        "ema9": 0.571032747521,
+        "ema21": 0.5728869469474568,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.25,
-        "score": 11
+        "volumeRatio": 0.69,
+        "score": 47
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": 27,
-      "combinedScore": 33,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment +27."
+      "combinedScore": 51,
+      "signal": "WAIT",
+      "reason": "Technical 47/100; News +0; Market sentiment +27."
     }
   ],
   "news": [
+    {
+      "title": "Tether backs Bolivian fintech bringing USDT payments to food delivery and banking",
+      "link": "https://cointelegraph.com/news/tether-backs-bolivian-fintech-bringing-usdt-payments-to-food-delivery-and-banking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 21 Oct 2026 20:26:07 +0000",
+      "source": "Cointelegraph",
+      "text": "Tether backs Bolivian fintech bringing USDT payments to food delivery and banking The investment will support Peso’s expansion across four Latin American markets, where it connects stablecoin payments to merchant services and local banking networks."
+    },
+    {
+      "title": "Trump didn‘t mention ‘crypto’ once in White House cybercrime roundtable",
+      "link": "https://cointelegraph.com/news/white-house-cybercrime-roundtable-donald-trump-crypto-ventures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 21 Oct 2026 20:19:39 +0000",
+      "source": "Cointelegraph",
+      "text": "Trump didn‘t mention ‘crypto’ once in White House cybercrime roundtable The US President detailed many schemes defrauding Americans, but referred only to “cybercurrency“ related to scams."
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 21 Oct 2026 20:10:47 +0000",
+      "source": "Cointelegraph",
+      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "title": "Cardano Foundation urges EU against expanding MiCA rules to DeFi and staking",
+      "link": "https://cointelegraph.com/news/cardano-foundation-urges-eu-against-expanding-mica-rules-to-defi-and-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 21 Oct 2026 17:57:39 +0000",
+      "source": "Cointelegraph",
+      "text": "Cardano Foundation urges EU against expanding MiCA rules to DeFi and staking The foundation called for regulation based on financial risks rather than technology, warning that overlapping rules could create uncertainty for crypto businesses across the EU."
+    },
+    {
+      "title": "UK financial watchdog opens consultations for DeFi guidance, crypto laws",
+      "link": "https://cointelegraph.com/news/uk-fca-consultations-defi-crypto-laws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 21 Oct 2026 17:25:00 +0000",
+      "source": "Cointelegraph",
+      "text": "UK financial watchdog opens consultations for DeFi guidance, crypto laws The UK Financial Conduct Authority consultations came just weeks after the agency opened applications for companies under its new crypto regulatory regime."
+    },
+    {
+      "title": "Treasury Secretary Bessent likens GENIUS Act to Lincoln-era banking reform",
+      "link": "https://cointelegraph.com/news/occ-finalizes-stablecoin-rules-genius-act-bessent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 21 Oct 2026 17:10:54 +0000",
+      "source": "Cointelegraph",
+      "text": "Treasury Secretary Bessent likens GENIUS Act to Lincoln-era banking reform The OCC has finalized rules for stablecoin reserves and redemptions, with Bessent calling the GENIUS Act a “watershed moment for American finance.”"
+    },
     {
       "title": "Chainlink, Cardano, other blockchain groups push SEC for clearer crypto rules",
       "link": "https://cointelegraph.com/news/chainlink-cardano-and-other-blockchain-groups-push-sec-for-clearer-crypto-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -373,13 +408,6 @@
       "published": "Wed, 21 Oct 2026 13:57:14 +0000",
       "source": "Cointelegraph",
       "text": "Solana’s Alpenglow launches on mainnet, targets 99% faster finality Solana’s first major consensus upgrade is targeting 99% finality reduction, seeking to offer users near-immediate transaction settlement and more responsive applications."
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 21 Oct 2026 13:34:54 +0000",
-      "source": "Cointelegraph",
-      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
       "title": "Big Tech’s eMudhra fixes may leave crypto bots exposed, CertiK warns",
@@ -457,41 +485,6 @@
       "published": "Wed, 21 Oct 2026 08:11:50 +0000",
       "source": "Cointelegraph",
       "text": "Ether ETF outflows continue, pass $1B in October so far US spot Ether ETFs have shed $1.08 billion so far in October, the biggest monthly outflow of 2026, while Bitcoin ETF inflows slowed after Monday’s spike."
-    },
-    {
-      "title": "Malaysia central bank launches DLT platform for tokenized bonds",
-      "link": "https://cointelegraph.com/news/malaysia-central-bank-tokenized-bonds-sukuk-dlt-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 21 Oct 2026 05:56:29 +0000",
-      "source": "Cointelegraph",
-      "text": "Malaysia central bank launches DLT platform for tokenized bonds The platform tracks tokenized securities ownership and transfers, linking to Malaysia’s RENTAS+ system to settle corresponding payments in central bank money."
-    },
-    {
-      "title": "Tech giants rush to block 8 eMudhra certs that could enable fake sites",
-      "link": "https://cointelegraph.com/news/tech-giants-rush-to-block-flawed-emudhra-certs-that-could-enable-fake-sites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 21 Oct 2026 05:15:00 +0000",
-      "source": "Cointelegraph",
-      "text": "Tech giants rush to block 8 eMudhra certs that could enable fake sites A private key generation flaw allowed anyone to guess them and forge HTTPS certificates for any website."
-    },
-    {
-      "title": "Musk says SpaceX-Tesla merger a ‘good idea’ as AI revenue jumps ninefold",
-      "link": "https://cointelegraph.com/markets/musk-says-spacex-tesla-merger-a-good-idea-as-ai-revenue-jumps-ninefold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 21 Oct 2026 01:19:14 +0000",
-      "source": "Cointelegraph",
-      "text": "Musk says SpaceX-Tesla merger a ‘good idea’ as AI revenue jumps ninefold A merger would bring Tesla into the same corporate group as Grok developer SpaceXAI and social media platform X."
-    },
-    {
-      "title": "Qubic restarts blockchain, opens recovery claims after $1.4M hack",
-      "link": "https://cointelegraph.com/news/qubic-restarts-blockchain-opens-recovery-claims-after-14m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 20 Oct 2026 23:26:02 +0000",
-      "source": "Cointelegraph",
-      "text": "Qubic restarts blockchain, opens recovery claims after $1.4M hack The network’s validators approved a recovery plan and opened claims until May 1, 2027."
-    },
-    {
-      "title": "Utah AG sues Kalshi, pursues profits from prediction market company",
-      "link": "https://cointelegraph.com/news/utah-lawsuit-kalshi-susquehanna-prediction-markets-illegal-bets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 20 Oct 2026 21:19:15 +0000",
-      "source": "Cointelegraph",
-      "text": "Utah AG sues Kalshi, pursues profits from prediction market company Derek Brown likened the prediction market company to a “public nuisance“ that was “causing a significant and substantial ongoing harm“ to state residents."
     }
   ],
   "paper": {
@@ -513,16 +506,6 @@
         "stopLoss": 1.0090115,
         "takeProfit": 0.964277,
         "entryTime": "2026-10-19T13:53:22.312066+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
-        "symbol": "SOLUSDT",
-        "side": "BUY",
-        "entry": 105.21,
-        "stopLoss": 103.63185,
-        "takeProfit": 108.3663,
-        "entryTime": "2026-10-19T23:02:38.643180+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       },
@@ -770,6 +753,19 @@
         "exitPrice": 1344.9,
         "exitTime": "2026-10-21T17:18:25.044461+00:00",
         "pnlPercent": 7.051
+      },
+      {
+        "symbol": "SOLUSDT",
+        "side": "BUY",
+        "entry": 105.21,
+        "stopLoss": 103.63185,
+        "takeProfit": 108.3663,
+        "entryTime": "2026-10-19T23:02:38.643180+00:00",
+        "status": "TAKE_PROFIT",
+        "mode": "PAPER ONLY",
+        "exitPrice": 108.45,
+        "exitTime": "2026-10-21T20:42:01.904191+00:00",
+        "pnlPercent": 3.08
       }
     ]
   },

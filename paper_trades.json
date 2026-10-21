@@ -21,16 +21,6 @@
       "mode": "PAPER ONLY"
     },
     {
-      "symbol": "SOLUSDT",
-      "side": "BUY",
-      "entry": 105.21,
-      "stopLoss": 103.63185,
-      "takeProfit": 108.3663,
-      "entryTime": "2026-10-19T23:02:38.643180+00:00",
-      "status": "OPEN",
-      "mode": "PAPER ONLY"
-    },
-    {
       "symbol": "USD1USDT",
       "side": "BUY",
       "entry": 0.99986,
@@ -274,6 +264,19 @@
       "exitPrice": 1344.9,
       "exitTime": "2026-10-21T17:18:25.044461+00:00",
       "pnlPercent": 7.051
+    },
+    {
+      "symbol": "SOLUSDT",
+      "side": "BUY",
+      "entry": 105.21,
+      "stopLoss": 103.63185,
+      "takeProfit": 108.3663,
+      "entryTime": "2026-10-19T23:02:38.643180+00:00",
+      "status": "TAKE_PROFIT",
+      "mode": "PAPER ONLY",
+      "exitPrice": 108.45,
+      "exitTime": "2026-10-21T20:42:01.904191+00:00",
+      "pnlPercent": 3.08
     }
   ]
 }
