@@ -109,6 +109,16 @@
       "entryTime": "2026-10-21T23:38:50.867319+00:00",
       "status": "OPEN",
       "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "RLUSDUSDT",
+      "side": "BUY",
+      "entry": 1.0008,
+      "stopLoss": 0.985788,
+      "takeProfit": 1.030824,
+      "entryTime": "2026-10-22T01:50:39.829276+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
     }
   ],
   "closed": [
