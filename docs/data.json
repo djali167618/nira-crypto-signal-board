@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22 01:50:39 UTC",
+  "generatedAt": "2026-10-22 06:40:34 UTC",
   "interval": "15m candles",
   "marketSentiment": 30,
   "overallNewsScore": 18,
@@ -12,17 +12,17 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 83688.79,
-      "change24h": 0.607,
-      "volume24h": 1426417017.4386532,
+      "price": 82554.54,
+      "change24h": -0.317,
+      "volume24h": 1733643114.1304612,
       "technical": {
-        "rsi": 32.3,
-        "ema9": 84206.7908197537,
-        "ema21": 84335.43886984649,
-        "macdBull": false,
+        "rsi": 28.5,
+        "ema9": 82804.56379121388,
+        "ema21": 83083.60107218112,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 3.81,
-        "score": 6
+        "volumeRatio": 0.8,
+        "score": 35
       },
       "newsScore": 23,
       "newsCount": 5,
@@ -30,7 +30,7 @@
         {
           "title": "Here’s what happened in crypto today",
           "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Wed, 21 Oct 2026 20:10:47 +0000",
+          "published": "Thu, 22 Oct 2026 05:56:18 +0000",
           "source": "Cointelegraph",
           "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
         },
@@ -64,24 +64,24 @@
         }
       ],
       "marketSentiment": 30,
-      "combinedScore": 34,
-      "signal": "SELL",
-      "reason": "Technical 6/100; News +23; Market sentiment +30."
+      "combinedScore": 49,
+      "signal": "WAIT",
+      "reason": "Technical 35/100; News +23; Market sentiment +30."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2456.46,
-      "change24h": -0.274,
-      "volume24h": 855776685.218503,
+      "price": 2432.57,
+      "change24h": -0.451,
+      "volume24h": 854166795.55114,
       "technical": {
-        "rsi": 29.5,
-        "ema9": 2474.3232972491946,
-        "ema21": 2481.3733960985824,
-        "macdBull": false,
+        "rsi": 32.6,
+        "ema9": 2440.2688985266,
+        "ema21": 2447.8528020512617,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 4.9,
-        "score": 6
+        "volumeRatio": 0.72,
+        "score": 35
       },
       "newsScore": -34,
       "newsCount": 2,
@@ -102,24 +102,24 @@
         }
       ],
       "marketSentiment": 30,
-      "combinedScore": 26,
-      "signal": "SELL",
-      "reason": "Technical 6/100; News -34; Market sentiment +30."
+      "combinedScore": 40,
+      "signal": "WAIT",
+      "reason": "Technical 35/100; News -34; Market sentiment +30."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 1309.75,
-      "change24h": 2.879,
-      "volume24h": 242771275.05646,
+      "price": 1266.25,
+      "change24h": 0.384,
+      "volume24h": 287256898.50755,
       "technical": {
-        "rsi": 36.2,
-        "ema9": 1324.8704767175973,
-        "ema21": 1331.3856218009034,
+        "rsi": 27.6,
+        "ema9": 1277.6519849803476,
+        "ema21": 1291.5758423194939,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 3.6,
-        "score": 6
+        "volumeRatio": 2.65,
+        "score": 33
       },
       "newsScore": 100,
       "newsCount": 1,
@@ -133,27 +133,27 @@
         }
       ],
       "marketSentiment": 30,
-      "combinedScore": 46,
+      "combinedScore": 60,
       "signal": "WAIT",
-      "reason": "Technical 6/100; News +100; Market sentiment +30."
+      "reason": "Technical 33/100; News +100; Market sentiment +30."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 106.39,
-      "change24h": -0.598,
-      "volume24h": 203483574.13348,
+      "price": 104.61,
+      "change24h": -1.386,
+      "volume24h": 226986762.21721,
       "technical": {
-        "rsi": 31.6,
-        "ema9": 107.15755098804276,
-        "ema21": 107.42939901739862,
+        "rsi": 26.8,
+        "ema9": 105.13128986312677,
+        "ema21": 105.61809177136175,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 3.63,
-        "score": 6
+        "volumeRatio": 1.2,
+        "score": 28
       },
-      "newsScore": 50,
-      "newsCount": 2,
+      "newsScore": 33,
+      "newsCount": 3,
       "news": [
         {
           "title": "Solana’s Alpenglow launches on mainnet, targets 99% faster finality",
@@ -161,6 +161,13 @@
           "published": "Wed, 21 Oct 2026 13:57:14 +0000",
           "source": "Cointelegraph",
           "text": "Solana’s Alpenglow launches on mainnet, targets 99% faster finality Solana’s first major consensus upgrade is targeting 99% finality reduction, seeking to offer users near-immediate transaction settlement and more responsive applications."
+        },
+        {
+          "title": "Solana’s biggest network change since 2020 is live. Here’s how users benefit",
+          "link": "https://www.coindesk.com/tech/2026/10/22/solana-completes-alpenglow-upgrade-here-s-what-it-means-for-users",
+          "published": "Thu, 22 Oct 2026 05:24:58 +0000",
+          "source": "CoinDesk",
+          "text": "Solana’s biggest network change since 2020 is live. Here’s how users benefit The new voting system targets settlement in about 150 milliseconds, potentially shortening waits for payments and deposits. Users can keep their existing wallets."
         },
         {
           "title": "Solana’s Alpenglow, its biggest network overhaul since 2020, goes live Wednesday",
@@ -171,24 +178,47 @@
         }
       ],
       "marketSentiment": 30,
-      "combinedScore": 38,
+      "combinedScore": 47,
       "signal": "WAIT",
-      "reason": "Technical 6/100; News +50; Market sentiment +30."
+      "reason": "Technical 28/100; News +33; Market sentiment +30."
+    },
+    {
+      "symbol": "USD1USDT",
+      "coin": "USD1",
+      "price": 0.99972,
+      "change24h": -0.01,
+      "volume24h": 172858991.08155,
+      "technical": {
+        "rsi": 51.0,
+        "ema9": 0.9996531521828811,
+        "ema21": 0.999664712387037,
+        "macdBull": true,
+        "emaBull": false,
+        "volumeRatio": 0.96,
+        "score": 47
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": 30,
+      "combinedScore": 52,
+      "signal": "WAIT",
+      "reason": "Technical 47/100; News +0; Market sentiment +30."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 5.217,
-      "change24h": 2.859,
-      "volume24h": 164030938.7551,
+      "price": 4.997,
+      "change24h": -0.735,
+      "volume24h": 172818008.9829,
       "technical": {
-        "rsi": 40.9,
-        "ema9": 5.283235270733801,
-        "ema21": 5.289469869923525,
+        "rsi": 26.5,
+        "ema9": 5.043081086071761,
+        "ema21": 5.105675479627539,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 2.12,
-        "score": 6
+        "volumeRatio": 0.91,
+        "score": 28
       },
       "newsScore": 50,
       "newsCount": 2,
@@ -209,51 +239,35 @@
         }
       ],
       "marketSentiment": 30,
-      "combinedScore": 38,
+      "combinedScore": 50,
       "signal": "WAIT",
-      "reason": "Technical 6/100; News +50; Market sentiment +30."
-    },
-    {
-      "symbol": "USD1USDT",
-      "coin": "USD1",
-      "price": 0.99971,
-      "change24h": -0.01,
-      "volume24h": 148404156.77963,
-      "technical": {
-        "rsi": 42.6,
-        "ema9": 0.9997503847088988,
-        "ema21": 0.999760359162519,
-        "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 2.73,
-        "score": 30
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": 30,
-      "combinedScore": 43,
-      "signal": "WAIT",
-      "reason": "Technical 30/100; News +0; Market sentiment +30."
+      "reason": "Technical 28/100; News +50; Market sentiment +30."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 1.3526,
-      "change24h": 0.797,
-      "volume24h": 146430678.72337,
+      "price": 1.3407,
+      "change24h": 0.299,
+      "volume24h": 163825150.13392,
       "technical": {
-        "rsi": 27.4,
-        "ema9": 1.3643807529320786,
-        "ema21": 1.3700536849717027,
-        "macdBull": false,
+        "rsi": 32.7,
+        "ema9": 1.3448617950154838,
+        "ema21": 1.349206282564232,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 4.1,
-        "score": 23
+        "volumeRatio": 0.62,
+        "score": 35
       },
-      "newsScore": 0,
-      "newsCount": 1,
+      "newsScore": 50,
+      "newsCount": 2,
       "news": [
+        {
+          "title": "XRP Ledger bug fix moved to November after validator support dipped for two hours",
+          "link": "https://www.coindesk.com/tech/2026/10/22/xrp-ledger-bug-fix-moved-to-november-after-validator-support-dipped-for-two-hours",
+          "published": "Thu, 22 Oct 2026 04:36:20 +0000",
+          "source": "CoinDesk",
+          "text": "XRP Ledger bug fix moved to November after validator support dipped for two hours The fix lost its two-week countdown less than two days from the finish after support slipped to 26 of 35 validators. It’s now back at 31."
+        },
         {
           "title": "Ripple brings Wall Street into 24/7 stock bets, but HSBC warns markets are still thin",
           "link": "https://www.coindesk.com/markets/2026/10/21/ripple-brings-wall-street-into-24-7-stock-bets-but-hsbc-warns-markets-are-still-thin",
@@ -263,24 +277,24 @@
         }
       ],
       "marketSentiment": 30,
-      "combinedScore": 40,
+      "combinedScore": 53,
       "signal": "WAIT",
-      "reason": "Technical 23/100; News +0; Market sentiment +30."
+      "reason": "Technical 35/100; News +50; Market sentiment +30."
     },
     {
       "symbol": "BNBUSDT",
       "coin": "BNB",
-      "price": 746.22,
-      "change24h": 0.282,
-      "volume24h": 82141205.47944,
+      "price": 738.22,
+      "change24h": -0.78,
+      "volume24h": 90881542.96945,
       "technical": {
-        "rsi": 38.5,
-        "ema9": 748.1657211657775,
-        "ema21": 748.5438598643558,
+        "rsi": 34.0,
+        "ema9": 739.9101874922884,
+        "ema21": 741.7339984164856,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 4.1,
-        "score": 6
+        "volumeRatio": 0.42,
+        "score": 11
       },
       "newsScore": 0,
       "newsCount": 1,
@@ -294,46 +308,23 @@
         }
       ],
       "marketSentiment": 30,
-      "combinedScore": 31,
+      "combinedScore": 34,
       "signal": "SELL",
-      "reason": "Technical 6/100; News +0; Market sentiment +30."
-    },
-    {
-      "symbol": "SPCXBUSDT",
-      "coin": "SPCXB",
-      "price": 156.92,
-      "change24h": -2.334,
-      "volume24h": 63239448.5136,
-      "technical": {
-        "rsi": 37.8,
-        "ema9": 157.3844145962298,
-        "ema21": 157.7805105975918,
-        "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.41,
-        "score": 35
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": 30,
-      "combinedScore": 46,
-      "signal": "WAIT",
-      "reason": "Technical 35/100; News +0; Market sentiment +30."
+      "reason": "Technical 11/100; News +0; Market sentiment +30."
     },
     {
       "symbol": "RLUSDUSDT",
       "coin": "RLUSD",
-      "price": 1.0008,
-      "change24h": -0.02,
-      "volume24h": 59483935.7247,
+      "price": 1.001,
+      "change24h": -0.01,
+      "volume24h": 63503302.5134,
       "technical": {
-        "rsi": 52.5,
-        "ema9": 1.0008641624421373,
-        "ema21": 1.000852829926495,
+        "rsi": 52.2,
+        "ema9": 1.0010164264988626,
+        "ema21": 1.0009769799104589,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.1,
+        "volumeRatio": 0.09,
         "score": 77
       },
       "newsScore": 0,
@@ -351,9 +342,46 @@
       "combinedScore": 66,
       "signal": "BUY",
       "reason": "Technical 77/100; News +0; Market sentiment +30."
+    },
+    {
+      "symbol": "ENAUSDT",
+      "coin": "ENA",
+      "price": 0.1987,
+      "change24h": -1.193,
+      "volume24h": 63495182.220483,
+      "technical": {
+        "rsi": 20.0,
+        "ema9": 0.20172962203696615,
+        "ema21": 0.2050484846824803,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 4.86,
+        "score": 23
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": 30,
+      "combinedScore": 40,
+      "signal": "WAIT",
+      "reason": "Technical 23/100; News +0; Market sentiment +30."
     }
   ],
   "news": [
+    {
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 22 Oct 2026 05:56:18 +0000",
+      "source": "Cointelegraph",
+      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "title": "Move over memecoins: Crypto ‘meme games’ coming, bagholders and all",
+      "link": "https://cointelegraph.com/news/move-over-memecoins-crypto-meme-games-coming-bagholders-and-all?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 22 Oct 2026 05:35:38 +0000",
+      "source": "Cointelegraph",
+      "text": "Move over memecoins: Crypto ‘meme games’ coming, bagholders and all “Plenty will be ponzis. Plenty will get exploited. Plenty will insta die. There will be ridiculous gains, and people will get absolutely f***ing rinsed,” says Illuvium co-founder Kieran Warwick."
+    },
     {
       "title": "PHP Foundation admits ‘structural failure’ delayed critical security fix",
       "link": "https://cointelegraph.com/news/php-foundation-admits-structural-failure-delayed-critical-security-fix?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -381,13 +409,6 @@
       "published": "Wed, 21 Oct 2026 20:19:39 +0000",
       "source": "Cointelegraph",
       "text": "Trump didn‘t mention ‘crypto’ once in White House cybercrime roundtable The US President detailed many schemes defrauding Americans, but referred only to “cybercurrency“ related to scams."
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 21 Oct 2026 20:10:47 +0000",
-      "source": "Cointelegraph",
-      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
       "title": "Cardano Foundation urges EU against expanding MiCA rules to DeFi and staking",
@@ -486,13 +507,6 @@
       "published": "Wed, 21 Oct 2026 10:22:44 +0000",
       "source": "Cointelegraph",
       "text": "Shinhan, SBI make Japan-Korea tourist spending a test case for yen stablecoins The companies will assess safeguards for travelers and whether stablecoins can speed up trade settlement between South Korea and Japan."
-    },
-    {
-      "title": "Zcash rallies 12% as developers finalize NU7 activation height",
-      "link": "https://cointelegraph.com/markets/zcash-zec-rallies-12-percent-nu7-mainnet-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 21 Oct 2026 10:15:00 +0000",
-      "source": "Cointelegraph",
-      "text": "Zcash rallies 12% as developers finalize NU7 activation height Zcash extended triple-digit year-to-date gains as developers agreed on the NU7 mainnet activation height, targeting Nov. 5, with node synchronization work still pending."
     }
   ],
   "paper": {
