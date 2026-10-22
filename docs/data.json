@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-22 12:26:02 UTC",
+  "generatedAt": "2026-10-22 17:27:00 UTC",
   "interval": "15m candles",
-  "marketSentiment": 23,
-  "overallNewsScore": 0,
+  "marketSentiment": 28,
+  "overallNewsScore": 14,
   "fearGreed": {
     "value": 68,
     "label": "Greed",
@@ -12,79 +12,79 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 81788.01,
-      "change24h": -2.123,
-      "volume24h": 1854038098.4732738,
+      "price": 81347.32,
+      "change24h": -3.774,
+      "volume24h": 1776209480.9961076,
       "technical": {
-        "rsi": 30.1,
-        "ema9": 81901.57901212302,
-        "ema21": 82087.44254673757,
-        "macdBull": true,
+        "rsi": 29.7,
+        "ema9": 81466.32908666649,
+        "ema21": 81635.10256120148,
+        "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.83,
-        "score": 35
+        "volumeRatio": 0.79,
+        "score": 11
       },
-      "newsScore": 13,
+      "newsScore": 0,
       "newsCount": 5,
       "news": [
         {
-          "title": "Bitcoin corrects below $82K after Tesla Q3 results, KOSPI falls",
-          "link": "https://cointelegraph.com/markets/bitcoin-corrects-below-82k-after-tesla-q3-results-kospi-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Thu, 22 Oct 2026 10:38:51 +0000",
+          "title": "Bitcoin hashrate hits seven-month high as AI shift fails to ease mining competition",
+          "link": "https://cointelegraph.com/news/bitcoin-mining-difficulty-hashrate-recovery-ai-shift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Thu, 22 Oct 2026 16:50:51 +0000",
           "source": "Cointelegraph",
-          "text": "Bitcoin corrects below $82K after Tesla Q3 results, KOSPI falls Bitcoin reversed a run toward $85,000 after Tesla reported lower-than-expected capital expenditure in Q3."
+          "text": "Bitcoin hashrate hits seven-month high as AI shift fails to ease mining competition According to BlocksBridge, Bitcoin’s mining difficulty is rising despite the industry’s AI transition, with smaller operators potentially absorbing equipment abandoned by larger competitors."
         },
         {
-          "title": "Bitcoin ETFs bag another $528M, taking 3-day haul past $1B",
-          "link": "https://cointelegraph.com/markets/bitcoin-etfs-528-million-btc-tops-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Thu, 22 Oct 2026 07:37:32 +0000",
+          "title": "Bitcoin circles $81.5K ETF cost basis as Trump Iran comments send stocks lower",
+          "link": "https://cointelegraph.com/markets/bitcoin-circles-815k-etf-cost-basis-as-trump-iran-comments-send-stocks-lower?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Thu, 22 Oct 2026 16:20:35 +0000",
           "source": "Cointelegraph",
-          "text": "Bitcoin ETFs bag another $528M, taking 3-day haul past $1B US spot Bitcoin ETFs drew $1.08 billion over three trading sessions to push October flows back above water."
+          "text": "Bitcoin circles $81.5K ETF cost basis as Trump Iran comments send stocks lower Bitcoin extended daily losses to 3% as US stocks came under pressure from President Donald Trump’s comments on Iran military action."
+        },
+        {
+          "title": "CryptoQuant CEO calls rising Bitcoin hashrate ‘indirect bullish signal’ from institutions",
+          "link": "https://cointelegraph.com/markets/cryptoquant-rising-bitcoin-hashrate-indirect-bullish-signal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Thu, 22 Oct 2026 13:42:34 +0000",
+          "source": "Cointelegraph",
+          "text": "CryptoQuant CEO calls rising Bitcoin hashrate ‘indirect bullish signal’ from institutions Public miners backed by major TradFi players are coming back online, boosting Bitcoin’s hashrate, a positive sign for BTC’s fundamentals, according to CryptoQuant’s Ki Young Ju."
         },
         {
           "title": "Here’s what happened in crypto today",
           "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Thu, 22 Oct 2026 05:56:18 +0000",
+          "published": "Thu, 22 Oct 2026 13:22:57 +0000",
           "source": "Cointelegraph",
           "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
         },
         {
-          "title": "Bitcoin price tags $84.6K as US stocks head higher on SpaceX Q3 earnings beat",
-          "link": "https://cointelegraph.com/markets/bitcoin-price-tags-846k-as-us-stocks-head-higher-on-spacex-q3-earnings-beat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Wed, 21 Oct 2026 15:13:17 +0000",
+          "title": "Bitcoin ETF buyers are trend followers, not setters, DWF Labs says",
+          "link": "https://cointelegraph.com/news/bitcoin-etf-flows-follow-price-trends-dwf-labs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Thu, 22 Oct 2026 13:00:00 +0000",
           "source": "Cointelegraph",
-          "text": "Bitcoin price tags $84.6K as US stocks head higher on SpaceX Q3 earnings beat Bitcoin extended gains to approach $85,000 after US stock markets reacted to higher-than-expected SpaceX earnings."
-        },
-        {
-          "title": "5 alternatives to Ledger to store your Bitcoin",
-          "link": "https://cointelegraph.com/magazine/5-alternatives-to-ledger-to-store-your-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Wed, 21 Oct 2026 13:30:00 +0000",
-          "source": "Cointelegraph",
-          "text": "5 alternatives to Ledger to store your Bitcoin Hardware wallets aren’t the only way to protect your crypto, but from ETFs and passkeys to multisig accounts, each alternative has its own risks and trade-offs."
+          "text": "Bitcoin ETF buyers are trend followers, not setters, DWF Labs says DWF Labs research finds that Bitcoin ETF flows follow past BTC price movements rather than predict future returns, with investors buying rallies and selling dips."
         }
       ],
-      "marketSentiment": 23,
-      "combinedScore": 47,
-      "signal": "WAIT",
-      "reason": "Technical 35/100; News +13; Market sentiment +23."
+      "marketSentiment": 28,
+      "combinedScore": 33,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment +28."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2403.76,
-      "change24h": -2.618,
-      "volume24h": 748369994.850903,
+      "price": 2383.01,
+      "change24h": -5.148,
+      "volume24h": 633500675.042928,
       "technical": {
-        "rsi": 32.4,
-        "ema9": 2404.751201875062,
-        "ema21": 2412.380797881667,
-        "macdBull": true,
+        "rsi": 29.6,
+        "ema9": 2389.7682402597966,
+        "ema21": 2397.645755155512,
+        "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.54,
-        "score": 35
+        "volumeRatio": 0.68,
+        "score": 11
       },
-      "newsScore": -17,
-      "newsCount": 4,
+      "newsScore": 0,
+      "newsCount": 2,
       "news": [
         {
           "title": "Starknet voters back research into life beyond Ethereum",
@@ -94,20 +94,6 @@
           "text": "Starknet voters back research into life beyond Ethereum StarkWare plans to release a draft whitepaper in November as it explores an independent, quantum-resistant blockchain."
         },
         {
-          "title": "Drift exploiter sends $109M in Ether to Tornado Cash in 2 days",
-          "link": "https://cointelegraph.com/news/drift-exploiter-moves-109m-eth-tornado-cash-2-days?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Wed, 21 Oct 2026 10:13:52 +0000",
-          "source": "Cointelegraph",
-          "text": "Drift exploiter sends $109M in Ether to Tornado Cash in 2 days Wallets linked to the $295 million April hack still held $138 million in Ether after sending another $46 million to the mixer Wednesday."
-        },
-        {
-          "title": "Ether ETF outflows continue, pass $1B in October so far",
-          "link": "https://cointelegraph.com/markets/ether-etf-outflows-near-1-1-billion-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Wed, 21 Oct 2026 08:11:50 +0000",
-          "source": "Cointelegraph",
-          "text": "Ether ETF outflows continue, pass $1B in October so far US spot Ether ETFs have shed $1.08 billion so far in October, the biggest monthly outflow of 2026, while Bitcoin ETF inflows slowed after Monday’s spike."
-        },
-        {
           "title": "Ethereum’s four-minute settlement plan could lower the cost of moving crypto",
           "link": "https://www.coindesk.com/tech/2026/10/22/ethereum-s-four-minute-settlement-plan-could-lower-the-cost-of-moving-crypto",
           "published": "Thu, 22 Oct 2026 12:14:29 +0000",
@@ -115,48 +101,48 @@
           "text": "Ethereum’s four-minute settlement plan could lower the cost of moving crypto A new draft targets a fourfold cut in the time it takes Ethereum transactions to become final, which could free up money transfer services tie up while customers’ payments clear."
         }
       ],
-      "marketSentiment": 23,
-      "combinedScore": 42,
-      "signal": "WAIT",
-      "reason": "Technical 35/100; News -17; Market sentiment +23."
+      "marketSentiment": 28,
+      "combinedScore": 33,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment +28."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 1253.46,
-      "change24h": -2.801,
-      "volume24h": 334969841.35158,
+      "price": 1208.2,
+      "change24h": -10.573,
+      "volume24h": 305416812.56586,
       "technical": {
-        "rsi": 45.9,
-        "ema9": 1256.0140174103917,
-        "ema21": 1260.0875621116563,
-        "macdBull": true,
+        "rsi": 27.9,
+        "ema9": 1222.7744750171219,
+        "ema21": 1234.8221509363473,
+        "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 2.81,
-        "score": 52
+        "volumeRatio": 0.84,
+        "score": 28
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": 23,
-      "combinedScore": 53,
+      "marketSentiment": 28,
+      "combinedScore": 42,
       "signal": "WAIT",
-      "reason": "Technical 52/100; News +0; Market sentiment +23."
+      "reason": "Technical 28/100; News +0; Market sentiment +28."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 104.37,
-      "change24h": -2.412,
-      "volume24h": 231825358.41735,
+      "price": 104.01,
+      "change24h": -3.961,
+      "volume24h": 208726916.36218,
       "technical": {
-        "rsi": 41.3,
-        "ema9": 104.4416770552071,
-        "ema21": 104.51665642981219,
-        "macdBull": true,
+        "rsi": 29.1,
+        "ema9": 104.10075685941061,
+        "ema21": 104.33551643873392,
+        "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 1.06,
-        "score": 35
+        "volumeRatio": 0.87,
+        "score": 11
       },
       "newsScore": 50,
       "newsCount": 2,
@@ -176,93 +162,48 @@
           "text": "Solana’s biggest network change since 2020 is live. Here’s how users benefit The new voting system targets settlement in about 150 milliseconds, potentially shortening waits for payments and deposits. Users can keep their existing wallets."
         }
       ],
-      "marketSentiment": 23,
-      "combinedScore": 52,
+      "marketSentiment": 28,
+      "combinedScore": 41,
       "signal": "WAIT",
-      "reason": "Technical 35/100; News +50; Market sentiment +23."
+      "reason": "Technical 11/100; News +50; Market sentiment +28."
     },
     {
       "symbol": "USD1USDT",
       "coin": "USD1",
-      "price": 0.9997,
-      "change24h": -0.017,
-      "volume24h": 165091244.07447,
+      "price": 0.99987,
+      "change24h": 0.006,
+      "volume24h": 146569402.05544,
       "technical": {
-        "rsi": 46.3,
-        "ema9": 0.9998130969037229,
-        "ema21": 0.9997982299683276,
-        "macdBull": false,
+        "rsi": 60.8,
+        "ema9": 0.9998236265776836,
+        "ema21": 0.9998056168761937,
+        "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.99,
-        "score": 53
+        "volumeRatio": 1.09,
+        "score": 89
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": 23,
-      "combinedScore": 54,
-      "signal": "WAIT",
-      "reason": "Technical 53/100; News +0; Market sentiment +23."
-    },
-    {
-      "symbol": "NEARUSDT",
-      "coin": "NEAR",
-      "price": 5.002,
-      "change24h": -4.433,
-      "volume24h": 159444181.943,
-      "technical": {
-        "rsi": 43.0,
-        "ema9": 4.985445327530003,
-        "ema21": 4.997652263504532,
-        "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.76,
-        "score": 35
-      },
-      "newsScore": 0,
-      "newsCount": 3,
-      "news": [
-        {
-          "title": "Solana’s Alpenglow launches on mainnet, targets 99% faster finality",
-          "link": "https://cointelegraph.com/news/solanas-alpenglow-launches-mainnet-99-faster-finality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Wed, 21 Oct 2026 13:57:14 +0000",
-          "source": "Cointelegraph",
-          "text": "Solana’s Alpenglow launches on mainnet, targets 99% faster finality Solana’s first major consensus upgrade is targeting 99% finality reduction, seeking to offer users near-immediate transaction settlement and more responsive applications."
-        },
-        {
-          "title": "Bitcoin ‘top buyers’ halt BTC price upside with $87.7K now key: Glassnode",
-          "link": "https://cointelegraph.com/markets/bitcoin-top-buyers-halt-btc-price-upside-with-877k-now-key-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Wed, 21 Oct 2026 10:39:13 +0000",
-          "source": "Cointelegraph",
-          "text": "Bitcoin ‘top buyers’ halt BTC price upside with $87.7K now key: Glassnode Bitcoin price current resistance near $87,000 was reinforced by investors who bought BTC in late 2025, per new research."
-        },
-        {
-          "title": "Crypto traders price India telecoms company Reliance Jio's IPO at about $110 billion",
-          "link": "https://www.coindesk.com/markets/2026/10/22/crypto-traders-price-india-telecoms-company-reliance-jio-s-ipo-at-about-usd110-billion",
-          "published": "Thu, 22 Oct 2026 10:18:28 +0000",
-          "source": "CoinDesk",
-          "text": "Crypto traders price India telecoms company Reliance Jio's IPO at about $110 billion The pre-IPO Jio contract on Bitget is trading near $12, a roughly 4% premium on the top price band, as India’s largest public offering remains open for subscription."
-        }
-      ],
-      "marketSentiment": 23,
-      "combinedScore": 45,
-      "signal": "WAIT",
-      "reason": "Technical 35/100; News +0; Market sentiment +23."
+      "marketSentiment": 28,
+      "combinedScore": 72,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment +28."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 1.3267,
-      "change24h": -2.197,
-      "volume24h": 152612177.71113,
+      "price": 1.316,
+      "change24h": -4.686,
+      "volume24h": 135230385.35453,
       "technical": {
-        "rsi": 28.2,
-        "ema9": 1.3284019056306497,
-        "ema21": 1.3322131084851023,
-        "macdBull": true,
+        "rsi": 33.8,
+        "ema9": 1.3200965632396195,
+        "ema21": 1.32312167044453,
+        "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 1.33,
-        "score": 35
+        "volumeRatio": 0.74,
+        "score": 11
       },
       "newsScore": 100,
       "newsCount": 1,
@@ -275,83 +216,74 @@
           "text": "XRP Ledger bug fix moved to November after validator support dipped for two hours The fix lost its two-week countdown less than two days from the finish after support slipped to 26 of 35 validators. It’s now back at 31."
         }
       ],
-      "marketSentiment": 23,
-      "combinedScore": 60,
+      "marketSentiment": 28,
+      "combinedScore": 48,
       "signal": "WAIT",
-      "reason": "Technical 35/100; News +100; Market sentiment +23."
+      "reason": "Technical 11/100; News +100; Market sentiment +28."
     },
     {
-      "symbol": "BNBUSDT",
-      "coin": "BNB",
-      "price": 733.51,
-      "change24h": -1.683,
-      "volume24h": 90944727.61066,
+      "symbol": "NEARUSDT",
+      "coin": "NEAR",
+      "price": 4.935,
+      "change24h": -7.653,
+      "volume24h": 131265327.9022,
       "technical": {
-        "rsi": 35.2,
-        "ema9": 733.966830403733,
-        "ema21": 735.2106169380121,
-        "macdBull": true,
+        "rsi": 36.5,
+        "ema9": 4.9347620613068734,
+        "ema21": 4.958750400148616,
+        "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.45,
-        "score": 35
+        "volumeRatio": 0.44,
+        "score": 11
       },
       "newsScore": 0,
-      "newsCount": 1,
+      "newsCount": 2,
       "news": [
         {
-          "title": "PancakeSwap TVL tops $380M as major fee overhaul heads to vote",
-          "link": "https://cointelegraph.com/markets/pancakeswap-tvl-jumps-19-percent-fee-overhaul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Wed, 21 Oct 2026 10:50:52 +0000",
+          "title": "Solana’s Alpenglow launches on mainnet, targets 99% faster finality",
+          "link": "https://cointelegraph.com/news/solanas-alpenglow-launches-mainnet-99-faster-finality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Wed, 21 Oct 2026 13:57:14 +0000",
           "source": "Cointelegraph",
-          "text": "PancakeSwap TVL tops $380M as major fee overhaul heads to vote PancakeSwap’s proposed fee-sharing overhaul would give liquidity providers 88% of swap fees and cut CAKE emissions by 69%, as BNB Chain’s DeFi activity expands."
+          "text": "Solana’s Alpenglow launches on mainnet, targets 99% faster finality Solana’s first major consensus upgrade is targeting 99% finality reduction, seeking to offer users near-immediate transaction settlement and more responsive applications."
+        },
+        {
+          "title": "Crypto traders price India telecoms company Reliance Jio's IPO at about $110 billion",
+          "link": "https://www.coindesk.com/markets/2026/10/22/crypto-traders-price-india-telecoms-company-reliance-jio-s-ipo-at-about-usd110-billion",
+          "published": "Thu, 22 Oct 2026 10:18:28 +0000",
+          "source": "CoinDesk",
+          "text": "Crypto traders price India telecoms company Reliance Jio's IPO at about $110 billion The pre-IPO Jio contract on Bitget is trading near $12, a roughly 4% premium on the top price band, as India’s largest public offering remains open for subscription."
         }
       ],
-      "marketSentiment": 23,
-      "combinedScore": 45,
-      "signal": "WAIT",
-      "reason": "Technical 35/100; News +0; Market sentiment +23."
-    },
-    {
-      "symbol": "RLUSDUSDT",
-      "coin": "RLUSD",
-      "price": 1.0009,
-      "change24h": -0.04,
-      "volume24h": 77119086.8701,
-      "technical": {
-        "rsi": 48.0,
-        "ema9": 1.0011502507110004,
-        "ema21": 1.0011410841092563,
-        "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.01,
-        "score": 53
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": 23,
-      "combinedScore": 54,
-      "signal": "WAIT",
-      "reason": "Technical 53/100; News +0; Market sentiment +23."
+      "marketSentiment": 28,
+      "combinedScore": 33,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment +28."
     },
     {
       "symbol": "AIUSDT",
       "coin": "AI",
-      "price": 0.0201,
-      "change24h": 4.145,
-      "volume24h": 76583718.68643,
+      "price": 0.0205,
+      "change24h": 4.061,
+      "volume24h": 83077530.14384,
       "technical": {
-        "rsi": 58.6,
-        "ema9": 0.02014462280855031,
-        "ema21": 0.01981347894719948,
-        "macdBull": true,
+        "rsi": 60.8,
+        "ema9": 0.020430556999192044,
+        "ema21": 0.020316248815318766,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 0.02,
-        "score": 89
+        "volumeRatio": 0.54,
+        "score": 65
       },
-      "newsScore": 60,
+      "newsScore": 0,
       "newsCount": 5,
       "news": [
+        {
+          "title": "Bitcoin hashrate hits seven-month high as AI shift fails to ease mining competition",
+          "link": "https://cointelegraph.com/news/bitcoin-mining-difficulty-hashrate-recovery-ai-shift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Thu, 22 Oct 2026 16:50:51 +0000",
+          "source": "Cointelegraph",
+          "text": "Bitcoin hashrate hits seven-month high as AI shift fails to ease mining competition According to BlocksBridge, Bitcoin’s mining difficulty is rising despite the industry’s AI transition, with smaller operators potentially absorbing equipment abandoned by larger competitors."
+        },
         {
           "title": "Bitcoin slides below $82,000 as AI doubts return, with DeFi tokens leading declines",
           "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-slides-below-usd82-000-as-ai-doubts-return-with-defi-tokens-leading-declines",
@@ -360,11 +292,11 @@
           "text": "Bitcoin slides below $82,000 as AI doubts return, with DeFi tokens leading declines Bitcoin as much as 2.9% to around $81,600 as Nasdaq futures dropped, while the CoinDesk 80 lost 3.5% and DeFi index slid 6%."
         },
         {
-          "title": "Live updates: Bitcoin slumps below $82,000 as markets go risk off on AI selloff, oil surge",
+          "title": "Live updates: Bitcoin slumps below $82,000 as risk off mood returns",
           "link": "https://www.coindesk.com/business/2026/10/22/live-updates-bitcoin-s-round-trip-to-usd85-000-burns-traders-on-both-sides",
           "published": "Thu, 22 Oct 2026 09:54:26 +0000",
           "source": "CoinDesk",
-          "text": "Live updates: Bitcoin slumps below $82,000 as markets go risk off on AI selloff, oil surge South Korea's Kospi tumbled 3.5% overnight, and oil gained nearly 3% on renewed Middle East hostilities."
+          "text": "Live updates: Bitcoin slumps below $82,000 as risk off mood returns The Nasdaq is down more than 2% as the AI bull market trade continues to unwind. U.S. interest rates are quickly headed lower."
         },
         {
           "title": "Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves",
@@ -379,22 +311,124 @@
           "published": "Wed, 21 Oct 2026 15:22:46 +0000",
           "source": "CoinDesk",
           "text": "How a16z-backed DATA is rethinking its blockchain strategy after $30 million Sui deal The startup is retiring its own blockchain and moving to Sui with a $30 million investment as it narrows its focus to AI training data."
-        },
-        {
-          "title": "Tether leads $15 million funding round for AI-focused payment startup Mural",
-          "link": "https://www.coindesk.com/business/2026/10/21/tether-leads-usd15-million-series-a-for-ai-focused-payment-startup-mural",
-          "published": "Wed, 21 Oct 2026 08:47:11 +0000",
-          "source": "CoinDesk",
-          "text": "Tether leads $15 million funding round for AI-focused payment startup Mural The Series A round, which included participation from North Island Ventures and existing investors, brings New York-based Mural's total funding to $28 million."
         }
       ],
-      "marketSentiment": 23,
-      "combinedScore": 81,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +60; Market sentiment +23."
+      "marketSentiment": 28,
+      "combinedScore": 60,
+      "signal": "WAIT",
+      "reason": "Technical 65/100; News +0; Market sentiment +28."
+    },
+    {
+      "symbol": "BNBUSDT",
+      "coin": "BNB",
+      "price": 729.06,
+      "change24h": -2.782,
+      "volume24h": 81072716.18903,
+      "technical": {
+        "rsi": 27.2,
+        "ema9": 730.0526486112424,
+        "ema21": 731.6641805844725,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.62,
+        "score": 28
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": 28,
+      "combinedScore": 42,
+      "signal": "WAIT",
+      "reason": "Technical 28/100; News +0; Market sentiment +28."
+    },
+    {
+      "symbol": "XAUTUSDT",
+      "coin": "XAUT",
+      "price": 4046.96,
+      "change24h": -2.039,
+      "volume24h": 63625262.333598,
+      "technical": {
+        "rsi": 31.6,
+        "ema9": 4049.9216644334306,
+        "ema21": 4059.3663482006104,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.98,
+        "score": 11
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": 28,
+      "combinedScore": 33,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment +28."
     }
   ],
   "news": [
+    {
+      "title": "Bitcoin hashrate hits seven-month high as AI shift fails to ease mining competition",
+      "link": "https://cointelegraph.com/news/bitcoin-mining-difficulty-hashrate-recovery-ai-shift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 22 Oct 2026 16:50:51 +0000",
+      "source": "Cointelegraph",
+      "text": "Bitcoin hashrate hits seven-month high as AI shift fails to ease mining competition According to BlocksBridge, Bitcoin’s mining difficulty is rising despite the industry’s AI transition, with smaller operators potentially absorbing equipment abandoned by larger competitors."
+    },
+    {
+      "title": "Irish cenbank fines Coinbase arm $3.6M for oversight, safeguard failures",
+      "link": "https://cointelegraph.com/news/ireland-central-bank-coinbase-oversight-safeguard-failure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 22 Oct 2026 16:48:00 +0000",
+      "source": "Cointelegraph",
+      "text": "Irish cenbank fines Coinbase arm $3.6M for oversight, safeguard failures According to the Central Bank of Ireland, Coinbase Ireland had agreed with the facts around the enforcement action and will be subject to fines and sanctions upon approval by a high court."
+    },
+    {
+      "title": "Bitcoin circles $81.5K ETF cost basis as Trump Iran comments send stocks lower",
+      "link": "https://cointelegraph.com/markets/bitcoin-circles-815k-etf-cost-basis-as-trump-iran-comments-send-stocks-lower?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 22 Oct 2026 16:20:35 +0000",
+      "source": "Cointelegraph",
+      "text": "Bitcoin circles $81.5K ETF cost basis as Trump Iran comments send stocks lower Bitcoin extended daily losses to 3% as US stocks came under pressure from President Donald Trump’s comments on Iran military action."
+    },
+    {
+      "title": "Fireblocks disputes report of $2.5B Visa acquisition talks",
+      "link": "https://cointelegraph.com/news/fireblocks-disputes-report-of-25b-visa-acquisition-talks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 22 Oct 2026 14:41:00 +0000",
+      "source": "Cointelegraph",
+      "text": "Fireblocks disputes report of $2.5B Visa acquisition talks Fireblocks told Cointelegraph that reports of a potential $2.5 billion acquisition by Visa are “not true at present time,” while Visa declined to comment on the reported talks."
+    },
+    {
+      "title": "CryptoQuant CEO calls rising Bitcoin hashrate ‘indirect bullish signal’ from institutions",
+      "link": "https://cointelegraph.com/markets/cryptoquant-rising-bitcoin-hashrate-indirect-bullish-signal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 22 Oct 2026 13:42:34 +0000",
+      "source": "Cointelegraph",
+      "text": "CryptoQuant CEO calls rising Bitcoin hashrate ‘indirect bullish signal’ from institutions Public miners backed by major TradFi players are coming back online, boosting Bitcoin’s hashrate, a positive sign for BTC’s fundamentals, according to CryptoQuant’s Ki Young Ju."
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 22 Oct 2026 13:22:57 +0000",
+      "source": "Cointelegraph",
+      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "title": "Thailand SEC says several companies eye crypto ETFs, none has applied",
+      "link": "https://cointelegraph.com/news/thailand-sec-crypto-etf-applications?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 22 Oct 2026 13:20:57 +0000",
+      "source": "Cointelegraph",
+      "text": "Thailand SEC says several companies eye crypto ETFs, none has applied Thailand’s SEC says several asset managers have sought consultations on spot crypto ETFs, but it cannot confirm whether the first funds will launch in 2026."
+    },
+    {
+      "title": "SoFi unveils bank-issued tokenized deposit for yield-bearing crypto funds",
+      "link": "https://cointelegraph.com/news/sofi-bank-issued-tokenized-deposit-yield-bearing-crypto-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 22 Oct 2026 13:13:45 +0000",
+      "source": "Cointelegraph",
+      "text": "SoFi unveils bank-issued tokenized deposit for yield-bearing crypto funds SoFi Bank launched SoFi Earn, a tokenized deposit paying 4.40% APY with FDIC coverage, allowing users to convert funds to stablecoins 24/7."
+    },
+    {
+      "title": "Bitcoin ETF buyers are trend followers, not setters, DWF Labs says",
+      "link": "https://cointelegraph.com/news/bitcoin-etf-flows-follow-price-trends-dwf-labs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 22 Oct 2026 13:00:00 +0000",
+      "source": "Cointelegraph",
+      "text": "Bitcoin ETF buyers are trend followers, not setters, DWF Labs says DWF Labs research finds that Bitcoin ETF flows follow past BTC price movements rather than predict future returns, with investors buying rallies and selling dips."
+    },
     {
       "title": "The UK needs a workable route to regulated DeFi access",
       "link": "https://cointelegraph.com/opinion/uk-crypto-rules-regulated-defi-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -403,11 +437,11 @@
       "text": "The UK needs a workable route to regulated DeFi access The UK’s 2027 crypto rules risk a de facto ban on regulated firms providing access to DeFi, argues Coinbase’s European policy head Katie Harries."
     },
     {
-      "title": "CoinDCX pledges no user losses after $16M transfers draw scrutiny",
+      "title": "CoinDCX admits ‘operational losses’ after $16M wallet transfers draw scrutiny",
       "link": "https://cointelegraph.com/news/coindcx-suspicious-outflows-wallet-compromised-2025-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 22 Oct 2026 10:53:10 +0000",
       "source": "Cointelegraph",
-      "text": "CoinDCX pledges no user losses after $16M transfers draw scrutiny CoinDCX tied the transfers to wallets compromised in July 2025, but investigators said the addresses remained linked to its operations."
+      "text": "CoinDCX admits ‘operational losses’ after $16M wallet transfers draw scrutiny CoinDCX said it covered losses caused by a failed transfer process involving compromised wallets and credited all affected user accounts."
     },
     {
       "title": "Bitcoin corrects below $82K after Tesla Q3 results, KOSPI falls",
@@ -436,13 +470,6 @@
       "published": "Thu, 22 Oct 2026 07:37:32 +0000",
       "source": "Cointelegraph",
       "text": "Bitcoin ETFs bag another $528M, taking 3-day haul past $1B US spot Bitcoin ETFs drew $1.08 billion over three trading sessions to push October flows back above water."
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 22 Oct 2026 05:56:18 +0000",
-      "source": "Cointelegraph",
-      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
       "title": "Move over memecoins: Crypto ‘meme games’ coming, bagholders and all",
@@ -478,62 +505,6 @@
       "published": "Wed, 21 Oct 2026 20:19:39 +0000",
       "source": "Cointelegraph",
       "text": "Trump didn‘t mention ‘crypto’ once in White House cybercrime roundtable The US President detailed many schemes defrauding Americans, but referred only to “cybercurrency“ related to scams."
-    },
-    {
-      "title": "Cardano Foundation urges EU against expanding MiCA rules to DeFi and staking",
-      "link": "https://cointelegraph.com/news/cardano-foundation-urges-eu-against-expanding-mica-rules-to-defi-and-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 21 Oct 2026 17:57:39 +0000",
-      "source": "Cointelegraph",
-      "text": "Cardano Foundation urges EU against expanding MiCA rules to DeFi and staking The foundation called for regulation based on financial risks rather than technology, warning that overlapping rules could create uncertainty for crypto businesses across the EU."
-    },
-    {
-      "title": "UK financial watchdog opens consultations for DeFi guidance, crypto laws",
-      "link": "https://cointelegraph.com/news/uk-fca-consultations-defi-crypto-laws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 21 Oct 2026 17:25:00 +0000",
-      "source": "Cointelegraph",
-      "text": "UK financial watchdog opens consultations for DeFi guidance, crypto laws The UK Financial Conduct Authority consultations came just weeks after the agency opened applications for companies under its new crypto regulatory regime."
-    },
-    {
-      "title": "Treasury Secretary Bessent likens GENIUS Act to Lincoln-era banking reform",
-      "link": "https://cointelegraph.com/news/occ-finalizes-stablecoin-rules-genius-act-bessent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 21 Oct 2026 17:10:54 +0000",
-      "source": "Cointelegraph",
-      "text": "Treasury Secretary Bessent likens GENIUS Act to Lincoln-era banking reform The OCC has finalized rules for stablecoin reserves and redemptions, with Bessent calling the GENIUS Act a “watershed moment for American finance.”"
-    },
-    {
-      "title": "Chainlink, Cardano, other blockchain groups push SEC for clearer crypto rules",
-      "link": "https://cointelegraph.com/news/chainlink-cardano-and-other-blockchain-groups-push-sec-for-clearer-crypto-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 21 Oct 2026 16:09:26 +0000",
-      "source": "Cointelegraph",
-      "text": "Chainlink, Cardano, other blockchain groups push SEC for clearer crypto rules Six major blockchain organizations urged the SEC to formally recognize digital commodities as non-securities in its proposed regulatory framework."
-    },
-    {
-      "title": "Bitcoin price tags $84.6K as US stocks head higher on SpaceX Q3 earnings beat",
-      "link": "https://cointelegraph.com/markets/bitcoin-price-tags-846k-as-us-stocks-head-higher-on-spacex-q3-earnings-beat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 21 Oct 2026 15:13:17 +0000",
-      "source": "Cointelegraph",
-      "text": "Bitcoin price tags $84.6K as US stocks head higher on SpaceX Q3 earnings beat Bitcoin extended gains to approach $85,000 after US stock markets reacted to higher-than-expected SpaceX earnings."
-    },
-    {
-      "title": "Solana’s Alpenglow launches on mainnet, targets 99% faster finality",
-      "link": "https://cointelegraph.com/news/solanas-alpenglow-launches-mainnet-99-faster-finality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 21 Oct 2026 13:57:14 +0000",
-      "source": "Cointelegraph",
-      "text": "Solana’s Alpenglow launches on mainnet, targets 99% faster finality Solana’s first major consensus upgrade is targeting 99% finality reduction, seeking to offer users near-immediate transaction settlement and more responsive applications."
-    },
-    {
-      "title": "Big Tech’s eMudhra fixes may leave crypto bots exposed, CertiK warns",
-      "link": "https://cointelegraph.com/news/certik-warning-crypto-emudhra-flaw-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 21 Oct 2026 13:31:39 +0000",
-      "source": "Cointelegraph",
-      "text": "Big Tech’s eMudhra fixes may leave crypto bots exposed, CertiK warns CertiK says crypto trading bots and exchange applications may remain exposed to the eMudhra certificate flaw because browser fixes may not protect all software."
-    },
-    {
-      "title": "5 alternatives to Ledger to store your Bitcoin",
-      "link": "https://cointelegraph.com/magazine/5-alternatives-to-ledger-to-store-your-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 21 Oct 2026 13:30:00 +0000",
-      "source": "Cointelegraph",
-      "text": "5 alternatives to Ledger to store your Bitcoin Hardware wallets aren’t the only way to protect your crypto, but from ETFs and passkeys to multisig accounts, each alternative has its own risks and trade-offs."
     }
   ],
   "paper": {
@@ -635,6 +606,46 @@
         "stopLoss": 0.0197985,
         "takeProfit": 0.020703,
         "entryTime": "2026-10-22T12:26:02.697453+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "BTCUSDT",
+        "side": "SELL",
+        "entry": 81347.32,
+        "stopLoss": 82567.5298,
+        "takeProfit": 78906.9004,
+        "entryTime": "2026-10-22T17:27:00.895700+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "ETHUSDT",
+        "side": "SELL",
+        "entry": 2383.01,
+        "stopLoss": 2418.75515,
+        "takeProfit": 2311.5197,
+        "entryTime": "2026-10-22T17:27:00.895700+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "NEARUSDT",
+        "side": "SELL",
+        "entry": 4.935,
+        "stopLoss": 5.009025,
+        "takeProfit": 4.78695,
+        "entryTime": "2026-10-22T17:27:00.895700+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "XAUTUSDT",
+        "side": "SELL",
+        "entry": 4046.96,
+        "stopLoss": 4107.6644,
+        "takeProfit": 3925.5512,
+        "entryTime": "2026-10-22T17:27:00.895700+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       }

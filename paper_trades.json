@@ -99,6 +99,46 @@
       "entryTime": "2026-10-22T12:26:02.697453+00:00",
       "status": "OPEN",
       "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "side": "SELL",
+      "entry": 81347.32,
+      "stopLoss": 82567.5298,
+      "takeProfit": 78906.9004,
+      "entryTime": "2026-10-22T17:27:00.895700+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "ETHUSDT",
+      "side": "SELL",
+      "entry": 2383.01,
+      "stopLoss": 2418.75515,
+      "takeProfit": 2311.5197,
+      "entryTime": "2026-10-22T17:27:00.895700+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "NEARUSDT",
+      "side": "SELL",
+      "entry": 4.935,
+      "stopLoss": 5.009025,
+      "takeProfit": 4.78695,
+      "entryTime": "2026-10-22T17:27:00.895700+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "XAUTUSDT",
+      "side": "SELL",
+      "entry": 4046.96,
+      "stopLoss": 4107.6644,
+      "takeProfit": 3925.5512,
+      "entryTime": "2026-10-22T17:27:00.895700+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
     }
   ],
   "closed": [
