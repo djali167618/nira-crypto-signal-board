@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-22 20:42:21 UTC",
+  "generatedAt": "2026-10-22 23:37:18 UTC",
   "interval": "15m candles",
-  "marketSentiment": 30,
-  "overallNewsScore": 20,
+  "marketSentiment": 23,
+  "overallNewsScore": 0,
   "fearGreed": {
     "value": 68,
     "label": "Greed",
@@ -12,21 +12,28 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 81307.57,
-      "change24h": -4.062,
-      "volume24h": 1668278968.3934722,
+      "price": 81320.03,
+      "change24h": -3.519,
+      "volume24h": 1624057215.1128993,
       "technical": {
-        "rsi": 44.6,
-        "ema9": 81397.24210082735,
-        "ema21": 81446.65753666968,
+        "rsi": 43.9,
+        "ema9": 81377.35050261019,
+        "ema21": 81407.0342649153,
         "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.28,
+        "volumeRatio": 0.47,
         "score": 35
       },
-      "newsScore": 0,
+      "newsScore": -10,
       "newsCount": 5,
       "news": [
+        {
+          "title": "New DeepSeek ban in US, Swiss-Asia crypto ties deepen: Asia Express",
+          "link": "https://cointelegraph.com/magazine/new-deepseek-ban-in-us-swiss-asia-crypto-ties-deepen-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Thu, 22 Oct 2026 22:50:22 +0000",
+          "source": "Cointelegraph",
+          "text": "New DeepSeek ban in US, Swiss-Asia crypto ties deepen: Asia Express DeepSeek banned from US federal civilian agencies over spying fears. Singapore firm behind Europe’s first spot Bitcoin ETF, as Switzerland partners with Vietnam on crypto tech."
+        },
         {
           "title": "Here’s what happened in crypto today",
           "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -54,34 +61,27 @@
           "published": "Thu, 22 Oct 2026 13:42:34 +0000",
           "source": "Cointelegraph",
           "text": "CryptoQuant CEO calls rising Bitcoin hashrate ‘indirect bullish signal’ from institutions Public miners backed by major TradFi players are coming back online, boosting Bitcoin’s hashrate, a positive sign for BTC’s fundamentals, according to CryptoQuant’s Ki Young Ju."
-        },
-        {
-          "title": "Bitcoin ETF buyers are trend followers, not setters, DWF Labs says",
-          "link": "https://cointelegraph.com/news/bitcoin-etf-flows-follow-price-trends-dwf-labs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Thu, 22 Oct 2026 13:00:00 +0000",
-          "source": "Cointelegraph",
-          "text": "Bitcoin ETF buyers are trend followers, not setters, DWF Labs says DWF Labs research finds that Bitcoin ETF flows follow past BTC price movements rather than predict future returns, with investors buying rallies and selling dips."
         }
       ],
-      "marketSentiment": 30,
-      "combinedScore": 46,
+      "marketSentiment": 23,
+      "combinedScore": 43,
       "signal": "WAIT",
-      "reason": "Technical 35/100; News +0; Market sentiment +30."
+      "reason": "Technical 35/100; News -10; Market sentiment +23."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2382.09,
-      "change24h": -4.605,
-      "volume24h": 655929783.922283,
+      "price": 2382.67,
+      "change24h": -3.794,
+      "volume24h": 770951571.664943,
       "technical": {
-        "rsi": 45.1,
-        "ema9": 2385.349204017678,
-        "ema21": 2388.12098886809,
+        "rsi": 42.9,
+        "ema9": 2386.6044978397167,
+        "ema21": 2387.782061772104,
         "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 2.0,
-        "score": 42
+        "volumeRatio": 0.11,
+        "score": 35
       },
       "newsScore": 0,
       "newsCount": 2,
@@ -101,59 +101,52 @@
           "text": "Ethereum’s four-minute settlement plan could lower the cost of moving crypto A new draft targets a fourfold cut in the time it takes Ethereum transactions to become final, which could free up money transfer services tie up while customers’ payments clear."
         }
       ],
-      "marketSentiment": 30,
-      "combinedScore": 49,
+      "marketSentiment": 23,
+      "combinedScore": 45,
       "signal": "WAIT",
-      "reason": "Technical 42/100; News +0; Market sentiment +30."
+      "reason": "Technical 35/100; News +0; Market sentiment +23."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 1208.4,
-      "change24h": -10.866,
-      "volume24h": 277044788.98496,
+      "price": 1216.01,
+      "change24h": -7.243,
+      "volume24h": 259489369.67853,
       "technical": {
-        "rsi": 45.7,
-        "ema9": 1214.5383202571745,
-        "ema21": 1218.6400398809428,
+        "rsi": 45.0,
+        "ema9": 1212.5704086098092,
+        "ema21": 1214.828850764651,
         "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.4,
-        "score": 47
+        "volumeRatio": 0.56,
+        "score": 35
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": 30,
-      "combinedScore": 52,
+      "marketSentiment": 23,
+      "combinedScore": 45,
       "signal": "WAIT",
-      "reason": "Technical 47/100; News +0; Market sentiment +30."
+      "reason": "Technical 35/100; News +0; Market sentiment +23."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 103.13,
-      "change24h": -4.888,
-      "volume24h": 193928301.51077,
+      "price": 103.38,
+      "change24h": -3.347,
+      "volume24h": 189505499.63735,
       "technical": {
-        "rsi": 42.3,
-        "ema9": 103.58264140465829,
-        "ema21": 103.79642018622896,
+        "rsi": 42.8,
+        "ema9": 103.48333048039352,
+        "ema21": 103.60246632521205,
         "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.27,
+        "volumeRatio": 0.74,
         "score": 35
       },
-      "newsScore": 33,
-      "newsCount": 3,
+      "newsScore": 0,
+      "newsCount": 2,
       "news": [
-        {
-          "title": "Solana’s Alpenglow launches on mainnet, targets 99% faster finality",
-          "link": "https://cointelegraph.com/news/solanas-alpenglow-launches-mainnet-99-faster-finality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Wed, 21 Oct 2026 13:57:14 +0000",
-          "source": "Cointelegraph",
-          "text": "Solana’s Alpenglow launches on mainnet, targets 99% faster finality Solana’s first major consensus upgrade is targeting 99% finality reduction, seeking to offer users near-immediate transaction settlement and more responsive applications."
-        },
         {
           "title": "A16z is the latest VC giant to widen bets beyond crypto and into AI and emerging tech",
           "link": "https://www.coindesk.com/business/2026/10/22/a16z-is-the-latest-vc-giant-to-widen-bets-beyond-crypto-and-into-ai-and-emerging-tech",
@@ -169,59 +162,60 @@
           "text": "Solana’s biggest network change since 2020 is live. Here’s how users benefit The new voting system targets settlement in about 150 milliseconds, potentially shortening waits for payments and deposits. Users can keep their existing wallets."
         }
       ],
-      "marketSentiment": 30,
-      "combinedScore": 50,
+      "marketSentiment": 23,
+      "combinedScore": 45,
       "signal": "WAIT",
-      "reason": "Technical 35/100; News +33; Market sentiment +30."
+      "reason": "Technical 35/100; News +0; Market sentiment +23."
     },
     {
       "symbol": "USD1USDT",
       "coin": "USD1",
-      "price": 0.99995,
-      "change24h": 0.017,
-      "volume24h": 142612663.29248,
+      "price": 1.0,
+      "change24h": 0.024,
+      "volume24h": 141833431.96416,
       "technical": {
-        "rsi": 68.1,
-        "ema9": 0.999983027267126,
-        "ema21": 0.9999287979045846,
-        "macdBull": true,
+        "rsi": 57.4,
+        "ema9": 1.0000150125498175,
+        "ema21": 0.9999845188597227,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 0.54,
-        "score": 89
+        "volumeRatio": 0.26,
+        "score": 65
       },
       "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": 30,
-      "combinedScore": 72,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment +30."
+      "newsCount": 1,
+      "news": [
+        {
+          "title": "Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals",
+          "link": "https://cointelegraph.com/news/circle-shareholder-lawsuit-donald-trump-world-liberty-financial-steve-witkoff-crypto-corruption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Thu, 22 Oct 2026 21:39:18 +0000",
+          "source": "Cointelegraph",
+          "text": "Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals According to a Circle shareholder, the US president’s “corruption” through USD1 left the company unable to compete with stablecoins, harming USDC."
+        }
+      ],
+      "marketSentiment": 23,
+      "combinedScore": 60,
+      "signal": "WAIT",
+      "reason": "Technical 65/100; News +0; Market sentiment +23."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 4.845,
-      "change24h": -8.843,
-      "volume24h": 132675066.3984,
+      "price": 4.865,
+      "change24h": -6.872,
+      "volume24h": 130149286.2243,
       "technical": {
-        "rsi": 42.7,
-        "ema9": 4.898278857030293,
-        "ema21": 4.912887996368111,
-        "macdBull": true,
+        "rsi": 42.9,
+        "ema9": 4.877885089016804,
+        "ema21": 4.891109179733199,
+        "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.4,
-        "score": 35
+        "volumeRatio": 0.31,
+        "score": 11
       },
-      "newsScore": 0,
-      "newsCount": 2,
+      "newsScore": -100,
+      "newsCount": 1,
       "news": [
-        {
-          "title": "Solana’s Alpenglow launches on mainnet, targets 99% faster finality",
-          "link": "https://cointelegraph.com/news/solanas-alpenglow-launches-mainnet-99-faster-finality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Wed, 21 Oct 2026 13:57:14 +0000",
-          "source": "Cointelegraph",
-          "text": "Solana’s Alpenglow launches on mainnet, targets 99% faster finality Solana’s first major consensus upgrade is targeting 99% finality reduction, seeking to offer users near-immediate transaction settlement and more responsive applications."
-        },
         {
           "title": "Crypto traders price India telecoms company Reliance Jio's IPO at about $110 billion",
           "link": "https://www.coindesk.com/markets/2026/10/22/crypto-traders-price-india-telecoms-company-reliance-jio-s-ipo-at-about-usd110-billion",
@@ -230,25 +224,25 @@
           "text": "Crypto traders price India telecoms company Reliance Jio's IPO at about $110 billion The pre-IPO Jio contract on Bitget is trading near $12, a roughly 4% premium on the top price band, as India’s largest public offering remains open for subscription."
         }
       ],
-      "marketSentiment": 30,
-      "combinedScore": 46,
-      "signal": "WAIT",
-      "reason": "Technical 35/100; News +0; Market sentiment +30."
+      "marketSentiment": 23,
+      "combinedScore": 18,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News -100; Market sentiment +23."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 1.2989,
-      "change24h": -6.682,
-      "volume24h": 127203223.46156,
+      "price": 1.306,
+      "change24h": -4.315,
+      "volume24h": 120168910.4943,
       "technical": {
-        "rsi": 34.8,
-        "ema9": 1.3069397958591806,
-        "ema21": 1.3116668527389976,
-        "macdBull": false,
+        "rsi": 45.2,
+        "ema9": 1.3074337631877682,
+        "ema21": 1.3085693781064793,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.86,
-        "score": 11
+        "volumeRatio": 0.65,
+        "score": 47
       },
       "newsScore": 100,
       "newsCount": 1,
@@ -261,25 +255,25 @@
           "text": "XRP Ledger bug fix moved to November after validator support dipped for two hours The fix lost its two-week countdown less than two days from the finish after support slipped to 26 of 35 validators. It’s now back at 31."
         }
       ],
-      "marketSentiment": 30,
-      "combinedScore": 48,
+      "marketSentiment": 23,
+      "combinedScore": 66,
       "signal": "WAIT",
-      "reason": "Technical 11/100; News +100; Market sentiment +30."
+      "reason": "Technical 47/100; News +100; Market sentiment +23."
     },
     {
       "symbol": "AIUSDT",
       "coin": "AI",
       "price": 0.0197,
       "change24h": 1.546,
-      "volume24h": 83343297.54642,
+      "volume24h": 83604501.93904,
       "technical": {
-        "rsi": 41.5,
-        "ema9": 0.020267420186990646,
-        "ema21": 0.02029440277137301,
+        "rsi": 47.3,
+        "ema9": 0.01964218558235709,
+        "ema21": 0.0198395438637784,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.83,
-        "score": 11
+        "volumeRatio": 8.34,
+        "score": 28
       },
       "newsScore": 17,
       "newsCount": 5,
@@ -320,59 +314,73 @@
           "text": "Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves BTC broke through its $84,000 ceiling late Wednesday, then slid back to the $82,500 support analysts are watching as tech futures fell."
         }
       ],
-      "marketSentiment": 30,
-      "combinedScore": 36,
+      "marketSentiment": 23,
+      "combinedScore": 44,
       "signal": "WAIT",
-      "reason": "Technical 11/100; News +17; Market sentiment +30."
+      "reason": "Technical 28/100; News +17; Market sentiment +23."
     },
     {
       "symbol": "BNBUSDT",
       "coin": "BNB",
-      "price": 729.84,
-      "change24h": -2.672,
-      "volume24h": 78752566.2432,
+      "price": 730.89,
+      "change24h": -2.221,
+      "volume24h": 73798086.80282,
       "technical": {
-        "rsi": 48.0,
-        "ema9": 731.1204783139947,
-        "ema21": 731.0911435179147,
+        "rsi": 48.2,
+        "ema9": 731.5823019135833,
+        "ema21": 731.4782170017804,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.23,
+        "volumeRatio": 1.33,
         "score": 77
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": 30,
+      "marketSentiment": 23,
       "combinedScore": 66,
       "signal": "BUY",
-      "reason": "Technical 77/100; News +0; Market sentiment +30."
+      "reason": "Technical 77/100; News +0; Market sentiment +23."
     },
     {
       "symbol": "XAUTUSDT",
       "coin": "XAUT",
-      "price": 4025.69,
-      "change24h": -2.634,
-      "volume24h": 71190865.544902,
+      "price": 4029.82,
+      "change24h": -2.258,
+      "volume24h": 72020641.706534,
       "technical": {
-        "rsi": 31.9,
-        "ema9": 4032.3637587435187,
-        "ema21": 4041.312382156785,
-        "macdBull": false,
+        "rsi": 43.4,
+        "ema9": 4033.243578865483,
+        "ema21": 4035.6411693762566,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.55,
-        "score": 11
+        "volumeRatio": 0.23,
+        "score": 35
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": 30,
-      "combinedScore": 34,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment +30."
+      "marketSentiment": 23,
+      "combinedScore": 45,
+      "signal": "WAIT",
+      "reason": "Technical 35/100; News +0; Market sentiment +23."
     }
   ],
   "news": [
+    {
+      "title": "New DeepSeek ban in US, Swiss-Asia crypto ties deepen: Asia Express",
+      "link": "https://cointelegraph.com/magazine/new-deepseek-ban-in-us-swiss-asia-crypto-ties-deepen-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 22 Oct 2026 22:50:22 +0000",
+      "source": "Cointelegraph",
+      "text": "New DeepSeek ban in US, Swiss-Asia crypto ties deepen: Asia Express DeepSeek banned from US federal civilian agencies over spying fears. Singapore firm behind Europe’s first spot Bitcoin ETF, as Switzerland partners with Vietnam on crypto tech."
+    },
+    {
+      "title": "Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals",
+      "link": "https://cointelegraph.com/news/circle-shareholder-lawsuit-donald-trump-world-liberty-financial-steve-witkoff-crypto-corruption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 22 Oct 2026 21:39:18 +0000",
+      "source": "Cointelegraph",
+      "text": "Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals According to a Circle shareholder, the US president’s “corruption” through USD1 left the company unable to compete with stablecoins, harming USDC."
+    },
     {
       "title": "Dune launches real-time data feeds covering 200 onchain trading venues",
       "link": "https://cointelegraph.com/news/dune-launches-real-time-data-feeds-covering-200-onchain-trading-venues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -498,20 +506,6 @@
       "published": "Thu, 22 Oct 2026 07:37:32 +0000",
       "source": "Cointelegraph",
       "text": "Bitcoin ETFs bag another $528M, taking 3-day haul past $1B US spot Bitcoin ETFs drew $1.08 billion over three trading sessions to push October flows back above water."
-    },
-    {
-      "title": "Move over memecoins: Crypto ‘meme games’ coming, bagholders and all",
-      "link": "https://cointelegraph.com/news/move-over-memecoins-crypto-meme-games-coming-bagholders-and-all?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 22 Oct 2026 05:35:38 +0000",
-      "source": "Cointelegraph",
-      "text": "Move over memecoins: Crypto ‘meme games’ coming, bagholders and all “Plenty will be ponzis. Plenty will get exploited. Plenty will insta die. There will be ridiculous gains, and people will get absolutely f***ing rinsed,” says Illuvium co-founder Kieran Warwick."
-    },
-    {
-      "title": "PHP Foundation admits ‘structural failure’ delayed critical security fix",
-      "link": "https://cointelegraph.com/news/php-foundation-admits-structural-failure-delayed-critical-security-fix?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 22 Oct 2026 00:44:00 +0000",
-      "source": "Cointelegraph",
-      "text": "PHP Foundation admits ‘structural failure’ delayed critical security fix Government websites and online services were disrupted after concerns about a PHP bug that could allow attackers to take control of vulnerable servers."
     }
   ],
   "paper": {
