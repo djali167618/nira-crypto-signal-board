@@ -91,16 +91,6 @@
       "mode": "PAPER ONLY"
     },
     {
-      "symbol": "AIUSDT",
-      "side": "BUY",
-      "entry": 0.0201,
-      "stopLoss": 0.0197985,
-      "takeProfit": 0.020703,
-      "entryTime": "2026-10-22T12:26:02.697453+00:00",
-      "status": "OPEN",
-      "mode": "PAPER ONLY"
-    },
-    {
       "symbol": "BTCUSDT",
       "side": "SELL",
       "entry": 81347.32,
@@ -362,6 +352,19 @@
       "exitPrice": 1.3267,
       "exitTime": "2026-10-22T12:26:02.697453+00:00",
       "pnlPercent": -2.326
+    },
+    {
+      "symbol": "AIUSDT",
+      "side": "BUY",
+      "entry": 0.0201,
+      "stopLoss": 0.0197985,
+      "takeProfit": 0.020703,
+      "entryTime": "2026-10-22T12:26:02.697453+00:00",
+      "status": "STOP_LOSS",
+      "mode": "PAPER ONLY",
+      "exitPrice": 0.0197,
+      "exitTime": "2026-10-22T20:42:21.413024+00:00",
+      "pnlPercent": -1.99
     }
   ]
 }
