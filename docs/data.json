@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-23 17:04:44 UTC",
+  "generatedAt": "2026-10-23 20:21:42 UTC",
   "interval": "15m candles",
   "marketSentiment": 4,
-  "overallNewsScore": 12,
+  "overallNewsScore": 11,
   "fearGreed": {
     "value": 50,
     "label": "Neutral",
@@ -12,17 +12,17 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 81755.84,
-      "change24h": 0.673,
-      "volume24h": 991208858.3422755,
+      "price": 81314.01,
+      "change24h": -0.055,
+      "volume24h": 939745195.5263597,
       "technical": {
-        "rsi": 51.0,
-        "ema9": 81653.50270371346,
-        "ema21": 81672.7697852126,
-        "macdBull": true,
+        "rsi": 43.0,
+        "ema9": 81408.37515290825,
+        "ema21": 81510.14947895188,
+        "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.62,
-        "score": 47
+        "volumeRatio": 0.67,
+        "score": 11
       },
       "newsScore": 20,
       "newsCount": 5,
@@ -64,28 +64,35 @@
         }
       ],
       "marketSentiment": 4,
-      "combinedScore": 52,
-      "signal": "WAIT",
-      "reason": "Technical 47/100; News +20; Market sentiment +4."
+      "combinedScore": 34,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +20; Market sentiment +4."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2409.63,
-      "change24h": 1.354,
-      "volume24h": 696075179.947689,
+      "price": 2394.72,
+      "change24h": 0.487,
+      "volume24h": 615771439.084629,
       "technical": {
-        "rsi": 52.0,
-        "ema9": 2405.2392627726817,
-        "ema21": 2404.325317745034,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.48,
-        "score": 77
+        "rsi": 44.5,
+        "ema9": 2399.5552226644313,
+        "ema21": 2402.1177999598517,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.86,
+        "score": 11
       },
-      "newsScore": 25,
-      "newsCount": 4,
+      "newsScore": 0,
+      "newsCount": 5,
       "news": [
+        {
+          "title": "Initia halts blockchain after exploit reportedly drains over $2.6M",
+          "link": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Fri, 23 Oct 2026 18:39:02 +0000",
+          "source": "Cointelegraph",
+          "text": "Initia halts blockchain after exploit reportedly drains over $2.6M The blockchain suspended its layer-1 network and rollups after security researchers identified unauthorized token minting and millions in assets transferred to Ethereum."
+        },
         {
           "title": "Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash",
           "link": "https://cointelegraph.com/news/cysic-exploiter-eth-tornado-cash-white-hat-offer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -116,47 +123,47 @@
         }
       ],
       "marketSentiment": 4,
-      "combinedScore": 68,
-      "signal": "BUY",
-      "reason": "Technical 77/100; News +25; Market sentiment +4."
+      "combinedScore": 31,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment +4."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 1245.96,
-      "change24h": 2.982,
-      "volume24h": 167465465.76386,
+      "price": 1220.68,
+      "change24h": 0.534,
+      "volume24h": 164583223.72634,
       "technical": {
-        "rsi": 58.7,
-        "ema9": 1240.0956832144334,
-        "ema21": 1235.4029734005808,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.75,
-        "score": 89
+        "rsi": 41.9,
+        "ema9": 1233.9967533321453,
+        "ema21": 1236.9185836734746,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.59,
+        "score": 11
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": 4,
-      "combinedScore": 70,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment +4."
+      "combinedScore": 31,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment +4."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 104.61,
-      "change24h": 0.955,
-      "volume24h": 149698871.3201,
+      "price": 103.48,
+      "change24h": 0.019,
+      "volume24h": 145125342.18142,
       "technical": {
-        "rsi": 51.9,
-        "ema9": 104.59385891237922,
-        "ema21": 104.54152587133451,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.41,
-        "score": 77
+        "rsi": 37.9,
+        "ema9": 103.9182525825625,
+        "ema21": 104.16765145298695,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 1.0,
+        "score": 11
       },
       "newsScore": 0,
       "newsCount": 1,
@@ -170,24 +177,24 @@
         }
       ],
       "marketSentiment": 4,
-      "combinedScore": 64,
-      "signal": "WAIT",
-      "reason": "Technical 77/100; News +0; Market sentiment +4."
+      "combinedScore": 31,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment +4."
     },
     {
       "symbol": "USD1USDT",
       "coin": "USD1",
-      "price": 0.99984,
-      "change24h": -0.001,
-      "volume24h": 118514282.09442,
+      "price": 0.99982,
+      "change24h": -0.019,
+      "volume24h": 113179992.87643,
       "technical": {
-        "rsi": 39.3,
-        "ema9": 0.9998710247745871,
-        "ema21": 0.9998985185543738,
-        "macdBull": false,
+        "rsi": 44.3,
+        "ema9": 0.9998365402591972,
+        "ema21": 0.999853348025011,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.6,
-        "score": 11
+        "volumeRatio": 0.53,
+        "score": 35
       },
       "newsScore": 0,
       "newsCount": 1,
@@ -201,23 +208,23 @@
         }
       ],
       "marketSentiment": 4,
-      "combinedScore": 31,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment +4."
+      "combinedScore": 43,
+      "signal": "WAIT",
+      "reason": "Technical 35/100; News +0; Market sentiment +4."
     },
     {
       "symbol": "PEPEUSDT",
       "coin": "PEPE",
-      "price": 4.82e-06,
-      "change24h": 9.795,
-      "volume24h": 100363127.47064409,
+      "price": 4.66e-06,
+      "change24h": 5.909,
+      "volume24h": 107419404.51322474,
       "technical": {
-        "rsi": 42.0,
-        "ema9": 4.8562540331292005e-06,
-        "ema21": 4.889084886779172e-06,
+        "rsi": 31.7,
+        "ema9": 4.7215318848497075e-06,
+        "ema21": 4.775971672588061e-06,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.48,
+        "volumeRatio": 0.45,
         "score": 11
       },
       "newsScore": 0,
@@ -239,16 +246,16 @@
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 4.851,
-      "change24h": -1.222,
-      "volume24h": 99131434.7998,
+      "price": 4.735,
+      "change24h": -3.17,
+      "volume24h": 97098486.6939,
       "technical": {
-        "rsi": 41.9,
-        "ema9": 4.850454039458577,
-        "ema21": 4.877203702651444,
+        "rsi": 34.6,
+        "ema9": 4.785349709711835,
+        "ema21": 4.822926498386698,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.95,
+        "volumeRatio": 0.58,
         "score": 11
       },
       "newsScore": -33,
@@ -282,65 +289,19 @@
       "reason": "Technical 11/100; News -33; Market sentiment +4."
     },
     {
-      "symbol": "XRPUSDT",
-      "coin": "XRP",
-      "price": 1.3122,
-      "change24h": -0.198,
-      "volume24h": 98246637.34733,
-      "technical": {
-        "rsi": 44.5,
-        "ema9": 1.3111569414196258,
-        "ema21": 1.3137557640042565,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 1.03,
-        "score": 11
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": 4,
-      "combinedScore": 31,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment +4."
-    },
-    {
-      "symbol": "XAUTUSDT",
-      "coin": "XAUT",
-      "price": 4004.25,
-      "change24h": -0.876,
-      "volume24h": 86318258.642235,
-      "technical": {
-        "rsi": 42.1,
-        "ema9": 4005.8542807569947,
-        "ema21": 4011.1595922114047,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.37,
-        "score": 11
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": 4,
-      "combinedScore": 31,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment +4."
-    },
-    {
       "symbol": "BNBUSDT",
       "coin": "BNB",
-      "price": 747.32,
-      "change24h": 2.702,
-      "volume24h": 84855790.17623,
+      "price": 741.26,
+      "change24h": 1.368,
+      "volume24h": 92651341.59954,
       "technical": {
-        "rsi": 50.6,
-        "ema9": 747.616388933223,
-        "ema21": 747.2551514902298,
+        "rsi": 40.0,
+        "ema9": 743.1952928306832,
+        "ema21": 744.575196843337,
         "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.62,
-        "score": 53
+        "emaBull": false,
+        "volumeRatio": 0.3,
+        "score": 11
       },
       "newsScore": -100,
       "newsCount": 1,
@@ -354,12 +315,72 @@
         }
       ],
       "marketSentiment": 4,
-      "combinedScore": 37,
+      "combinedScore": 16,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News -100; Market sentiment +4."
+    },
+    {
+      "symbol": "XRPUSDT",
+      "coin": "XRP",
+      "price": 1.3039,
+      "change24h": 0.107,
+      "volume24h": 90229396.38793,
+      "technical": {
+        "rsi": 42.4,
+        "ema9": 1.3063857656883178,
+        "ema21": 1.309125840727191,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 1.09,
+        "score": 11
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": 4,
+      "combinedScore": 31,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment +4."
+    },
+    {
+      "symbol": "XAUTUSDT",
+      "coin": "XAUT",
+      "price": 3999.76,
+      "change24h": -0.687,
+      "volume24h": 78222008.800624,
+      "technical": {
+        "rsi": 43.0,
+        "ema9": 4001.430181068315,
+        "ema21": 4004.0181513320163,
+        "macdBull": true,
+        "emaBull": false,
+        "volumeRatio": 1.03,
+        "score": 35
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": 4,
+      "combinedScore": 43,
       "signal": "WAIT",
-      "reason": "Technical 53/100; News -100; Market sentiment +4."
+      "reason": "Technical 35/100; News +0; Market sentiment +4."
     }
   ],
   "news": [
+    {
+      "title": "Initia halts blockchain after exploit reportedly drains over $2.6M",
+      "link": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 23 Oct 2026 18:39:02 +0000",
+      "source": "Cointelegraph",
+      "text": "Initia halts blockchain after exploit reportedly drains over $2.6M The blockchain suspended its layer-1 network and rollups after security researchers identified unauthorized token minting and millions in assets transferred to Ethereum."
+    },
+    {
+      "title": "US senator probes Tether after reported deal with ex-Trump crypto adviser",
+      "link": "https://cointelegraph.com/news/us-senator-probe-bo-hines-trump-crypto-adviser-tether-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 23 Oct 2026 17:42:12 +0000",
+      "source": "Cointelegraph",
+      "text": "US senator probes Tether after reported deal with ex-Trump crypto adviser The Democratic ranking member of the Senate Permanent Subcommittee on Investigations asked Paolo Ardoino for records related to a reported deal between Tether and Nxum."
+    },
     {
       "title": "SEC flags tokenization as high-risk area in 2027 market examinations",
       "link": "https://cointelegraph.com/news/sec-adds-tokenized-securities-to-2027-examination-priorities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -485,20 +506,6 @@
       "published": "Thu, 22 Oct 2026 21:39:18 +0000",
       "source": "Cointelegraph",
       "text": "Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals According to a Circle shareholder, the US president’s “corruption” through USD1 left the company unable to compete with stablecoins, harming USDC."
-    },
-    {
-      "title": "Dune launches real-time data feeds covering 200 onchain trading venues",
-      "link": "https://cointelegraph.com/news/dune-launches-real-time-data-feeds-covering-200-onchain-trading-venues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 22 Oct 2026 20:36:00 +0000",
-      "source": "Cointelegraph",
-      "text": "Dune launches real-time data feeds covering 200 onchain trading venues The new service aims to bring onchain trading data into institutional financial systems as tokenized stock markets expand and face growing scrutiny."
-    },
-    {
-      "title": "Winklevoss PAC moves into Texas Senate race with $81K ad buy",
-      "link": "https://cointelegraph.com/news/winklevoss-pac-texas-senate-race-media-paxton-talarico?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 22 Oct 2026 19:29:53 +0000",
-      "source": "Cointelegraph",
-      "text": "Winklevoss PAC moves into Texas Senate race with $81K ad buy While crypto-aligned PACs have stepped up spending in Ohio, a committee launched by the co-founders of crypto exchange Gemini made one of its first forays into the Lone Star State."
     }
   ],
   "paper": {
@@ -604,16 +611,6 @@
         "mode": "PAPER ONLY"
       },
       {
-        "symbol": "NEARUSDT",
-        "side": "SELL",
-        "entry": 4.935,
-        "stopLoss": 5.009025,
-        "takeProfit": 4.78695,
-        "entryTime": "2026-10-22T17:27:00.895700+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
         "symbol": "XAUTUSDT",
         "side": "SELL",
         "entry": 4046.96,
@@ -645,21 +642,31 @@
       },
       {
         "symbol": "ZECUSDT",
-        "side": "BUY",
-        "entry": 1245.96,
-        "stopLoss": 1227.2706,
-        "takeProfit": 1283.3388,
-        "entryTime": "2026-10-23T17:04:44.129004+00:00",
+        "side": "SELL",
+        "entry": 1220.68,
+        "stopLoss": 1238.9902,
+        "takeProfit": 1184.0596,
+        "entryTime": "2026-10-23T20:21:42.517341+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       },
       {
         "symbol": "PEPEUSDT",
         "side": "SELL",
-        "entry": 4.82e-06,
-        "stopLoss": 4.8923e-06,
-        "takeProfit": 4.6754e-06,
-        "entryTime": "2026-10-23T17:04:44.129004+00:00",
+        "entry": 4.66e-06,
+        "stopLoss": 4.7299e-06,
+        "takeProfit": 4.5202e-06,
+        "entryTime": "2026-10-23T20:21:42.517341+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "NEARUSDT",
+        "side": "SELL",
+        "entry": 4.735,
+        "stopLoss": 4.806025,
+        "takeProfit": 4.59295,
+        "entryTime": "2026-10-23T20:21:42.517341+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       }
@@ -911,6 +918,45 @@
         "exitPrice": 5.04e-06,
         "exitTime": "2026-10-23T12:10:59.741790+00:00",
         "pnlPercent": -12.0
+      },
+      {
+        "symbol": "NEARUSDT",
+        "side": "SELL",
+        "entry": 4.935,
+        "stopLoss": 5.009025,
+        "takeProfit": 4.78695,
+        "entryTime": "2026-10-22T17:27:00.895700+00:00",
+        "status": "TAKE_PROFIT",
+        "mode": "PAPER ONLY",
+        "exitPrice": 4.735,
+        "exitTime": "2026-10-23T20:21:42.517341+00:00",
+        "pnlPercent": 4.053
+      },
+      {
+        "symbol": "ZECUSDT",
+        "side": "BUY",
+        "entry": 1245.96,
+        "stopLoss": 1227.2706,
+        "takeProfit": 1283.3388,
+        "entryTime": "2026-10-23T17:04:44.129004+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 1220.68,
+        "exitTime": "2026-10-23T20:21:42.517341+00:00",
+        "pnlPercent": -2.029
+      },
+      {
+        "symbol": "PEPEUSDT",
+        "side": "SELL",
+        "entry": 4.82e-06,
+        "stopLoss": 4.8923e-06,
+        "takeProfit": 4.6754e-06,
+        "entryTime": "2026-10-23T17:04:44.129004+00:00",
+        "status": "TAKE_PROFIT",
+        "mode": "PAPER ONLY",
+        "exitPrice": 4.66e-06,
+        "exitTime": "2026-10-23T20:21:42.517341+00:00",
+        "pnlPercent": 3.32
       }
     ]
   },
