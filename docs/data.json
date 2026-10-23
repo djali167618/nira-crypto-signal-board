@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-23 20:21:42 UTC",
+  "generatedAt": "2026-10-23 23:14:42 UTC",
   "interval": "15m candles",
-  "marketSentiment": 4,
-  "overallNewsScore": 11,
+  "marketSentiment": 6,
+  "overallNewsScore": 16,
   "fearGreed": {
     "value": 50,
     "label": "Neutral",
@@ -12,17 +12,17 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 81314.01,
-      "change24h": -0.055,
-      "volume24h": 939745195.5263597,
+      "price": 80647.89,
+      "change24h": -0.894,
+      "volume24h": 1004635730.0299131,
       "technical": {
-        "rsi": 43.0,
-        "ema9": 81408.37515290825,
-        "ema21": 81510.14947895188,
+        "rsi": 26.9,
+        "ema9": 81227.28627606935,
+        "ema21": 81356.5328709394,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.67,
-        "score": 11
+        "volumeRatio": 6.75,
+        "score": 23
       },
       "newsScore": 20,
       "newsCount": 5,
@@ -63,25 +63,25 @@
           "text": "Bitcoin Core changes security policy as AI makes bugs easier to find Bitcoin Core says keeping certain vulnerabilities secret no longer offers much protection in the wake of AI-assisted bug hunting."
         }
       ],
-      "marketSentiment": 4,
-      "combinedScore": 34,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +20; Market sentiment +4."
+      "marketSentiment": 6,
+      "combinedScore": 40,
+      "signal": "WAIT",
+      "reason": "Technical 23/100; News +20; Market sentiment +6."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2394.72,
-      "change24h": 0.487,
-      "volume24h": 615771439.084629,
+      "price": 2365.31,
+      "change24h": -0.843,
+      "volume24h": 507717214.40046,
       "technical": {
-        "rsi": 44.5,
-        "ema9": 2399.5552226644313,
-        "ema21": 2402.1177999598517,
+        "rsi": 23.1,
+        "ema9": 2389.9674209307423,
+        "ema21": 2396.036441908726,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.86,
-        "score": 11
+        "volumeRatio": 8.72,
+        "score": 23
       },
       "newsScore": 0,
       "newsCount": 5,
@@ -122,48 +122,48 @@
           "text": "Ethereum’s four-minute settlement plan could lower the cost of moving crypto A new draft targets a fourfold cut in the time it takes Ethereum transactions to become final, which could free up money transfer services tie up while customers’ payments clear."
         }
       ],
-      "marketSentiment": 4,
-      "combinedScore": 31,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment +4."
+      "marketSentiment": 6,
+      "combinedScore": 37,
+      "signal": "WAIT",
+      "reason": "Technical 23/100; News +0; Market sentiment +6."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 1220.68,
-      "change24h": 0.534,
-      "volume24h": 164583223.72634,
+      "price": 1164.22,
+      "change24h": -4.055,
+      "volume24h": 179376976.60358,
       "technical": {
-        "rsi": 41.9,
-        "ema9": 1233.9967533321453,
-        "ema21": 1236.9185836734746,
+        "rsi": 20.7,
+        "ema9": 1208.6261279089138,
+        "ema21": 1221.2870565535993,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.59,
-        "score": 11
+        "volumeRatio": 3.35,
+        "score": 23
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": 4,
-      "combinedScore": 31,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment +4."
+      "marketSentiment": 6,
+      "combinedScore": 37,
+      "signal": "WAIT",
+      "reason": "Technical 23/100; News +0; Market sentiment +6."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 103.48,
-      "change24h": 0.019,
-      "volume24h": 145125342.18142,
+      "price": 102.1,
+      "change24h": -1.334,
+      "volume24h": 158652046.2022,
       "technical": {
-        "rsi": 37.9,
-        "ema9": 103.9182525825625,
-        "ema21": 104.16765145298695,
+        "rsi": 23.7,
+        "ema9": 103.33872061008367,
+        "ema21": 103.70165285454505,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 1.0,
-        "score": 11
+        "volumeRatio": 5.77,
+        "score": 23
       },
       "newsScore": 0,
       "newsCount": 1,
@@ -176,56 +176,25 @@
           "text": "A16z is the latest VC giant to widen bets beyond crypto and into AI and emerging tech The venture investor behind early bets on Coinbase, Solana and Uniswap said is broadening its focus, joining other crypto investment firms looking beyond blockchain to artificial intelligence and tech themes."
         }
       ],
-      "marketSentiment": 4,
-      "combinedScore": 31,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment +4."
-    },
-    {
-      "symbol": "USD1USDT",
-      "coin": "USD1",
-      "price": 0.99982,
-      "change24h": -0.019,
-      "volume24h": 113179992.87643,
-      "technical": {
-        "rsi": 44.3,
-        "ema9": 0.9998365402591972,
-        "ema21": 0.999853348025011,
-        "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.53,
-        "score": 35
-      },
-      "newsScore": 0,
-      "newsCount": 1,
-      "news": [
-        {
-          "title": "Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals",
-          "link": "https://cointelegraph.com/news/circle-shareholder-lawsuit-donald-trump-world-liberty-financial-steve-witkoff-crypto-corruption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Thu, 22 Oct 2026 21:39:18 +0000",
-          "source": "Cointelegraph",
-          "text": "Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals According to a Circle shareholder, the US president’s “corruption” through USD1 left the company unable to compete with stablecoins, harming USDC."
-        }
-      ],
-      "marketSentiment": 4,
-      "combinedScore": 43,
+      "marketSentiment": 6,
+      "combinedScore": 37,
       "signal": "WAIT",
-      "reason": "Technical 35/100; News +0; Market sentiment +4."
+      "reason": "Technical 23/100; News +0; Market sentiment +6."
     },
     {
       "symbol": "PEPEUSDT",
       "coin": "PEPE",
-      "price": 4.66e-06,
-      "change24h": 5.909,
-      "volume24h": 107419404.51322474,
+      "price": 4.52e-06,
+      "change24h": 2.961,
+      "volume24h": 111230047.20514898,
       "technical": {
-        "rsi": 31.7,
-        "ema9": 4.7215318848497075e-06,
-        "ema21": 4.775971672588061e-06,
+        "rsi": 22.2,
+        "ema9": 4.62153942426794e-06,
+        "ema21": 4.676823785960194e-06,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.45,
-        "score": 11
+        "volumeRatio": 4.08,
+        "score": 23
       },
       "newsScore": 0,
       "newsCount": 1,
@@ -238,25 +207,25 @@
           "text": "Bitcoin steadies near $81,700 as altcoins rebound, pepe climbs 13% Bitcoin rose 0.5% to around $81,700 since midnight UTC while the CoinDesk 80 gained 1.4% and memecoins climbed 2.9%."
         }
       ],
-      "marketSentiment": 4,
-      "combinedScore": 31,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment +4."
+      "marketSentiment": 6,
+      "combinedScore": 37,
+      "signal": "WAIT",
+      "reason": "Technical 23/100; News +0; Market sentiment +6."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 4.735,
-      "change24h": -3.17,
-      "volume24h": 97098486.6939,
+      "price": 4.619,
+      "change24h": -5.212,
+      "volume24h": 110736975.3165,
       "technical": {
-        "rsi": 34.6,
-        "ema9": 4.785349709711835,
-        "ema21": 4.822926498386698,
+        "rsi": 24.9,
+        "ema9": 4.73484566877274,
+        "ema21": 4.77535156581292,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.58,
-        "score": 11
+        "volumeRatio": 7.13,
+        "score": 23
       },
       "newsScore": -33,
       "newsCount": 3,
@@ -283,25 +252,56 @@
           "text": "Crypto traders price India telecoms company Reliance Jio's IPO at about $110 billion The pre-IPO Jio contract on Bitget is trading near $12, a roughly 4% premium on the top price band, as India’s largest public offering remains open for subscription."
         }
       ],
-      "marketSentiment": 4,
-      "combinedScore": 26,
+      "marketSentiment": 6,
+      "combinedScore": 32,
       "signal": "SELL",
-      "reason": "Technical 11/100; News -33; Market sentiment +4."
+      "reason": "Technical 23/100; News -33; Market sentiment +6."
+    },
+    {
+      "symbol": "USD1USDT",
+      "coin": "USD1",
+      "price": 0.99991,
+      "change24h": -0.01,
+      "volume24h": 110536026.2396,
+      "technical": {
+        "rsi": 55.0,
+        "ema9": 0.9998731961959718,
+        "ema21": 0.9998686176011324,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 3.08,
+        "score": 82
+      },
+      "newsScore": 0,
+      "newsCount": 1,
+      "news": [
+        {
+          "title": "Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals",
+          "link": "https://cointelegraph.com/news/circle-shareholder-lawsuit-donald-trump-world-liberty-financial-steve-witkoff-crypto-corruption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Thu, 22 Oct 2026 21:39:18 +0000",
+          "source": "Cointelegraph",
+          "text": "Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals According to a Circle shareholder, the US president’s “corruption” through USD1 left the company unable to compete with stablecoins, harming USDC."
+        }
+      ],
+      "marketSentiment": 6,
+      "combinedScore": 67,
+      "signal": "BUY",
+      "reason": "Technical 82/100; News +0; Market sentiment +6."
     },
     {
       "symbol": "BNBUSDT",
       "coin": "BNB",
-      "price": 741.26,
-      "change24h": 1.368,
-      "volume24h": 92651341.59954,
+      "price": 734.41,
+      "change24h": 0.405,
+      "volume24h": 103650104.55497,
       "technical": {
-        "rsi": 40.0,
-        "ema9": 743.1952928306832,
-        "ema21": 744.575196843337,
+        "rsi": 24.7,
+        "ema9": 740.1878071519862,
+        "ema21": 741.9369841608514,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.3,
-        "score": 11
+        "volumeRatio": 7.67,
+        "score": 23
       },
       "newsScore": -100,
       "newsCount": 1,
@@ -314,59 +314,73 @@
           "text": "Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash The attacker moved $744,000 in ETH and BNB to Tornado Cash after exploiting Cysic’s bridge to mint 10 million tokens on BNB Smart Chain."
         }
       ],
-      "marketSentiment": 4,
-      "combinedScore": 16,
+      "marketSentiment": 6,
+      "combinedScore": 22,
       "signal": "SELL",
-      "reason": "Technical 11/100; News -100; Market sentiment +4."
+      "reason": "Technical 23/100; News -100; Market sentiment +6."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 1.3039,
-      "change24h": 0.107,
-      "volume24h": 90229396.38793,
+      "price": 1.2859,
+      "change24h": -1.772,
+      "volume24h": 97552326.1193,
       "technical": {
-        "rsi": 42.4,
-        "ema9": 1.3063857656883178,
-        "ema21": 1.309125840727191,
+        "rsi": 24.5,
+        "ema9": 1.3021411476457203,
+        "ema21": 1.3055004506582997,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 1.09,
+        "volumeRatio": 9.07,
+        "score": 23
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": 6,
+      "combinedScore": 37,
+      "signal": "WAIT",
+      "reason": "Technical 23/100; News +0; Market sentiment +6."
+    },
+    {
+      "symbol": "XAUTUSDT",
+      "coin": "XAUT",
+      "price": 3990.52,
+      "change24h": -1.022,
+      "volume24h": 80789842.052865,
+      "technical": {
+        "rsi": 31.3,
+        "ema9": 3995.036206023322,
+        "ema21": 3998.5019484804993,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.98,
         "score": 11
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": 4,
+      "marketSentiment": 6,
       "combinedScore": 31,
       "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment +4."
-    },
-    {
-      "symbol": "XAUTUSDT",
-      "coin": "XAUT",
-      "price": 3999.76,
-      "change24h": -0.687,
-      "volume24h": 78222008.800624,
-      "technical": {
-        "rsi": 43.0,
-        "ema9": 4001.430181068315,
-        "ema21": 4004.0181513320163,
-        "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 1.03,
-        "score": 35
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": 4,
-      "combinedScore": 43,
-      "signal": "WAIT",
-      "reason": "Technical 35/100; News +0; Market sentiment +4."
+      "reason": "Technical 11/100; News +0; Market sentiment +6."
     }
   ],
   "news": [
+    {
+      "title": "Wells Fargo and five others object to OKX-ICE tokenized stock listings: Report",
+      "link": "https://cointelegraph.com/news/nasdaq-companies-object-tokenized-stock-listings-okx-ice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 23 Oct 2026 21:32:16 +0000",
+      "source": "Cointelegraph",
+      "text": "Wells Fargo and five others object to OKX-ICE tokenized stock listings: Report As of Friday, 22 companies had filed objections as part of the joint venture’s proposed tokenized stock platform under the SEC’s innovation exemption."
+    },
+    {
+      "title": "IRS plans lower tax disclosure penalties, including for crypto: Forbes",
+      "link": "https://cointelegraph.com/news/irs-plans-lower-penalties-for-crypto-tax-disclosures-forbes-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 23 Oct 2026 20:54:17 +0000",
+      "source": "Cointelegraph",
+      "text": "IRS plans lower tax disclosure penalties, including for crypto: Forbes The US tax agency is targeting faster resolutions and more flexible payment options for taxpayers voluntarily disclosing past tax violations under a planned program overhaul."
+    },
     {
       "title": "Initia halts blockchain after exploit reportedly drains over $2.6M",
       "link": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -492,20 +506,6 @@
       "published": "Thu, 22 Oct 2026 23:50:42 +0000",
       "source": "Cointelegraph",
       "text": "Pentagon bans US forces from using military info to bet in prediction markets Hegseth warned that prediction market wagers could expose military operations to adversaries."
-    },
-    {
-      "title": "New DeepSeek ban in US, Swiss-Asia crypto ties deepen: Asia Express",
-      "link": "https://cointelegraph.com/magazine/new-deepseek-ban-in-us-swiss-asia-crypto-ties-deepen-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 22 Oct 2026 22:50:22 +0000",
-      "source": "Cointelegraph",
-      "text": "New DeepSeek ban in US, Swiss-Asia crypto ties deepen: Asia Express DeepSeek banned from US federal civilian agencies over spying fears. Singapore firm behind Europe’s only spot Bitcoin ETF, as Switzerland partners with Vietnam on crypto tech."
-    },
-    {
-      "title": "Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals",
-      "link": "https://cointelegraph.com/news/circle-shareholder-lawsuit-donald-trump-world-liberty-financial-steve-witkoff-crypto-corruption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 22 Oct 2026 21:39:18 +0000",
-      "source": "Cointelegraph",
-      "text": "Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals According to a Circle shareholder, the US president’s “corruption” through USD1 left the company unable to compete with stablecoins, harming USDC."
     }
   ],
   "paper": {
@@ -617,46 +617,6 @@
         "stopLoss": 4107.6644,
         "takeProfit": 3925.5512,
         "entryTime": "2026-10-22T17:27:00.895700+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
-        "symbol": "SOLUSDT",
-        "side": "BUY",
-        "entry": 104.23,
-        "stopLoss": 102.66655,
-        "takeProfit": 107.3569,
-        "entryTime": "2026-10-23T01:54:18.469743+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
-        "symbol": "XRPUSDT",
-        "side": "BUY",
-        "entry": 1.3166,
-        "stopLoss": 1.296851,
-        "takeProfit": 1.356098,
-        "entryTime": "2026-10-23T01:54:18.469743+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
-        "symbol": "ZECUSDT",
-        "side": "SELL",
-        "entry": 1220.68,
-        "stopLoss": 1238.9902,
-        "takeProfit": 1184.0596,
-        "entryTime": "2026-10-23T20:21:42.517341+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
-        "symbol": "PEPEUSDT",
-        "side": "SELL",
-        "entry": 4.66e-06,
-        "stopLoss": 4.7299e-06,
-        "takeProfit": 4.5202e-06,
-        "entryTime": "2026-10-23T20:21:42.517341+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       },
@@ -957,6 +917,58 @@
         "exitPrice": 4.66e-06,
         "exitTime": "2026-10-23T20:21:42.517341+00:00",
         "pnlPercent": 3.32
+      },
+      {
+        "symbol": "SOLUSDT",
+        "side": "BUY",
+        "entry": 104.23,
+        "stopLoss": 102.66655,
+        "takeProfit": 107.3569,
+        "entryTime": "2026-10-23T01:54:18.469743+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 102.1,
+        "exitTime": "2026-10-23T23:14:42.259832+00:00",
+        "pnlPercent": -2.044
+      },
+      {
+        "symbol": "XRPUSDT",
+        "side": "BUY",
+        "entry": 1.3166,
+        "stopLoss": 1.296851,
+        "takeProfit": 1.356098,
+        "entryTime": "2026-10-23T01:54:18.469743+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 1.2859,
+        "exitTime": "2026-10-23T23:14:42.259832+00:00",
+        "pnlPercent": -2.332
+      },
+      {
+        "symbol": "ZECUSDT",
+        "side": "SELL",
+        "entry": 1220.68,
+        "stopLoss": 1238.9902,
+        "takeProfit": 1184.0596,
+        "entryTime": "2026-10-23T20:21:42.517341+00:00",
+        "status": "TAKE_PROFIT",
+        "mode": "PAPER ONLY",
+        "exitPrice": 1164.22,
+        "exitTime": "2026-10-23T23:14:42.259832+00:00",
+        "pnlPercent": 4.625
+      },
+      {
+        "symbol": "PEPEUSDT",
+        "side": "SELL",
+        "entry": 4.66e-06,
+        "stopLoss": 4.7299e-06,
+        "takeProfit": 4.5202e-06,
+        "entryTime": "2026-10-23T20:21:42.517341+00:00",
+        "status": "TAKE_PROFIT",
+        "mode": "PAPER ONLY",
+        "exitPrice": 4.52e-06,
+        "exitTime": "2026-10-23T23:14:42.259832+00:00",
+        "pnlPercent": 3.004
       }
     ]
   },
