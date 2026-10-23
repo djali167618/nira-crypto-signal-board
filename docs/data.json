@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-23 12:10:59 UTC",
+  "generatedAt": "2026-10-23 17:04:44 UTC",
   "interval": "15m candles",
-  "marketSentiment": 0,
-  "overallNewsScore": 0,
+  "marketSentiment": 4,
+  "overallNewsScore": 12,
   "fearGreed": {
     "value": 50,
     "label": "Neutral",
@@ -12,21 +12,42 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 81572.0,
-      "change24h": -0.319,
-      "volume24h": 1131668551.2345035,
+      "price": 81755.84,
+      "change24h": 0.673,
+      "volume24h": 991208858.3422755,
       "technical": {
-        "rsi": 50.6,
-        "ema9": 81702.53512475509,
-        "ema21": 81717.27192777989,
-        "macdBull": false,
+        "rsi": 51.0,
+        "ema9": 81653.50270371346,
+        "ema21": 81672.7697852126,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 1.0,
-        "score": 23
+        "volumeRatio": 0.62,
+        "score": 47
       },
-      "newsScore": 0,
+      "newsScore": 20,
       "newsCount": 5,
       "news": [
+        {
+          "title": "Bitcoin seeks support above $81K as Brent crude oil hits highest level since March",
+          "link": "https://cointelegraph.com/markets/bitcoin-seeks-support-above-81k-as-brent-crude-oil-hits-highest-level-since-march?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Fri, 23 Oct 2026 15:39:17 +0000",
+          "source": "Cointelegraph",
+          "text": "Bitcoin seeks support above $81K as Brent crude oil hits highest level since March Bitcoin dipped below $81,000 as stocks fell and Brent crude hit its highest level since March, leaving the 50-day moving average in focus."
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Fri, 23 Oct 2026 13:38:53 +0000",
+          "source": "Cointelegraph",
+          "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+        },
+        {
+          "title": "Bitcoin consolidates after 3% loss as AI fears stoke fresh stock-market weakness",
+          "link": "https://cointelegraph.com/markets/bitcoin-consolidates-after-3-loss-as-ai-fears-stoke-fresh-stock-market-weakness?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Fri, 23 Oct 2026 12:23:58 +0000",
+          "source": "Cointelegraph",
+          "text": "Bitcoin consolidates after 3% loss as AI fears stoke fresh stock-market weakness Bitcoin price volatility cooled as stock markets battled another day of resurgent AI fears during Friday’s Asia trading session."
+        },
         {
           "title": "Bitcoin ETFs bleed $635M as October slides back into the red",
           "link": "https://cointelegraph.com/markets/bitcoin-etfs-erase-october-gains-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -35,56 +56,35 @@
           "text": "Bitcoin ETFs bleed $635M as October slides back into the red Thursday’s withdrawals ended a three-day inflow streak and left US spot Bitcoin ETFs with $175 million in net outflows for October."
         },
         {
-          "title": "Here’s what happened in crypto today",
-          "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Fri, 23 Oct 2026 05:15:14 +0000",
-          "source": "Cointelegraph",
-          "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-        },
-        {
           "title": "Bitcoin Core changes security policy as AI makes bugs easier to find",
           "link": "https://cointelegraph.com/news/bitcoin-core-changes-security-policy-as-ai-makes-bugs-easier-to-find?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "published": "Fri, 23 Oct 2026 04:34:14 +0000",
           "source": "Cointelegraph",
           "text": "Bitcoin Core changes security policy as AI makes bugs easier to find Bitcoin Core says keeping certain vulnerabilities secret no longer offers much protection in the wake of AI-assisted bug hunting."
-        },
-        {
-          "title": "Switzerland’s first retail spot Bitcoin ETF targets November launch",
-          "link": "https://cointelegraph.com/news/switzerland-approves-first-spot-bitcoin-etf-for-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Fri, 23 Oct 2026 00:59:35 +0000",
-          "source": "Cointelegraph",
-          "text": "Switzerland’s first retail spot Bitcoin ETF targets November launch BIT Asset Management’s Bitcoin Fund ETF is expected to begin trading on SIX Swiss Exchange in November, with its public offering restricted to Switzerland."
-        },
-        {
-          "title": "New DeepSeek ban in US, Swiss-Asia crypto ties deepen: Asia Express",
-          "link": "https://cointelegraph.com/magazine/new-deepseek-ban-in-us-swiss-asia-crypto-ties-deepen-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Thu, 22 Oct 2026 22:50:22 +0000",
-          "source": "Cointelegraph",
-          "text": "New DeepSeek ban in US, Swiss-Asia crypto ties deepen: Asia Express DeepSeek banned from US federal civilian agencies over spying fears. Singapore firm behind Europe’s only spot Bitcoin ETF, as Switzerland partners with Vietnam on crypto tech."
         }
       ],
-      "marketSentiment": 0,
-      "combinedScore": 36,
+      "marketSentiment": 4,
+      "combinedScore": 52,
       "signal": "WAIT",
-      "reason": "Technical 23/100; News +0; Market sentiment +0."
+      "reason": "Technical 47/100; News +20; Market sentiment +4."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2396.08,
-      "change24h": -0.277,
-      "volume24h": 740590389.107116,
+      "price": 2409.63,
+      "change24h": 1.354,
+      "volume24h": 696075179.947689,
       "technical": {
-        "rsi": 51.6,
-        "ema9": 2400.6212272198377,
-        "ema21": 2401.6303721086465,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.27,
-        "score": 23
+        "rsi": 52.0,
+        "ema9": 2405.2392627726817,
+        "ema21": 2404.325317745034,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.48,
+        "score": 77
       },
-      "newsScore": 20,
-      "newsCount": 5,
+      "newsScore": 25,
+      "newsCount": 4,
       "news": [
         {
           "title": "Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash",
@@ -101,13 +101,6 @@
           "text": "Ethereum delays Glamsterdam Hoodi testnet launch over security risks ChainSecurity said it identified 13 real-world examples of smart contracts potentially affected by Glamsterdam’s gas changes and is coordinating responsible disclosure with affected projects."
         },
         {
-          "title": "Starknet voters back research into life beyond Ethereum",
-          "link": "https://cointelegraph.com/news/starknet-vote-post-quantum-l1-research-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Thu, 22 Oct 2026 09:37:54 +0000",
-          "source": "Cointelegraph",
-          "text": "Starknet voters back research into life beyond Ethereum StarkWare plans to release a draft whitepaper in November as it explores an independent, quantum-resistant blockchain."
-        },
-        {
           "title": "Ethereum delays Glamsterdam test after security devs flag risk to existing contracts",
           "link": "https://www.coindesk.com/tech/2026/10/23/ethereum-delays-glamsterdam-test-after-security-devs-flag-risk-to-existing-contracts",
           "published": "Fri, 23 Oct 2026 04:59:34 +0000",
@@ -122,51 +115,51 @@
           "text": "Ethereum’s four-minute settlement plan could lower the cost of moving crypto A new draft targets a fourfold cut in the time it takes Ethereum transactions to become final, which could free up money transfer services tie up while customers’ payments clear."
         }
       ],
-      "marketSentiment": 0,
-      "combinedScore": 40,
-      "signal": "WAIT",
-      "reason": "Technical 23/100; News +20; Market sentiment +0."
+      "marketSentiment": 4,
+      "combinedScore": 68,
+      "signal": "BUY",
+      "reason": "Technical 77/100; News +25; Market sentiment +4."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 1222.34,
-      "change24h": -2.558,
-      "volume24h": 179155089.15729,
+      "price": 1245.96,
+      "change24h": 2.982,
+      "volume24h": 167465465.76386,
       "technical": {
-        "rsi": 56.9,
-        "ema9": 1220.674653618721,
-        "ema21": 1221.7895721750162,
+        "rsi": 58.7,
+        "ema9": 1240.0956832144334,
+        "ema21": 1235.4029734005808,
         "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 1.71,
-        "score": 64
+        "emaBull": true,
+        "volumeRatio": 0.75,
+        "score": 89
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": 0,
-      "combinedScore": 57,
-      "signal": "WAIT",
-      "reason": "Technical 64/100; News +0; Market sentiment +0."
+      "marketSentiment": 4,
+      "combinedScore": 70,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment +4."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 104.29,
-      "change24h": -0.105,
-      "volume24h": 148119621.27439,
+      "price": 104.61,
+      "change24h": 0.955,
+      "volume24h": 149698871.3201,
       "technical": {
-        "rsi": 55.3,
-        "ema9": 104.32169236217864,
-        "ema21": 104.33690252787717,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 2.03,
-        "score": 40
+        "rsi": 51.9,
+        "ema9": 104.59385891237922,
+        "ema21": 104.54152587133451,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.41,
+        "score": 77
       },
       "newsScore": 0,
-      "newsCount": 2,
+      "newsCount": 1,
       "news": [
         {
           "title": "A16z is the latest VC giant to widen bets beyond crypto and into AI and emerging tech",
@@ -174,34 +167,27 @@
           "published": "Thu, 22 Oct 2026 18:30:57 +0000",
           "source": "CoinDesk",
           "text": "A16z is the latest VC giant to widen bets beyond crypto and into AI and emerging tech The venture investor behind early bets on Coinbase, Solana and Uniswap said is broadening its focus, joining other crypto investment firms looking beyond blockchain to artificial intelligence and tech themes."
-        },
-        {
-          "title": "Solana’s biggest network change since 2020 is live. Here’s how users benefit",
-          "link": "https://www.coindesk.com/tech/2026/10/22/solana-completes-alpenglow-upgrade-here-s-what-it-means-for-users",
-          "published": "Thu, 22 Oct 2026 05:24:58 +0000",
-          "source": "CoinDesk",
-          "text": "Solana’s biggest network change since 2020 is live. Here’s how users benefit The new voting system targets settlement in about 150 milliseconds, potentially shortening waits for payments and deposits. Users can keep their existing wallets."
         }
       ],
-      "marketSentiment": 0,
-      "combinedScore": 45,
+      "marketSentiment": 4,
+      "combinedScore": 64,
       "signal": "WAIT",
-      "reason": "Technical 40/100; News +0; Market sentiment +0."
+      "reason": "Technical 77/100; News +0; Market sentiment +4."
     },
     {
       "symbol": "USD1USDT",
       "coin": "USD1",
-      "price": 0.99992,
-      "change24h": 0.014,
-      "volume24h": 117196962.33651,
+      "price": 0.99984,
+      "change24h": -0.001,
+      "volume24h": 118514282.09442,
       "technical": {
-        "rsi": 46.5,
-        "ema9": 0.9999488219165993,
-        "ema21": 0.9999604676231622,
+        "rsi": 39.3,
+        "ema9": 0.9998710247745871,
+        "ema21": 0.9998985185543738,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.31,
-        "score": 23
+        "volumeRatio": 0.6,
+        "score": 11
       },
       "newsScore": 0,
       "newsCount": 1,
@@ -214,25 +200,56 @@
           "text": "Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals According to a Circle shareholder, the US president’s “corruption” through USD1 left the company unable to compete with stablecoins, harming USDC."
         }
       ],
-      "marketSentiment": 0,
-      "combinedScore": 36,
-      "signal": "WAIT",
-      "reason": "Technical 23/100; News +0; Market sentiment +0."
+      "marketSentiment": 4,
+      "combinedScore": 31,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment +4."
+    },
+    {
+      "symbol": "PEPEUSDT",
+      "coin": "PEPE",
+      "price": 4.82e-06,
+      "change24h": 9.795,
+      "volume24h": 100363127.47064409,
+      "technical": {
+        "rsi": 42.0,
+        "ema9": 4.8562540331292005e-06,
+        "ema21": 4.889084886779172e-06,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.48,
+        "score": 11
+      },
+      "newsScore": 0,
+      "newsCount": 1,
+      "news": [
+        {
+          "title": "Bitcoin steadies near $81,700 as altcoins rebound, pepe climbs 13%",
+          "link": "https://www.coindesk.com/markets/2026/10/23/bitcoin-steadies-near-usd81-700-as-altcoins-rebound-pepe-climbs-13",
+          "published": "Fri, 23 Oct 2026 10:54:41 +0000",
+          "source": "CoinDesk",
+          "text": "Bitcoin steadies near $81,700 as altcoins rebound, pepe climbs 13% Bitcoin rose 0.5% to around $81,700 since midnight UTC while the CoinDesk 80 gained 1.4% and memecoins climbed 2.9%."
+        }
+      ],
+      "marketSentiment": 4,
+      "combinedScore": 31,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment +4."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 4.899,
-      "change24h": -1.863,
-      "volume24h": 106465962.0785,
+      "price": 4.851,
+      "change24h": -1.222,
+      "volume24h": 99131434.7998,
       "technical": {
-        "rsi": 50.4,
-        "ema9": 4.915743074194641,
-        "ema21": 4.927426160801277,
+        "rsi": 41.9,
+        "ema9": 4.850454039458577,
+        "ema21": 4.877203702651444,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 1.54,
-        "score": 28
+        "volumeRatio": 0.95,
+        "score": 11
       },
       "newsScore": -33,
       "newsCount": 3,
@@ -259,48 +276,71 @@
           "text": "Crypto traders price India telecoms company Reliance Jio's IPO at about $110 billion The pre-IPO Jio contract on Bitget is trading near $12, a roughly 4% premium on the top price band, as India’s largest public offering remains open for subscription."
         }
       ],
-      "marketSentiment": 0,
-      "combinedScore": 34,
+      "marketSentiment": 4,
+      "combinedScore": 26,
       "signal": "SELL",
-      "reason": "Technical 28/100; News -33; Market sentiment +0."
+      "reason": "Technical 11/100; News -33; Market sentiment +4."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 1.3174,
-      "change24h": -0.566,
-      "volume24h": 95295561.83949,
+      "price": 1.3122,
+      "change24h": -0.198,
+      "volume24h": 98246637.34733,
       "technical": {
-        "rsi": 47.7,
-        "ema9": 1.3207366109930412,
-        "ema21": 1.3216830656433203,
+        "rsi": 44.5,
+        "ema9": 1.3111569414196258,
+        "ema21": 1.3137557640042565,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 1.12,
-        "score": 23
+        "volumeRatio": 1.03,
+        "score": 11
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": 0,
-      "combinedScore": 36,
-      "signal": "WAIT",
-      "reason": "Technical 23/100; News +0; Market sentiment +0."
+      "marketSentiment": 4,
+      "combinedScore": 31,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment +4."
+    },
+    {
+      "symbol": "XAUTUSDT",
+      "coin": "XAUT",
+      "price": 4004.25,
+      "change24h": -0.876,
+      "volume24h": 86318258.642235,
+      "technical": {
+        "rsi": 42.1,
+        "ema9": 4005.8542807569947,
+        "ema21": 4011.1595922114047,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.37,
+        "score": 11
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": 4,
+      "combinedScore": 31,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment +4."
     },
     {
       "symbol": "BNBUSDT",
       "coin": "BNB",
-      "price": 746.51,
-      "change24h": 1.774,
-      "volume24h": 83330057.70745,
+      "price": 747.32,
+      "change24h": 2.702,
+      "volume24h": 84855790.17623,
       "technical": {
-        "rsi": 64.3,
-        "ema9": 746.4713216582709,
-        "ema21": 745.3454770389661,
+        "rsi": 50.6,
+        "ema9": 747.616388933223,
+        "ema21": 747.2551514902298,
         "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 0.64,
-        "score": 65
+        "volumeRatio": 0.62,
+        "score": 53
       },
       "newsScore": -100,
       "newsCount": 1,
@@ -313,67 +353,55 @@
           "text": "Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash The attacker moved $744,000 in ETH and BNB to Tornado Cash after exploiting Cysic’s bridge to mint 10 million tokens on BNB Smart Chain."
         }
       ],
-      "marketSentiment": 0,
-      "combinedScore": 42,
+      "marketSentiment": 4,
+      "combinedScore": 37,
       "signal": "WAIT",
-      "reason": "Technical 65/100; News -100; Market sentiment +0."
-    },
-    {
-      "symbol": "XAUTUSDT",
-      "coin": "XAUT",
-      "price": 4026.83,
-      "change24h": -1.146,
-      "volume24h": 77566809.42946,
-      "technical": {
-        "rsi": 52.3,
-        "ema9": 4027.595143023177,
-        "ema21": 4025.9003776811105,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.88,
-        "score": 77
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": 0,
-      "combinedScore": 64,
-      "signal": "WAIT",
-      "reason": "Technical 77/100; News +0; Market sentiment +0."
-    },
-    {
-      "symbol": "PEPEUSDT",
-      "coin": "PEPE",
-      "price": 5.04e-06,
-      "change24h": 12.249,
-      "volume24h": 75587765.83413292,
-      "technical": {
-        "rsi": 80.5,
-        "ema9": 4.989285641126836e-06,
-        "ema21": 4.876166462416418e-06,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.88,
-        "score": 72
-      },
-      "newsScore": 0,
-      "newsCount": 1,
-      "news": [
-        {
-          "title": "Bitcoin steadies near $81,700 as altcoins rebound, pepe climbs 13%",
-          "link": "https://www.coindesk.com/markets/2026/10/23/bitcoin-steadies-near-usd81-700-as-altcoins-rebound-pepe-climbs-13",
-          "published": "Fri, 23 Oct 2026 10:54:41 +0000",
-          "source": "CoinDesk",
-          "text": "Bitcoin steadies near $81,700 as altcoins rebound, pepe climbs 13% Bitcoin rose 0.5% to around $81,700 since midnight UTC while the CoinDesk 80 gained 1.4% and memecoins climbed 2.9%."
-        }
-      ],
-      "marketSentiment": 0,
-      "combinedScore": 61,
-      "signal": "WAIT",
-      "reason": "Technical 72/100; News +0; Market sentiment +0."
+      "reason": "Technical 53/100; News -100; Market sentiment +4."
     }
   ],
   "news": [
+    {
+      "title": "SEC flags tokenization as high-risk area in 2027 market examinations",
+      "link": "https://cointelegraph.com/news/sec-adds-tokenized-securities-to-2027-examination-priorities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 23 Oct 2026 16:08:40 +0000",
+      "source": "Cointelegraph",
+      "text": "SEC flags tokenization as high-risk area in 2027 market examinations The SEC’s latest priorities highlight tokenization as an emerging market risk, while cryptocurrencies remain absent as a standalone examination category."
+    },
+    {
+      "title": "Bitcoin seeks support above $81K as Brent crude oil hits highest level since March",
+      "link": "https://cointelegraph.com/markets/bitcoin-seeks-support-above-81k-as-brent-crude-oil-hits-highest-level-since-march?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 23 Oct 2026 15:39:17 +0000",
+      "source": "Cointelegraph",
+      "text": "Bitcoin seeks support above $81K as Brent crude oil hits highest level since March Bitcoin dipped below $81,000 as stocks fell and Brent crude hit its highest level since March, leaving the 50-day moving average in focus."
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 23 Oct 2026 13:38:53 +0000",
+      "source": "Cointelegraph",
+      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "title": "China targets 2030 for its national blockchain network buildout",
+      "link": "https://cointelegraph.com/news/china-2030-national-blockchain-network-buildout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 23 Oct 2026 13:21:07 +0000",
+      "source": "Cointelegraph",
+      "text": "China targets 2030 for its national blockchain network buildout China’s five-year digital development plan calls for wider blockchain use in trade and manufacturing alongside stronger technical standards."
+    },
+    {
+      "title": "New York AG seeks $1.37B from NovaTech founders over Ponzi scheme",
+      "link": "https://cointelegraph.com/news/new-york-ag-novatech-founders-companies-crypto-ponzi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 23 Oct 2026 12:33:37 +0000",
+      "source": "Cointelegraph",
+      "text": "New York AG seeks $1.37B from NovaTech founders over Ponzi scheme The request follows an August 2025 default judgment, with the AG also announcing nearly $6 million in settlements with four promoters."
+    },
+    {
+      "title": "Bitcoin consolidates after 3% loss as AI fears stoke fresh stock-market weakness",
+      "link": "https://cointelegraph.com/markets/bitcoin-consolidates-after-3-loss-as-ai-fears-stoke-fresh-stock-market-weakness?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 23 Oct 2026 12:23:58 +0000",
+      "source": "Cointelegraph",
+      "text": "Bitcoin consolidates after 3% loss as AI fears stoke fresh stock-market weakness Bitcoin price volatility cooled as stock markets battled another day of resurgent AI fears during Friday’s Asia trading session."
+    },
     {
       "title": "Was crypto self-custody ever designed for beginners?",
       "link": "https://cointelegraph.com/news/self-custody-crypto-beginners-mainstream-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -415,13 +443,6 @@
       "published": "Fri, 23 Oct 2026 07:09:39 +0000",
       "source": "Cointelegraph",
       "text": "Bitcoin ETFs bleed $635M as October slides back into the red Thursday’s withdrawals ended a three-day inflow streak and left US spot Bitcoin ETFs with $175 million in net outflows for October."
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 23 Oct 2026 05:15:14 +0000",
-      "source": "Cointelegraph",
-      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
       "title": "Ethereum delays Glamsterdam Hoodi testnet launch over security risks",
@@ -478,41 +499,6 @@
       "published": "Thu, 22 Oct 2026 19:29:53 +0000",
       "source": "Cointelegraph",
       "text": "Winklevoss PAC moves into Texas Senate race with $81K ad buy While crypto-aligned PACs have stepped up spending in Ohio, a committee launched by the co-founders of crypto exchange Gemini made one of its first forays into the Lone Star State."
-    },
-    {
-      "title": "Underdog taps zerohash to bring crypto deposits to prediction markets",
-      "link": "https://cointelegraph.com/news/underdog-taps-zerohash-to-bring-crypto-deposits-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 22 Oct 2026 17:24:49 +0000",
-      "source": "Cointelegraph",
-      "text": "Underdog taps zerohash to bring crypto deposits to prediction markets The new funding option, expected to launch later this year, will allow eligible Underdog users to deposit digital assets around the clock."
-    },
-    {
-      "title": "Bitcoin hashrate hits seven-month high as AI shift fails to ease mining competition",
-      "link": "https://cointelegraph.com/news/bitcoin-mining-difficulty-hashrate-recovery-ai-shift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 22 Oct 2026 16:50:51 +0000",
-      "source": "Cointelegraph",
-      "text": "Bitcoin hashrate hits seven-month high as AI shift fails to ease mining competition According to BlocksBridge, Bitcoin’s mining difficulty is rising despite the industry’s AI transition, with smaller operators potentially absorbing equipment abandoned by larger competitors."
-    },
-    {
-      "title": "Irish cenbank fines Coinbase arm $3.6M for oversight, safeguard failures",
-      "link": "https://cointelegraph.com/news/ireland-central-bank-coinbase-oversight-safeguard-failure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 22 Oct 2026 16:48:00 +0000",
-      "source": "Cointelegraph",
-      "text": "Irish cenbank fines Coinbase arm $3.6M for oversight, safeguard failures According to the Central Bank of Ireland, Coinbase Ireland had agreed with the facts around the enforcement action and will be subject to fines and sanctions upon approval by a high court."
-    },
-    {
-      "title": "Bitcoin circles $81.5K ETF cost basis as Trump Iran comments send stocks lower",
-      "link": "https://cointelegraph.com/markets/bitcoin-circles-815k-etf-cost-basis-as-trump-iran-comments-send-stocks-lower?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 22 Oct 2026 16:20:35 +0000",
-      "source": "Cointelegraph",
-      "text": "Bitcoin circles $81.5K ETF cost basis as Trump Iran comments send stocks lower Bitcoin extended daily losses to 3% as US stocks came under pressure from President Donald Trump’s comments on Iran military action."
-    },
-    {
-      "title": "Fireblocks disputes report of $2.5B Visa acquisition talks",
-      "link": "https://cointelegraph.com/news/fireblocks-disputes-report-of-25b-visa-acquisition-talks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 22 Oct 2026 14:41:00 +0000",
-      "source": "Cointelegraph",
-      "text": "Fireblocks disputes report of $2.5B Visa acquisition talks Fireblocks told Cointelegraph that reports of a potential $2.5 billion acquisition by Visa are “not true at present time,” while Visa declined to comment on the reported talks."
     }
   ],
   "paper": {
@@ -654,6 +640,26 @@
         "stopLoss": 1.296851,
         "takeProfit": 1.356098,
         "entryTime": "2026-10-23T01:54:18.469743+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "ZECUSDT",
+        "side": "BUY",
+        "entry": 1245.96,
+        "stopLoss": 1227.2706,
+        "takeProfit": 1283.3388,
+        "entryTime": "2026-10-23T17:04:44.129004+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "PEPEUSDT",
+        "side": "SELL",
+        "entry": 4.82e-06,
+        "stopLoss": 4.8923e-06,
+        "takeProfit": 4.6754e-06,
+        "entryTime": "2026-10-23T17:04:44.129004+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       }
