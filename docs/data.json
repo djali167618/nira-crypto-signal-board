@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23 01:54:18 UTC",
+  "generatedAt": "2026-10-23 06:44:20 UTC",
   "interval": "15m candles",
   "marketSentiment": 0,
   "overallNewsScore": 0,
@@ -12,27 +12,41 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 81524.02,
-      "change24h": -2.434,
-      "volume24h": 1645015716.6199558,
+      "price": 81886.0,
+      "change24h": -0.796,
+      "volume24h": 1371493028.895442,
       "technical": {
-        "rsi": 53.7,
-        "ema9": 81427.26174142603,
-        "ema21": 81412.08514835322,
+        "rsi": 55.9,
+        "ema9": 81801.65556611886,
+        "ema21": 81722.20006841588,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.99,
-        "score": 77
+        "volumeRatio": 0.77,
+        "score": 89
       },
       "newsScore": 0,
       "newsCount": 5,
       "news": [
         {
-          "title": "Switzerland approves first spot Bitcoin ETF for retail investors",
+          "title": "Here’s what happened in crypto today",
+          "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Fri, 23 Oct 2026 05:15:14 +0000",
+          "source": "Cointelegraph",
+          "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+        },
+        {
+          "title": "Bitcoin Core changes security policy as AI makes bugs easier to find",
+          "link": "https://cointelegraph.com/news/bitcoin-core-changes-security-policy-as-ai-makes-bugs-easier-to-find?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Fri, 23 Oct 2026 04:34:14 +0000",
+          "source": "Cointelegraph",
+          "text": "Bitcoin Core changes security policy as AI makes bugs easier to find Bitcoin Core says keeping certain vulnerabilities secret no longer offers much protection in the wake of AI-assisted bug hunting."
+        },
+        {
+          "title": "Switzerland’s first retail spot Bitcoin ETF targets November launch",
           "link": "https://cointelegraph.com/news/switzerland-approves-first-spot-bitcoin-etf-for-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "published": "Fri, 23 Oct 2026 00:59:35 +0000",
           "source": "Cointelegraph",
-          "text": "Switzerland approves first spot Bitcoin ETF for retail investors BIT Asset Management’s Bitcoin Fund ETF is expected to begin trading on SIX Swiss Exchange in November, with its public offering restricted to Switzerland."
+          "text": "Switzerland’s first retail spot Bitcoin ETF targets November launch BIT Asset Management’s Bitcoin Fund ETF is expected to begin trading on SIX Swiss Exchange in November, with its public offering restricted to Switzerland."
         },
         {
           "title": "New DeepSeek ban in US, Swiss-Asia crypto ties deepen: Asia Express",
@@ -42,56 +56,56 @@
           "text": "New DeepSeek ban in US, Swiss-Asia crypto ties deepen: Asia Express DeepSeek banned from US federal civilian agencies over spying fears. Singapore firm behind Europe’s only spot Bitcoin ETF, as Switzerland partners with Vietnam on crypto tech."
         },
         {
-          "title": "Here’s what happened in crypto today",
-          "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Thu, 22 Oct 2026 20:09:59 +0000",
-          "source": "Cointelegraph",
-          "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-        },
-        {
           "title": "Bitcoin hashrate hits seven-month high as AI shift fails to ease mining competition",
           "link": "https://cointelegraph.com/news/bitcoin-mining-difficulty-hashrate-recovery-ai-shift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "published": "Thu, 22 Oct 2026 16:50:51 +0000",
           "source": "Cointelegraph",
           "text": "Bitcoin hashrate hits seven-month high as AI shift fails to ease mining competition According to BlocksBridge, Bitcoin’s mining difficulty is rising despite the industry’s AI transition, with smaller operators potentially absorbing equipment abandoned by larger competitors."
-        },
-        {
-          "title": "Bitcoin circles $81.5K ETF cost basis as Trump Iran comments send stocks lower",
-          "link": "https://cointelegraph.com/markets/bitcoin-circles-815k-etf-cost-basis-as-trump-iran-comments-send-stocks-lower?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Thu, 22 Oct 2026 16:20:35 +0000",
-          "source": "Cointelegraph",
-          "text": "Bitcoin circles $81.5K ETF cost basis as Trump Iran comments send stocks lower Bitcoin extended daily losses to 3% as US stocks came under pressure from President Donald Trump’s comments on Iran military action."
         }
       ],
       "marketSentiment": 0,
-      "combinedScore": 64,
-      "signal": "WAIT",
-      "reason": "Technical 77/100; News +0; Market sentiment +0."
+      "combinedScore": 70,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment +0."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2397.15,
-      "change24h": -2.327,
-      "volume24h": 771431782.010307,
+      "price": 2407.27,
+      "change24h": -1.007,
+      "volume24h": 737685544.152847,
       "technical": {
-        "rsi": 60.0,
-        "ema9": 2391.6409536414076,
-        "ema21": 2389.8785118924543,
-        "macdBull": true,
+        "rsi": 53.9,
+        "ema9": 2404.269930258334,
+        "ema21": 2402.2143003158144,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 1.72,
-        "score": 94
+        "volumeRatio": 0.44,
+        "score": 53
       },
-      "newsScore": 0,
-      "newsCount": 2,
+      "newsScore": 50,
+      "newsCount": 4,
       "news": [
+        {
+          "title": "Ethereum delays Glamsterdam Hoodi testnet launch over security risks",
+          "link": "https://cointelegraph.com/news/ethereum-delays-glamsterdam-testnet-fork-gas-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Fri, 23 Oct 2026 05:09:41 +0000",
+          "source": "Cointelegraph",
+          "text": "Ethereum delays Glamsterdam Hoodi testnet launch over security risks ChainSecurity said it identified 13 real-world examples of smart contracts potentially affected by Glamsterdam’s gas changes and is coordinating responsible disclosure with affected projects."
+        },
         {
           "title": "Starknet voters back research into life beyond Ethereum",
           "link": "https://cointelegraph.com/news/starknet-vote-post-quantum-l1-research-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "published": "Thu, 22 Oct 2026 09:37:54 +0000",
           "source": "Cointelegraph",
           "text": "Starknet voters back research into life beyond Ethereum StarkWare plans to release a draft whitepaper in November as it explores an independent, quantum-resistant blockchain."
+        },
+        {
+          "title": "Ethereum delays Glamsterdam test after security devs flag risk to existing contracts",
+          "link": "https://www.coindesk.com/tech/2026/10/23/ethereum-delays-glamsterdam-test-after-security-devs-flag-risk-to-existing-contracts",
+          "published": "Fri, 23 Oct 2026 04:59:34 +0000",
+          "source": "CoinDesk",
+          "text": "Ethereum delays Glamsterdam test after security devs flag risk to existing contracts Developers canceled Monday's Hoodi activation after researchers showed how new gas rules could let smart contracts permanently record failed operations."
         },
         {
           "title": "Ethereum’s four-minute settlement plan could lower the cost of moving crypto",
@@ -102,23 +116,23 @@
         }
       ],
       "marketSentiment": 0,
-      "combinedScore": 72,
-      "signal": "BUY",
-      "reason": "Technical 94/100; News +0; Market sentiment +0."
+      "combinedScore": 59,
+      "signal": "WAIT",
+      "reason": "Technical 53/100; News +50; Market sentiment +0."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 1225.38,
-      "change24h": -6.389,
-      "volume24h": 256393296.10995,
+      "price": 1229.05,
+      "change24h": -2.942,
+      "volume24h": 216892282.04201,
       "technical": {
-        "rsi": 54.7,
-        "ema9": 1220.298923427162,
-        "ema21": 1218.4581209519647,
+        "rsi": 54.2,
+        "ema9": 1225.0640867671102,
+        "ema21": 1223.2659452590167,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 1.04,
+        "volumeRatio": 1.36,
         "score": 77
       },
       "newsScore": 0,
@@ -132,16 +146,16 @@
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 104.23,
-      "change24h": -1.91,
-      "volume24h": 186612101.18975,
+      "price": 104.55,
+      "change24h": -0.067,
+      "volume24h": 160544997.60598,
       "technical": {
-        "rsi": 58.7,
-        "ema9": 103.86965283098853,
-        "ema21": 103.76029300116998,
+        "rsi": 57.6,
+        "ema9": 104.37780316243115,
+        "ema21": 104.23099100529276,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.82,
+        "volumeRatio": 0.44,
         "score": 89
       },
       "newsScore": 0,
@@ -170,17 +184,17 @@
     {
       "symbol": "USD1USDT",
       "coin": "USD1",
-      "price": 0.99996,
-      "change24h": 0.026,
-      "volume24h": 137120546.65087,
+      "price": 0.99995,
+      "change24h": 0.022,
+      "volume24h": 119132108.59789,
       "technical": {
-        "rsi": 53.8,
-        "ema9": 0.999998983910324,
-        "ema21": 0.9999913896560872,
+        "rsi": 46.9,
+        "ema9": 0.9999791654695291,
+        "ema21": 0.9999854565012564,
         "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 1.13,
-        "score": 53
+        "emaBull": false,
+        "volumeRatio": 0.44,
+        "score": 23
       },
       "newsScore": 0,
       "newsCount": 1,
@@ -194,28 +208,35 @@
         }
       ],
       "marketSentiment": 0,
-      "combinedScore": 52,
+      "combinedScore": 36,
       "signal": "WAIT",
-      "reason": "Technical 53/100; News +0; Market sentiment +0."
+      "reason": "Technical 23/100; News +0; Market sentiment +0."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 4.942,
-      "change24h": -5.162,
-      "volume24h": 131505541.1755,
+      "price": 4.999,
+      "change24h": 0.2,
+      "volume24h": 118934119.4778,
       "technical": {
-        "rsi": 56.9,
-        "ema9": 4.904314302361424,
-        "ema21": 4.898019483244143,
+        "rsi": 56.2,
+        "ema9": 4.9648158227113255,
+        "ema21": 4.950773760041093,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 2.04,
-        "score": 84
+        "volumeRatio": 0.56,
+        "score": 89
       },
-      "newsScore": -100,
-      "newsCount": 1,
+      "newsScore": -50,
+      "newsCount": 2,
       "news": [
+        {
+          "title": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100",
+          "link": "https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100",
+          "published": "Fri, 23 Oct 2026 03:13:01 +0000",
+          "source": "CoinDesk",
+          "text": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100 Bitcoin and gold pared early losses as the yen gave up gains and Asian stocks rebounded, though oil near $100 keeps inflation risks in focus."
+        },
         {
           "title": "Crypto traders price India telecoms company Reliance Jio's IPO at about $110 billion",
           "link": "https://www.coindesk.com/markets/2026/10/22/crypto-traders-price-india-telecoms-company-reliance-jio-s-ipo-at-about-usd110-billion",
@@ -225,23 +246,23 @@
         }
       ],
       "marketSentiment": 0,
-      "combinedScore": 52,
+      "combinedScore": 62,
       "signal": "WAIT",
-      "reason": "Technical 84/100; News -100; Market sentiment +0."
+      "reason": "Technical 89/100; News -50; Market sentiment +0."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 1.3166,
-      "change24h": -2.604,
-      "volume24h": 114732213.05782,
+      "price": 1.3274,
+      "change24h": -1.058,
+      "volume24h": 101576556.59289,
       "technical": {
-        "rsi": 57.3,
-        "ema9": 1.3109009520211454,
-        "ema21": 1.3099194857984267,
+        "rsi": 59.3,
+        "ema9": 1.3246077288003821,
+        "ema21": 1.3208983202303424,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.83,
+        "volumeRatio": 0.72,
         "score": 89
       },
       "newsScore": 100,
@@ -263,21 +284,28 @@
     {
       "symbol": "AIUSDT",
       "coin": "AI",
-      "price": 0.02,
-      "change24h": 3.627,
-      "volume24h": 84459469.54116,
+      "price": 0.0203,
+      "change24h": 6.842,
+      "volume24h": 86277239.05924,
       "technical": {
-        "rsi": 49.2,
-        "ema9": 0.01973243458420305,
-        "ema21": 0.01978119476524239,
-        "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.32,
-        "score": 47
+        "rsi": 54.6,
+        "ema9": 0.020441644440080165,
+        "ema21": 0.020337501775187342,
+        "macdBull": false,
+        "emaBull": true,
+        "volumeRatio": 0.04,
+        "score": 53
       },
-      "newsScore": 17,
+      "newsScore": 14,
       "newsCount": 5,
       "news": [
+        {
+          "title": "Bitcoin Core changes security policy as AI makes bugs easier to find",
+          "link": "https://cointelegraph.com/news/bitcoin-core-changes-security-policy-as-ai-makes-bugs-easier-to-find?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Fri, 23 Oct 2026 04:34:14 +0000",
+          "source": "Cointelegraph",
+          "text": "Bitcoin Core changes security policy as AI makes bugs easier to find Bitcoin Core says keeping certain vulnerabilities secret no longer offers much protection in the wake of AI-assisted bug hunting."
+        },
         {
           "title": "Bitcoin hashrate hits seven-month high as AI shift fails to ease mining competition",
           "link": "https://cointelegraph.com/news/bitcoin-mining-difficulty-hashrate-recovery-ai-shift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -305,74 +333,88 @@
           "published": "Thu, 22 Oct 2026 09:54:26 +0000",
           "source": "CoinDesk",
           "text": "Live updates: Bitcoin falls back to $81,000, with interest rates tumbling as stocks crack The Nasdaq is down more than 2% as the AI bull market trade continues to unwind. U.S. interest rates are plunging even as oil surges."
-        },
-        {
-          "title": "Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves",
-          "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-gives-back-its-run-at-usd85-000-as-tesla-and-meta-fail-to-calm-ai-nerves",
-          "published": "Thu, 22 Oct 2026 03:51:34 +0000",
-          "source": "CoinDesk",
-          "text": "Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves BTC broke through its $84,000 ceiling late Wednesday, then slid back to the $82,500 support analysts are watching as tech futures fell."
         }
       ],
       "marketSentiment": 0,
-      "combinedScore": 51,
+      "combinedScore": 54,
       "signal": "WAIT",
-      "reason": "Technical 47/100; News +17; Market sentiment +0."
+      "reason": "Technical 53/100; News +14; Market sentiment +0."
     },
     {
       "symbol": "XAUTUSDT",
       "coin": "XAUT",
-      "price": 4009.99,
-      "change24h": -2.518,
-      "volume24h": 74847063.948365,
+      "price": 4020.81,
+      "change24h": -1.811,
+      "volume24h": 81329695.54272,
       "technical": {
-        "rsi": 36.3,
-        "ema9": 4025.518452390749,
-        "ema21": 4029.920773046754,
-        "macdBull": false,
+        "rsi": 46.5,
+        "ema9": 4021.493940821989,
+        "ema21": 4022.4821731238617,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 5.59,
-        "score": 6
+        "volumeRatio": 1.8,
+        "score": 42
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": 0,
-      "combinedScore": 28,
-      "signal": "SELL",
-      "reason": "Technical 6/100; News +0; Market sentiment +0."
+      "combinedScore": 46,
+      "signal": "WAIT",
+      "reason": "Technical 42/100; News +0; Market sentiment +0."
     },
     {
       "symbol": "BNBUSDT",
       "coin": "BNB",
-      "price": 734.31,
-      "change24h": -1.479,
-      "volume24h": 71587924.85757,
+      "price": 743.89,
+      "change24h": 0.774,
+      "volume24h": 65986578.72827,
       "technical": {
-        "rsi": 58.5,
-        "ema9": 731.9177966250136,
-        "ema21": 731.6295535244955,
+        "rsi": 76.7,
+        "ema9": 741.6477694858868,
+        "ema21": 739.2081400402478,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 1.43,
-        "score": 89
+        "volumeRatio": 1.04,
+        "score": 72
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": 0,
-      "combinedScore": 70,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment +0."
+      "combinedScore": 61,
+      "signal": "WAIT",
+      "reason": "Technical 72/100; News +0; Market sentiment +0."
     }
   ],
   "news": [
     {
-      "title": "Switzerland approves first spot Bitcoin ETF for retail investors",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 23 Oct 2026 05:15:14 +0000",
+      "source": "Cointelegraph",
+      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "title": "Ethereum delays Glamsterdam Hoodi testnet launch over security risks",
+      "link": "https://cointelegraph.com/news/ethereum-delays-glamsterdam-testnet-fork-gas-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 23 Oct 2026 05:09:41 +0000",
+      "source": "Cointelegraph",
+      "text": "Ethereum delays Glamsterdam Hoodi testnet launch over security risks ChainSecurity said it identified 13 real-world examples of smart contracts potentially affected by Glamsterdam’s gas changes and is coordinating responsible disclosure with affected projects."
+    },
+    {
+      "title": "Bitcoin Core changes security policy as AI makes bugs easier to find",
+      "link": "https://cointelegraph.com/news/bitcoin-core-changes-security-policy-as-ai-makes-bugs-easier-to-find?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 23 Oct 2026 04:34:14 +0000",
+      "source": "Cointelegraph",
+      "text": "Bitcoin Core changes security policy as AI makes bugs easier to find Bitcoin Core says keeping certain vulnerabilities secret no longer offers much protection in the wake of AI-assisted bug hunting."
+    },
+    {
+      "title": "Switzerland’s first retail spot Bitcoin ETF targets November launch",
       "link": "https://cointelegraph.com/news/switzerland-approves-first-spot-bitcoin-etf-for-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 23 Oct 2026 00:59:35 +0000",
       "source": "Cointelegraph",
-      "text": "Switzerland approves first spot Bitcoin ETF for retail investors BIT Asset Management’s Bitcoin Fund ETF is expected to begin trading on SIX Swiss Exchange in November, with its public offering restricted to Switzerland."
+      "text": "Switzerland’s first retail spot Bitcoin ETF targets November launch BIT Asset Management’s Bitcoin Fund ETF is expected to begin trading on SIX Swiss Exchange in November, with its public offering restricted to Switzerland."
     },
     {
       "title": "Pentagon bans US forces from using military info to bet in prediction markets",
@@ -401,13 +443,6 @@
       "published": "Thu, 22 Oct 2026 20:36:00 +0000",
       "source": "Cointelegraph",
       "text": "Dune launches real-time data feeds covering 200 onchain trading venues The new service aims to bring onchain trading data into institutional financial systems as tokenized stock markets expand and face growing scrutiny."
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 22 Oct 2026 20:09:59 +0000",
-      "source": "Cointelegraph",
-      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
       "title": "Winklevoss PAC moves into Texas Senate race with $81K ad buy",
@@ -492,20 +527,6 @@
       "published": "Thu, 22 Oct 2026 10:53:10 +0000",
       "source": "Cointelegraph",
       "text": "CoinDCX admits ‘operational losses’ after $16M wallet transfers draw scrutiny CoinDCX said it covered losses caused by a failed transfer process involving compromised wallets and credited all affected user accounts."
-    },
-    {
-      "title": "Bitcoin corrects below $82K after Tesla Q3 results, KOSPI falls",
-      "link": "https://cointelegraph.com/markets/bitcoin-corrects-below-82k-after-tesla-q3-results-kospi-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 22 Oct 2026 10:38:51 +0000",
-      "source": "Cointelegraph",
-      "text": "Bitcoin corrects below $82K after Tesla Q3 results, KOSPI falls Bitcoin reversed a run toward $85,000 after Tesla reported lower-than-expected capital expenditure in Q3."
-    },
-    {
-      "title": "Starknet voters back research into life beyond Ethereum",
-      "link": "https://cointelegraph.com/news/starknet-vote-post-quantum-l1-research-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 22 Oct 2026 09:37:54 +0000",
-      "source": "Cointelegraph",
-      "text": "Starknet voters back research into life beyond Ethereum StarkWare plans to release a draft whitepaper in November as it explores an independent, quantum-resistant blockchain."
     }
   ],
   "paper": {
