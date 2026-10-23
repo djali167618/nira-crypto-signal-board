@@ -1,38 +1,45 @@
 {
-  "generatedAt": "2026-10-22 23:37:18 UTC",
+  "generatedAt": "2026-10-23 01:54:18 UTC",
   "interval": "15m candles",
-  "marketSentiment": 23,
+  "marketSentiment": 0,
   "overallNewsScore": 0,
   "fearGreed": {
-    "value": 68,
-    "label": "Greed",
+    "value": 50,
+    "label": "Neutral",
     "source": "Alternative.me"
   },
   "coins": [
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 81320.03,
-      "change24h": -3.519,
-      "volume24h": 1624057215.1128993,
+      "price": 81524.02,
+      "change24h": -2.434,
+      "volume24h": 1645015716.6199558,
       "technical": {
-        "rsi": 43.9,
-        "ema9": 81377.35050261019,
-        "ema21": 81407.0342649153,
+        "rsi": 53.7,
+        "ema9": 81427.26174142603,
+        "ema21": 81412.08514835322,
         "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.47,
-        "score": 35
+        "emaBull": true,
+        "volumeRatio": 0.99,
+        "score": 77
       },
-      "newsScore": -10,
+      "newsScore": 0,
       "newsCount": 5,
       "news": [
+        {
+          "title": "Switzerland approves first spot Bitcoin ETF for retail investors",
+          "link": "https://cointelegraph.com/news/switzerland-approves-first-spot-bitcoin-etf-for-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Fri, 23 Oct 2026 00:59:35 +0000",
+          "source": "Cointelegraph",
+          "text": "Switzerland approves first spot Bitcoin ETF for retail investors BIT Asset Management’s Bitcoin Fund ETF is expected to begin trading on SIX Swiss Exchange in November, with its public offering restricted to Switzerland."
+        },
         {
           "title": "New DeepSeek ban in US, Swiss-Asia crypto ties deepen: Asia Express",
           "link": "https://cointelegraph.com/magazine/new-deepseek-ban-in-us-swiss-asia-crypto-ties-deepen-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "published": "Thu, 22 Oct 2026 22:50:22 +0000",
           "source": "Cointelegraph",
-          "text": "New DeepSeek ban in US, Swiss-Asia crypto ties deepen: Asia Express DeepSeek banned from US federal civilian agencies over spying fears. Singapore firm behind Europe’s first spot Bitcoin ETF, as Switzerland partners with Vietnam on crypto tech."
+          "text": "New DeepSeek ban in US, Swiss-Asia crypto ties deepen: Asia Express DeepSeek banned from US federal civilian agencies over spying fears. Singapore firm behind Europe’s only spot Bitcoin ETF, as Switzerland partners with Vietnam on crypto tech."
         },
         {
           "title": "Here’s what happened in crypto today",
@@ -54,34 +61,27 @@
           "published": "Thu, 22 Oct 2026 16:20:35 +0000",
           "source": "Cointelegraph",
           "text": "Bitcoin circles $81.5K ETF cost basis as Trump Iran comments send stocks lower Bitcoin extended daily losses to 3% as US stocks came under pressure from President Donald Trump’s comments on Iran military action."
-        },
-        {
-          "title": "CryptoQuant CEO calls rising Bitcoin hashrate ‘indirect bullish signal’ from institutions",
-          "link": "https://cointelegraph.com/markets/cryptoquant-rising-bitcoin-hashrate-indirect-bullish-signal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Thu, 22 Oct 2026 13:42:34 +0000",
-          "source": "Cointelegraph",
-          "text": "CryptoQuant CEO calls rising Bitcoin hashrate ‘indirect bullish signal’ from institutions Public miners backed by major TradFi players are coming back online, boosting Bitcoin’s hashrate, a positive sign for BTC’s fundamentals, according to CryptoQuant’s Ki Young Ju."
         }
       ],
-      "marketSentiment": 23,
-      "combinedScore": 43,
+      "marketSentiment": 0,
+      "combinedScore": 64,
       "signal": "WAIT",
-      "reason": "Technical 35/100; News -10; Market sentiment +23."
+      "reason": "Technical 77/100; News +0; Market sentiment +0."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2382.67,
-      "change24h": -3.794,
-      "volume24h": 770951571.664943,
+      "price": 2397.15,
+      "change24h": -2.327,
+      "volume24h": 771431782.010307,
       "technical": {
-        "rsi": 42.9,
-        "ema9": 2386.6044978397167,
-        "ema21": 2387.782061772104,
+        "rsi": 60.0,
+        "ema9": 2391.6409536414076,
+        "ema21": 2389.8785118924543,
         "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.11,
-        "score": 35
+        "emaBull": true,
+        "volumeRatio": 1.72,
+        "score": 94
       },
       "newsScore": 0,
       "newsCount": 2,
@@ -101,48 +101,48 @@
           "text": "Ethereum’s four-minute settlement plan could lower the cost of moving crypto A new draft targets a fourfold cut in the time it takes Ethereum transactions to become final, which could free up money transfer services tie up while customers’ payments clear."
         }
       ],
-      "marketSentiment": 23,
-      "combinedScore": 45,
-      "signal": "WAIT",
-      "reason": "Technical 35/100; News +0; Market sentiment +23."
+      "marketSentiment": 0,
+      "combinedScore": 72,
+      "signal": "BUY",
+      "reason": "Technical 94/100; News +0; Market sentiment +0."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 1216.01,
-      "change24h": -7.243,
-      "volume24h": 259489369.67853,
+      "price": 1225.38,
+      "change24h": -6.389,
+      "volume24h": 256393296.10995,
       "technical": {
-        "rsi": 45.0,
-        "ema9": 1212.5704086098092,
-        "ema21": 1214.828850764651,
+        "rsi": 54.7,
+        "ema9": 1220.298923427162,
+        "ema21": 1218.4581209519647,
         "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.56,
-        "score": 35
+        "emaBull": true,
+        "volumeRatio": 1.04,
+        "score": 77
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": 23,
-      "combinedScore": 45,
+      "marketSentiment": 0,
+      "combinedScore": 64,
       "signal": "WAIT",
-      "reason": "Technical 35/100; News +0; Market sentiment +23."
+      "reason": "Technical 77/100; News +0; Market sentiment +0."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 103.38,
-      "change24h": -3.347,
-      "volume24h": 189505499.63735,
+      "price": 104.23,
+      "change24h": -1.91,
+      "volume24h": 186612101.18975,
       "technical": {
-        "rsi": 42.8,
-        "ema9": 103.48333048039352,
-        "ema21": 103.60246632521205,
+        "rsi": 58.7,
+        "ema9": 103.86965283098853,
+        "ema21": 103.76029300116998,
         "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.74,
-        "score": 35
+        "emaBull": true,
+        "volumeRatio": 0.82,
+        "score": 89
       },
       "newsScore": 0,
       "newsCount": 2,
@@ -162,25 +162,25 @@
           "text": "Solana’s biggest network change since 2020 is live. Here’s how users benefit The new voting system targets settlement in about 150 milliseconds, potentially shortening waits for payments and deposits. Users can keep their existing wallets."
         }
       ],
-      "marketSentiment": 23,
-      "combinedScore": 45,
-      "signal": "WAIT",
-      "reason": "Technical 35/100; News +0; Market sentiment +23."
+      "marketSentiment": 0,
+      "combinedScore": 70,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment +0."
     },
     {
       "symbol": "USD1USDT",
       "coin": "USD1",
-      "price": 1.0,
-      "change24h": 0.024,
-      "volume24h": 141833431.96416,
+      "price": 0.99996,
+      "change24h": 0.026,
+      "volume24h": 137120546.65087,
       "technical": {
-        "rsi": 57.4,
-        "ema9": 1.0000150125498175,
-        "ema21": 0.9999845188597227,
+        "rsi": 53.8,
+        "ema9": 0.999998983910324,
+        "ema21": 0.9999913896560872,
         "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 0.26,
-        "score": 65
+        "volumeRatio": 1.13,
+        "score": 53
       },
       "newsScore": 0,
       "newsCount": 1,
@@ -193,25 +193,25 @@
           "text": "Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals According to a Circle shareholder, the US president’s “corruption” through USD1 left the company unable to compete with stablecoins, harming USDC."
         }
       ],
-      "marketSentiment": 23,
-      "combinedScore": 60,
+      "marketSentiment": 0,
+      "combinedScore": 52,
       "signal": "WAIT",
-      "reason": "Technical 65/100; News +0; Market sentiment +23."
+      "reason": "Technical 53/100; News +0; Market sentiment +0."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 4.865,
-      "change24h": -6.872,
-      "volume24h": 130149286.2243,
+      "price": 4.942,
+      "change24h": -5.162,
+      "volume24h": 131505541.1755,
       "technical": {
-        "rsi": 42.9,
-        "ema9": 4.877885089016804,
-        "ema21": 4.891109179733199,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.31,
-        "score": 11
+        "rsi": 56.9,
+        "ema9": 4.904314302361424,
+        "ema21": 4.898019483244143,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 2.04,
+        "score": 84
       },
       "newsScore": -100,
       "newsCount": 1,
@@ -224,25 +224,25 @@
           "text": "Crypto traders price India telecoms company Reliance Jio's IPO at about $110 billion The pre-IPO Jio contract on Bitget is trading near $12, a roughly 4% premium on the top price band, as India’s largest public offering remains open for subscription."
         }
       ],
-      "marketSentiment": 23,
-      "combinedScore": 18,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News -100; Market sentiment +23."
+      "marketSentiment": 0,
+      "combinedScore": 52,
+      "signal": "WAIT",
+      "reason": "Technical 84/100; News -100; Market sentiment +0."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 1.306,
-      "change24h": -4.315,
-      "volume24h": 120168910.4943,
+      "price": 1.3166,
+      "change24h": -2.604,
+      "volume24h": 114732213.05782,
       "technical": {
-        "rsi": 45.2,
-        "ema9": 1.3074337631877682,
-        "ema21": 1.3085693781064793,
+        "rsi": 57.3,
+        "ema9": 1.3109009520211454,
+        "ema21": 1.3099194857984267,
         "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.65,
-        "score": 47
+        "emaBull": true,
+        "volumeRatio": 0.83,
+        "score": 89
       },
       "newsScore": 100,
       "newsCount": 1,
@@ -255,25 +255,25 @@
           "text": "XRP Ledger bug fix moved to November after validator support dipped for two hours The fix lost its two-week countdown less than two days from the finish after support slipped to 26 of 35 validators. It’s now back at 31."
         }
       ],
-      "marketSentiment": 23,
-      "combinedScore": 66,
-      "signal": "WAIT",
-      "reason": "Technical 47/100; News +100; Market sentiment +23."
+      "marketSentiment": 0,
+      "combinedScore": 84,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +100; Market sentiment +0."
     },
     {
       "symbol": "AIUSDT",
       "coin": "AI",
-      "price": 0.0197,
-      "change24h": 1.546,
-      "volume24h": 83604501.93904,
+      "price": 0.02,
+      "change24h": 3.627,
+      "volume24h": 84459469.54116,
       "technical": {
-        "rsi": 47.3,
-        "ema9": 0.01964218558235709,
-        "ema21": 0.0198395438637784,
-        "macdBull": false,
+        "rsi": 49.2,
+        "ema9": 0.01973243458420305,
+        "ema21": 0.01978119476524239,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 8.34,
-        "score": 28
+        "volumeRatio": 0.32,
+        "score": 47
       },
       "newsScore": 17,
       "newsCount": 5,
@@ -314,65 +314,79 @@
           "text": "Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves BTC broke through its $84,000 ceiling late Wednesday, then slid back to the $82,500 support analysts are watching as tech futures fell."
         }
       ],
-      "marketSentiment": 23,
-      "combinedScore": 44,
+      "marketSentiment": 0,
+      "combinedScore": 51,
       "signal": "WAIT",
-      "reason": "Technical 28/100; News +17; Market sentiment +23."
-    },
-    {
-      "symbol": "BNBUSDT",
-      "coin": "BNB",
-      "price": 730.89,
-      "change24h": -2.221,
-      "volume24h": 73798086.80282,
-      "technical": {
-        "rsi": 48.2,
-        "ema9": 731.5823019135833,
-        "ema21": 731.4782170017804,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 1.33,
-        "score": 77
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": 23,
-      "combinedScore": 66,
-      "signal": "BUY",
-      "reason": "Technical 77/100; News +0; Market sentiment +23."
+      "reason": "Technical 47/100; News +17; Market sentiment +0."
     },
     {
       "symbol": "XAUTUSDT",
       "coin": "XAUT",
-      "price": 4029.82,
-      "change24h": -2.258,
-      "volume24h": 72020641.706534,
+      "price": 4009.99,
+      "change24h": -2.518,
+      "volume24h": 74847063.948365,
       "technical": {
-        "rsi": 43.4,
-        "ema9": 4033.243578865483,
-        "ema21": 4035.6411693762566,
-        "macdBull": true,
+        "rsi": 36.3,
+        "ema9": 4025.518452390749,
+        "ema21": 4029.920773046754,
+        "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.23,
-        "score": 35
+        "volumeRatio": 5.59,
+        "score": 6
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": 23,
-      "combinedScore": 45,
-      "signal": "WAIT",
-      "reason": "Technical 35/100; News +0; Market sentiment +23."
+      "marketSentiment": 0,
+      "combinedScore": 28,
+      "signal": "SELL",
+      "reason": "Technical 6/100; News +0; Market sentiment +0."
+    },
+    {
+      "symbol": "BNBUSDT",
+      "coin": "BNB",
+      "price": 734.31,
+      "change24h": -1.479,
+      "volume24h": 71587924.85757,
+      "technical": {
+        "rsi": 58.5,
+        "ema9": 731.9177966250136,
+        "ema21": 731.6295535244955,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 1.43,
+        "score": 89
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": 0,
+      "combinedScore": 70,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment +0."
     }
   ],
   "news": [
+    {
+      "title": "Switzerland approves first spot Bitcoin ETF for retail investors",
+      "link": "https://cointelegraph.com/news/switzerland-approves-first-spot-bitcoin-etf-for-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 23 Oct 2026 00:59:35 +0000",
+      "source": "Cointelegraph",
+      "text": "Switzerland approves first spot Bitcoin ETF for retail investors BIT Asset Management’s Bitcoin Fund ETF is expected to begin trading on SIX Swiss Exchange in November, with its public offering restricted to Switzerland."
+    },
+    {
+      "title": "Pentagon bans US forces from using military info to bet in prediction markets",
+      "link": "https://cointelegraph.com/news/pentagon-bans-us-forces-from-using-military-info-to-bet-in-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 22 Oct 2026 23:50:42 +0000",
+      "source": "Cointelegraph",
+      "text": "Pentagon bans US forces from using military info to bet in prediction markets Hegseth warned that prediction market wagers could expose military operations to adversaries."
+    },
     {
       "title": "New DeepSeek ban in US, Swiss-Asia crypto ties deepen: Asia Express",
       "link": "https://cointelegraph.com/magazine/new-deepseek-ban-in-us-swiss-asia-crypto-ties-deepen-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 22 Oct 2026 22:50:22 +0000",
       "source": "Cointelegraph",
-      "text": "New DeepSeek ban in US, Swiss-Asia crypto ties deepen: Asia Express DeepSeek banned from US federal civilian agencies over spying fears. Singapore firm behind Europe’s first spot Bitcoin ETF, as Switzerland partners with Vietnam on crypto tech."
+      "text": "New DeepSeek ban in US, Swiss-Asia crypto ties deepen: Asia Express DeepSeek banned from US federal civilian agencies over spying fears. Singapore firm behind Europe’s only spot Bitcoin ETF, as Switzerland partners with Vietnam on crypto tech."
     },
     {
       "title": "Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals",
@@ -492,20 +506,6 @@
       "published": "Thu, 22 Oct 2026 09:37:54 +0000",
       "source": "Cointelegraph",
       "text": "Starknet voters back research into life beyond Ethereum StarkWare plans to release a draft whitepaper in November as it explores an independent, quantum-resistant blockchain."
-    },
-    {
-      "title": "PHP flaw draws millions of exploit attempts, Cloudflare CEO warns",
-      "link": "https://cointelegraph.com/news/cloudflare-millions-exploit-attempts-php-vulnerability-disclosure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 22 Oct 2026 09:06:02 +0000",
-      "source": "Cointelegraph",
-      "text": "PHP flaw draws millions of exploit attempts, Cloudflare CEO warns Cloudflare’s Matthew Prince said the network saw thousands of exploit attempts even before the PHP vulnerability was publicly disclosed."
-    },
-    {
-      "title": "Bitcoin ETFs bag another $528M, taking 3-day haul past $1B",
-      "link": "https://cointelegraph.com/markets/bitcoin-etfs-528-million-btc-tops-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 22 Oct 2026 07:37:32 +0000",
-      "source": "Cointelegraph",
-      "text": "Bitcoin ETFs bag another $528M, taking 3-day haul past $1B US spot Bitcoin ETFs drew $1.08 billion over three trading sessions to push October flows back above water."
     }
   ],
   "paper": {
@@ -637,6 +637,26 @@
         "stopLoss": 4107.6644,
         "takeProfit": 3925.5512,
         "entryTime": "2026-10-22T17:27:00.895700+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "SOLUSDT",
+        "side": "BUY",
+        "entry": 104.23,
+        "stopLoss": 102.66655,
+        "takeProfit": 107.3569,
+        "entryTime": "2026-10-23T01:54:18.469743+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "XRPUSDT",
+        "side": "BUY",
+        "entry": 1.3166,
+        "stopLoss": 1.296851,
+        "takeProfit": 1.356098,
+        "entryTime": "2026-10-23T01:54:18.469743+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       }

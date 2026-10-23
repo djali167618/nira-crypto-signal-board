@@ -129,6 +129,26 @@
       "entryTime": "2026-10-22T17:27:00.895700+00:00",
       "status": "OPEN",
       "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "SOLUSDT",
+      "side": "BUY",
+      "entry": 104.23,
+      "stopLoss": 102.66655,
+      "takeProfit": 107.3569,
+      "entryTime": "2026-10-23T01:54:18.469743+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "XRPUSDT",
+      "side": "BUY",
+      "entry": 1.3166,
+      "stopLoss": 1.296851,
+      "takeProfit": 1.356098,
+      "entryTime": "2026-10-23T01:54:18.469743+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
     }
   ],
   "closed": [
