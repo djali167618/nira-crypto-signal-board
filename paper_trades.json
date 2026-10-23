@@ -51,16 +51,6 @@
       "mode": "PAPER ONLY"
     },
     {
-      "symbol": "PEPEUSDT",
-      "side": "SELL",
-      "entry": 4.5e-06,
-      "stopLoss": 4.5675e-06,
-      "takeProfit": 4.365e-06,
-      "entryTime": "2026-10-21T01:36:45.877427+00:00",
-      "status": "OPEN",
-      "mode": "PAPER ONLY"
-    },
-    {
       "symbol": "WLDUSDT",
       "side": "SELL",
       "entry": 0.5829,
@@ -385,6 +375,19 @@
       "exitPrice": 0.0197,
       "exitTime": "2026-10-22T20:42:21.413024+00:00",
       "pnlPercent": -1.99
+    },
+    {
+      "symbol": "PEPEUSDT",
+      "side": "SELL",
+      "entry": 4.5e-06,
+      "stopLoss": 4.5675e-06,
+      "takeProfit": 4.365e-06,
+      "entryTime": "2026-10-21T01:36:45.877427+00:00",
+      "status": "STOP_LOSS",
+      "mode": "PAPER ONLY",
+      "exitPrice": 5.04e-06,
+      "exitTime": "2026-10-23T12:10:59.741790+00:00",
+      "pnlPercent": -12.0
     }
   ]
 }

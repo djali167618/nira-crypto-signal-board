@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23 06:44:20 UTC",
+  "generatedAt": "2026-10-23 12:10:59 UTC",
   "interval": "15m candles",
   "marketSentiment": 0,
   "overallNewsScore": 0,
@@ -12,21 +12,28 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 81886.0,
-      "change24h": -0.796,
-      "volume24h": 1371493028.895442,
+      "price": 81572.0,
+      "change24h": -0.319,
+      "volume24h": 1131668551.2345035,
       "technical": {
-        "rsi": 55.9,
-        "ema9": 81801.65556611886,
-        "ema21": 81722.20006841588,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.77,
-        "score": 89
+        "rsi": 50.6,
+        "ema9": 81702.53512475509,
+        "ema21": 81717.27192777989,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 1.0,
+        "score": 23
       },
       "newsScore": 0,
       "newsCount": 5,
       "news": [
+        {
+          "title": "Bitcoin ETFs bleed $635M as October slides back into the red",
+          "link": "https://cointelegraph.com/markets/bitcoin-etfs-erase-october-gains-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Fri, 23 Oct 2026 07:09:39 +0000",
+          "source": "Cointelegraph",
+          "text": "Bitcoin ETFs bleed $635M as October slides back into the red Thursday’s withdrawals ended a three-day inflow streak and left US spot Bitcoin ETFs with $175 million in net outflows for October."
+        },
         {
           "title": "Here’s what happened in crypto today",
           "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -54,38 +61,38 @@
           "published": "Thu, 22 Oct 2026 22:50:22 +0000",
           "source": "Cointelegraph",
           "text": "New DeepSeek ban in US, Swiss-Asia crypto ties deepen: Asia Express DeepSeek banned from US federal civilian agencies over spying fears. Singapore firm behind Europe’s only spot Bitcoin ETF, as Switzerland partners with Vietnam on crypto tech."
-        },
-        {
-          "title": "Bitcoin hashrate hits seven-month high as AI shift fails to ease mining competition",
-          "link": "https://cointelegraph.com/news/bitcoin-mining-difficulty-hashrate-recovery-ai-shift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Thu, 22 Oct 2026 16:50:51 +0000",
-          "source": "Cointelegraph",
-          "text": "Bitcoin hashrate hits seven-month high as AI shift fails to ease mining competition According to BlocksBridge, Bitcoin’s mining difficulty is rising despite the industry’s AI transition, with smaller operators potentially absorbing equipment abandoned by larger competitors."
         }
       ],
       "marketSentiment": 0,
-      "combinedScore": 70,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment +0."
+      "combinedScore": 36,
+      "signal": "WAIT",
+      "reason": "Technical 23/100; News +0; Market sentiment +0."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2407.27,
-      "change24h": -1.007,
-      "volume24h": 737685544.152847,
+      "price": 2396.08,
+      "change24h": -0.277,
+      "volume24h": 740590389.107116,
       "technical": {
-        "rsi": 53.9,
-        "ema9": 2404.269930258334,
-        "ema21": 2402.2143003158144,
+        "rsi": 51.6,
+        "ema9": 2400.6212272198377,
+        "ema21": 2401.6303721086465,
         "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.44,
-        "score": 53
+        "emaBull": false,
+        "volumeRatio": 0.27,
+        "score": 23
       },
-      "newsScore": 50,
-      "newsCount": 4,
+      "newsScore": 20,
+      "newsCount": 5,
       "news": [
+        {
+          "title": "Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash",
+          "link": "https://cointelegraph.com/news/cysic-exploiter-eth-tornado-cash-white-hat-offer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Fri, 23 Oct 2026 10:13:06 +0000",
+          "source": "Cointelegraph",
+          "text": "Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash The attacker moved $744,000 in ETH and BNB to Tornado Cash after exploiting Cysic’s bridge to mint 10 million tokens on BNB Smart Chain."
+        },
         {
           "title": "Ethereum delays Glamsterdam Hoodi testnet launch over security risks",
           "link": "https://cointelegraph.com/news/ethereum-delays-glamsterdam-testnet-fork-gas-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -116,47 +123,47 @@
         }
       ],
       "marketSentiment": 0,
-      "combinedScore": 59,
+      "combinedScore": 40,
       "signal": "WAIT",
-      "reason": "Technical 53/100; News +50; Market sentiment +0."
+      "reason": "Technical 23/100; News +20; Market sentiment +0."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 1229.05,
-      "change24h": -2.942,
-      "volume24h": 216892282.04201,
+      "price": 1222.34,
+      "change24h": -2.558,
+      "volume24h": 179155089.15729,
       "technical": {
-        "rsi": 54.2,
-        "ema9": 1225.0640867671102,
-        "ema21": 1223.2659452590167,
+        "rsi": 56.9,
+        "ema9": 1220.674653618721,
+        "ema21": 1221.7895721750162,
         "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 1.36,
-        "score": 77
+        "emaBull": false,
+        "volumeRatio": 1.71,
+        "score": 64
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": 0,
-      "combinedScore": 64,
+      "combinedScore": 57,
       "signal": "WAIT",
-      "reason": "Technical 77/100; News +0; Market sentiment +0."
+      "reason": "Technical 64/100; News +0; Market sentiment +0."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 104.55,
-      "change24h": -0.067,
-      "volume24h": 160544997.60598,
+      "price": 104.29,
+      "change24h": -0.105,
+      "volume24h": 148119621.27439,
       "technical": {
-        "rsi": 57.6,
-        "ema9": 104.37780316243115,
-        "ema21": 104.23099100529276,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.44,
-        "score": 89
+        "rsi": 55.3,
+        "ema9": 104.32169236217864,
+        "ema21": 104.33690252787717,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 2.03,
+        "score": 40
       },
       "newsScore": 0,
       "newsCount": 2,
@@ -177,23 +184,23 @@
         }
       ],
       "marketSentiment": 0,
-      "combinedScore": 70,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment +0."
+      "combinedScore": 45,
+      "signal": "WAIT",
+      "reason": "Technical 40/100; News +0; Market sentiment +0."
     },
     {
       "symbol": "USD1USDT",
       "coin": "USD1",
-      "price": 0.99995,
-      "change24h": 0.022,
-      "volume24h": 119132108.59789,
+      "price": 0.99992,
+      "change24h": 0.014,
+      "volume24h": 117196962.33651,
       "technical": {
-        "rsi": 46.9,
-        "ema9": 0.9999791654695291,
-        "ema21": 0.9999854565012564,
+        "rsi": 46.5,
+        "ema9": 0.9999488219165993,
+        "ema21": 0.9999604676231622,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.44,
+        "volumeRatio": 0.31,
         "score": 23
       },
       "newsScore": 0,
@@ -215,21 +222,28 @@
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 4.999,
-      "change24h": 0.2,
-      "volume24h": 118934119.4778,
+      "price": 4.899,
+      "change24h": -1.863,
+      "volume24h": 106465962.0785,
       "technical": {
-        "rsi": 56.2,
-        "ema9": 4.9648158227113255,
-        "ema21": 4.950773760041093,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.56,
-        "score": 89
+        "rsi": 50.4,
+        "ema9": 4.915743074194641,
+        "ema21": 4.927426160801277,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 1.54,
+        "score": 28
       },
-      "newsScore": -50,
-      "newsCount": 2,
+      "newsScore": -33,
+      "newsCount": 3,
       "news": [
+        {
+          "title": "Bitcoin steadies near $81,700 as altcoins rebound, pepe climbs 13%",
+          "link": "https://www.coindesk.com/markets/2026/10/23/bitcoin-steadies-near-usd81-700-as-altcoins-rebound-pepe-climbs-13",
+          "published": "Fri, 23 Oct 2026 10:54:41 +0000",
+          "source": "CoinDesk",
+          "text": "Bitcoin steadies near $81,700 as altcoins rebound, pepe climbs 13% Bitcoin rose 0.5% to around $81,700 since midnight UTC while the CoinDesk 80 gained 1.4% and memecoins climbed 2.9%."
+        },
         {
           "title": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100",
           "link": "https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100",
@@ -246,141 +260,113 @@
         }
       ],
       "marketSentiment": 0,
-      "combinedScore": 62,
-      "signal": "WAIT",
-      "reason": "Technical 89/100; News -50; Market sentiment +0."
+      "combinedScore": 34,
+      "signal": "SELL",
+      "reason": "Technical 28/100; News -33; Market sentiment +0."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 1.3274,
-      "change24h": -1.058,
-      "volume24h": 101576556.59289,
+      "price": 1.3174,
+      "change24h": -0.566,
+      "volume24h": 95295561.83949,
       "technical": {
-        "rsi": 59.3,
-        "ema9": 1.3246077288003821,
-        "ema21": 1.3208983202303424,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.72,
-        "score": 89
-      },
-      "newsScore": 100,
-      "newsCount": 1,
-      "news": [
-        {
-          "title": "XRP Ledger bug fix moved to November after validator support dipped for two hours",
-          "link": "https://www.coindesk.com/tech/2026/10/22/xrp-ledger-bug-fix-moved-to-november-after-validator-support-dipped-for-two-hours",
-          "published": "Thu, 22 Oct 2026 04:36:20 +0000",
-          "source": "CoinDesk",
-          "text": "XRP Ledger bug fix moved to November after validator support dipped for two hours The fix lost its two-week countdown less than two days from the finish after support slipped to 26 of 35 validators. It’s now back at 31."
-        }
-      ],
-      "marketSentiment": 0,
-      "combinedScore": 84,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +100; Market sentiment +0."
-    },
-    {
-      "symbol": "AIUSDT",
-      "coin": "AI",
-      "price": 0.0203,
-      "change24h": 6.842,
-      "volume24h": 86277239.05924,
-      "technical": {
-        "rsi": 54.6,
-        "ema9": 0.020441644440080165,
-        "ema21": 0.020337501775187342,
+        "rsi": 47.7,
+        "ema9": 1.3207366109930412,
+        "ema21": 1.3216830656433203,
         "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.04,
-        "score": 53
-      },
-      "newsScore": 14,
-      "newsCount": 5,
-      "news": [
-        {
-          "title": "Bitcoin Core changes security policy as AI makes bugs easier to find",
-          "link": "https://cointelegraph.com/news/bitcoin-core-changes-security-policy-as-ai-makes-bugs-easier-to-find?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Fri, 23 Oct 2026 04:34:14 +0000",
-          "source": "Cointelegraph",
-          "text": "Bitcoin Core changes security policy as AI makes bugs easier to find Bitcoin Core says keeping certain vulnerabilities secret no longer offers much protection in the wake of AI-assisted bug hunting."
-        },
-        {
-          "title": "Bitcoin hashrate hits seven-month high as AI shift fails to ease mining competition",
-          "link": "https://cointelegraph.com/news/bitcoin-mining-difficulty-hashrate-recovery-ai-shift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Thu, 22 Oct 2026 16:50:51 +0000",
-          "source": "Cointelegraph",
-          "text": "Bitcoin hashrate hits seven-month high as AI shift fails to ease mining competition According to BlocksBridge, Bitcoin’s mining difficulty is rising despite the industry’s AI transition, with smaller operators potentially absorbing equipment abandoned by larger competitors."
-        },
-        {
-          "title": "A16z is the latest VC giant to widen bets beyond crypto and into AI and emerging tech",
-          "link": "https://www.coindesk.com/business/2026/10/22/a16z-is-the-latest-vc-giant-to-widen-bets-beyond-crypto-and-into-ai-and-emerging-tech",
-          "published": "Thu, 22 Oct 2026 18:30:57 +0000",
-          "source": "CoinDesk",
-          "text": "A16z is the latest VC giant to widen bets beyond crypto and into AI and emerging tech The venture investor behind early bets on Coinbase, Solana and Uniswap said is broadening its focus, joining other crypto investment firms looking beyond blockchain to artificial intelligence and tech themes."
-        },
-        {
-          "title": "Bitcoin slides below $82,000 as AI doubts return, with DeFi tokens leading declines",
-          "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-slides-below-usd82-000-as-ai-doubts-return-with-defi-tokens-leading-declines",
-          "published": "Thu, 22 Oct 2026 10:50:04 +0000",
-          "source": "CoinDesk",
-          "text": "Bitcoin slides below $82,000 as AI doubts return, with DeFi tokens leading declines Bitcoin as much as 2.9% to around $81,600 as Nasdaq futures dropped, while the CoinDesk 80 lost 3.5% and DeFi index slid 6%."
-        },
-        {
-          "title": "Live updates: Bitcoin falls back to $81,000, with interest rates tumbling as stocks crack",
-          "link": "https://www.coindesk.com/business/2026/10/22/live-updates-bitcoin-s-round-trip-to-usd85-000-burns-traders-on-both-sides",
-          "published": "Thu, 22 Oct 2026 09:54:26 +0000",
-          "source": "CoinDesk",
-          "text": "Live updates: Bitcoin falls back to $81,000, with interest rates tumbling as stocks crack The Nasdaq is down more than 2% as the AI bull market trade continues to unwind. U.S. interest rates are plunging even as oil surges."
-        }
-      ],
-      "marketSentiment": 0,
-      "combinedScore": 54,
-      "signal": "WAIT",
-      "reason": "Technical 53/100; News +14; Market sentiment +0."
-    },
-    {
-      "symbol": "XAUTUSDT",
-      "coin": "XAUT",
-      "price": 4020.81,
-      "change24h": -1.811,
-      "volume24h": 81329695.54272,
-      "technical": {
-        "rsi": 46.5,
-        "ema9": 4021.493940821989,
-        "ema21": 4022.4821731238617,
-        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 1.8,
-        "score": 42
+        "volumeRatio": 1.12,
+        "score": 23
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": 0,
-      "combinedScore": 46,
+      "combinedScore": 36,
       "signal": "WAIT",
-      "reason": "Technical 42/100; News +0; Market sentiment +0."
+      "reason": "Technical 23/100; News +0; Market sentiment +0."
     },
     {
       "symbol": "BNBUSDT",
       "coin": "BNB",
-      "price": 743.89,
-      "change24h": 0.774,
-      "volume24h": 65986578.72827,
+      "price": 746.51,
+      "change24h": 1.774,
+      "volume24h": 83330057.70745,
       "technical": {
-        "rsi": 76.7,
-        "ema9": 741.6477694858868,
-        "ema21": 739.2081400402478,
+        "rsi": 64.3,
+        "ema9": 746.4713216582709,
+        "ema21": 745.3454770389661,
+        "macdBull": false,
+        "emaBull": true,
+        "volumeRatio": 0.64,
+        "score": 65
+      },
+      "newsScore": -100,
+      "newsCount": 1,
+      "news": [
+        {
+          "title": "Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash",
+          "link": "https://cointelegraph.com/news/cysic-exploiter-eth-tornado-cash-white-hat-offer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Fri, 23 Oct 2026 10:13:06 +0000",
+          "source": "Cointelegraph",
+          "text": "Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash The attacker moved $744,000 in ETH and BNB to Tornado Cash after exploiting Cysic’s bridge to mint 10 million tokens on BNB Smart Chain."
+        }
+      ],
+      "marketSentiment": 0,
+      "combinedScore": 42,
+      "signal": "WAIT",
+      "reason": "Technical 65/100; News -100; Market sentiment +0."
+    },
+    {
+      "symbol": "XAUTUSDT",
+      "coin": "XAUT",
+      "price": 4026.83,
+      "change24h": -1.146,
+      "volume24h": 77566809.42946,
+      "technical": {
+        "rsi": 52.3,
+        "ema9": 4027.595143023177,
+        "ema21": 4025.9003776811105,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 1.04,
-        "score": 72
+        "volumeRatio": 0.88,
+        "score": 77
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
+      "marketSentiment": 0,
+      "combinedScore": 64,
+      "signal": "WAIT",
+      "reason": "Technical 77/100; News +0; Market sentiment +0."
+    },
+    {
+      "symbol": "PEPEUSDT",
+      "coin": "PEPE",
+      "price": 5.04e-06,
+      "change24h": 12.249,
+      "volume24h": 75587765.83413292,
+      "technical": {
+        "rsi": 80.5,
+        "ema9": 4.989285641126836e-06,
+        "ema21": 4.876166462416418e-06,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.88,
+        "score": 72
+      },
+      "newsScore": 0,
+      "newsCount": 1,
+      "news": [
+        {
+          "title": "Bitcoin steadies near $81,700 as altcoins rebound, pepe climbs 13%",
+          "link": "https://www.coindesk.com/markets/2026/10/23/bitcoin-steadies-near-usd81-700-as-altcoins-rebound-pepe-climbs-13",
+          "published": "Fri, 23 Oct 2026 10:54:41 +0000",
+          "source": "CoinDesk",
+          "text": "Bitcoin steadies near $81,700 as altcoins rebound, pepe climbs 13% Bitcoin rose 0.5% to around $81,700 since midnight UTC while the CoinDesk 80 gained 1.4% and memecoins climbed 2.9%."
+        }
+      ],
       "marketSentiment": 0,
       "combinedScore": 61,
       "signal": "WAIT",
@@ -388,6 +374,48 @@
     }
   ],
   "news": [
+    {
+      "title": "Was crypto self-custody ever designed for beginners?",
+      "link": "https://cointelegraph.com/news/self-custody-crypto-beginners-mainstream-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 23 Oct 2026 11:47:47 +0000",
+      "source": "Cointelegraph",
+      "text": "Was crypto self-custody ever designed for beginners? Recent hardware wallet security incidents have renewed debate over whether self-custody is suitable for beginners, as multisig and seedless designs carry their own risks."
+    },
+    {
+      "title": "Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash",
+      "link": "https://cointelegraph.com/news/cysic-exploiter-eth-tornado-cash-white-hat-offer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 23 Oct 2026 10:13:06 +0000",
+      "source": "Cointelegraph",
+      "text": "Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash The attacker moved $744,000 in ETH and BNB to Tornado Cash after exploiting Cysic’s bridge to mint 10 million tokens on BNB Smart Chain."
+    },
+    {
+      "title": "Bybit secures first full Dubai license for spot trading services",
+      "link": "https://cointelegraph.com/news/bybit-first-full-dubai-spot-trading-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 23 Oct 2026 09:50:04 +0000",
+      "source": "Cointelegraph",
+      "text": "Bybit secures first full Dubai license for spot trading services Bybit’s new VARA licence authorizes spot trading services in Dubai, but the exchange must complete additional regulatory requirements before launching."
+    },
+    {
+      "title": "HSBC launches Hong Kong dollar stablecoin for retail payments",
+      "link": "https://cointelegraph.com/news/hsbc-launches-redcoin-hong-kong-dollar-stablecoin-payme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 23 Oct 2026 08:47:34 +0000",
+      "source": "Cointelegraph",
+      "text": "HSBC launches Hong Kong dollar stablecoin for retail payments HSBC is rolling out RedCoin wallets to PayMe users, with plans to support tokenized investment subscriptions and expand into institutional uses."
+    },
+    {
+      "title": "Malaysia, Thailand join Singapore’s cross-border stablecoin push",
+      "link": "https://cointelegraph.com/news/malaysia-thailand-join-singapores-cross-border-stablecoin-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 23 Oct 2026 07:15:53 +0000",
+      "source": "Cointelegraph",
+      "text": "Malaysia, Thailand join Singapore’s cross-border stablecoin push BLOOM seeks to cut costs by helping financial institutions coordinate cross-border use of stablecoins and tokenized deposits."
+    },
+    {
+      "title": "Bitcoin ETFs bleed $635M as October slides back into the red",
+      "link": "https://cointelegraph.com/markets/bitcoin-etfs-erase-october-gains-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 23 Oct 2026 07:09:39 +0000",
+      "source": "Cointelegraph",
+      "text": "Bitcoin ETFs bleed $635M as October slides back into the red Thursday’s withdrawals ended a three-day inflow streak and left US spot Bitcoin ETFs with $175 million in net outflows for October."
+    },
     {
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -485,48 +513,6 @@
       "published": "Thu, 22 Oct 2026 14:41:00 +0000",
       "source": "Cointelegraph",
       "text": "Fireblocks disputes report of $2.5B Visa acquisition talks Fireblocks told Cointelegraph that reports of a potential $2.5 billion acquisition by Visa are “not true at present time,” while Visa declined to comment on the reported talks."
-    },
-    {
-      "title": "CryptoQuant CEO calls rising Bitcoin hashrate ‘indirect bullish signal’ from institutions",
-      "link": "https://cointelegraph.com/markets/cryptoquant-rising-bitcoin-hashrate-indirect-bullish-signal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 22 Oct 2026 13:42:34 +0000",
-      "source": "Cointelegraph",
-      "text": "CryptoQuant CEO calls rising Bitcoin hashrate ‘indirect bullish signal’ from institutions Public miners backed by major TradFi players are coming back online, boosting Bitcoin’s hashrate, a positive sign for BTC’s fundamentals, according to CryptoQuant’s Ki Young Ju."
-    },
-    {
-      "title": "Thailand SEC says several companies eye crypto ETFs, none has applied",
-      "link": "https://cointelegraph.com/news/thailand-sec-crypto-etf-applications?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 22 Oct 2026 13:20:57 +0000",
-      "source": "Cointelegraph",
-      "text": "Thailand SEC says several companies eye crypto ETFs, none has applied Thailand’s SEC says several asset managers have sought consultations on spot crypto ETFs, but it cannot confirm whether the first funds will launch in 2026."
-    },
-    {
-      "title": "SoFi unveils bank-issued tokenized deposit for yield-bearing crypto funds",
-      "link": "https://cointelegraph.com/news/sofi-bank-issued-tokenized-deposit-yield-bearing-crypto-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 22 Oct 2026 13:13:45 +0000",
-      "source": "Cointelegraph",
-      "text": "SoFi unveils bank-issued tokenized deposit for yield-bearing crypto funds SoFi Bank launched SoFi Earn, a tokenized deposit paying 4.40% APY with FDIC coverage, allowing users to convert funds to stablecoins 24/7."
-    },
-    {
-      "title": "Bitcoin ETF buyers are trend followers, not setters, DWF Labs says",
-      "link": "https://cointelegraph.com/news/bitcoin-etf-flows-follow-price-trends-dwf-labs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 22 Oct 2026 13:00:00 +0000",
-      "source": "Cointelegraph",
-      "text": "Bitcoin ETF buyers are trend followers, not setters, DWF Labs says DWF Labs research finds that Bitcoin ETF flows follow past BTC price movements rather than predict future returns, with investors buying rallies and selling dips."
-    },
-    {
-      "title": "The UK needs a workable route to regulated DeFi access",
-      "link": "https://cointelegraph.com/opinion/uk-crypto-rules-regulated-defi-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 22 Oct 2026 12:00:00 +0000",
-      "source": "Cointelegraph",
-      "text": "The UK needs a workable route to regulated DeFi access The UK’s 2027 crypto rules risk a de facto ban on regulated firms providing access to DeFi, argues Coinbase’s European policy head Katie Harries."
-    },
-    {
-      "title": "CoinDCX admits ‘operational losses’ after $16M wallet transfers draw scrutiny",
-      "link": "https://cointelegraph.com/news/coindcx-suspicious-outflows-wallet-compromised-2025-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 22 Oct 2026 10:53:10 +0000",
-      "source": "Cointelegraph",
-      "text": "CoinDCX admits ‘operational losses’ after $16M wallet transfers draw scrutiny CoinDCX said it covered losses caused by a failed transfer process involving compromised wallets and credited all affected user accounts."
     }
   ],
   "paper": {
@@ -578,16 +564,6 @@
         "stopLoss": 1364.9736,
         "takeProfit": 1427.3328,
         "entryTime": "2026-10-19T23:02:38.643180+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
-        "symbol": "PEPEUSDT",
-        "side": "SELL",
-        "entry": 4.5e-06,
-        "stopLoss": 4.5675e-06,
-        "takeProfit": 4.365e-06,
-        "entryTime": "2026-10-21T01:36:45.877427+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       },
@@ -916,6 +892,19 @@
         "exitPrice": 0.0197,
         "exitTime": "2026-10-22T20:42:21.413024+00:00",
         "pnlPercent": -1.99
+      },
+      {
+        "symbol": "PEPEUSDT",
+        "side": "SELL",
+        "entry": 4.5e-06,
+        "stopLoss": 4.5675e-06,
+        "takeProfit": 4.365e-06,
+        "entryTime": "2026-10-21T01:36:45.877427+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 5.04e-06,
+        "exitTime": "2026-10-23T12:10:59.741790+00:00",
+        "pnlPercent": -12.0
       }
     ]
   },
