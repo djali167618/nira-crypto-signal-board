@@ -129,6 +129,26 @@
       "entryTime": "2026-10-24T01:37:42.164364+00:00",
       "status": "OPEN",
       "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "AIUSDT",
+      "side": "SELL",
+      "entry": 0.0196,
+      "stopLoss": 0.019894,
+      "takeProfit": 0.019012,
+      "entryTime": "2026-10-24T14:41:28.867191+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "WLDUSDT",
+      "side": "SELL",
+      "entry": 0.4663,
+      "stopLoss": 0.4732945,
+      "takeProfit": 0.452311,
+      "entryTime": "2026-10-24T14:41:28.867191+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
     }
   ],
   "closed": [

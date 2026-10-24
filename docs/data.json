@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24 11:23:25 UTC",
+  "generatedAt": "2026-10-24 14:41:28 UTC",
   "interval": "15m candles",
   "marketSentiment": 7,
   "overallNewsScore": 16,
@@ -12,17 +12,17 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 80601.85,
-      "change24h": -1.24,
-      "volume24h": 936314447.1126751,
+      "price": 80259.73,
+      "change24h": -1.931,
+      "volume24h": 912053078.6802185,
       "technical": {
-        "rsi": 44.7,
-        "ema9": 80652.7474937583,
-        "ema21": 80703.55554320411,
-        "macdBull": true,
+        "rsi": 27.4,
+        "ema9": 80603.75816820857,
+        "ema21": 80658.72092632057,
+        "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.4,
-        "score": 35
+        "volumeRatio": 15.53,
+        "score": 23
       },
       "newsScore": 20,
       "newsCount": 5,
@@ -64,24 +64,24 @@
         }
       ],
       "marketSentiment": 7,
-      "combinedScore": 46,
+      "combinedScore": 40,
       "signal": "WAIT",
-      "reason": "Technical 35/100; News +20; Market sentiment +7."
+      "reason": "Technical 23/100; News +20; Market sentiment +7."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2366.89,
-      "change24h": -1.26,
-      "volume24h": 377257110.474917,
+      "price": 2345.04,
+      "change24h": -2.747,
+      "volume24h": 372394356.473473,
       "technical": {
-        "rsi": 45.5,
-        "ema9": 2369.029136726121,
-        "ema21": 2371.537197529714,
-        "macdBull": true,
+        "rsi": 24.4,
+        "ema9": 2363.30807363604,
+        "ema21": 2366.742632082598,
+        "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.41,
-        "score": 47
+        "volumeRatio": 23.6,
+        "score": 23
       },
       "newsScore": 0,
       "newsCount": 5,
@@ -123,24 +123,24 @@
         }
       ],
       "marketSentiment": 7,
-      "combinedScore": 49,
+      "combinedScore": 37,
       "signal": "WAIT",
-      "reason": "Technical 47/100; News +0; Market sentiment +7."
+      "reason": "Technical 23/100; News +0; Market sentiment +7."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 101.55,
-      "change24h": -2.44,
-      "volume24h": 175650730.71801,
+      "price": 100.56,
+      "change24h": -3.991,
+      "volume24h": 174160912.41206,
       "technical": {
-        "rsi": 41.1,
-        "ema9": 101.65973291837327,
-        "ema21": 101.85030326577463,
-        "macdBull": true,
+        "rsi": 26.3,
+        "ema9": 101.24439719317677,
+        "ema21": 101.47620760265798,
+        "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.29,
-        "score": 35
+        "volumeRatio": 16.35,
+        "score": 23
       },
       "newsScore": 0,
       "newsCount": 1,
@@ -154,50 +154,50 @@
         }
       ],
       "marketSentiment": 7,
-      "combinedScore": 43,
+      "combinedScore": 37,
       "signal": "WAIT",
-      "reason": "Technical 35/100; News +0; Market sentiment +7."
+      "reason": "Technical 23/100; News +0; Market sentiment +7."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 1157.16,
-      "change24h": -4.695,
-      "volume24h": 174114467.59341,
+      "price": 1139.44,
+      "change24h": -8.582,
+      "volume24h": 159778252.70407,
       "technical": {
-        "rsi": 46.3,
-        "ema9": 1155.5513298638248,
-        "ema21": 1160.1028958190539,
-        "macdBull": true,
+        "rsi": 34.0,
+        "ema9": 1153.5578872350684,
+        "ema21": 1156.4192825908708,
+        "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.4,
-        "score": 47
+        "volumeRatio": 12.48,
+        "score": 6
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": 7,
-      "combinedScore": 49,
-      "signal": "WAIT",
-      "reason": "Technical 47/100; News +0; Market sentiment +7."
+      "combinedScore": 29,
+      "signal": "SELL",
+      "reason": "Technical 6/100; News +0; Market sentiment +7."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 4.515,
-      "change24h": -7.725,
-      "volume24h": 117463702.9149,
+      "price": 4.39,
+      "change24h": -10.554,
+      "volume24h": 124018566.6276,
       "technical": {
-        "rsi": 44.0,
-        "ema9": 4.513740981549531,
-        "ema21": 4.542567574614829,
-        "macdBull": true,
+        "rsi": 25.5,
+        "ema9": 4.43253649213495,
+        "ema21": 4.47326916451183,
+        "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.52,
-        "score": 35
+        "volumeRatio": 11.8,
+        "score": 23
       },
-      "newsScore": -33,
-      "newsCount": 3,
+      "newsScore": 0,
+      "newsCount": 2,
       "news": [
         {
           "title": "Bitcoin steadies near $81,700 as altcoins rebound, pepe climbs 13%",
@@ -212,34 +212,27 @@
           "published": "Fri, 23 Oct 2026 03:13:01 +0000",
           "source": "CoinDesk",
           "text": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100 Bitcoin and gold pared early losses as the yen gave up gains and Asian stocks rebounded, though oil near $100 keeps inflation risks in focus."
-        },
-        {
-          "title": "Crypto traders price India telecoms company Reliance Jio's IPO at about $110 billion",
-          "link": "https://www.coindesk.com/markets/2026/10/22/crypto-traders-price-india-telecoms-company-reliance-jio-s-ipo-at-about-usd110-billion",
-          "published": "Thu, 22 Oct 2026 10:18:28 +0000",
-          "source": "CoinDesk",
-          "text": "Crypto traders price India telecoms company Reliance Jio's IPO at about $110 billion The pre-IPO Jio contract on Bitget is trading near $12, a roughly 4% premium on the top price band, as India’s largest public offering remains open for subscription."
         }
       ],
       "marketSentiment": 7,
-      "combinedScore": 38,
+      "combinedScore": 37,
       "signal": "WAIT",
-      "reason": "Technical 35/100; News -33; Market sentiment +7."
+      "reason": "Technical 23/100; News +0; Market sentiment +7."
     },
     {
       "symbol": "BNBUSDT",
       "coin": "BNB",
-      "price": 732.18,
-      "change24h": -1.766,
-      "volume24h": 91638199.99538,
+      "price": 728.14,
+      "change24h": -2.805,
+      "volume24h": 91227011.57221,
       "technical": {
-        "rsi": 34.6,
-        "ema9": 733.0924696936606,
-        "ema21": 734.5873687792955,
+        "rsi": 28.7,
+        "ema9": 730.8818642980632,
+        "ema21": 732.1580777397853,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.44,
-        "score": 11
+        "volumeRatio": 10.9,
+        "score": 16
       },
       "newsScore": -100,
       "newsCount": 1,
@@ -253,24 +246,24 @@
         }
       ],
       "marketSentiment": 7,
-      "combinedScore": 16,
+      "combinedScore": 19,
       "signal": "SELL",
-      "reason": "Technical 11/100; News -100; Market sentiment +7."
+      "reason": "Technical 16/100; News -100; Market sentiment +7."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 1.2809,
-      "change24h": -2.807,
-      "volume24h": 90770158.84367,
+      "price": 1.275,
+      "change24h": -3.226,
+      "volume24h": 88833365.46913,
       "technical": {
-        "rsi": 47.2,
-        "ema9": 1.2807754270237945,
-        "ema21": 1.2827986160362836,
-        "macdBull": true,
+        "rsi": 34.0,
+        "ema9": 1.2812043879358683,
+        "ema21": 1.282171049652841,
+        "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.77,
-        "score": 47
+        "volumeRatio": 8.26,
+        "score": 6
       },
       "newsScore": 100,
       "newsCount": 1,
@@ -284,24 +277,106 @@
         }
       ],
       "marketSentiment": 7,
-      "combinedScore": 64,
+      "combinedScore": 44,
       "signal": "WAIT",
-      "reason": "Technical 47/100; News +100; Market sentiment +7."
+      "reason": "Technical 6/100; News +100; Market sentiment +7."
+    },
+    {
+      "symbol": "AIUSDT",
+      "coin": "AI",
+      "price": 0.0196,
+      "change24h": -3.922,
+      "volume24h": 81628280.64168,
+      "technical": {
+        "rsi": 28.3,
+        "ema9": 0.019730108839840804,
+        "ema21": 0.01988899834942302,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.02,
+        "score": 11
+      },
+      "newsScore": 0,
+      "newsCount": 5,
+      "news": [
+        {
+          "title": "Bitcoin consolidates after 3% loss as AI fears stoke fresh stock-market weakness",
+          "link": "https://cointelegraph.com/markets/bitcoin-consolidates-after-3-loss-as-ai-fears-stoke-fresh-stock-market-weakness?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Fri, 23 Oct 2026 12:23:58 +0000",
+          "source": "Cointelegraph",
+          "text": "Bitcoin consolidates after 3% loss as AI fears stoke fresh stock-market weakness Bitcoin price volatility cooled as stock markets battled another day of resurgent AI fears during Friday’s Asia trading session."
+        },
+        {
+          "title": "Bitcoin Core changes security policy as AI makes bugs easier to find",
+          "link": "https://cointelegraph.com/news/bitcoin-core-changes-security-policy-as-ai-makes-bugs-easier-to-find?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Fri, 23 Oct 2026 04:34:14 +0000",
+          "source": "Cointelegraph",
+          "text": "Bitcoin Core changes security policy as AI makes bugs easier to find Bitcoin Core says keeping certain vulnerabilities secret no longer offers much protection in the wake of AI-assisted bug hunting."
+        },
+        {
+          "title": "Bitcoin hashrate hits seven-month high as AI shift fails to ease mining competition",
+          "link": "https://cointelegraph.com/news/bitcoin-mining-difficulty-hashrate-recovery-ai-shift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Thu, 22 Oct 2026 16:50:51 +0000",
+          "source": "Cointelegraph",
+          "text": "Bitcoin hashrate hits seven-month high as AI shift fails to ease mining competition According to BlocksBridge, Bitcoin’s mining difficulty is rising despite the industry’s AI transition, with smaller operators potentially absorbing equipment abandoned by larger competitors."
+        },
+        {
+          "title": "Bitcoin Core changes security rules as AI makes finding code bugs dangerously easy",
+          "link": "https://www.coindesk.com/tech/2026/10/23/bitcoin-will-now-stop-hiding-bugs-an-ai-can-find-in-one-prompt",
+          "published": "Fri, 23 Oct 2026 12:03:53 +0000",
+          "source": "CoinDesk",
+          "text": "Bitcoin Core changes security rules as AI makes finding code bugs dangerously easy Developers merged a policy change that ends the months-long embargo for flaws a chatbot could rediscover, after a summer in which AI found hundreds of bitcoin bugs before the humans did."
+        },
+        {
+          "title": "A16z is the latest VC giant to widen bets beyond crypto and into AI and emerging tech",
+          "link": "https://www.coindesk.com/business/2026/10/22/a16z-is-the-latest-vc-giant-to-widen-bets-beyond-crypto-and-into-ai-and-emerging-tech",
+          "published": "Thu, 22 Oct 2026 18:30:57 +0000",
+          "source": "CoinDesk",
+          "text": "A16z is the latest VC giant to widen bets beyond crypto and into AI and emerging tech The venture investor behind early bets on Coinbase, Solana and Uniswap said is broadening its focus, joining other crypto investment firms looking beyond blockchain to artificial intelligence and tech themes."
+        }
+      ],
+      "marketSentiment": 7,
+      "combinedScore": 31,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment +7."
+    },
+    {
+      "symbol": "WLDUSDT",
+      "coin": "WLD",
+      "price": 0.4663,
+      "change24h": -13.375,
+      "volume24h": 79197217.69969,
+      "technical": {
+        "rsi": 42.0,
+        "ema9": 0.46779475605766746,
+        "ema21": 0.46941423936365556,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 6.13,
+        "score": 16
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": 7,
+      "combinedScore": 34,
+      "signal": "SELL",
+      "reason": "Technical 16/100; News +0; Market sentiment +7."
     },
     {
       "symbol": "USD1USDT",
       "coin": "USD1",
-      "price": 0.9999,
-      "change24h": -0.003,
-      "volume24h": 88945842.42447,
+      "price": 0.99997,
+      "change24h": -0.004,
+      "volume24h": 78128446.82821,
       "technical": {
-        "rsi": 53.8,
-        "ema9": 0.9998919109715658,
-        "ema21": 0.9998904293950281,
+        "rsi": 63.1,
+        "ema9": 0.9998932704650166,
+        "ema21": 0.9998903220745665,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.87,
-        "score": 77
+        "volumeRatio": 10.02,
+        "score": 94
       },
       "newsScore": 0,
       "newsCount": 1,
@@ -315,63 +390,9 @@
         }
       ],
       "marketSentiment": 7,
-      "combinedScore": 64,
-      "signal": "WAIT",
-      "reason": "Technical 77/100; News +0; Market sentiment +7."
-    },
-    {
-      "symbol": "PEPEUSDT",
-      "coin": "PEPE",
-      "price": 4.42e-06,
-      "change24h": -10.345,
-      "volume24h": 85858809.08226036,
-      "technical": {
-        "rsi": 43.3,
-        "ema9": 4.388588244186445e-06,
-        "ema21": 4.417223197114779e-06,
-        "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 1.79,
-        "score": 40
-      },
-      "newsScore": 0,
-      "newsCount": 1,
-      "news": [
-        {
-          "title": "Bitcoin steadies near $81,700 as altcoins rebound, pepe climbs 13%",
-          "link": "https://www.coindesk.com/markets/2026/10/23/bitcoin-steadies-near-usd81-700-as-altcoins-rebound-pepe-climbs-13",
-          "published": "Fri, 23 Oct 2026 10:54:41 +0000",
-          "source": "CoinDesk",
-          "text": "Bitcoin steadies near $81,700 as altcoins rebound, pepe climbs 13% Bitcoin rose 0.5% to around $81,700 since midnight UTC while the CoinDesk 80 gained 1.4% and memecoins climbed 2.9%."
-        }
-      ],
-      "marketSentiment": 7,
-      "combinedScore": 46,
-      "signal": "WAIT",
-      "reason": "Technical 40/100; News +0; Market sentiment +7."
-    },
-    {
-      "symbol": "WLDUSDT",
-      "coin": "WLD",
-      "price": 0.4704,
-      "change24h": -12.614,
-      "volume24h": 79972115.94574,
-      "technical": {
-        "rsi": 43.8,
-        "ema9": 0.4692388125314814,
-        "ema21": 0.47130479203993325,
-        "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.36,
-        "score": 35
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": 7,
-      "combinedScore": 43,
-      "signal": "WAIT",
-      "reason": "Technical 35/100; News +0; Market sentiment +7."
+      "combinedScore": 73,
+      "signal": "BUY",
+      "reason": "Technical 94/100; News +0; Market sentiment +7."
     }
   ],
   "news": [
@@ -645,6 +666,26 @@
         "stopLoss": 1.307523,
         "takeProfit": 1.249554,
         "entryTime": "2026-10-24T01:37:42.164364+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "AIUSDT",
+        "side": "SELL",
+        "entry": 0.0196,
+        "stopLoss": 0.019894,
+        "takeProfit": 0.019012,
+        "entryTime": "2026-10-24T14:41:28.867191+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "WLDUSDT",
+        "side": "SELL",
+        "entry": 0.4663,
+        "stopLoss": 0.4732945,
+        "takeProfit": 0.452311,
+        "entryTime": "2026-10-24T14:41:28.867191+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       }
