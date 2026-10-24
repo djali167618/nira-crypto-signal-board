@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24 14:41:28 UTC",
+  "generatedAt": "2026-10-24 17:36:14 UTC",
   "interval": "15m candles",
   "marketSentiment": 7,
   "overallNewsScore": 16,
@@ -12,17 +12,17 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 80259.73,
-      "change24h": -1.931,
-      "volume24h": 912053078.6802185,
+      "price": 80171.93,
+      "change24h": -1.788,
+      "volume24h": 1030671220.1308868,
       "technical": {
-        "rsi": 27.4,
-        "ema9": 80603.75816820857,
-        "ema21": 80658.72092632057,
-        "macdBull": false,
+        "rsi": 49.1,
+        "ema9": 80031.14930587291,
+        "ema21": 80161.34965470673,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 15.53,
-        "score": 23
+        "volumeRatio": 0.46,
+        "score": 47
       },
       "newsScore": 20,
       "newsCount": 5,
@@ -64,27 +64,27 @@
         }
       ],
       "marketSentiment": 7,
-      "combinedScore": 40,
+      "combinedScore": 52,
       "signal": "WAIT",
-      "reason": "Technical 23/100; News +20; Market sentiment +7."
+      "reason": "Technical 47/100; News +20; Market sentiment +7."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2345.04,
-      "change24h": -2.747,
-      "volume24h": 372394356.473473,
+      "price": 2315.53,
+      "change24h": -3.828,
+      "volume24h": 514580818.629814,
       "technical": {
-        "rsi": 24.4,
-        "ema9": 2363.30807363604,
-        "ema21": 2366.742632082598,
+        "rsi": 38.2,
+        "ema9": 2316.0150484265882,
+        "ema21": 2329.7244870295076,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 23.6,
-        "score": 23
+        "volumeRatio": 0.36,
+        "score": 11
       },
       "newsScore": 0,
-      "newsCount": 5,
+      "newsCount": 4,
       "news": [
         {
           "title": "Initia halts blockchain after exploit reportedly drains over $2.6M",
@@ -113,34 +113,27 @@
           "published": "Fri, 23 Oct 2026 04:59:34 +0000",
           "source": "CoinDesk",
           "text": "Ethereum delays Glamsterdam test after security devs flag risk to existing contracts Developers canceled Monday's Hoodi activation after researchers showed how new gas rules could let smart contracts permanently record failed operations."
-        },
-        {
-          "title": "Ethereum’s four-minute settlement plan could lower the cost of moving crypto",
-          "link": "https://www.coindesk.com/tech/2026/10/22/ethereum-s-four-minute-settlement-plan-could-lower-the-cost-of-moving-crypto",
-          "published": "Thu, 22 Oct 2026 12:14:29 +0000",
-          "source": "CoinDesk",
-          "text": "Ethereum’s four-minute settlement plan could lower the cost of moving crypto A new draft targets a fourfold cut in the time it takes Ethereum transactions to become final, which could free up money transfer services tie up while customers’ payments clear."
         }
       ],
       "marketSentiment": 7,
-      "combinedScore": 37,
-      "signal": "WAIT",
-      "reason": "Technical 23/100; News +0; Market sentiment +7."
+      "combinedScore": 31,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment +7."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 100.56,
-      "change24h": -3.991,
-      "volume24h": 174160912.41206,
+      "price": 100.17,
+      "change24h": -4.153,
+      "volume24h": 198700590.26082,
       "technical": {
-        "rsi": 26.3,
-        "ema9": 101.24439719317677,
-        "ema21": 101.47620760265798,
-        "macdBull": false,
+        "rsi": 46.6,
+        "ema9": 100.21351083098494,
+        "ema21": 100.4917273211248,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 16.35,
-        "score": 23
+        "volumeRatio": 0.22,
+        "score": 47
       },
       "newsScore": 0,
       "newsCount": 1,
@@ -154,47 +147,47 @@
         }
       ],
       "marketSentiment": 7,
-      "combinedScore": 37,
+      "combinedScore": 49,
       "signal": "WAIT",
-      "reason": "Technical 23/100; News +0; Market sentiment +7."
+      "reason": "Technical 47/100; News +0; Market sentiment +7."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 1139.44,
-      "change24h": -8.582,
-      "volume24h": 159778252.70407,
+      "price": 1150.38,
+      "change24h": -8.161,
+      "volume24h": 167456298.17102,
       "technical": {
-        "rsi": 34.0,
-        "ema9": 1153.5578872350684,
-        "ema21": 1156.4192825908708,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 12.48,
-        "score": 6
+        "rsi": 52.6,
+        "ema9": 1149.8506385277856,
+        "ema21": 1149.6213222272306,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.31,
+        "score": 77
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": 7,
-      "combinedScore": 29,
-      "signal": "SELL",
-      "reason": "Technical 6/100; News +0; Market sentiment +7."
+      "combinedScore": 64,
+      "signal": "WAIT",
+      "reason": "Technical 77/100; News +0; Market sentiment +7."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 4.39,
-      "change24h": -10.554,
-      "volume24h": 124018566.6276,
+      "price": 4.38,
+      "change24h": -9.895,
+      "volume24h": 129800542.5699,
       "technical": {
-        "rsi": 25.5,
-        "ema9": 4.43253649213495,
-        "ema21": 4.47326916451183,
-        "macdBull": false,
+        "rsi": 44.3,
+        "ema9": 4.407447604457908,
+        "ema21": 4.4231044924474086,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 11.8,
-        "score": 23
+        "volumeRatio": 0.61,
+        "score": 35
       },
       "newsScore": 0,
       "newsCount": 2,
@@ -215,24 +208,24 @@
         }
       ],
       "marketSentiment": 7,
-      "combinedScore": 37,
+      "combinedScore": 43,
       "signal": "WAIT",
-      "reason": "Technical 23/100; News +0; Market sentiment +7."
+      "reason": "Technical 35/100; News +0; Market sentiment +7."
     },
     {
       "symbol": "BNBUSDT",
       "coin": "BNB",
-      "price": 728.14,
-      "change24h": -2.805,
-      "volume24h": 91227011.57221,
+      "price": 724.46,
+      "change24h": -2.872,
+      "volume24h": 102052021.23296,
       "technical": {
-        "rsi": 28.7,
-        "ema9": 730.8818642980632,
-        "ema21": 732.1580777397853,
-        "macdBull": false,
+        "rsi": 43.0,
+        "ema9": 723.74798437187,
+        "ema21": 725.9063485020035,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 10.9,
-        "score": 16
+        "volumeRatio": 0.17,
+        "score": 35
       },
       "newsScore": -100,
       "newsCount": 1,
@@ -246,24 +239,24 @@
         }
       ],
       "marketSentiment": 7,
-      "combinedScore": 19,
+      "combinedScore": 28,
       "signal": "SELL",
-      "reason": "Technical 16/100; News -100; Market sentiment +7."
+      "reason": "Technical 35/100; News -100; Market sentiment +7."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 1.275,
-      "change24h": -3.226,
-      "volume24h": 88833365.46913,
+      "price": 1.2743,
+      "change24h": -2.718,
+      "volume24h": 101659166.00273,
       "technical": {
-        "rsi": 34.0,
-        "ema9": 1.2812043879358683,
-        "ema21": 1.282171049652841,
-        "macdBull": false,
+        "rsi": 49.7,
+        "ema9": 1.2724610422146774,
+        "ema21": 1.2742526960408211,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 8.26,
-        "score": 6
+        "volumeRatio": 0.3,
+        "score": 47
       },
       "newsScore": 100,
       "newsCount": 1,
@@ -277,24 +270,78 @@
         }
       ],
       "marketSentiment": 7,
-      "combinedScore": 44,
+      "combinedScore": 64,
       "signal": "WAIT",
-      "reason": "Technical 6/100; News +100; Market sentiment +7."
+      "reason": "Technical 47/100; News +100; Market sentiment +7."
+    },
+    {
+      "symbol": "WLDUSDT",
+      "coin": "WLD",
+      "price": 0.4584,
+      "change24h": -13.526,
+      "volume24h": 82241942.90688,
+      "technical": {
+        "rsi": 39.1,
+        "ema9": 0.46260323081062704,
+        "ema21": 0.4646321412994041,
+        "macdBull": true,
+        "emaBull": false,
+        "volumeRatio": 0.51,
+        "score": 35
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": 7,
+      "combinedScore": 43,
+      "signal": "WAIT",
+      "reason": "Technical 35/100; News +0; Market sentiment +7."
+    },
+    {
+      "symbol": "USD1USDT",
+      "coin": "USD1",
+      "price": 0.99997,
+      "change24h": 0.016,
+      "volume24h": 81346167.03152,
+      "technical": {
+        "rsi": 58.9,
+        "ema9": 0.9999378985419416,
+        "ema21": 0.9999230701497901,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.47,
+        "score": 89
+      },
+      "newsScore": 0,
+      "newsCount": 1,
+      "news": [
+        {
+          "title": "Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals",
+          "link": "https://cointelegraph.com/news/circle-shareholder-lawsuit-donald-trump-world-liberty-financial-steve-witkoff-crypto-corruption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Thu, 22 Oct 2026 21:39:18 +0000",
+          "source": "Cointelegraph",
+          "text": "Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals According to a Circle shareholder, the US president’s “corruption” through USD1 left the company unable to compete with stablecoins, harming USDC."
+        }
+      ],
+      "marketSentiment": 7,
+      "combinedScore": 70,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment +7."
     },
     {
       "symbol": "AIUSDT",
       "coin": "AI",
-      "price": 0.0196,
-      "change24h": -3.922,
-      "volume24h": 81628280.64168,
+      "price": 0.0194,
+      "change24h": -3.96,
+      "volume24h": 76474555.38659,
       "technical": {
-        "rsi": 28.3,
-        "ema9": 0.019730108839840804,
-        "ema21": 0.01988899834942302,
-        "macdBull": false,
+        "rsi": 40.5,
+        "ema9": 0.019392795326515264,
+        "ema21": 0.01953907683645807,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.02,
-        "score": 11
+        "volumeRatio": 0.11,
+        "score": 35
       },
       "newsScore": 0,
       "newsCount": 5,
@@ -321,78 +368,24 @@
           "text": "Bitcoin hashrate hits seven-month high as AI shift fails to ease mining competition According to BlocksBridge, Bitcoin’s mining difficulty is rising despite the industry’s AI transition, with smaller operators potentially absorbing equipment abandoned by larger competitors."
         },
         {
+          "title": "Block's new voice AI sounds eerily human, sparking awe and scam fears",
+          "link": "https://www.coindesk.com/tech/2026/10/24/block-s-new-voice-ai-sounds-eerily-human-sparking-awe-and-scam-fears",
+          "published": "Sat, 24 Oct 2026 15:21:06 +0000",
+          "source": "CoinDesk",
+          "text": "Block's new voice AI sounds eerily human, sparking awe and scam fears Reactions split between amazement at how human it sounds and fears it could fuel scams and deception, with CZ eyeing uses in children’s education."
+        },
+        {
           "title": "Bitcoin Core changes security rules as AI makes finding code bugs dangerously easy",
           "link": "https://www.coindesk.com/tech/2026/10/23/bitcoin-will-now-stop-hiding-bugs-an-ai-can-find-in-one-prompt",
           "published": "Fri, 23 Oct 2026 12:03:53 +0000",
           "source": "CoinDesk",
           "text": "Bitcoin Core changes security rules as AI makes finding code bugs dangerously easy Developers merged a policy change that ends the months-long embargo for flaws a chatbot could rediscover, after a summer in which AI found hundreds of bitcoin bugs before the humans did."
-        },
-        {
-          "title": "A16z is the latest VC giant to widen bets beyond crypto and into AI and emerging tech",
-          "link": "https://www.coindesk.com/business/2026/10/22/a16z-is-the-latest-vc-giant-to-widen-bets-beyond-crypto-and-into-ai-and-emerging-tech",
-          "published": "Thu, 22 Oct 2026 18:30:57 +0000",
-          "source": "CoinDesk",
-          "text": "A16z is the latest VC giant to widen bets beyond crypto and into AI and emerging tech The venture investor behind early bets on Coinbase, Solana and Uniswap said is broadening its focus, joining other crypto investment firms looking beyond blockchain to artificial intelligence and tech themes."
         }
       ],
       "marketSentiment": 7,
-      "combinedScore": 31,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment +7."
-    },
-    {
-      "symbol": "WLDUSDT",
-      "coin": "WLD",
-      "price": 0.4663,
-      "change24h": -13.375,
-      "volume24h": 79197217.69969,
-      "technical": {
-        "rsi": 42.0,
-        "ema9": 0.46779475605766746,
-        "ema21": 0.46941423936365556,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 6.13,
-        "score": 16
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": 7,
-      "combinedScore": 34,
-      "signal": "SELL",
-      "reason": "Technical 16/100; News +0; Market sentiment +7."
-    },
-    {
-      "symbol": "USD1USDT",
-      "coin": "USD1",
-      "price": 0.99997,
-      "change24h": -0.004,
-      "volume24h": 78128446.82821,
-      "technical": {
-        "rsi": 63.1,
-        "ema9": 0.9998932704650166,
-        "ema21": 0.9998903220745665,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 10.02,
-        "score": 94
-      },
-      "newsScore": 0,
-      "newsCount": 1,
-      "news": [
-        {
-          "title": "Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals",
-          "link": "https://cointelegraph.com/news/circle-shareholder-lawsuit-donald-trump-world-liberty-financial-steve-witkoff-crypto-corruption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Thu, 22 Oct 2026 21:39:18 +0000",
-          "source": "Cointelegraph",
-          "text": "Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals According to a Circle shareholder, the US president’s “corruption” through USD1 left the company unable to compete with stablecoins, harming USDC."
-        }
-      ],
-      "marketSentiment": 7,
-      "combinedScore": 73,
-      "signal": "BUY",
-      "reason": "Technical 94/100; News +0; Market sentiment +7."
+      "combinedScore": 43,
+      "signal": "WAIT",
+      "reason": "Technical 35/100; News +0; Market sentiment +7."
     }
   ],
   "news": [
