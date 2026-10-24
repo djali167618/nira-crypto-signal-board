@@ -101,16 +101,6 @@
       "mode": "PAPER ONLY"
     },
     {
-      "symbol": "NEARUSDT",
-      "side": "SELL",
-      "entry": 4.735,
-      "stopLoss": 4.806025,
-      "takeProfit": 4.59295,
-      "entryTime": "2026-10-23T20:21:42.517341+00:00",
-      "status": "OPEN",
-      "mode": "PAPER ONLY"
-    },
-    {
       "symbol": "ZECUSDT",
       "side": "SELL",
       "entry": 1171.95,
@@ -492,6 +482,19 @@
       "exitPrice": 0.4761,
       "exitTime": "2026-10-24T06:26:22.334325+00:00",
       "pnlPercent": 18.322
+    },
+    {
+      "symbol": "NEARUSDT",
+      "side": "SELL",
+      "entry": 4.735,
+      "stopLoss": 4.806025,
+      "takeProfit": 4.59295,
+      "entryTime": "2026-10-23T20:21:42.517341+00:00",
+      "status": "TAKE_PROFIT",
+      "mode": "PAPER ONLY",
+      "exitPrice": 4.515,
+      "exitTime": "2026-10-24T11:23:25.915071+00:00",
+      "pnlPercent": 4.646
     }
   ]
 }
