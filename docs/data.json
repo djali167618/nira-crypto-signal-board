@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24 21:56:26 UTC",
+  "generatedAt": "2026-10-24 23:58:34 UTC",
   "interval": "15m candles",
   "marketSentiment": 7,
   "overallNewsScore": 16,
@@ -12,17 +12,17 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 80371.91,
-      "change24h": -1.184,
-      "volume24h": 1027338912.7821941,
+      "price": 80893.94,
+      "change24h": -0.354,
+      "volume24h": 942159913.5451559,
       "technical": {
-        "rsi": 48.4,
-        "ema9": 80442.12745573133,
-        "ema21": 80397.83549838547,
+        "rsi": 67.5,
+        "ema9": 80610.20808697227,
+        "ema21": 80511.73184309017,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.97,
-        "score": 77
+        "volumeRatio": 2.36,
+        "score": 94
       },
       "newsScore": 20,
       "newsCount": 5,
@@ -64,24 +64,24 @@
         }
       ],
       "marketSentiment": 7,
-      "combinedScore": 67,
+      "combinedScore": 76,
       "signal": "BUY",
-      "reason": "Technical 77/100; News +20; Market sentiment +7."
+      "reason": "Technical 94/100; News +20; Market sentiment +7."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2339.45,
-      "change24h": -2.425,
-      "volume24h": 507884504.956115,
+      "price": 2358.96,
+      "change24h": -1.192,
+      "volume24h": 466794882.626859,
       "technical": {
-        "rsi": 50.5,
-        "ema9": 2339.9942119486445,
-        "ema21": 2337.4411310783075,
+        "rsi": 66.9,
+        "ema9": 2346.599335966449,
+        "ema21": 2342.351878806855,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.33,
-        "score": 77
+        "volumeRatio": 4.49,
+        "score": 94
       },
       "newsScore": 0,
       "newsCount": 4,
@@ -116,24 +116,24 @@
         }
       ],
       "marketSentiment": 7,
-      "combinedScore": 64,
-      "signal": "WAIT",
-      "reason": "Technical 77/100; News +0; Market sentiment +7."
+      "combinedScore": 73,
+      "signal": "BUY",
+      "reason": "Technical 94/100; News +0; Market sentiment +7."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 101.37,
-      "change24h": -2.143,
-      "volume24h": 191740105.34081,
+      "price": 102.4,
+      "change24h": -0.447,
+      "volume24h": 175337782.45717,
       "technical": {
-        "rsi": 56.0,
-        "ema9": 101.3282143505744,
-        "ema21": 101.12064046856509,
+        "rsi": 73.2,
+        "ema9": 101.73312802703346,
+        "ema21": 101.45062700849107,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.34,
-        "score": 89
+        "volumeRatio": 4.27,
+        "score": 77
       },
       "newsScore": 0,
       "newsCount": 1,
@@ -147,47 +147,47 @@
         }
       ],
       "marketSentiment": 7,
-      "combinedScore": 70,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment +7."
+      "combinedScore": 64,
+      "signal": "WAIT",
+      "reason": "Technical 77/100; News +0; Market sentiment +7."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 1192.95,
-      "change24h": -2.273,
-      "volume24h": 165962841.45758,
+      "price": 1209.4,
+      "change24h": 2.335,
+      "volume24h": 149558277.28744,
       "technical": {
-        "rsi": 59.4,
-        "ema9": 1195.1434608364839,
-        "ema21": 1184.216650447937,
-        "macdBull": true,
+        "rsi": 65.9,
+        "ema9": 1201.908613901272,
+        "ema21": 1193.8345465254317,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 0.32,
-        "score": 89
+        "volumeRatio": 0.99,
+        "score": 65
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": 7,
-      "combinedScore": 70,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment +7."
+      "combinedScore": 58,
+      "signal": "WAIT",
+      "reason": "Technical 65/100; News +0; Market sentiment +7."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 4.431,
-      "change24h": -7.243,
-      "volume24h": 133680635.6005,
+      "price": 4.502,
+      "change24h": -3.906,
+      "volume24h": 120778113.8647,
       "technical": {
-        "rsi": 45.8,
-        "ema9": 4.450721721064696,
-        "ema21": 4.448960288460127,
-        "macdBull": false,
+        "rsi": 61.8,
+        "ema9": 4.473408992513577,
+        "ema21": 4.461360167088809,
+        "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.35,
-        "score": 53
+        "volumeRatio": 2.59,
+        "score": 94
       },
       "newsScore": 0,
       "newsCount": 2,
@@ -208,24 +208,24 @@
         }
       ],
       "marketSentiment": 7,
-      "combinedScore": 52,
-      "signal": "WAIT",
-      "reason": "Technical 53/100; News +0; Market sentiment +7."
+      "combinedScore": 73,
+      "signal": "BUY",
+      "reason": "Technical 94/100; News +0; Market sentiment +7."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 1.2919,
-      "change24h": -0.989,
-      "volume24h": 104470348.45957,
+      "price": 1.2996,
+      "change24h": 0.355,
+      "volume24h": 95701400.15585,
       "technical": {
-        "rsi": 62.2,
-        "ema9": 1.290773890863251,
-        "ema21": 1.2865110062313287,
+        "rsi": 68.1,
+        "ema9": 1.2941165952258478,
+        "ema21": 1.290686076173527,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.82,
-        "score": 89
+        "volumeRatio": 2.51,
+        "score": 94
       },
       "newsScore": 100,
       "newsCount": 1,
@@ -239,24 +239,24 @@
         }
       ],
       "marketSentiment": 7,
-      "combinedScore": 85,
+      "combinedScore": 88,
       "signal": "BUY",
-      "reason": "Technical 89/100; News +100; Market sentiment +7."
+      "reason": "Technical 94/100; News +100; Market sentiment +7."
     },
     {
       "symbol": "BNBUSDT",
       "coin": "BNB",
-      "price": 732.45,
-      "change24h": -1.147,
-      "volume24h": 94975419.02376,
+      "price": 739.76,
+      "change24h": -0.019,
+      "volume24h": 85027322.42525,
       "technical": {
-        "rsi": 64.1,
-        "ema9": 731.748564342374,
-        "ema21": 729.9540817035706,
+        "rsi": 78.4,
+        "ema9": 735.8042057272515,
+        "ema21": 733.2680761472516,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.48,
-        "score": 89
+        "volumeRatio": 2.04,
+        "score": 77
       },
       "newsScore": -100,
       "newsCount": 1,
@@ -270,78 +270,24 @@
         }
       ],
       "marketSentiment": 7,
-      "combinedScore": 55,
+      "combinedScore": 49,
       "signal": "WAIT",
-      "reason": "Technical 89/100; News -100; Market sentiment +7."
-    },
-    {
-      "symbol": "WLDUSDT",
-      "coin": "WLD",
-      "price": 0.4644,
-      "change24h": -8.601,
-      "volume24h": 79005850.23518,
-      "technical": {
-        "rsi": 44.9,
-        "ema9": 0.46495916278599914,
-        "ema21": 0.464876583517274,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 1.44,
-        "score": 65
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": 7,
-      "combinedScore": 58,
-      "signal": "WAIT",
-      "reason": "Technical 65/100; News +0; Market sentiment +7."
-    },
-    {
-      "symbol": "USD1USDT",
-      "coin": "USD1",
-      "price": 0.99992,
-      "change24h": 0.003,
-      "volume24h": 76651503.81154,
-      "technical": {
-        "rsi": 54.1,
-        "ema9": 0.9999600539871984,
-        "ema21": 0.9999530410766868,
-        "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.67,
-        "score": 53
-      },
-      "newsScore": 0,
-      "newsCount": 1,
-      "news": [
-        {
-          "title": "Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals",
-          "link": "https://cointelegraph.com/news/circle-shareholder-lawsuit-donald-trump-world-liberty-financial-steve-witkoff-crypto-corruption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Thu, 22 Oct 2026 21:39:18 +0000",
-          "source": "Cointelegraph",
-          "text": "Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals According to a Circle shareholder, the US president’s “corruption” through USD1 left the company unable to compete with stablecoins, harming USDC."
-        }
-      ],
-      "marketSentiment": 7,
-      "combinedScore": 52,
-      "signal": "WAIT",
-      "reason": "Technical 53/100; News +0; Market sentiment +7."
+      "reason": "Technical 77/100; News -100; Market sentiment +7."
     },
     {
       "symbol": "AIUSDT",
       "coin": "AI",
-      "price": 0.0195,
-      "change24h": -3.465,
-      "volume24h": 75967627.31122,
+      "price": 0.0194,
+      "change24h": -4.433,
+      "volume24h": 76404895.17631,
       "technical": {
-        "rsi": 44.1,
-        "ema9": 0.0194828180250665,
-        "ema21": 0.019480538189079247,
+        "rsi": 51.0,
+        "ema9": 0.0194721317429561,
+        "ema21": 0.019472237780698044,
         "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.39,
-        "score": 65
+        "emaBull": false,
+        "volumeRatio": 0.02,
+        "score": 47
       },
       "newsScore": 0,
       "newsCount": 5,
@@ -383,9 +329,63 @@
         }
       ],
       "marketSentiment": 7,
-      "combinedScore": 58,
+      "combinedScore": 49,
       "signal": "WAIT",
-      "reason": "Technical 65/100; News +0; Market sentiment +7."
+      "reason": "Technical 47/100; News +0; Market sentiment +7."
+    },
+    {
+      "symbol": "USD1USDT",
+      "coin": "USD1",
+      "price": 0.99997,
+      "change24h": 0.005,
+      "volume24h": 71737852.32912,
+      "technical": {
+        "rsi": 60.3,
+        "ema9": 0.9999423674319543,
+        "ema21": 0.9999434381044396,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 4.35,
+        "score": 40
+      },
+      "newsScore": 0,
+      "newsCount": 1,
+      "news": [
+        {
+          "title": "Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals",
+          "link": "https://cointelegraph.com/news/circle-shareholder-lawsuit-donald-trump-world-liberty-financial-steve-witkoff-crypto-corruption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Thu, 22 Oct 2026 21:39:18 +0000",
+          "source": "Cointelegraph",
+          "text": "Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals According to a Circle shareholder, the US president’s “corruption” through USD1 left the company unable to compete with stablecoins, harming USDC."
+        }
+      ],
+      "marketSentiment": 7,
+      "combinedScore": 46,
+      "signal": "WAIT",
+      "reason": "Technical 40/100; News +0; Market sentiment +7."
+    },
+    {
+      "symbol": "BMTUSDT",
+      "coin": "BMT",
+      "price": 0.03818,
+      "change24h": 70.143,
+      "volume24h": 61388406.817429,
+      "technical": {
+        "rsi": 46.9,
+        "ema9": 0.03827280914758767,
+        "ema21": 0.03827226839667386,
+        "macdBull": false,
+        "emaBull": true,
+        "volumeRatio": 0.83,
+        "score": 53
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": 7,
+      "combinedScore": 52,
+      "signal": "WAIT",
+      "reason": "Technical 53/100; News +0; Market sentiment +7."
     }
   ],
   "news": [
@@ -679,6 +679,16 @@
         "stopLoss": 1175.05575,
         "takeProfit": 1228.7385,
         "entryTime": "2026-10-24T21:56:26.270014+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "NEARUSDT",
+        "side": "BUY",
+        "entry": 4.502,
+        "stopLoss": 4.43447,
+        "takeProfit": 4.63706,
+        "entryTime": "2026-10-24T23:58:34.623210+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       }
