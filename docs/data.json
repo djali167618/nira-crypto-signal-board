@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24 17:36:14 UTC",
+  "generatedAt": "2026-10-24 19:44:42 UTC",
   "interval": "15m candles",
   "marketSentiment": 7,
   "overallNewsScore": 16,
@@ -12,17 +12,17 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 80171.93,
-      "change24h": -1.788,
-      "volume24h": 1030671220.1308868,
+      "price": 80544.72,
+      "change24h": -0.943,
+      "volume24h": 1040388686.6465234,
       "technical": {
-        "rsi": 49.1,
-        "ema9": 80031.14930587291,
-        "ema21": 80161.34965470673,
+        "rsi": 58.3,
+        "ema9": 80378.4168266044,
+        "ema21": 80298.25464795803,
         "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.46,
-        "score": 47
+        "emaBull": true,
+        "volumeRatio": 0.2,
+        "score": 89
       },
       "newsScore": 20,
       "newsCount": 5,
@@ -64,24 +64,24 @@
         }
       ],
       "marketSentiment": 7,
-      "combinedScore": 52,
-      "signal": "WAIT",
-      "reason": "Technical 47/100; News +20; Market sentiment +7."
+      "combinedScore": 73,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +20; Market sentiment +7."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2315.53,
-      "change24h": -3.828,
-      "volume24h": 514580818.629814,
+      "price": 2341.34,
+      "change24h": -2.325,
+      "volume24h": 512944143.955203,
       "technical": {
-        "rsi": 38.2,
-        "ema9": 2316.0150484265882,
-        "ema21": 2329.7244870295076,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.36,
-        "score": 11
+        "rsi": 55.3,
+        "ema9": 2331.6939900242232,
+        "ema21": 2331.486393911458,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.38,
+        "score": 89
       },
       "newsScore": 0,
       "newsCount": 4,
@@ -116,24 +116,24 @@
         }
       ],
       "marketSentiment": 7,
-      "combinedScore": 31,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment +7."
+      "combinedScore": 70,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment +7."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 100.17,
-      "change24h": -4.153,
-      "volume24h": 198700590.26082,
+      "price": 101.16,
+      "change24h": -2.515,
+      "volume24h": 195523600.10611,
       "technical": {
-        "rsi": 46.6,
-        "ema9": 100.21351083098494,
-        "ema21": 100.4917273211248,
+        "rsi": 57.4,
+        "ema9": 100.91994569160462,
+        "ema21": 100.75762097663679,
         "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.22,
-        "score": 47
+        "emaBull": true,
+        "volumeRatio": 0.1,
+        "score": 89
       },
       "newsScore": 0,
       "newsCount": 1,
@@ -147,47 +147,47 @@
         }
       ],
       "marketSentiment": 7,
-      "combinedScore": 49,
-      "signal": "WAIT",
-      "reason": "Technical 47/100; News +0; Market sentiment +7."
+      "combinedScore": 70,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment +7."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 1150.38,
-      "change24h": -8.161,
-      "volume24h": 167456298.17102,
+      "price": 1184.15,
+      "change24h": -3.859,
+      "volume24h": 164904515.24569,
       "technical": {
-        "rsi": 52.6,
-        "ema9": 1149.8506385277856,
-        "ema21": 1149.6213222272306,
+        "rsi": 65.6,
+        "ema9": 1176.453969063773,
+        "ema21": 1165.2711950530943,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.31,
-        "score": 77
+        "volumeRatio": 0.24,
+        "score": 89
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": 7,
-      "combinedScore": 64,
-      "signal": "WAIT",
-      "reason": "Technical 77/100; News +0; Market sentiment +7."
+      "combinedScore": 70,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment +7."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 4.38,
-      "change24h": -9.895,
-      "volume24h": 129800542.5699,
+      "price": 4.443,
+      "change24h": -6.542,
+      "volume24h": 134685890.1324,
       "technical": {
-        "rsi": 44.3,
-        "ema9": 4.407447604457908,
-        "ema21": 4.4231044924474086,
+        "rsi": 53.6,
+        "ema9": 4.452289060354334,
+        "ema21": 4.441577859315455,
         "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.61,
-        "score": 35
+        "emaBull": true,
+        "volumeRatio": 0.2,
+        "score": 77
       },
       "newsScore": 0,
       "newsCount": 2,
@@ -208,55 +208,24 @@
         }
       ],
       "marketSentiment": 7,
-      "combinedScore": 43,
+      "combinedScore": 64,
       "signal": "WAIT",
-      "reason": "Technical 35/100; News +0; Market sentiment +7."
-    },
-    {
-      "symbol": "BNBUSDT",
-      "coin": "BNB",
-      "price": 724.46,
-      "change24h": -2.872,
-      "volume24h": 102052021.23296,
-      "technical": {
-        "rsi": 43.0,
-        "ema9": 723.74798437187,
-        "ema21": 725.9063485020035,
-        "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.17,
-        "score": 35
-      },
-      "newsScore": -100,
-      "newsCount": 1,
-      "news": [
-        {
-          "title": "Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash",
-          "link": "https://cointelegraph.com/news/cysic-exploiter-eth-tornado-cash-white-hat-offer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Fri, 23 Oct 2026 10:13:06 +0000",
-          "source": "Cointelegraph",
-          "text": "Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash The attacker moved $744,000 in ETH and BNB to Tornado Cash after exploiting Cysic’s bridge to mint 10 million tokens on BNB Smart Chain."
-        }
-      ],
-      "marketSentiment": 7,
-      "combinedScore": 28,
-      "signal": "SELL",
-      "reason": "Technical 35/100; News -100; Market sentiment +7."
+      "reason": "Technical 77/100; News +0; Market sentiment +7."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 1.2743,
-      "change24h": -2.718,
-      "volume24h": 101659166.00273,
+      "price": 1.29,
+      "change24h": -0.998,
+      "volume24h": 104152492.20659,
       "technical": {
-        "rsi": 49.7,
-        "ema9": 1.2724610422146774,
-        "ema21": 1.2742526960408211,
+        "rsi": 64.3,
+        "ema9": 1.2828878135358202,
+        "ema21": 1.279348364813646,
         "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.3,
-        "score": 47
+        "emaBull": true,
+        "volumeRatio": 0.26,
+        "score": 89
       },
       "newsScore": 100,
       "newsCount": 1,
@@ -270,46 +239,77 @@
         }
       ],
       "marketSentiment": 7,
-      "combinedScore": 64,
+      "combinedScore": 85,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +100; Market sentiment +7."
+    },
+    {
+      "symbol": "BNBUSDT",
+      "coin": "BNB",
+      "price": 730.38,
+      "change24h": -1.661,
+      "volume24h": 95162599.14406,
+      "technical": {
+        "rsi": 60.5,
+        "ema9": 727.7237218908706,
+        "ema21": 727.041395213405,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.25,
+        "score": 89
+      },
+      "newsScore": -100,
+      "newsCount": 1,
+      "news": [
+        {
+          "title": "Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash",
+          "link": "https://cointelegraph.com/news/cysic-exploiter-eth-tornado-cash-white-hat-offer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Fri, 23 Oct 2026 10:13:06 +0000",
+          "source": "Cointelegraph",
+          "text": "Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash The attacker moved $744,000 in ETH and BNB to Tornado Cash after exploiting Cysic’s bridge to mint 10 million tokens on BNB Smart Chain."
+        }
+      ],
+      "marketSentiment": 7,
+      "combinedScore": 55,
       "signal": "WAIT",
-      "reason": "Technical 47/100; News +100; Market sentiment +7."
+      "reason": "Technical 89/100; News -100; Market sentiment +7."
     },
     {
       "symbol": "WLDUSDT",
       "coin": "WLD",
-      "price": 0.4584,
-      "change24h": -13.526,
-      "volume24h": 82241942.90688,
+      "price": 0.4651,
+      "change24h": -10.609,
+      "volume24h": 80906161.63233,
       "technical": {
-        "rsi": 39.1,
-        "ema9": 0.46260323081062704,
-        "ema21": 0.4646321412994041,
+        "rsi": 51.8,
+        "ema9": 0.4638885929832573,
+        "ema21": 0.464047035430263,
         "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.51,
-        "score": 35
+        "volumeRatio": 0.33,
+        "score": 47
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": 7,
-      "combinedScore": 43,
+      "combinedScore": 49,
       "signal": "WAIT",
-      "reason": "Technical 35/100; News +0; Market sentiment +7."
+      "reason": "Technical 47/100; News +0; Market sentiment +7."
     },
     {
       "symbol": "USD1USDT",
       "coin": "USD1",
-      "price": 0.99997,
-      "change24h": 0.016,
-      "volume24h": 81346167.03152,
+      "price": 0.99995,
+      "change24h": 0.013,
+      "volume24h": 77972806.46478,
       "technical": {
-        "rsi": 58.9,
-        "ema9": 0.9999378985419416,
-        "ema21": 0.9999230701497901,
+        "rsi": 58.7,
+        "ema9": 0.9999647073506412,
+        "ema21": 0.9999474006265513,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.47,
+        "volumeRatio": 0.32,
         "score": 89
       },
       "newsScore": 0,
@@ -331,16 +331,16 @@
     {
       "symbol": "AIUSDT",
       "coin": "AI",
-      "price": 0.0194,
-      "change24h": -3.96,
-      "volume24h": 76474555.38659,
+      "price": 0.0195,
+      "change24h": -2.5,
+      "volume24h": 75961010.30689,
       "technical": {
-        "rsi": 40.5,
-        "ema9": 0.019392795326515264,
-        "ema21": 0.01953907683645807,
+        "rsi": 44.9,
+        "ema9": 0.01935681135234803,
+        "ema21": 0.0194340082004175,
         "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.11,
+        "volumeRatio": 0.07,
         "score": 35
       },
       "newsScore": 0,
