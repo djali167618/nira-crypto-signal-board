@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24 01:37:42 UTC",
+  "generatedAt": "2026-10-24 06:26:22 UTC",
   "interval": "15m candles",
   "marketSentiment": 7,
   "overallNewsScore": 16,
@@ -12,16 +12,16 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 80732.67,
-      "change24h": -0.642,
-      "volume24h": 931441161.3588818,
+      "price": 80779.24,
+      "change24h": -1.294,
+      "volume24h": 920893763.6371715,
       "technical": {
-        "rsi": 40.5,
-        "ema9": 80844.21129663677,
-        "ema21": 81027.66986387505,
+        "rsi": 38.3,
+        "ema9": 80824.35815941582,
+        "ema21": 80888.95657059623,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.48,
+        "volumeRatio": 1.38,
         "score": 11
       },
       "newsScore": 20,
@@ -71,16 +71,16 @@
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2372.62,
-      "change24h": -0.529,
-      "volume24h": 516449315.573404,
+      "price": 2378.42,
+      "change24h": -1.097,
+      "volume24h": 468650883.090361,
       "technical": {
-        "rsi": 40.2,
-        "ema9": 2378.1205880768944,
-        "ema21": 2384.299857391672,
+        "rsi": 42.1,
+        "ema9": 2379.7357639579104,
+        "ema21": 2381.445059895801,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.31,
+        "volumeRatio": 1.06,
         "score": 11
       },
       "newsScore": 0,
@@ -130,39 +130,39 @@
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 1171.95,
-      "change24h": -3.554,
-      "volume24h": 182501993.27116,
+      "price": 1171.92,
+      "change24h": -4.496,
+      "volume24h": 175579145.89421,
       "technical": {
-        "rsi": 33.4,
-        "ema9": 1177.92423109316,
-        "ema21": 1192.4734507200626,
-        "macdBull": false,
+        "rsi": 41.6,
+        "ema9": 1171.0073529501024,
+        "ema21": 1175.0654342166886,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.81,
-        "score": 11
+        "volumeRatio": 3.61,
+        "score": 40
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": 7,
-      "combinedScore": 31,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment +7."
+      "combinedScore": 46,
+      "signal": "WAIT",
+      "reason": "Technical 40/100; News +0; Market sentiment +7."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 102.21,
-      "change24h": -1.456,
-      "volume24h": 162023502.95028,
+      "price": 102.32,
+      "change24h": -2.049,
+      "volume24h": 160724183.74365,
       "technical": {
-        "rsi": 37.8,
-        "ema9": 102.52109996477176,
-        "ema21": 102.92600558251046,
+        "rsi": 36.1,
+        "ema9": 102.45087971116686,
+        "ema21": 102.59439940147634,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.47,
+        "volumeRatio": 1.05,
         "score": 11
       },
       "newsScore": 0,
@@ -182,19 +182,50 @@
       "reason": "Technical 11/100; News +0; Market sentiment +7."
     },
     {
+      "symbol": "PEPEUSDT",
+      "coin": "PEPE",
+      "price": 4.51e-06,
+      "change24h": -1.743,
+      "volume24h": 108501713.66729532,
+      "technical": {
+        "rsi": 37.9,
+        "ema9": 4.540486814722726e-06,
+        "ema21": 4.555888036882462e-06,
+        "macdBull": true,
+        "emaBull": false,
+        "volumeRatio": 3.61,
+        "score": 30
+      },
+      "newsScore": 0,
+      "newsCount": 1,
+      "news": [
+        {
+          "title": "Bitcoin steadies near $81,700 as altcoins rebound, pepe climbs 13%",
+          "link": "https://www.coindesk.com/markets/2026/10/23/bitcoin-steadies-near-usd81-700-as-altcoins-rebound-pepe-climbs-13",
+          "published": "Fri, 23 Oct 2026 10:54:41 +0000",
+          "source": "CoinDesk",
+          "text": "Bitcoin steadies near $81,700 as altcoins rebound, pepe climbs 13% Bitcoin rose 0.5% to around $81,700 since midnight UTC while the CoinDesk 80 gained 1.4% and memecoins climbed 2.9%."
+        }
+      ],
+      "marketSentiment": 7,
+      "combinedScore": 41,
+      "signal": "WAIT",
+      "reason": "Technical 30/100; News +0; Market sentiment +7."
+    },
+    {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 4.606,
-      "change24h": -6.077,
-      "volume24h": 113934950.2516,
+      "price": 4.622,
+      "change24h": -7.095,
+      "volume24h": 105605994.7008,
       "technical": {
-        "rsi": 34.1,
-        "ema9": 4.643922712990924,
-        "ema21": 4.691731542606293,
-        "macdBull": false,
+        "rsi": 36.7,
+        "ema9": 4.6301619768561295,
+        "ema21": 4.645081513478181,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.44,
-        "score": 11
+        "volumeRatio": 1.86,
+        "score": 30
       },
       "newsScore": -33,
       "newsCount": 3,
@@ -222,86 +253,24 @@
         }
       ],
       "marketSentiment": 7,
-      "combinedScore": 26,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News -33; Market sentiment +7."
-    },
-    {
-      "symbol": "USD1USDT",
-      "coin": "USD1",
-      "price": 0.99989,
-      "change24h": -0.012,
-      "volume24h": 113851005.5245,
-      "technical": {
-        "rsi": 51.9,
-        "ema9": 0.9998812697420093,
-        "ema21": 0.999880240518349,
-        "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.99,
-        "score": 53
-      },
-      "newsScore": 0,
-      "newsCount": 1,
-      "news": [
-        {
-          "title": "Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals",
-          "link": "https://cointelegraph.com/news/circle-shareholder-lawsuit-donald-trump-world-liberty-financial-steve-witkoff-crypto-corruption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Thu, 22 Oct 2026 21:39:18 +0000",
-          "source": "Cointelegraph",
-          "text": "Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals According to a Circle shareholder, the US president’s “corruption” through USD1 left the company unable to compete with stablecoins, harming USDC."
-        }
-      ],
-      "marketSentiment": 7,
-      "combinedScore": 52,
+      "combinedScore": 36,
       "signal": "WAIT",
-      "reason": "Technical 53/100; News +0; Market sentiment +7."
-    },
-    {
-      "symbol": "PEPEUSDT",
-      "coin": "PEPE",
-      "price": 4.53e-06,
-      "change24h": 3.425,
-      "volume24h": 112332436.95689246,
-      "technical": {
-        "rsi": 32.8,
-        "ema9": 4.558446631259507e-06,
-        "ema21": 4.600361291233811e-06,
-        "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.69,
-        "score": 35
-      },
-      "newsScore": 0,
-      "newsCount": 1,
-      "news": [
-        {
-          "title": "Bitcoin steadies near $81,700 as altcoins rebound, pepe climbs 13%",
-          "link": "https://www.coindesk.com/markets/2026/10/23/bitcoin-steadies-near-usd81-700-as-altcoins-rebound-pepe-climbs-13",
-          "published": "Fri, 23 Oct 2026 10:54:41 +0000",
-          "source": "CoinDesk",
-          "text": "Bitcoin steadies near $81,700 as altcoins rebound, pepe climbs 13% Bitcoin rose 0.5% to around $81,700 since midnight UTC while the CoinDesk 80 gained 1.4% and memecoins climbed 2.9%."
-        }
-      ],
-      "marketSentiment": 7,
-      "combinedScore": 43,
-      "signal": "WAIT",
-      "reason": "Technical 35/100; News +0; Market sentiment +7."
+      "reason": "Technical 30/100; News -33; Market sentiment +7."
     },
     {
       "symbol": "BNBUSDT",
       "coin": "BNB",
-      "price": 737.13,
-      "change24h": 0.796,
-      "volume24h": 107857478.2834,
+      "price": 738.66,
+      "change24h": -0.651,
+      "volume24h": 105059974.12278,
       "technical": {
-        "rsi": 42.1,
-        "ema9": 737.3968227229936,
-        "ema21": 738.9784496000186,
-        "macdBull": true,
+        "rsi": 42.0,
+        "ema9": 739.046828048597,
+        "ema21": 739.3435929498783,
+        "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.56,
-        "score": 35
+        "volumeRatio": 5.01,
+        "score": 6
       },
       "newsScore": -100,
       "newsCount": 1,
@@ -315,55 +284,94 @@
         }
       ],
       "marketSentiment": 7,
-      "combinedScore": 28,
+      "combinedScore": 14,
       "signal": "SELL",
-      "reason": "Technical 35/100; News -100; Market sentiment +7."
+      "reason": "Technical 6/100; News -100; Market sentiment +7."
+    },
+    {
+      "symbol": "USD1USDT",
+      "coin": "USD1",
+      "price": 0.99991,
+      "change24h": -0.007,
+      "volume24h": 103333053.11066,
+      "technical": {
+        "rsi": 55.4,
+        "ema9": 0.9998986926275264,
+        "ema21": 0.9998933593625245,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 1.0,
+        "score": 89
+      },
+      "newsScore": 0,
+      "newsCount": 1,
+      "news": [
+        {
+          "title": "Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals",
+          "link": "https://cointelegraph.com/news/circle-shareholder-lawsuit-donald-trump-world-liberty-financial-steve-witkoff-crypto-corruption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Thu, 22 Oct 2026 21:39:18 +0000",
+          "source": "Cointelegraph",
+          "text": "Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals According to a Circle shareholder, the US president’s “corruption” through USD1 left the company unable to compete with stablecoins, harming USDC."
+        }
+      ],
+      "marketSentiment": 7,
+      "combinedScore": 70,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment +7."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 1.2882,
-      "change24h": -1.566,
-      "volume24h": 98867062.6996,
+      "price": 1.2889,
+      "change24h": -2.761,
+      "volume24h": 89450047.29215,
       "technical": {
-        "rsi": 36.2,
-        "ema9": 1.290447643949429,
-        "ema21": 1.2956168110939856,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.62,
-        "score": 11
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": 7,
-      "combinedScore": 31,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment +7."
-    },
-    {
-      "symbol": "XAUTUSDT",
-      "coin": "XAUT",
-      "price": 3991.19,
-      "change24h": -0.682,
-      "volume24h": 79453659.641075,
-      "technical": {
-        "rsi": 39.6,
-        "ema9": 3992.1978725229246,
-        "ema21": 3994.5516224911735,
+        "rsi": 38.2,
+        "ema9": 1.2900523922029448,
+        "ema21": 1.2915839811357563,
         "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 2.36,
-        "score": 30
+        "volumeRatio": 1.89,
+        "score": 40
+      },
+      "newsScore": 100,
+      "newsCount": 1,
+      "news": [
+        {
+          "title": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
+          "link": "https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet",
+          "published": "Sat, 24 Oct 2026 04:45:43 +0000",
+          "source": "CoinDesk",
+          "text": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet Two subscriptions on Thursday nearly quadrupled the fund’s tokens on the network. The receiving wallet shares its authorized signers with the issuer."
+        }
+      ],
+      "marketSentiment": 7,
+      "combinedScore": 61,
+      "signal": "WAIT",
+      "reason": "Technical 40/100; News +100; Market sentiment +7."
+    },
+    {
+      "symbol": "WLDUSDT",
+      "coin": "WLD",
+      "price": 0.4761,
+      "change24h": -14.123,
+      "volume24h": 73583238.25187,
+      "technical": {
+        "rsi": 33.3,
+        "ema9": 0.47836101680404997,
+        "ema21": 0.48083593078404746,
+        "macdBull": true,
+        "emaBull": false,
+        "volumeRatio": 1.27,
+        "score": 35
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": 7,
-      "combinedScore": 41,
+      "combinedScore": 43,
       "signal": "WAIT",
-      "reason": "Technical 30/100; News +0; Market sentiment +7."
+      "reason": "Technical 35/100; News +0; Market sentiment +7."
     }
   ],
   "news": [
@@ -557,16 +565,6 @@
         "stopLoss": 1364.9736,
         "takeProfit": 1427.3328,
         "entryTime": "2026-10-19T23:02:38.643180+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
-        "symbol": "WLDUSDT",
-        "side": "SELL",
-        "entry": 0.5829,
-        "stopLoss": 0.5916435,
-        "takeProfit": 0.565413,
-        "entryTime": "2026-10-21T06:32:21.292581+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       },
@@ -999,6 +997,19 @@
         "exitPrice": 4.52e-06,
         "exitTime": "2026-10-23T23:14:42.259832+00:00",
         "pnlPercent": 3.004
+      },
+      {
+        "symbol": "WLDUSDT",
+        "side": "SELL",
+        "entry": 0.5829,
+        "stopLoss": 0.5916435,
+        "takeProfit": 0.565413,
+        "entryTime": "2026-10-21T06:32:21.292581+00:00",
+        "status": "TAKE_PROFIT",
+        "mode": "PAPER ONLY",
+        "exitPrice": 0.4761,
+        "exitTime": "2026-10-24T06:26:22.334325+00:00",
+        "pnlPercent": 18.322
       }
     ]
   },

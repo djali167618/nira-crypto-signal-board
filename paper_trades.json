@@ -51,16 +51,6 @@
       "mode": "PAPER ONLY"
     },
     {
-      "symbol": "WLDUSDT",
-      "side": "SELL",
-      "entry": 0.5829,
-      "stopLoss": 0.5916435,
-      "takeProfit": 0.565413,
-      "entryTime": "2026-10-21T06:32:21.292581+00:00",
-      "status": "OPEN",
-      "mode": "PAPER ONLY"
-    },
-    {
       "symbol": "SPCXBUSDT",
       "side": "SELL",
       "entry": 157.07,
@@ -489,6 +479,19 @@
       "exitPrice": 4.52e-06,
       "exitTime": "2026-10-23T23:14:42.259832+00:00",
       "pnlPercent": 3.004
+    },
+    {
+      "symbol": "WLDUSDT",
+      "side": "SELL",
+      "entry": 0.5829,
+      "stopLoss": 0.5916435,
+      "takeProfit": 0.565413,
+      "entryTime": "2026-10-21T06:32:21.292581+00:00",
+      "status": "TAKE_PROFIT",
+      "mode": "PAPER ONLY",
+      "exitPrice": 0.4761,
+      "exitTime": "2026-10-24T06:26:22.334325+00:00",
+      "pnlPercent": 18.322
     }
   ]
 }
