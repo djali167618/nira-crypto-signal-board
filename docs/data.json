@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25 13:22:44 UTC",
+  "generatedAt": "2026-10-25 17:07:08 UTC",
   "interval": "15m candles",
   "marketSentiment": 9,
   "overallNewsScore": 11,
@@ -12,17 +12,17 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 80376.58,
-      "change24h": -0.462,
-      "volume24h": 769032055.7171495,
+      "price": 80798.01,
+      "change24h": 0.702,
+      "volume24h": 474613384.6153292,
       "technical": {
-        "rsi": 47.8,
-        "ema9": 80424.95803196907,
-        "ema21": 80445.61782448596,
+        "rsi": 62.9,
+        "ema9": 80624.77955175513,
+        "ema21": 80551.60447876941,
         "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.68,
-        "score": 47
+        "emaBull": true,
+        "volumeRatio": 1.5,
+        "score": 89
       },
       "newsScore": 20,
       "newsCount": 5,
@@ -64,24 +64,24 @@
         }
       ],
       "marketSentiment": 9,
-      "combinedScore": 52,
-      "signal": "WAIT",
-      "reason": "Technical 47/100; News +20; Market sentiment +9."
+      "combinedScore": 73,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +20; Market sentiment +9."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2333.58,
-      "change24h": -1.449,
-      "volume24h": 486460825.576896,
+      "price": 2356.05,
+      "change24h": 1.701,
+      "volume24h": 281482302.87236,
       "technical": {
-        "rsi": 47.9,
-        "ema9": 2333.3878990077997,
-        "ema21": 2335.3881512789126,
+        "rsi": 65.0,
+        "ema9": 2345.4443607678404,
+        "ema21": 2341.3518930543773,
         "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 1.06,
-        "score": 47
+        "emaBull": true,
+        "volumeRatio": 2.32,
+        "score": 94
       },
       "newsScore": 0,
       "newsCount": 4,
@@ -116,109 +116,70 @@
         }
       ],
       "marketSentiment": 9,
-      "combinedScore": 49,
-      "signal": "WAIT",
-      "reason": "Technical 47/100; News +0; Market sentiment +9."
-    },
-    {
-      "symbol": "SOLUSDT",
-      "coin": "SOL",
-      "price": 100.99,
-      "change24h": -0.424,
-      "volume24h": 141979749.79285,
-      "technical": {
-        "rsi": 46.9,
-        "ema9": 100.96131368870238,
-        "ema21": 101.06893942317959,
-        "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.56,
-        "score": 47
-      },
-      "newsScore": 0,
-      "newsCount": 1,
-      "news": [
-        {
-          "title": "A16z is the latest VC giant to widen bets beyond crypto and into AI and emerging tech",
-          "link": "https://www.coindesk.com/business/2026/10/22/a16z-is-the-latest-vc-giant-to-widen-bets-beyond-crypto-and-into-ai-and-emerging-tech",
-          "published": "Thu, 22 Oct 2026 18:30:57 +0000",
-          "source": "CoinDesk",
-          "text": "A16z is the latest VC giant to widen bets beyond crypto and into AI and emerging tech The venture investor behind early bets on Coinbase, Solana and Uniswap said is broadening its focus, joining other crypto investment firms looking beyond blockchain to artificial intelligence and tech themes."
-        }
-      ],
-      "marketSentiment": 9,
-      "combinedScore": 49,
-      "signal": "WAIT",
-      "reason": "Technical 47/100; News +0; Market sentiment +9."
+      "combinedScore": 73,
+      "signal": "BUY",
+      "reason": "Technical 94/100; News +0; Market sentiment +9."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 1209.25,
-      "change24h": 4.249,
-      "volume24h": 133669462.058,
+      "price": 1219.15,
+      "change24h": 5.125,
+      "volume24h": 111803265.82055,
       "technical": {
-        "rsi": 61.1,
-        "ema9": 1206.8131974739701,
-        "ema21": 1201.569944141094,
+        "rsi": 60.9,
+        "ema9": 1211.8652084179685,
+        "ema21": 1208.409657286899,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.67,
-        "score": 89
+        "volumeRatio": 1.6,
+        "score": 94
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": 9,
-      "combinedScore": 70,
+      "combinedScore": 73,
       "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment +9."
+      "reason": "Technical 94/100; News +0; Market sentiment +9."
     },
     {
-      "symbol": "XRPUSDT",
-      "coin": "XRP",
-      "price": 1.2958,
-      "change24h": 0.825,
-      "volume24h": 101235803.89405,
+      "symbol": "SOLUSDT",
+      "coin": "SOL",
+      "price": 101.95,
+      "change24h": 1.534,
+      "volume24h": 90478492.00273,
       "technical": {
-        "rsi": 49.6,
-        "ema9": 1.2960806521714732,
-        "ema21": 1.2966099020970883,
+        "rsi": 63.1,
+        "ema9": 101.51069487781139,
+        "ema21": 101.32659828967437,
         "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.57,
-        "score": 47
+        "emaBull": true,
+        "volumeRatio": 1.95,
+        "score": 94
       },
-      "newsScore": 100,
-      "newsCount": 1,
-      "news": [
-        {
-          "title": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
-          "link": "https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet",
-          "published": "Sat, 24 Oct 2026 04:45:43 +0000",
-          "source": "CoinDesk",
-          "text": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet Two subscriptions on Thursday nearly quadrupled the fund’s tokens on the network. The receiving wallet shares its authorized signers with the issuer."
-        }
-      ],
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
       "marketSentiment": 9,
-      "combinedScore": 64,
-      "signal": "WAIT",
-      "reason": "Technical 47/100; News +100; Market sentiment +9."
+      "combinedScore": 73,
+      "signal": "BUY",
+      "reason": "Technical 94/100; News +0; Market sentiment +9."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 4.455,
-      "change24h": 0.406,
-      "volume24h": 99525767.68,
+      "price": 4.671,
+      "change24h": 5.679,
+      "volume24h": 80656286.5723,
       "technical": {
-        "rsi": 57.7,
-        "ema9": 4.45051650472428,
-        "ema21": 4.437789147546985,
+        "rsi": 76.1,
+        "ema9": 4.5544002323175405,
+        "ema21": 4.50611841647987,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 1.04,
-        "score": 89
+        "volumeRatio": 3.27,
+        "score": 77
       },
       "newsScore": 0,
       "newsCount": 2,
@@ -239,24 +200,78 @@
         }
       ],
       "marketSentiment": 9,
-      "combinedScore": 70,
+      "combinedScore": 64,
+      "signal": "WAIT",
+      "reason": "Technical 77/100; News +0; Market sentiment +9."
+    },
+    {
+      "symbol": "XRPUSDT",
+      "coin": "XRP",
+      "price": 1.3067,
+      "change24h": 2.47,
+      "volume24h": 75606063.29034,
+      "technical": {
+        "rsi": 65.4,
+        "ema9": 1.3005866550937961,
+        "ema21": 1.2987805422183198,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 2.4,
+        "score": 94
+      },
+      "newsScore": 100,
+      "newsCount": 1,
+      "news": [
+        {
+          "title": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
+          "link": "https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet",
+          "published": "Sat, 24 Oct 2026 04:45:43 +0000",
+          "source": "CoinDesk",
+          "text": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet Two subscriptions on Thursday nearly quadrupled the fund’s tokens on the network. The receiving wallet shares its authorized signers with the issuer."
+        }
+      ],
+      "marketSentiment": 9,
+      "combinedScore": 88,
       "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment +9."
+      "reason": "Technical 94/100; News +100; Market sentiment +9."
+    },
+    {
+      "symbol": "RLUSDUSDT",
+      "coin": "RLUSD",
+      "price": 1.0013,
+      "change24h": 0.0,
+      "volume24h": 67191923.3478,
+      "technical": {
+        "rsi": 46.1,
+        "ema9": 1.001328862399588,
+        "ema21": 1.0013427233375247,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.82,
+        "score": 23
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": 9,
+      "combinedScore": 37,
+      "signal": "WAIT",
+      "reason": "Technical 23/100; News +0; Market sentiment +9."
     },
     {
       "symbol": "BNBUSDT",
       "coin": "BNB",
-      "price": 737.49,
-      "change24h": 0.8,
-      "volume24h": 87835288.41344,
+      "price": 743.33,
+      "change24h": 2.649,
+      "volume24h": 62312886.9282,
       "technical": {
-        "rsi": 41.3,
-        "ema9": 739.9153817440156,
-        "ema21": 740.4507037065717,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.59,
-        "score": 11
+        "rsi": 60.3,
+        "ema9": 741.6679436900495,
+        "ema21": 740.8744715137062,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 2.28,
+        "score": 94
       },
       "newsScore": -100,
       "newsCount": 1,
@@ -270,24 +285,24 @@
         }
       ],
       "marketSentiment": 9,
-      "combinedScore": 16,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News -100; Market sentiment +9."
+      "combinedScore": 58,
+      "signal": "WAIT",
+      "reason": "Technical 94/100; News -100; Market sentiment +9."
     },
     {
       "symbol": "USD1USDT",
       "coin": "USD1",
-      "price": 0.99995,
-      "change24h": 0.009,
-      "volume24h": 65110367.98121,
+      "price": 1.0,
+      "change24h": 0.003,
+      "volume24h": 47361755.20713,
       "technical": {
-        "rsi": 60.5,
-        "ema9": 0.9999334118772234,
-        "ema21": 0.9999199132890422,
+        "rsi": 62.7,
+        "ema9": 0.9999587574521069,
+        "ema21": 0.999947344225502,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.74,
-        "score": 89
+        "volumeRatio": 2.53,
+        "score": 94
       },
       "newsScore": 0,
       "newsCount": 1,
@@ -301,66 +316,42 @@
         }
       ],
       "marketSentiment": 9,
-      "combinedScore": 70,
+      "combinedScore": 73,
       "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment +9."
+      "reason": "Technical 94/100; News +0; Market sentiment +9."
     },
     {
-      "symbol": "RLUSDUSDT",
-      "coin": "RLUSD",
-      "price": 1.0014,
-      "change24h": 0.02,
-      "volume24h": 59862080.8621,
+      "symbol": "WLDUSDT",
+      "coin": "WLD",
+      "price": 0.4597,
+      "change24h": -0.82,
+      "volume24h": 30230836.22256,
       "technical": {
-        "rsi": 44.2,
-        "ema9": 1.0013424941601268,
-        "ema21": 1.001345738356696,
+        "rsi": 64.7,
+        "ema9": 0.4560293615601958,
+        "ema21": 0.45374368803982235,
         "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.47,
-        "score": 35
+        "emaBull": true,
+        "volumeRatio": 1.79,
+        "score": 94
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": 9,
-      "combinedScore": 43,
-      "signal": "WAIT",
-      "reason": "Technical 35/100; News +0; Market sentiment +9."
-    },
-    {
-      "symbol": "PEPEUSDT",
-      "coin": "PEPE",
-      "price": 4.45e-06,
-      "change24h": 0.679,
-      "volume24h": 42009702.35381799,
-      "technical": {
-        "rsi": 57.7,
-        "ema9": 4.44260935152799e-06,
-        "ema21": 4.428869022428262e-06,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.8,
-        "score": 89
-      },
-      "newsScore": 0,
-      "newsCount": 1,
-      "news": [
-        {
-          "title": "Bitcoin steadies near $81,700 as altcoins rebound, pepe climbs 13%",
-          "link": "https://www.coindesk.com/markets/2026/10/23/bitcoin-steadies-near-usd81-700-as-altcoins-rebound-pepe-climbs-13",
-          "published": "Fri, 23 Oct 2026 10:54:41 +0000",
-          "source": "CoinDesk",
-          "text": "Bitcoin steadies near $81,700 as altcoins rebound, pepe climbs 13% Bitcoin rose 0.5% to around $81,700 since midnight UTC while the CoinDesk 80 gained 1.4% and memecoins climbed 2.9%."
-        }
-      ],
-      "marketSentiment": 9,
-      "combinedScore": 70,
+      "combinedScore": 73,
       "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment +9."
+      "reason": "Technical 94/100; News +0; Market sentiment +9."
     }
   ],
   "news": [
+    {
+      "title": "ECB official sees digital euro as key to protecting EU ‘sovereignty’",
+      "link": "https://cointelegraph.com/news/ecb-official-sees-digital-euro-tool-to-protect-eu-sovereignty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sun, 25 Oct 2026 15:11:00 +0000",
+      "source": "Cointelegraph",
+      "text": "ECB official sees digital euro as key to protecting EU ‘sovereignty’ Piero Cipollone said the bloc is on track to test real transactions in 2027 and roll out a digital euro as early as 2029, pending legislation this year."
+    },
     {
       "title": "Netanyahu floats use of blockchain as solution to potential financial sanctions",
       "link": "https://cointelegraph.com/news/netanyahu-floats-use-of-blockchain-as-solution-to-potential-financial-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -493,13 +484,6 @@
       "published": "Fri, 23 Oct 2026 04:34:14 +0000",
       "source": "Cointelegraph",
       "text": "Bitcoin Core changes security policy as AI makes bugs easier to find Bitcoin Core says keeping certain vulnerabilities secret no longer offers much protection in the wake of AI-assisted bug hunting."
-    },
-    {
-      "title": "Switzerland’s first retail spot Bitcoin ETF targets November launch",
-      "link": "https://cointelegraph.com/news/switzerland-approves-first-spot-bitcoin-etf-for-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 23 Oct 2026 00:59:35 +0000",
-      "source": "Cointelegraph",
-      "text": "Switzerland’s first retail spot Bitcoin ETF targets November launch BIT Asset Management’s Bitcoin Fund ETF is expected to begin trading on SIX Swiss Exchange in November, with its public offering restricted to Switzerland."
     }
   ],
   "paper": {
@@ -661,16 +645,6 @@
         "stopLoss": 4.5371e-06,
         "takeProfit": 4.3359e-06,
         "entryTime": "2026-10-25T03:42:08.513744+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
-        "symbol": "NEARUSDT",
-        "side": "SELL",
-        "entry": 4.406,
-        "stopLoss": 4.47209,
-        "takeProfit": 4.27382,
-        "entryTime": "2026-10-25T08:44:04.989814+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       }
@@ -1078,6 +1052,19 @@
         "exitPrice": 4.406,
         "exitTime": "2026-10-25T08:44:04.989814+00:00",
         "pnlPercent": -2.132
+      },
+      {
+        "symbol": "NEARUSDT",
+        "side": "SELL",
+        "entry": 4.406,
+        "stopLoss": 4.47209,
+        "takeProfit": 4.27382,
+        "entryTime": "2026-10-25T08:44:04.989814+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 4.671,
+        "exitTime": "2026-10-25T17:07:08.575601+00:00",
+        "pnlPercent": -6.015
       }
     ]
   },
