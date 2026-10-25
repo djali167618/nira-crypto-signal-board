@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25 17:07:08 UTC",
+  "generatedAt": "2026-10-25 19:34:04 UTC",
   "interval": "15m candles",
   "marketSentiment": 9,
   "overallNewsScore": 11,
@@ -12,17 +12,17 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 80798.01,
-      "change24h": 0.702,
-      "volume24h": 474613384.6153292,
+      "price": 80604.01,
+      "change24h": 0.071,
+      "volume24h": 464484250.2249216,
       "technical": {
-        "rsi": 62.9,
-        "ema9": 80624.77955175513,
-        "ema21": 80551.60447876941,
-        "macdBull": true,
+        "rsi": 45.4,
+        "ema9": 80652.29194529004,
+        "ema21": 80632.50787363392,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 1.5,
-        "score": 89
+        "volumeRatio": 0.34,
+        "score": 53
       },
       "newsScore": 20,
       "newsCount": 5,
@@ -64,24 +64,24 @@
         }
       ],
       "marketSentiment": 9,
-      "combinedScore": 73,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +20; Market sentiment +9."
+      "combinedScore": 55,
+      "signal": "WAIT",
+      "reason": "Technical 53/100; News +20; Market sentiment +9."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2356.05,
-      "change24h": 1.701,
-      "volume24h": 281482302.87236,
+      "price": 2351.86,
+      "change24h": 0.479,
+      "volume24h": 257420050.374722,
       "technical": {
-        "rsi": 65.0,
-        "ema9": 2345.4443607678404,
-        "ema21": 2341.3518930543773,
-        "macdBull": true,
+        "rsi": 52.5,
+        "ema9": 2353.5704408449283,
+        "ema21": 2349.899514073241,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 2.32,
-        "score": 94
+        "volumeRatio": 0.74,
+        "score": 53
       },
       "newsScore": 0,
       "newsCount": 4,
@@ -116,70 +116,124 @@
         }
       ],
       "marketSentiment": 9,
-      "combinedScore": 73,
-      "signal": "BUY",
-      "reason": "Technical 94/100; News +0; Market sentiment +9."
+      "combinedScore": 52,
+      "signal": "WAIT",
+      "reason": "Technical 53/100; News +0; Market sentiment +9."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 1219.15,
-      "change24h": 5.125,
-      "volume24h": 111803265.82055,
+      "price": 1221.38,
+      "change24h": 3.066,
+      "volume24h": 113177058.61006,
       "technical": {
-        "rsi": 60.9,
-        "ema9": 1211.8652084179685,
-        "ema21": 1208.409657286899,
-        "macdBull": true,
+        "rsi": 55.4,
+        "ema9": 1222.6265632359896,
+        "ema21": 1218.5475130427087,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 1.6,
-        "score": 94
+        "volumeRatio": 0.72,
+        "score": 65
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": 9,
-      "combinedScore": 73,
-      "signal": "BUY",
-      "reason": "Technical 94/100; News +0; Market sentiment +9."
+      "combinedScore": 58,
+      "signal": "WAIT",
+      "reason": "Technical 65/100; News +0; Market sentiment +9."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 101.95,
-      "change24h": 1.534,
-      "volume24h": 90478492.00273,
+      "price": 101.72,
+      "change24h": 0.554,
+      "volume24h": 86167878.20732,
       "technical": {
-        "rsi": 63.1,
-        "ema9": 101.51069487781139,
-        "ema21": 101.32659828967437,
-        "macdBull": true,
+        "rsi": 51.6,
+        "ema9": 101.77965057269616,
+        "ema21": 101.63940070759429,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 1.95,
-        "score": 94
+        "volumeRatio": 0.3,
+        "score": 53
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": 9,
-      "combinedScore": 73,
-      "signal": "BUY",
-      "reason": "Technical 94/100; News +0; Market sentiment +9."
+      "combinedScore": 52,
+      "signal": "WAIT",
+      "reason": "Technical 53/100; News +0; Market sentiment +9."
+    },
+    {
+      "symbol": "RLUSDUSDT",
+      "coin": "RLUSD",
+      "price": 1.0013,
+      "change24h": 0.0,
+      "volume24h": 75586402.0196,
+      "technical": {
+        "rsi": 46.7,
+        "ema9": 1.0013096526765588,
+        "ema21": 1.0013221189604384,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 1.97,
+        "score": 28
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": 9,
+      "combinedScore": 40,
+      "signal": "WAIT",
+      "reason": "Technical 28/100; News +0; Market sentiment +9."
+    },
+    {
+      "symbol": "XRPUSDT",
+      "coin": "XRP",
+      "price": 1.3004,
+      "change24h": 0.845,
+      "volume24h": 74117084.36104,
+      "technical": {
+        "rsi": 49.0,
+        "ema9": 1.3017147445528945,
+        "ema21": 1.3010575770143027,
+        "macdBull": false,
+        "emaBull": true,
+        "volumeRatio": 0.67,
+        "score": 53
+      },
+      "newsScore": 100,
+      "newsCount": 1,
+      "news": [
+        {
+          "title": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
+          "link": "https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet",
+          "published": "Sat, 24 Oct 2026 04:45:43 +0000",
+          "source": "CoinDesk",
+          "text": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet Two subscriptions on Thursday nearly quadrupled the fund’s tokens on the network. The receiving wallet shares its authorized signers with the issuer."
+        }
+      ],
+      "marketSentiment": 9,
+      "combinedScore": 67,
+      "signal": "WAIT",
+      "reason": "Technical 53/100; News +100; Market sentiment +9."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 4.671,
-      "change24h": 5.679,
-      "volume24h": 80656286.5723,
+      "price": 4.569,
+      "change24h": 2.467,
+      "volume24h": 73739227.2576,
       "technical": {
-        "rsi": 76.1,
-        "ema9": 4.5544002323175405,
-        "ema21": 4.50611841647987,
-        "macdBull": true,
+        "rsi": 53.0,
+        "ema9": 4.600774887126773,
+        "ema21": 4.573885660053189,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 3.27,
-        "score": 77
+        "volumeRatio": 0.4,
+        "score": 53
       },
       "newsScore": 0,
       "newsCount": 2,
@@ -200,78 +254,24 @@
         }
       ],
       "marketSentiment": 9,
-      "combinedScore": 64,
+      "combinedScore": 52,
       "signal": "WAIT",
-      "reason": "Technical 77/100; News +0; Market sentiment +9."
-    },
-    {
-      "symbol": "XRPUSDT",
-      "coin": "XRP",
-      "price": 1.3067,
-      "change24h": 2.47,
-      "volume24h": 75606063.29034,
-      "technical": {
-        "rsi": 65.4,
-        "ema9": 1.3005866550937961,
-        "ema21": 1.2987805422183198,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 2.4,
-        "score": 94
-      },
-      "newsScore": 100,
-      "newsCount": 1,
-      "news": [
-        {
-          "title": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
-          "link": "https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet",
-          "published": "Sat, 24 Oct 2026 04:45:43 +0000",
-          "source": "CoinDesk",
-          "text": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet Two subscriptions on Thursday nearly quadrupled the fund’s tokens on the network. The receiving wallet shares its authorized signers with the issuer."
-        }
-      ],
-      "marketSentiment": 9,
-      "combinedScore": 88,
-      "signal": "BUY",
-      "reason": "Technical 94/100; News +100; Market sentiment +9."
-    },
-    {
-      "symbol": "RLUSDUSDT",
-      "coin": "RLUSD",
-      "price": 1.0013,
-      "change24h": 0.0,
-      "volume24h": 67191923.3478,
-      "technical": {
-        "rsi": 46.1,
-        "ema9": 1.001328862399588,
-        "ema21": 1.0013427233375247,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.82,
-        "score": 23
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": 9,
-      "combinedScore": 37,
-      "signal": "WAIT",
-      "reason": "Technical 23/100; News +0; Market sentiment +9."
+      "reason": "Technical 53/100; News +0; Market sentiment +9."
     },
     {
       "symbol": "BNBUSDT",
       "coin": "BNB",
-      "price": 743.33,
-      "change24h": 2.649,
-      "volume24h": 62312886.9282,
+      "price": 742.59,
+      "change24h": 1.675,
+      "volume24h": 62446184.0483,
       "technical": {
-        "rsi": 60.3,
-        "ema9": 741.6679436900495,
-        "ema21": 740.8744715137062,
+        "rsi": 53.2,
+        "ema9": 742.3109933099493,
+        "ema21": 741.80124904554,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 2.28,
-        "score": 94
+        "volumeRatio": 0.52,
+        "score": 77
       },
       "newsScore": -100,
       "newsCount": 1,
@@ -285,24 +285,24 @@
         }
       ],
       "marketSentiment": 9,
-      "combinedScore": 58,
+      "combinedScore": 49,
       "signal": "WAIT",
-      "reason": "Technical 94/100; News -100; Market sentiment +9."
+      "reason": "Technical 77/100; News -100; Market sentiment +9."
     },
     {
       "symbol": "USD1USDT",
       "coin": "USD1",
-      "price": 1.0,
+      "price": 0.99999,
       "change24h": 0.003,
-      "volume24h": 47361755.20713,
+      "volume24h": 46525429.70521,
       "technical": {
-        "rsi": 62.7,
-        "ema9": 0.9999587574521069,
-        "ema21": 0.999947344225502,
-        "macdBull": true,
+        "rsi": 55.5,
+        "ema9": 0.9999826518993076,
+        "ema21": 0.9999706119825907,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 2.53,
-        "score": 94
+        "volumeRatio": 0.6,
+        "score": 65
       },
       "newsScore": 0,
       "newsCount": 1,
@@ -316,32 +316,32 @@
         }
       ],
       "marketSentiment": 9,
-      "combinedScore": 73,
-      "signal": "BUY",
-      "reason": "Technical 94/100; News +0; Market sentiment +9."
+      "combinedScore": 58,
+      "signal": "WAIT",
+      "reason": "Technical 65/100; News +0; Market sentiment +9."
     },
     {
-      "symbol": "WLDUSDT",
-      "coin": "WLD",
-      "price": 0.4597,
-      "change24h": -0.82,
-      "volume24h": 30230836.22256,
+      "symbol": "ENAUSDT",
+      "coin": "ENA",
+      "price": 0.2063,
+      "change24h": 9.792,
+      "volume24h": 28693046.725936,
       "technical": {
-        "rsi": 64.7,
-        "ema9": 0.4560293615601958,
-        "ema21": 0.45374368803982235,
-        "macdBull": true,
+        "rsi": 61.0,
+        "ema9": 0.2067207180922289,
+        "ema21": 0.20410462867403167,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 1.79,
-        "score": 94
+        "volumeRatio": 0.48,
+        "score": 65
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": 9,
-      "combinedScore": 73,
-      "signal": "BUY",
-      "reason": "Technical 94/100; News +0; Market sentiment +9."
+      "combinedScore": 58,
+      "signal": "WAIT",
+      "reason": "Technical 65/100; News +0; Market sentiment +9."
     }
   ],
   "news": [
