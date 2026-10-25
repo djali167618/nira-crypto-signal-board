@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-24 23:58:34 UTC",
+  "generatedAt": "2026-10-25 03:42:08 UTC",
   "interval": "15m candles",
-  "marketSentiment": 7,
+  "marketSentiment": 11,
   "overallNewsScore": 16,
   "fearGreed": {
-    "value": 51,
+    "value": 54,
     "label": "Neutral",
     "source": "Alternative.me"
   },
@@ -12,17 +12,17 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 80893.94,
-      "change24h": -0.354,
-      "volume24h": 942159913.5451559,
+      "price": 80930.01,
+      "change24h": -0.041,
+      "volume24h": 929724880.5524632,
       "technical": {
-        "rsi": 67.5,
-        "ema9": 80610.20808697227,
-        "ema21": 80511.73184309017,
-        "macdBull": true,
+        "rsi": 63.1,
+        "ema9": 80904.19485474806,
+        "ema21": 80803.33431456187,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 2.36,
-        "score": 94
+        "volumeRatio": 1.11,
+        "score": 65
       },
       "newsScore": 20,
       "newsCount": 5,
@@ -63,25 +63,25 @@
           "text": "Bitcoin Core changes security policy as AI makes bugs easier to find Bitcoin Core says keeping certain vulnerabilities secret no longer offers much protection in the wake of AI-assisted bug hunting."
         }
       ],
-      "marketSentiment": 7,
-      "combinedScore": 76,
-      "signal": "BUY",
-      "reason": "Technical 94/100; News +20; Market sentiment +7."
+      "marketSentiment": 11,
+      "combinedScore": 62,
+      "signal": "WAIT",
+      "reason": "Technical 65/100; News +20; Market sentiment +11."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2358.96,
-      "change24h": -1.192,
-      "volume24h": 466794882.626859,
+      "price": 2363.46,
+      "change24h": -0.89,
+      "volume24h": 462270805.626081,
       "technical": {
-        "rsi": 66.9,
-        "ema9": 2346.599335966449,
-        "ema21": 2342.351878806855,
+        "rsi": 66.6,
+        "ema9": 2364.047699431026,
+        "ema21": 2358.2416310168687,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 4.49,
-        "score": 94
+        "volumeRatio": 0.72,
+        "score": 89
       },
       "newsScore": 0,
       "newsCount": 4,
@@ -115,25 +115,25 @@
           "text": "Ethereum delays Glamsterdam test after security devs flag risk to existing contracts Developers canceled Monday's Hoodi activation after researchers showed how new gas rules could let smart contracts permanently record failed operations."
         }
       ],
-      "marketSentiment": 7,
-      "combinedScore": 73,
+      "marketSentiment": 11,
+      "combinedScore": 71,
       "signal": "BUY",
-      "reason": "Technical 94/100; News +0; Market sentiment +7."
+      "reason": "Technical 89/100; News +0; Market sentiment +11."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 102.4,
-      "change24h": -0.447,
-      "volume24h": 175337782.45717,
+      "price": 102.46,
+      "change24h": -0.273,
+      "volume24h": 166809794.98146,
       "technical": {
-        "rsi": 73.2,
-        "ema9": 101.73312802703346,
-        "ema21": 101.45062700849107,
-        "macdBull": true,
+        "rsi": 65.6,
+        "ema9": 102.43192093691925,
+        "ema21": 102.19818579413385,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 4.27,
-        "score": 77
+        "volumeRatio": 1.05,
+        "score": 65
       },
       "newsScore": 0,
       "newsCount": 1,
@@ -146,48 +146,48 @@
           "text": "A16z is the latest VC giant to widen bets beyond crypto and into AI and emerging tech The venture investor behind early bets on Coinbase, Solana and Uniswap said is broadening its focus, joining other crypto investment firms looking beyond blockchain to artificial intelligence and tech themes."
         }
       ],
-      "marketSentiment": 7,
-      "combinedScore": 64,
+      "marketSentiment": 11,
+      "combinedScore": 59,
       "signal": "WAIT",
-      "reason": "Technical 77/100; News +0; Market sentiment +7."
+      "reason": "Technical 65/100; News +0; Market sentiment +11."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 1209.4,
-      "change24h": 2.335,
-      "volume24h": 149558277.28744,
+      "price": 1212.0,
+      "change24h": 3.42,
+      "volume24h": 139992787.92858,
       "technical": {
-        "rsi": 65.9,
-        "ema9": 1201.908613901272,
-        "ema21": 1193.8345465254317,
+        "rsi": 57.1,
+        "ema9": 1213.5869272838627,
+        "ema21": 1208.6120828986823,
         "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 0.99,
-        "score": 65
+        "volumeRatio": 3.08,
+        "score": 60
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": 7,
-      "combinedScore": 58,
+      "marketSentiment": 11,
+      "combinedScore": 56,
       "signal": "WAIT",
-      "reason": "Technical 65/100; News +0; Market sentiment +7."
+      "reason": "Technical 60/100; News +0; Market sentiment +11."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 4.502,
-      "change24h": -3.906,
-      "volume24h": 120778113.8647,
+      "price": 4.463,
+      "change24h": -4.125,
+      "volume24h": 116057819.5199,
       "technical": {
-        "rsi": 61.8,
-        "ema9": 4.473408992513577,
-        "ema21": 4.461360167088809,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 2.59,
-        "score": 94
+        "rsi": 44.7,
+        "ema9": 4.473933574513684,
+        "ema21": 4.477026264437687,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.5,
+        "score": 11
       },
       "newsScore": 0,
       "newsCount": 2,
@@ -207,25 +207,25 @@
           "text": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100 Bitcoin and gold pared early losses as the yen gave up gains and Asian stocks rebounded, though oil near $100 keeps inflation risks in focus."
         }
       ],
-      "marketSentiment": 7,
-      "combinedScore": 73,
-      "signal": "BUY",
-      "reason": "Technical 94/100; News +0; Market sentiment +7."
+      "marketSentiment": 11,
+      "combinedScore": 32,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment +11."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 1.2996,
-      "change24h": 0.355,
-      "volume24h": 95701400.15585,
+      "price": 1.3116,
+      "change24h": 1.58,
+      "volume24h": 100224223.7674,
       "technical": {
-        "rsi": 68.1,
-        "ema9": 1.2941165952258478,
-        "ema21": 1.290686076173527,
+        "rsi": 70.7,
+        "ema9": 1.3080153637850853,
+        "ema21": 1.303055079826931,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 2.51,
-        "score": 94
+        "volumeRatio": 1.26,
+        "score": 89
       },
       "newsScore": 100,
       "newsCount": 1,
@@ -238,25 +238,25 @@
           "text": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet Two subscriptions on Thursday nearly quadrupled the fund’s tokens on the network. The receiving wallet shares its authorized signers with the issuer."
         }
       ],
-      "marketSentiment": 7,
-      "combinedScore": 88,
+      "marketSentiment": 11,
+      "combinedScore": 86,
       "signal": "BUY",
-      "reason": "Technical 94/100; News +100; Market sentiment +7."
+      "reason": "Technical 89/100; News +100; Market sentiment +11."
     },
     {
       "symbol": "BNBUSDT",
       "coin": "BNB",
-      "price": 739.76,
-      "change24h": -0.019,
-      "volume24h": 85027322.42525,
+      "price": 744.27,
+      "change24h": 0.595,
+      "volume24h": 89551451.1495,
       "technical": {
-        "rsi": 78.4,
-        "ema9": 735.8042057272515,
-        "ema21": 733.2680761472516,
+        "rsi": 80.7,
+        "ema9": 743.9007594576083,
+        "ema21": 740.9561382216025,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 2.04,
-        "score": 77
+        "volumeRatio": 0.92,
+        "score": 72
       },
       "newsScore": -100,
       "newsCount": 1,
@@ -269,24 +269,24 @@
           "text": "Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash The attacker moved $744,000 in ETH and BNB to Tornado Cash after exploiting Cysic’s bridge to mint 10 million tokens on BNB Smart Chain."
         }
       ],
-      "marketSentiment": 7,
-      "combinedScore": 49,
+      "marketSentiment": 11,
+      "combinedScore": 47,
       "signal": "WAIT",
-      "reason": "Technical 77/100; News -100; Market sentiment +7."
+      "reason": "Technical 72/100; News -100; Market sentiment +11."
     },
     {
       "symbol": "AIUSDT",
       "coin": "AI",
-      "price": 0.0194,
-      "change24h": -4.433,
-      "volume24h": 76404895.17631,
+      "price": 0.0195,
+      "change24h": -3.465,
+      "volume24h": 75760571.84249,
       "technical": {
-        "rsi": 51.0,
-        "ema9": 0.0194721317429561,
-        "ema21": 0.019472237780698044,
+        "rsi": 46.4,
+        "ema9": 0.019452078529443,
+        "ema21": 0.019457299157410783,
         "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.02,
+        "volumeRatio": 0.0,
         "score": 47
       },
       "newsScore": 0,
@@ -328,25 +328,25 @@
           "text": "Bitcoin Core changes security rules as AI makes finding code bugs dangerously easy Developers merged a policy change that ends the months-long embargo for flaws a chatbot could rediscover, after a summer in which AI found hundreds of bitcoin bugs before the humans did."
         }
       ],
-      "marketSentiment": 7,
-      "combinedScore": 49,
+      "marketSentiment": 11,
+      "combinedScore": 50,
       "signal": "WAIT",
-      "reason": "Technical 47/100; News +0; Market sentiment +7."
+      "reason": "Technical 47/100; News +0; Market sentiment +11."
     },
     {
       "symbol": "USD1USDT",
       "coin": "USD1",
-      "price": 0.99997,
-      "change24h": 0.005,
-      "volume24h": 71737852.32912,
+      "price": 0.99996,
+      "change24h": 0.007,
+      "volume24h": 65654934.96918,
       "technical": {
-        "rsi": 60.3,
-        "ema9": 0.9999423674319543,
-        "ema21": 0.9999434381044396,
+        "rsi": 55.1,
+        "ema9": 0.999942769658968,
+        "ema21": 0.9999436535033498,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 4.35,
-        "score": 40
+        "volumeRatio": 1.12,
+        "score": 35
       },
       "newsScore": 0,
       "newsCount": 1,
@@ -359,33 +359,41 @@
           "text": "Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals According to a Circle shareholder, the US president’s “corruption” through USD1 left the company unable to compete with stablecoins, harming USDC."
         }
       ],
-      "marketSentiment": 7,
-      "combinedScore": 46,
+      "marketSentiment": 11,
+      "combinedScore": 44,
       "signal": "WAIT",
-      "reason": "Technical 40/100; News +0; Market sentiment +7."
+      "reason": "Technical 35/100; News +0; Market sentiment +11."
     },
     {
-      "symbol": "BMTUSDT",
-      "coin": "BMT",
-      "price": 0.03818,
-      "change24h": 70.143,
-      "volume24h": 61388406.817429,
+      "symbol": "PEPEUSDT",
+      "coin": "PEPE",
+      "price": 4.47e-06,
+      "change24h": -2.188,
+      "volume24h": 52380908.6114343,
       "technical": {
-        "rsi": 46.9,
-        "ema9": 0.03827280914758767,
-        "ema21": 0.03827226839667386,
+        "rsi": 40.1,
+        "ema9": 4.487946272274332e-06,
+        "ema21": 4.491121910054712e-06,
         "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.83,
-        "score": 53
+        "emaBull": false,
+        "volumeRatio": 1.35,
+        "score": 11
       },
       "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": 7,
-      "combinedScore": 52,
-      "signal": "WAIT",
-      "reason": "Technical 53/100; News +0; Market sentiment +7."
+      "newsCount": 1,
+      "news": [
+        {
+          "title": "Bitcoin steadies near $81,700 as altcoins rebound, pepe climbs 13%",
+          "link": "https://www.coindesk.com/markets/2026/10/23/bitcoin-steadies-near-usd81-700-as-altcoins-rebound-pepe-climbs-13",
+          "published": "Fri, 23 Oct 2026 10:54:41 +0000",
+          "source": "CoinDesk",
+          "text": "Bitcoin steadies near $81,700 as altcoins rebound, pepe climbs 13% Bitcoin rose 0.5% to around $81,700 since midnight UTC while the CoinDesk 80 gained 1.4% and memecoins climbed 2.9%."
+        }
+      ],
+      "marketSentiment": 11,
+      "combinedScore": 32,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment +11."
     }
   ],
   "news": [
@@ -643,16 +651,6 @@
         "mode": "PAPER ONLY"
       },
       {
-        "symbol": "XRPUSDT",
-        "side": "SELL",
-        "entry": 1.2882,
-        "stopLoss": 1.307523,
-        "takeProfit": 1.249554,
-        "entryTime": "2026-10-24T01:37:42.164364+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
         "symbol": "AIUSDT",
         "side": "SELL",
         "entry": 0.0196,
@@ -689,6 +687,26 @@
         "stopLoss": 4.43447,
         "takeProfit": 4.63706,
         "entryTime": "2026-10-24T23:58:34.623210+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "XRPUSDT",
+        "side": "BUY",
+        "entry": 1.3116,
+        "stopLoss": 1.291926,
+        "takeProfit": 1.350948,
+        "entryTime": "2026-10-25T03:42:08.513744+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "PEPEUSDT",
+        "side": "SELL",
+        "entry": 4.47e-06,
+        "stopLoss": 4.5371e-06,
+        "takeProfit": 4.3359e-06,
+        "entryTime": "2026-10-25T03:42:08.513744+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       }
@@ -1070,6 +1088,19 @@
         "exitPrice": 1192.95,
         "exitTime": "2026-10-24T21:56:26.270014+00:00",
         "pnlPercent": -1.792
+      },
+      {
+        "symbol": "XRPUSDT",
+        "side": "SELL",
+        "entry": 1.2882,
+        "stopLoss": 1.307523,
+        "takeProfit": 1.249554,
+        "entryTime": "2026-10-24T01:37:42.164364+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 1.3116,
+        "exitTime": "2026-10-25T03:42:08.513744+00:00",
+        "pnlPercent": -1.816
       }
     ]
   },
