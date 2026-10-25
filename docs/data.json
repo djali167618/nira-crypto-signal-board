@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-25 08:44:04 UTC",
+  "generatedAt": "2026-10-25 13:22:44 UTC",
   "interval": "15m candles",
-  "marketSentiment": 11,
-  "overallNewsScore": 16,
+  "marketSentiment": 9,
+  "overallNewsScore": 11,
   "fearGreed": {
     "value": 54,
     "label": "Neutral",
@@ -12,17 +12,17 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 80496.93,
-      "change24h": -0.199,
-      "volume24h": 794002841.401022,
+      "price": 80376.58,
+      "change24h": -0.462,
+      "volume24h": 769032055.7171495,
       "technical": {
-        "rsi": 34.5,
-        "ema9": 80597.41724382092,
-        "ema21": 80670.04356178967,
-        "macdBull": false,
+        "rsi": 47.8,
+        "ema9": 80424.95803196907,
+        "ema21": 80445.61782448596,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 2.13,
-        "score": 6
+        "volumeRatio": 0.68,
+        "score": 47
       },
       "newsScore": 20,
       "newsCount": 5,
@@ -63,25 +63,25 @@
           "text": "Bitcoin Core changes security policy as AI makes bugs easier to find Bitcoin Core says keeping certain vulnerabilities secret no longer offers much protection in the wake of AI-assisted bug hunting."
         }
       ],
-      "marketSentiment": 11,
-      "combinedScore": 32,
-      "signal": "SELL",
-      "reason": "Technical 6/100; News +20; Market sentiment +11."
+      "marketSentiment": 9,
+      "combinedScore": 52,
+      "signal": "WAIT",
+      "reason": "Technical 47/100; News +20; Market sentiment +9."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2340.34,
-      "change24h": -1.185,
-      "volume24h": 474945082.336998,
+      "price": 2333.58,
+      "change24h": -1.449,
+      "volume24h": 486460825.576896,
       "technical": {
-        "rsi": 32.0,
-        "ema9": 2346.107706610748,
-        "ema21": 2351.230017268014,
-        "macdBull": false,
+        "rsi": 47.9,
+        "ema9": 2333.3878990077997,
+        "ema21": 2335.3881512789126,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 2.47,
-        "score": 6
+        "volumeRatio": 1.06,
+        "score": 47
       },
       "newsScore": 0,
       "newsCount": 4,
@@ -115,25 +115,25 @@
           "text": "Ethereum delays Glamsterdam test after security devs flag risk to existing contracts Developers canceled Monday's Hoodi activation after researchers showed how new gas rules could let smart contracts permanently record failed operations."
         }
       ],
-      "marketSentiment": 11,
-      "combinedScore": 29,
-      "signal": "SELL",
-      "reason": "Technical 6/100; News +0; Market sentiment +11."
+      "marketSentiment": 9,
+      "combinedScore": 49,
+      "signal": "WAIT",
+      "reason": "Technical 47/100; News +0; Market sentiment +9."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 101.21,
-      "change24h": -0.716,
-      "volume24h": 147244869.19868,
+      "price": 100.99,
+      "change24h": -0.424,
+      "volume24h": 141979749.79285,
       "technical": {
-        "rsi": 31.4,
-        "ema9": 101.6054972594947,
-        "ema21": 101.85354754955239,
-        "macdBull": false,
+        "rsi": 46.9,
+        "ema9": 100.96131368870238,
+        "ema21": 101.06893942317959,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 1.12,
-        "score": 11
+        "volumeRatio": 0.56,
+        "score": 47
       },
       "newsScore": 0,
       "newsCount": 1,
@@ -146,48 +146,79 @@
           "text": "A16z is the latest VC giant to widen bets beyond crypto and into AI and emerging tech The venture investor behind early bets on Coinbase, Solana and Uniswap said is broadening its focus, joining other crypto investment firms looking beyond blockchain to artificial intelligence and tech themes."
         }
       ],
-      "marketSentiment": 11,
-      "combinedScore": 32,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment +11."
+      "marketSentiment": 9,
+      "combinedScore": 49,
+      "signal": "WAIT",
+      "reason": "Technical 47/100; News +0; Market sentiment +9."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 1188.96,
-      "change24h": 2.2,
-      "volume24h": 133822529.00011,
+      "price": 1209.25,
+      "change24h": 4.249,
+      "volume24h": 133669462.058,
       "technical": {
-        "rsi": 35.9,
-        "ema9": 1196.1105457846515,
-        "ema21": 1201.3230619168653,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.41,
-        "score": 11
+        "rsi": 61.1,
+        "ema9": 1206.8131974739701,
+        "ema21": 1201.569944141094,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.67,
+        "score": 89
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": 11,
-      "combinedScore": 32,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment +11."
+      "marketSentiment": 9,
+      "combinedScore": 70,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment +9."
+    },
+    {
+      "symbol": "XRPUSDT",
+      "coin": "XRP",
+      "price": 1.2958,
+      "change24h": 0.825,
+      "volume24h": 101235803.89405,
+      "technical": {
+        "rsi": 49.6,
+        "ema9": 1.2960806521714732,
+        "ema21": 1.2966099020970883,
+        "macdBull": true,
+        "emaBull": false,
+        "volumeRatio": 0.57,
+        "score": 47
+      },
+      "newsScore": 100,
+      "newsCount": 1,
+      "news": [
+        {
+          "title": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
+          "link": "https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet",
+          "published": "Sat, 24 Oct 2026 04:45:43 +0000",
+          "source": "CoinDesk",
+          "text": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet Two subscriptions on Thursday nearly quadrupled the fund’s tokens on the network. The receiving wallet shares its authorized signers with the issuer."
+        }
+      ],
+      "marketSentiment": 9,
+      "combinedScore": 64,
+      "signal": "WAIT",
+      "reason": "Technical 47/100; News +100; Market sentiment +9."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 4.406,
-      "change24h": -3.08,
-      "volume24h": 113935034.4841,
+      "price": 4.455,
+      "change24h": 0.406,
+      "volume24h": 99525767.68,
       "technical": {
-        "rsi": 34.9,
-        "ema9": 4.428165524706916,
-        "ema21": 4.444296528189887,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.52,
-        "score": 11
+        "rsi": 57.7,
+        "ema9": 4.45051650472428,
+        "ema21": 4.437789147546985,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 1.04,
+        "score": 89
       },
       "newsScore": 0,
       "newsCount": 2,
@@ -207,55 +238,24 @@
           "text": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100 Bitcoin and gold pared early losses as the yen gave up gains and Asian stocks rebounded, though oil near $100 keeps inflation risks in focus."
         }
       ],
-      "marketSentiment": 11,
-      "combinedScore": 32,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment +11."
-    },
-    {
-      "symbol": "XRPUSDT",
-      "coin": "XRP",
-      "price": 1.2995,
-      "change24h": 1.405,
-      "volume24h": 104815021.99813,
-      "technical": {
-        "rsi": 42.6,
-        "ema9": 1.3012554590480094,
-        "ema21": 1.302752338146135,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.69,
-        "score": 11
-      },
-      "newsScore": 100,
-      "newsCount": 1,
-      "news": [
-        {
-          "title": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
-          "link": "https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet",
-          "published": "Sat, 24 Oct 2026 04:45:43 +0000",
-          "source": "CoinDesk",
-          "text": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet Two subscriptions on Thursday nearly quadrupled the fund’s tokens on the network. The receiving wallet shares its authorized signers with the issuer."
-        }
-      ],
-      "marketSentiment": 11,
-      "combinedScore": 47,
-      "signal": "WAIT",
-      "reason": "Technical 11/100; News +100; Market sentiment +11."
+      "marketSentiment": 9,
+      "combinedScore": 70,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment +9."
     },
     {
       "symbol": "BNBUSDT",
       "coin": "BNB",
-      "price": 741.56,
-      "change24h": 1.027,
-      "volume24h": 88226853.27174,
+      "price": 737.49,
+      "change24h": 0.8,
+      "volume24h": 87835288.41344,
       "technical": {
-        "rsi": 42.3,
-        "ema9": 743.939422715424,
-        "ema21": 744.0288470747413,
+        "rsi": 41.3,
+        "ema9": 739.9153817440156,
+        "ema21": 740.4507037065717,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.65,
+        "volumeRatio": 0.59,
         "score": 11
       },
       "newsScore": -100,
@@ -269,84 +269,25 @@
           "text": "Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash The attacker moved $744,000 in ETH and BNB to Tornado Cash after exploiting Cysic’s bridge to mint 10 million tokens on BNB Smart Chain."
         }
       ],
-      "marketSentiment": 11,
-      "combinedScore": 17,
+      "marketSentiment": 9,
+      "combinedScore": 16,
       "signal": "SELL",
-      "reason": "Technical 11/100; News -100; Market sentiment +11."
-    },
-    {
-      "symbol": "AIUSDT",
-      "coin": "AI",
-      "price": 0.0194,
-      "change24h": -4.902,
-      "volume24h": 74096179.06147,
-      "technical": {
-        "rsi": 44.1,
-        "ema9": 0.019321730203363398,
-        "ema21": 0.019357314165438216,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.78,
-        "score": 11
-      },
-      "newsScore": 0,
-      "newsCount": 5,
-      "news": [
-        {
-          "title": "Bitcoin consolidates after 3% loss as AI fears stoke fresh stock-market weakness",
-          "link": "https://cointelegraph.com/markets/bitcoin-consolidates-after-3-loss-as-ai-fears-stoke-fresh-stock-market-weakness?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Fri, 23 Oct 2026 12:23:58 +0000",
-          "source": "Cointelegraph",
-          "text": "Bitcoin consolidates after 3% loss as AI fears stoke fresh stock-market weakness Bitcoin price volatility cooled as stock markets battled another day of resurgent AI fears during Friday’s Asia trading session."
-        },
-        {
-          "title": "Bitcoin Core changes security policy as AI makes bugs easier to find",
-          "link": "https://cointelegraph.com/news/bitcoin-core-changes-security-policy-as-ai-makes-bugs-easier-to-find?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Fri, 23 Oct 2026 04:34:14 +0000",
-          "source": "Cointelegraph",
-          "text": "Bitcoin Core changes security policy as AI makes bugs easier to find Bitcoin Core says keeping certain vulnerabilities secret no longer offers much protection in the wake of AI-assisted bug hunting."
-        },
-        {
-          "title": "Bitcoin hashrate hits seven-month high as AI shift fails to ease mining competition",
-          "link": "https://cointelegraph.com/news/bitcoin-mining-difficulty-hashrate-recovery-ai-shift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Thu, 22 Oct 2026 16:50:51 +0000",
-          "source": "Cointelegraph",
-          "text": "Bitcoin hashrate hits seven-month high as AI shift fails to ease mining competition According to BlocksBridge, Bitcoin’s mining difficulty is rising despite the industry’s AI transition, with smaller operators potentially absorbing equipment abandoned by larger competitors."
-        },
-        {
-          "title": "Block's new voice AI sounds eerily human, sparking awe and scam fears",
-          "link": "https://www.coindesk.com/tech/2026/10/24/block-s-new-voice-ai-sounds-eerily-human-sparking-awe-and-scam-fears",
-          "published": "Sat, 24 Oct 2026 15:21:06 +0000",
-          "source": "CoinDesk",
-          "text": "Block's new voice AI sounds eerily human, sparking awe and scam fears Reactions split between amazement at how human it sounds and fears it could fuel scams and deception, with CZ eyeing uses in children’s education."
-        },
-        {
-          "title": "Bitcoin Core changes security rules as AI makes finding code bugs dangerously easy",
-          "link": "https://www.coindesk.com/tech/2026/10/23/bitcoin-will-now-stop-hiding-bugs-an-ai-can-find-in-one-prompt",
-          "published": "Fri, 23 Oct 2026 12:03:53 +0000",
-          "source": "CoinDesk",
-          "text": "Bitcoin Core changes security rules as AI makes finding code bugs dangerously easy Developers merged a policy change that ends the months-long embargo for flaws a chatbot could rediscover, after a summer in which AI found hundreds of bitcoin bugs before the humans did."
-        }
-      ],
-      "marketSentiment": 11,
-      "combinedScore": 32,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment +11."
+      "reason": "Technical 11/100; News -100; Market sentiment +9."
     },
     {
       "symbol": "USD1USDT",
       "coin": "USD1",
-      "price": 0.99988,
-      "change24h": 0.0,
-      "volume24h": 63300681.21498,
+      "price": 0.99995,
+      "change24h": 0.009,
+      "volume24h": 65110367.98121,
       "technical": {
-        "rsi": 37.9,
-        "ema9": 0.9999074537559305,
-        "ema21": 0.9999209000084085,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.84,
-        "score": 11
+        "rsi": 60.5,
+        "ema9": 0.9999334118772234,
+        "ema21": 0.9999199132890422,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.74,
+        "score": 89
       },
       "newsScore": 0,
       "newsCount": 1,
@@ -359,25 +300,48 @@
           "text": "Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals According to a Circle shareholder, the US president’s “corruption” through USD1 left the company unable to compete with stablecoins, harming USDC."
         }
       ],
-      "marketSentiment": 11,
-      "combinedScore": 32,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment +11."
+      "marketSentiment": 9,
+      "combinedScore": 70,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment +9."
+    },
+    {
+      "symbol": "RLUSDUSDT",
+      "coin": "RLUSD",
+      "price": 1.0014,
+      "change24h": 0.02,
+      "volume24h": 59862080.8621,
+      "technical": {
+        "rsi": 44.2,
+        "ema9": 1.0013424941601268,
+        "ema21": 1.001345738356696,
+        "macdBull": true,
+        "emaBull": false,
+        "volumeRatio": 0.47,
+        "score": 35
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": 9,
+      "combinedScore": 43,
+      "signal": "WAIT",
+      "reason": "Technical 35/100; News +0; Market sentiment +9."
     },
     {
       "symbol": "PEPEUSDT",
       "coin": "PEPE",
-      "price": 4.39e-06,
-      "change24h": 0.228,
-      "volume24h": 47300976.18542066,
+      "price": 4.45e-06,
+      "change24h": 0.679,
+      "volume24h": 42009702.35381799,
       "technical": {
-        "rsi": 35.9,
-        "ema9": 4.391164212161844e-06,
-        "ema21": 4.417411507791597e-06,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.72,
-        "score": 11
+        "rsi": 57.7,
+        "ema9": 4.44260935152799e-06,
+        "ema21": 4.428869022428262e-06,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.8,
+        "score": 89
       },
       "newsScore": 0,
       "newsCount": 1,
@@ -390,13 +354,20 @@
           "text": "Bitcoin steadies near $81,700 as altcoins rebound, pepe climbs 13% Bitcoin rose 0.5% to around $81,700 since midnight UTC while the CoinDesk 80 gained 1.4% and memecoins climbed 2.9%."
         }
       ],
-      "marketSentiment": 11,
-      "combinedScore": 32,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment +11."
+      "marketSentiment": 9,
+      "combinedScore": 70,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment +9."
     }
   ],
   "news": [
+    {
+      "title": "Netanyahu floats use of blockchain as solution to potential financial sanctions",
+      "link": "https://cointelegraph.com/news/netanyahu-floats-use-of-blockchain-as-solution-to-potential-financial-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sun, 25 Oct 2026 11:42:00 +0000",
+      "source": "Cointelegraph",
+      "text": "Netanyahu floats use of blockchain as solution to potential financial sanctions Ahead of elections, Prime Minister Benjamin Netanyahu said Israel could turn to blockchain and crypto to skirt potential international sanctions, to the dismay of opponents and the country’s central banker."
+    },
     {
       "title": "Wells Fargo and five others object to OKX-ICE tokenized stock listings: Report",
       "link": "https://cointelegraph.com/news/nasdaq-companies-object-tokenized-stock-listings-okx-ice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -529,13 +500,6 @@
       "published": "Fri, 23 Oct 2026 00:59:35 +0000",
       "source": "Cointelegraph",
       "text": "Switzerland’s first retail spot Bitcoin ETF targets November launch BIT Asset Management’s Bitcoin Fund ETF is expected to begin trading on SIX Swiss Exchange in November, with its public offering restricted to Switzerland."
-    },
-    {
-      "title": "Pentagon bans US forces from using military info to bet in prediction markets",
-      "link": "https://cointelegraph.com/news/pentagon-bans-us-forces-from-using-military-info-to-bet-in-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 22 Oct 2026 23:50:42 +0000",
-      "source": "Cointelegraph",
-      "text": "Pentagon bans US forces from using military info to bet in prediction markets Hegseth warned that prediction market wagers could expose military operations to adversaries."
     }
   ],
   "paper": {
