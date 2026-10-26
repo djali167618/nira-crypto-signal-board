@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-26 04:32:52 UTC",
+  "generatedAt": "2026-10-26 10:26:34 UTC",
   "interval": "15m candles",
-  "marketSentiment": 0,
-  "overallNewsScore": 0,
+  "marketSentiment": -2,
+  "overallNewsScore": -6,
   "fearGreed": {
     "value": 50,
     "label": "Neutral",
@@ -12,21 +12,35 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 80036.01,
-      "change24h": -1.044,
-      "volume24h": 660341412.3084953,
+      "price": 80418.01,
+      "change24h": 0.116,
+      "volume24h": 757764945.1752081,
       "technical": {
-        "rsi": 49.0,
-        "ema9": 79776.86881483337,
-        "ema21": 79895.7720752639,
+        "rsi": 59.1,
+        "ema9": 80361.0852172649,
+        "ema21": 80223.25581641114,
         "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.73,
-        "score": 47
+        "emaBull": true,
+        "volumeRatio": 0.56,
+        "score": 89
       },
-      "newsScore": 20,
+      "newsScore": 10,
       "newsCount": 5,
       "news": [
+        {
+          "title": "Bitcoin ETFs break 2-week outflow streak with $301M comeback",
+          "link": "https://cointelegraph.com/markets/bitcoin-etfs-rebound-weekly-inflow-301-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Mon, 26 Oct 2026 08:20:49 +0000",
+          "source": "Cointelegraph",
+          "text": "Bitcoin ETFs break 2-week outflow streak with $301M comeback US spot Bitcoin ETFs finished the week with $301 million in net inflows after a strong three-day start gave way to heavy withdrawals."
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Mon, 26 Oct 2026 05:44:44 +0000",
+          "source": "Cointelegraph",
+          "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+        },
         {
           "title": "AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest",
           "link": "https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -42,48 +56,34 @@
           "text": "Bitcoin seeks support above $81K as Brent crude oil hits highest level since March Bitcoin dipped below $81,000 as stocks fell and Brent crude hit its highest level since March, leaving the 50-day moving average in focus."
         },
         {
-          "title": "Here’s what happened in crypto today",
-          "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Fri, 23 Oct 2026 13:38:53 +0000",
-          "source": "Cointelegraph",
-          "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-        },
-        {
           "title": "Bitcoin consolidates after 3% loss as AI fears stoke fresh stock-market weakness",
           "link": "https://cointelegraph.com/markets/bitcoin-consolidates-after-3-loss-as-ai-fears-stoke-fresh-stock-market-weakness?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "published": "Fri, 23 Oct 2026 12:23:58 +0000",
           "source": "Cointelegraph",
           "text": "Bitcoin consolidates after 3% loss as AI fears stoke fresh stock-market weakness Bitcoin price volatility cooled as stock markets battled another day of resurgent AI fears during Friday’s Asia trading session."
-        },
-        {
-          "title": "Bitcoin ETFs bleed $635M as October slides back into the red",
-          "link": "https://cointelegraph.com/markets/bitcoin-etfs-erase-october-gains-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Fri, 23 Oct 2026 07:09:39 +0000",
-          "source": "Cointelegraph",
-          "text": "Bitcoin ETFs bleed $635M as October slides back into the red Thursday’s withdrawals ended a three-day inflow streak and left US spot Bitcoin ETFs with $175 million in net outflows for October."
         }
       ],
-      "marketSentiment": 0,
-      "combinedScore": 52,
-      "signal": "WAIT",
-      "reason": "Technical 47/100; News +20; Market sentiment +0."
+      "marketSentiment": -2,
+      "combinedScore": 71,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +10; Market sentiment -2."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2317.86,
-      "change24h": -2.023,
-      "volume24h": 334121094.848113,
+      "price": 2329.54,
+      "change24h": 0.128,
+      "volume24h": 358221965.010269,
       "technical": {
-        "rsi": 42.8,
-        "ema9": 2310.194316660865,
-        "ema21": 2316.9883678568276,
+        "rsi": 56.7,
+        "ema9": 2329.12879813611,
+        "ema21": 2324.8076394621935,
         "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.46,
-        "score": 35
+        "emaBull": true,
+        "volumeRatio": 0.44,
+        "score": 89
       },
-      "newsScore": -20,
+      "newsScore": -40,
       "newsCount": 5,
       "news": [
         {
@@ -115,55 +115,55 @@
           "text": "Ethereum delays Glamsterdam Hoodi testnet launch over security risks ChainSecurity said it identified 13 real-world examples of smart contracts potentially affected by Glamsterdam’s gas changes and is coordinating responsible disclosure with affected projects."
         },
         {
-          "title": "Ethereum delays Glamsterdam test after security devs flag risk to existing contracts",
-          "link": "https://www.coindesk.com/tech/2026/10/23/ethereum-delays-glamsterdam-test-after-security-devs-flag-risk-to-existing-contracts",
-          "published": "Fri, 23 Oct 2026 04:59:34 +0000",
+          "title": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting",
+          "link": "https://www.coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting",
+          "published": "Mon, 26 Oct 2026 04:37:02 +0000",
           "source": "CoinDesk",
-          "text": "Ethereum delays Glamsterdam test after security devs flag risk to existing contracts Developers canceled Monday's Hoodi activation after researchers showed how new gas rules could let smart contracts permanently record failed operations."
+          "text": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting Ether and XRP led losses among the majors as the AI trade took another hit in Asia, where Goldman Sachs cut its Kospi target by 25%."
         }
       ],
-      "marketSentiment": 0,
-      "combinedScore": 40,
+      "marketSentiment": -2,
+      "combinedScore": 63,
       "signal": "WAIT",
-      "reason": "Technical 35/100; News -20; Market sentiment +0."
+      "reason": "Technical 89/100; News -40; Market sentiment -2."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 1202.52,
-      "change24h": -1.109,
-      "volume24h": 143384476.57896,
+      "price": 1230.1,
+      "change24h": 3.704,
+      "volume24h": 154421452.86474,
       "technical": {
-        "rsi": 46.9,
-        "ema9": 1194.3207121353703,
-        "ema21": 1199.5677709532233,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.37,
-        "score": 23
+        "rsi": 65.6,
+        "ema9": 1224.185223815079,
+        "ema21": 1215.6409393311424,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.63,
+        "score": 89
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": 0,
-      "combinedScore": 36,
-      "signal": "WAIT",
-      "reason": "Technical 23/100; News +0; Market sentiment +0."
+      "marketSentiment": -2,
+      "combinedScore": 69,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment -2."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 100.97,
-      "change24h": -1.531,
-      "volume24h": 114034524.26466,
+      "price": 101.43,
+      "change24h": 0.735,
+      "volume24h": 120321679.1017,
       "technical": {
-        "rsi": 44.6,
-        "ema9": 100.65769537102713,
-        "ema21": 100.89891977465304,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.64,
-        "score": 11
+        "rsi": 57.1,
+        "ema9": 101.31003460626386,
+        "ema21": 101.14516234643871,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.91,
+        "score": 89
       },
       "newsScore": 100,
       "newsCount": 1,
@@ -176,117 +176,48 @@
           "text": "Hong Kong names Nasdaq-listed Solana Company a strategic enterprise The Nasdaq-listed firm said it plans to establish Solana validator operations in Hong Kong."
         }
       ],
-      "marketSentiment": 0,
-      "combinedScore": 46,
-      "signal": "WAIT",
-      "reason": "Technical 11/100; News +100; Market sentiment +0."
+      "marketSentiment": -2,
+      "combinedScore": 84,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +100; Market sentiment -2."
     },
     {
       "symbol": "RLUSDUSDT",
       "coin": "RLUSD",
-      "price": 1.0015,
+      "price": 1.0014,
       "change24h": 0.01,
-      "volume24h": 90548153.4391,
+      "volume24h": 99128193.8037,
       "technical": {
-        "rsi": 61.1,
-        "ema9": 1.001459246086275,
-        "ema21": 1.0014158081479088,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 2.49,
-        "score": 94
+        "rsi": 42.5,
+        "ema9": 1.0014224686487658,
+        "ema21": 1.0014419904474405,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.1,
+        "score": 11
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": 0,
-      "combinedScore": 72,
-      "signal": "BUY",
-      "reason": "Technical 94/100; News +0; Market sentiment +0."
-    },
-    {
-      "symbol": "XRPUSDT",
-      "coin": "XRP",
-      "price": 1.2865,
-      "change24h": -1.816,
-      "volume24h": 84982410.65146,
-      "technical": {
-        "rsi": 40.4,
-        "ema9": 1.2834320675709174,
-        "ema21": 1.2876054028534072,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.51,
-        "score": 11
-      },
-      "newsScore": 100,
-      "newsCount": 1,
-      "news": [
-        {
-          "title": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
-          "link": "https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet",
-          "published": "Sat, 24 Oct 2026 04:45:43 +0000",
-          "source": "CoinDesk",
-          "text": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet Two subscriptions on Thursday nearly quadrupled the fund’s tokens on the network. The receiving wallet shares its authorized signers with the issuer."
-        }
-      ],
-      "marketSentiment": 0,
-      "combinedScore": 46,
-      "signal": "WAIT",
-      "reason": "Technical 11/100; News +100; Market sentiment +0."
-    },
-    {
-      "symbol": "NEARUSDT",
-      "coin": "NEAR",
-      "price": 4.514,
-      "change24h": 0.647,
-      "volume24h": 80919717.3584,
-      "technical": {
-        "rsi": 44.3,
-        "ema9": 4.480454853354416,
-        "ema21": 4.505593574593965,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.68,
-        "score": 11
-      },
-      "newsScore": 0,
-      "newsCount": 2,
-      "news": [
-        {
-          "title": "Bitcoin steadies near $81,700 as altcoins rebound, pepe climbs 13%",
-          "link": "https://www.coindesk.com/markets/2026/10/23/bitcoin-steadies-near-usd81-700-as-altcoins-rebound-pepe-climbs-13",
-          "published": "Fri, 23 Oct 2026 10:54:41 +0000",
-          "source": "CoinDesk",
-          "text": "Bitcoin steadies near $81,700 as altcoins rebound, pepe climbs 13% Bitcoin rose 0.5% to around $81,700 since midnight UTC while the CoinDesk 80 gained 1.4% and memecoins climbed 2.9%."
-        },
-        {
-          "title": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100",
-          "link": "https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100",
-          "published": "Fri, 23 Oct 2026 03:13:01 +0000",
-          "source": "CoinDesk",
-          "text": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100 Bitcoin and gold pared early losses as the yen gave up gains and Asian stocks rebounded, though oil near $100 keeps inflation risks in focus."
-        }
-      ],
-      "marketSentiment": 0,
+      "marketSentiment": -2,
       "combinedScore": 30,
       "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment +0."
+      "reason": "Technical 11/100; News +0; Market sentiment -2."
     },
     {
       "symbol": "USD1USDT",
       "coin": "USD1",
-      "price": 1.0,
-      "change24h": 0.007,
-      "volume24h": 68692553.9716,
+      "price": 1.00008,
+      "change24h": 0.019,
+      "volume24h": 88970830.91315,
       "technical": {
-        "rsi": 54.4,
-        "ema9": 0.9999964060265583,
-        "ema21": 0.9999860779361017,
-        "macdBull": true,
+        "rsi": 49.2,
+        "ema9": 1.0000453232720896,
+        "ema21": 1.0000390068050038,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 1.01,
-        "score": 77
+        "volumeRatio": 0.47,
+        "score": 53
       },
       "newsScore": 0,
       "newsCount": 1,
@@ -299,25 +230,94 @@
           "text": "Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals According to a Circle shareholder, the US president’s “corruption” through USD1 left the company unable to compete with stablecoins, harming USDC."
         }
       ],
-      "marketSentiment": 0,
-      "combinedScore": 64,
+      "marketSentiment": -2,
+      "combinedScore": 51,
       "signal": "WAIT",
-      "reason": "Technical 77/100; News +0; Market sentiment +0."
+      "reason": "Technical 53/100; News +0; Market sentiment -2."
+    },
+    {
+      "symbol": "XRPUSDT",
+      "coin": "XRP",
+      "price": 1.2906,
+      "change24h": -0.155,
+      "volume24h": 85753025.78689,
+      "technical": {
+        "rsi": 52.9,
+        "ema9": 1.2881405622811644,
+        "ema21": 1.2870827812363068,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.61,
+        "score": 77
+      },
+      "newsScore": 50,
+      "newsCount": 2,
+      "news": [
+        {
+          "title": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting",
+          "link": "https://www.coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting",
+          "published": "Mon, 26 Oct 2026 04:37:02 +0000",
+          "source": "CoinDesk",
+          "text": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting Ether and XRP led losses among the majors as the AI trade took another hit in Asia, where Goldman Sachs cut its Kospi target by 25%."
+        },
+        {
+          "title": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
+          "link": "https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet",
+          "published": "Sat, 24 Oct 2026 04:45:43 +0000",
+          "source": "CoinDesk",
+          "text": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet Two subscriptions on Thursday nearly quadrupled the fund’s tokens on the network. The receiving wallet shares its authorized signers with the issuer."
+        }
+      ],
+      "marketSentiment": -2,
+      "combinedScore": 71,
+      "signal": "BUY",
+      "reason": "Technical 77/100; News +50; Market sentiment -2."
+    },
+    {
+      "symbol": "NEARUSDT",
+      "coin": "NEAR",
+      "price": 4.525,
+      "change24h": 3.122,
+      "volume24h": 83181645.0967,
+      "technical": {
+        "rsi": 55.7,
+        "ema9": 4.528974001895392,
+        "ema21": 4.512964963592369,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.52,
+        "score": 89
+      },
+      "newsScore": 0,
+      "newsCount": 1,
+      "news": [
+        {
+          "title": "Bitcoin steadies near $81,700 as altcoins rebound, pepe climbs 13%",
+          "link": "https://www.coindesk.com/markets/2026/10/23/bitcoin-steadies-near-usd81-700-as-altcoins-rebound-pepe-climbs-13",
+          "published": "Fri, 23 Oct 2026 10:54:41 +0000",
+          "source": "CoinDesk",
+          "text": "Bitcoin steadies near $81,700 as altcoins rebound, pepe climbs 13% Bitcoin rose 0.5% to around $81,700 since midnight UTC while the CoinDesk 80 gained 1.4% and memecoins climbed 2.9%."
+        }
+      ],
+      "marketSentiment": -2,
+      "combinedScore": 69,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment -2."
     },
     {
       "symbol": "BNBUSDT",
       "coin": "BNB",
-      "price": 741.81,
-      "change24h": -0.596,
-      "volume24h": 57666984.84086,
+      "price": 738.31,
+      "change24h": 0.03,
+      "volume24h": 54692787.74526,
       "technical": {
-        "rsi": 55.0,
-        "ema9": 738.0493508791981,
-        "ema21": 738.4091896501544,
+        "rsi": 51.1,
+        "ema9": 738.7105836373323,
+        "ema21": 738.7449605784732,
         "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.73,
-        "score": 59
+        "volumeRatio": 0.77,
+        "score": 47
       },
       "newsScore": -100,
       "newsCount": 1,
@@ -330,36 +330,57 @@
           "text": "Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash The attacker moved $744,000 in ETH and BNB to Tornado Cash after exploiting Cysic’s bridge to mint 10 million tokens on BNB Smart Chain."
         }
       ],
-      "marketSentiment": 0,
-      "combinedScore": 40,
+      "marketSentiment": -2,
+      "combinedScore": 33,
       "signal": "WAIT",
-      "reason": "Technical 59/100; News -100; Market sentiment +0."
+      "reason": "Technical 47/100; News -100; Market sentiment -2."
     },
     {
       "symbol": "ENAUSDT",
       "coin": "ENA",
-      "price": 0.2053,
-      "change24h": 5.067,
-      "volume24h": 32902220.830108,
+      "price": 0.2066,
+      "change24h": 8.737,
+      "volume24h": 40317041.258002,
       "technical": {
-        "rsi": 46.2,
-        "ema9": 0.20350763130834618,
-        "ema21": 0.20431421335631447,
+        "rsi": 48.9,
+        "ema9": 0.20724108684494172,
+        "ema21": 0.20708715551462686,
         "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.28,
-        "score": 23
+        "emaBull": true,
+        "volumeRatio": 0.87,
+        "score": 53
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": 0,
-      "combinedScore": 36,
+      "marketSentiment": -2,
+      "combinedScore": 51,
       "signal": "WAIT",
-      "reason": "Technical 23/100; News +0; Market sentiment +0."
+      "reason": "Technical 53/100; News +0; Market sentiment -2."
     }
   ],
   "news": [
+    {
+      "title": "Bitcoin ETFs break 2-week outflow streak with $301M comeback",
+      "link": "https://cointelegraph.com/markets/bitcoin-etfs-rebound-weekly-inflow-301-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 26 Oct 2026 08:20:49 +0000",
+      "source": "Cointelegraph",
+      "text": "Bitcoin ETFs break 2-week outflow streak with $301M comeback US spot Bitcoin ETFs finished the week with $301 million in net inflows after a strong three-day start gave way to heavy withdrawals."
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 26 Oct 2026 05:44:44 +0000",
+      "source": "Cointelegraph",
+      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "title": "Musk warns over 200 AI neoclouds face ‘guppy-level death’",
+      "link": "https://cointelegraph.com/news/musk-warns-over-200-ai-neoclouds-face-guppy-level-death?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 26 Oct 2026 05:13:33 +0000",
+      "source": "Cointelegraph",
+      "text": "Musk warns over 200 AI neoclouds face ‘guppy-level death’ The warning comes as Gartner forecasts that more than 80% of specialist cloud providers will cease operating independently by 2030."
+    },
     {
       "title": "Hong Kong names Nasdaq-listed Solana Company a strategic enterprise",
       "link": "https://cointelegraph.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -445,13 +466,6 @@
       "text": "Bitcoin seeks support above $81K as Brent crude oil hits highest level since March Bitcoin dipped below $81,000 as stocks fell and Brent crude hit its highest level since March, leaving the 50-day moving average in focus."
     },
     {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 23 Oct 2026 13:38:53 +0000",
-      "source": "Cointelegraph",
-      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-    },
-    {
       "title": "China targets 2030 for its national blockchain network buildout",
       "link": "https://cointelegraph.com/news/china-2030-national-blockchain-network-buildout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 23 Oct 2026 13:21:07 +0000",
@@ -485,20 +499,6 @@
       "published": "Fri, 23 Oct 2026 10:13:06 +0000",
       "source": "Cointelegraph",
       "text": "Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash The attacker moved $744,000 in ETH and BNB to Tornado Cash after exploiting Cysic’s bridge to mint 10 million tokens on BNB Smart Chain."
-    },
-    {
-      "title": "Bybit secures first full Dubai license for spot trading services",
-      "link": "https://cointelegraph.com/news/bybit-first-full-dubai-spot-trading-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 23 Oct 2026 09:50:04 +0000",
-      "source": "Cointelegraph",
-      "text": "Bybit secures first full Dubai license for spot trading services Bybit’s new VARA licence authorizes spot trading services in Dubai, but the exchange must complete additional regulatory requirements before launching."
-    },
-    {
-      "title": "HSBC launches Hong Kong dollar stablecoin for retail payments",
-      "link": "https://cointelegraph.com/news/hsbc-launches-redcoin-hong-kong-dollar-stablecoin-payme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 23 Oct 2026 08:47:34 +0000",
-      "source": "Cointelegraph",
-      "text": "HSBC launches Hong Kong dollar stablecoin for retail payments HSBC is rolling out RedCoin wallets to PayMe users, with plans to support tokenized investment subscriptions and expand into institutional uses."
     }
   ],
   "paper": {
@@ -634,16 +634,6 @@
         "mode": "PAPER ONLY"
       },
       {
-        "symbol": "ZECUSDT",
-        "side": "BUY",
-        "entry": 1192.95,
-        "stopLoss": 1175.05575,
-        "takeProfit": 1228.7385,
-        "entryTime": "2026-10-24T21:56:26.270014+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
         "symbol": "PEPEUSDT",
         "side": "SELL",
         "entry": 4.47e-06,
@@ -660,6 +650,26 @@
         "stopLoss": 4.596935,
         "takeProfit": 4.39313,
         "entryTime": "2026-10-25T22:00:32.271108+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "ZECUSDT",
+        "side": "BUY",
+        "entry": 1230.1,
+        "stopLoss": 1211.6485,
+        "takeProfit": 1267.003,
+        "entryTime": "2026-10-26T10:26:34.237338+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "XRPUSDT",
+        "side": "BUY",
+        "entry": 1.2906,
+        "stopLoss": 1.271241,
+        "takeProfit": 1.329318,
+        "entryTime": "2026-10-26T10:26:34.237338+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       }
@@ -1093,6 +1103,19 @@
         "exitPrice": 1.2865,
         "exitTime": "2026-10-26T04:32:52.238897+00:00",
         "pnlPercent": -1.914
+      },
+      {
+        "symbol": "ZECUSDT",
+        "side": "BUY",
+        "entry": 1192.95,
+        "stopLoss": 1175.05575,
+        "takeProfit": 1228.7385,
+        "entryTime": "2026-10-24T21:56:26.270014+00:00",
+        "status": "TAKE_PROFIT",
+        "mode": "PAPER ONLY",
+        "exitPrice": 1230.1,
+        "exitTime": "2026-10-26T10:26:34.237338+00:00",
+        "pnlPercent": 3.114
       }
     ]
   },
