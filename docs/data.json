@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-26 00:03:14 UTC",
+  "generatedAt": "2026-10-26 04:32:52 UTC",
   "interval": "15m candles",
-  "marketSentiment": 4,
-  "overallNewsScore": 11,
+  "marketSentiment": 0,
+  "overallNewsScore": 0,
   "fearGreed": {
     "value": 50,
     "label": "Neutral",
@@ -12,19 +12,19 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 80073.66,
-      "change24h": -0.905,
-      "volume24h": 505819405.4842616,
+      "price": 80036.01,
+      "change24h": -1.044,
+      "volume24h": 660341412.3084953,
       "technical": {
-        "rsi": 36.3,
-        "ema9": 80297.57036623821,
-        "ema21": 80414.45548918411,
-        "macdBull": false,
+        "rsi": 49.0,
+        "ema9": 79776.86881483337,
+        "ema21": 79895.7720752639,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 1.63,
-        "score": 16
+        "volumeRatio": 0.73,
+        "score": 47
       },
-      "newsScore": 10,
+      "newsScore": 20,
       "newsCount": 5,
       "news": [
         {
@@ -32,7 +32,7 @@
           "link": "https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "published": "Sun, 25 Oct 2026 22:48:40 +0000",
           "source": "Cointelegraph",
-          "text": "AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest Similar to the Hugging Face hack, Ethereum researchers have set up an AI Agent message board to help rescue the Glamsterdam fork. New site says ‘Steal My Bitcoin’... if you can."
+          "text": "AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest Similar to the Hugging Face hack, Ethereum researchers have set up an AI Agent message board to help rescue the Glamsterdam fork. ‘Steal My Bitcoin’ site successfully hacked."
         },
         {
           "title": "Bitcoin seeks support above $81K as Brent crude oil hits highest level since March",
@@ -63,25 +63,25 @@
           "text": "Bitcoin ETFs bleed $635M as October slides back into the red Thursday’s withdrawals ended a three-day inflow streak and left US spot Bitcoin ETFs with $175 million in net outflows for October."
         }
       ],
-      "marketSentiment": 4,
-      "combinedScore": 35,
-      "signal": "SELL",
-      "reason": "Technical 16/100; News +10; Market sentiment +4."
+      "marketSentiment": 0,
+      "combinedScore": 52,
+      "signal": "WAIT",
+      "reason": "Technical 47/100; News +20; Market sentiment +0."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2327.06,
-      "change24h": -1.227,
-      "volume24h": 273501071.316822,
+      "price": 2317.86,
+      "change24h": -2.023,
+      "volume24h": 334121094.848113,
       "technical": {
-        "rsi": 37.5,
-        "ema9": 2336.098245012861,
-        "ema21": 2341.0747478220146,
-        "macdBull": false,
+        "rsi": 42.8,
+        "ema9": 2310.194316660865,
+        "ema21": 2316.9883678568276,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 2.28,
-        "score": 16
+        "volumeRatio": 0.46,
+        "score": 35
       },
       "newsScore": -20,
       "newsCount": 5,
@@ -91,7 +91,7 @@
           "link": "https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "published": "Sun, 25 Oct 2026 22:48:40 +0000",
           "source": "Cointelegraph",
-          "text": "AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest Similar to the Hugging Face hack, Ethereum researchers have set up an AI Agent message board to help rescue the Glamsterdam fork. New site says ‘Steal My Bitcoin’... if you can."
+          "text": "AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest Similar to the Hugging Face hack, Ethereum researchers have set up an AI Agent message board to help rescue the Glamsterdam fork. ‘Steal My Bitcoin’ site successfully hacked."
         },
         {
           "title": "Initia halts blockchain after exploit reportedly drains over $2.6M",
@@ -122,94 +122,102 @@
           "text": "Ethereum delays Glamsterdam test after security devs flag risk to existing contracts Developers canceled Monday's Hoodi activation after researchers showed how new gas rules could let smart contracts permanently record failed operations."
         }
       ],
-      "marketSentiment": 4,
-      "combinedScore": 30,
-      "signal": "SELL",
-      "reason": "Technical 16/100; News -20; Market sentiment +4."
+      "marketSentiment": 0,
+      "combinedScore": 40,
+      "signal": "WAIT",
+      "reason": "Technical 35/100; News -20; Market sentiment +0."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 1209.89,
-      "change24h": 0.322,
-      "volume24h": 129088720.17545,
+      "price": 1202.52,
+      "change24h": -1.109,
+      "volume24h": 143384476.57896,
       "technical": {
-        "rsi": 50.0,
-        "ema9": 1211.7026342041804,
-        "ema21": 1213.6321003080632,
+        "rsi": 46.9,
+        "ema9": 1194.3207121353703,
+        "ema21": 1199.5677709532233,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 3.81,
-        "score": 28
+        "volumeRatio": 0.37,
+        "score": 23
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": 4,
-      "combinedScore": 39,
+      "marketSentiment": 0,
+      "combinedScore": 36,
       "signal": "WAIT",
-      "reason": "Technical 28/100; News +0; Market sentiment +4."
+      "reason": "Technical 23/100; News +0; Market sentiment +0."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 101.33,
-      "change24h": -0.939,
-      "volume24h": 92809220.673,
+      "price": 100.97,
+      "change24h": -1.531,
+      "volume24h": 114034524.26466,
       "technical": {
-        "rsi": 46.8,
-        "ema9": 101.4441932801759,
-        "ema21": 101.52756097776124,
+        "rsi": 44.6,
+        "ema9": 100.65769537102713,
+        "ema21": 100.89891977465304,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 1.66,
-        "score": 28
+        "volumeRatio": 0.64,
+        "score": 11
       },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": 4,
-      "combinedScore": 39,
+      "newsScore": 100,
+      "newsCount": 1,
+      "news": [
+        {
+          "title": "Hong Kong names Nasdaq-listed Solana Company a strategic enterprise",
+          "link": "https://cointelegraph.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Mon, 26 Oct 2026 03:21:26 +0000",
+          "source": "Cointelegraph",
+          "text": "Hong Kong names Nasdaq-listed Solana Company a strategic enterprise The Nasdaq-listed firm said it plans to establish Solana validator operations in Hong Kong."
+        }
+      ],
+      "marketSentiment": 0,
+      "combinedScore": 46,
       "signal": "WAIT",
-      "reason": "Technical 28/100; News +0; Market sentiment +4."
+      "reason": "Technical 11/100; News +100; Market sentiment +0."
     },
     {
       "symbol": "RLUSDUSDT",
       "coin": "RLUSD",
-      "price": 1.0013,
-      "change24h": -0.01,
-      "volume24h": 82906879.8788,
+      "price": 1.0015,
+      "change24h": 0.01,
+      "volume24h": 90548153.4391,
       "technical": {
-        "rsi": 54.7,
-        "ema9": 1.0013634008816859,
-        "ema21": 1.0013570575326283,
-        "macdBull": false,
+        "rsi": 61.1,
+        "ema9": 1.001459246086275,
+        "ema21": 1.0014158081479088,
+        "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.53,
-        "score": 53
+        "volumeRatio": 2.49,
+        "score": 94
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": 4,
-      "combinedScore": 52,
-      "signal": "WAIT",
-      "reason": "Technical 53/100; News +0; Market sentiment +4."
+      "marketSentiment": 0,
+      "combinedScore": 72,
+      "signal": "BUY",
+      "reason": "Technical 94/100; News +0; Market sentiment +0."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 1.2958,
-      "change24h": -0.239,
-      "volume24h": 74752245.05308,
+      "price": 1.2865,
+      "change24h": -1.816,
+      "volume24h": 84982410.65146,
       "technical": {
-        "rsi": 45.5,
-        "ema9": 1.2970152585155037,
-        "ema21": 1.2983072669749602,
+        "rsi": 40.4,
+        "ema9": 1.2834320675709174,
+        "ema21": 1.2876054028534072,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 1.62,
-        "score": 28
+        "volumeRatio": 0.51,
+        "score": 11
       },
       "newsScore": 100,
       "newsCount": 1,
@@ -222,25 +230,25 @@
           "text": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet Two subscriptions on Thursday nearly quadrupled the fund’s tokens on the network. The receiving wallet shares its authorized signers with the issuer."
         }
       ],
-      "marketSentiment": 4,
-      "combinedScore": 54,
+      "marketSentiment": 0,
+      "combinedScore": 46,
       "signal": "WAIT",
-      "reason": "Technical 28/100; News +100; Market sentiment +4."
+      "reason": "Technical 11/100; News +100; Market sentiment +0."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 4.593,
-      "change24h": 2.431,
-      "volume24h": 71841799.8968,
+      "price": 4.514,
+      "change24h": 0.647,
+      "volume24h": 80919717.3584,
       "technical": {
-        "rsi": 54.7,
-        "ema9": 4.58544805005693,
-        "ema21": 4.5783845168607185,
+        "rsi": 44.3,
+        "ema9": 4.480454853354416,
+        "ema21": 4.505593574593965,
         "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 1.38,
-        "score": 53
+        "emaBull": false,
+        "volumeRatio": 0.68,
+        "score": 11
       },
       "newsScore": 0,
       "newsCount": 2,
@@ -260,56 +268,25 @@
           "text": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100 Bitcoin and gold pared early losses as the yen gave up gains and Asian stocks rebounded, though oil near $100 keeps inflation risks in focus."
         }
       ],
-      "marketSentiment": 4,
-      "combinedScore": 52,
-      "signal": "WAIT",
-      "reason": "Technical 53/100; News +0; Market sentiment +4."
-    },
-    {
-      "symbol": "BNBUSDT",
-      "coin": "BNB",
-      "price": 738.4,
-      "change24h": -0.064,
-      "volume24h": 61251415.67625,
-      "technical": {
-        "rsi": 41.0,
-        "ema9": 739.7329487459438,
-        "ema21": 740.447283371996,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 1.57,
-        "score": 16
-      },
-      "newsScore": -100,
-      "newsCount": 1,
-      "news": [
-        {
-          "title": "Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash",
-          "link": "https://cointelegraph.com/news/cysic-exploiter-eth-tornado-cash-white-hat-offer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Fri, 23 Oct 2026 10:13:06 +0000",
-          "source": "Cointelegraph",
-          "text": "Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash The attacker moved $744,000 in ETH and BNB to Tornado Cash after exploiting Cysic’s bridge to mint 10 million tokens on BNB Smart Chain."
-        }
-      ],
-      "marketSentiment": 4,
-      "combinedScore": 18,
+      "marketSentiment": 0,
+      "combinedScore": 30,
       "signal": "SELL",
-      "reason": "Technical 16/100; News -100; Market sentiment +4."
+      "reason": "Technical 11/100; News +0; Market sentiment +0."
     },
     {
       "symbol": "USD1USDT",
       "coin": "USD1",
-      "price": 0.99995,
-      "change24h": 0.001,
-      "volume24h": 52561916.46675,
+      "price": 1.0,
+      "change24h": 0.007,
+      "volume24h": 68692553.9716,
       "technical": {
-        "rsi": 44.3,
-        "ema9": 0.9999484286045491,
-        "ema21": 0.9999569678553327,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 2.65,
-        "score": 16
+        "rsi": 54.4,
+        "ema9": 0.9999964060265583,
+        "ema21": 0.9999860779361017,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 1.01,
+        "score": 77
       },
       "newsScore": 0,
       "newsCount": 1,
@@ -322,42 +299,94 @@
           "text": "Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals According to a Circle shareholder, the US president’s “corruption” through USD1 left the company unable to compete with stablecoins, harming USDC."
         }
       ],
-      "marketSentiment": 4,
-      "combinedScore": 33,
-      "signal": "SELL",
-      "reason": "Technical 16/100; News +0; Market sentiment +4."
+      "marketSentiment": 0,
+      "combinedScore": 64,
+      "signal": "WAIT",
+      "reason": "Technical 77/100; News +0; Market sentiment +0."
+    },
+    {
+      "symbol": "BNBUSDT",
+      "coin": "BNB",
+      "price": 741.81,
+      "change24h": -0.596,
+      "volume24h": 57666984.84086,
+      "technical": {
+        "rsi": 55.0,
+        "ema9": 738.0493508791981,
+        "ema21": 738.4091896501544,
+        "macdBull": true,
+        "emaBull": false,
+        "volumeRatio": 0.73,
+        "score": 59
+      },
+      "newsScore": -100,
+      "newsCount": 1,
+      "news": [
+        {
+          "title": "Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash",
+          "link": "https://cointelegraph.com/news/cysic-exploiter-eth-tornado-cash-white-hat-offer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Fri, 23 Oct 2026 10:13:06 +0000",
+          "source": "Cointelegraph",
+          "text": "Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash The attacker moved $744,000 in ETH and BNB to Tornado Cash after exploiting Cysic’s bridge to mint 10 million tokens on BNB Smart Chain."
+        }
+      ],
+      "marketSentiment": 0,
+      "combinedScore": 40,
+      "signal": "WAIT",
+      "reason": "Technical 59/100; News -100; Market sentiment +0."
     },
     {
       "symbol": "ENAUSDT",
       "coin": "ENA",
-      "price": 0.2065,
-      "change24h": 5.952,
-      "volume24h": 30488938.560071,
+      "price": 0.2053,
+      "change24h": 5.067,
+      "volume24h": 32902220.830108,
       "technical": {
-        "rsi": 52.9,
-        "ema9": 0.207448915851174,
-        "ema21": 0.2068118087739579,
+        "rsi": 46.2,
+        "ema9": 0.20350763130834618,
+        "ema21": 0.20431421335631447,
         "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 1.13,
-        "score": 53
+        "emaBull": false,
+        "volumeRatio": 0.28,
+        "score": 23
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": 4,
-      "combinedScore": 52,
+      "marketSentiment": 0,
+      "combinedScore": 36,
       "signal": "WAIT",
-      "reason": "Technical 53/100; News +0; Market sentiment +4."
+      "reason": "Technical 23/100; News +0; Market sentiment +0."
     }
   ],
   "news": [
+    {
+      "title": "Hong Kong names Nasdaq-listed Solana Company a strategic enterprise",
+      "link": "https://cointelegraph.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 26 Oct 2026 03:21:26 +0000",
+      "source": "Cointelegraph",
+      "text": "Hong Kong names Nasdaq-listed Solana Company a strategic enterprise The Nasdaq-listed firm said it plans to establish Solana validator operations in Hong Kong."
+    },
+    {
+      "title": "Keystone says website breach exposed hardware wallet buyers’ addresses",
+      "link": "https://cointelegraph.com/news/keystone-says-website-breach-exposed-hardware-wallet-buyers-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 26 Oct 2026 02:24:04 +0000",
+      "source": "Cointelegraph",
+      "text": "Keystone says website breach exposed hardware wallet buyers’ addresses A security researcher warned that the leaked shipping details could expose crypto holders to targeted scams and physical attacks."
+    },
+    {
+      "title": "Standard Chartered-led Anchorpoint says it’s not rushing retail stablecoin",
+      "link": "https://cointelegraph.com/news/standard-chartered-led-anchorpoint-says-its-not-rushing-retail-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 26 Oct 2026 00:13:29 +0000",
+      "source": "Cointelegraph",
+      "text": "Standard Chartered-led Anchorpoint says it’s not rushing retail stablecoin The Standard Chartered and Animoca Brands joint venture previously targeted retail access as early as the end of 2026, but its CEO declined to reaffirm that timeline."
+    },
     {
       "title": "AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest",
       "link": "https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sun, 25 Oct 2026 22:48:40 +0000",
       "source": "Cointelegraph",
-      "text": "AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest Similar to the Hugging Face hack, Ethereum researchers have set up an AI Agent message board to help rescue the Glamsterdam fork. New site says ‘Steal My Bitcoin’... if you can."
+      "text": "AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest Similar to the Hugging Face hack, Ethereum researchers have set up an AI Agent message board to help rescue the Glamsterdam fork. ‘Steal My Bitcoin’ site successfully hacked."
     },
     {
       "title": "ECB official sees digital euro as key to protecting EU ‘sovereignty’",
@@ -470,27 +499,6 @@
       "published": "Fri, 23 Oct 2026 08:47:34 +0000",
       "source": "Cointelegraph",
       "text": "HSBC launches Hong Kong dollar stablecoin for retail payments HSBC is rolling out RedCoin wallets to PayMe users, with plans to support tokenized investment subscriptions and expand into institutional uses."
-    },
-    {
-      "title": "Malaysia, Thailand join Singapore’s cross-border stablecoin push",
-      "link": "https://cointelegraph.com/news/malaysia-thailand-join-singapores-cross-border-stablecoin-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 23 Oct 2026 07:15:53 +0000",
-      "source": "Cointelegraph",
-      "text": "Malaysia, Thailand join Singapore’s cross-border stablecoin push BLOOM seeks to cut costs by helping financial institutions coordinate cross-border use of stablecoins and tokenized deposits."
-    },
-    {
-      "title": "Bitcoin ETFs bleed $635M as October slides back into the red",
-      "link": "https://cointelegraph.com/markets/bitcoin-etfs-erase-october-gains-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 23 Oct 2026 07:09:39 +0000",
-      "source": "Cointelegraph",
-      "text": "Bitcoin ETFs bleed $635M as October slides back into the red Thursday’s withdrawals ended a three-day inflow streak and left US spot Bitcoin ETFs with $175 million in net outflows for October."
-    },
-    {
-      "title": "Ethereum delays Glamsterdam Hoodi testnet launch over security risks",
-      "link": "https://cointelegraph.com/news/ethereum-delays-glamsterdam-testnet-fork-gas-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 23 Oct 2026 05:09:41 +0000",
-      "source": "Cointelegraph",
-      "text": "Ethereum delays Glamsterdam Hoodi testnet launch over security risks ChainSecurity said it identified 13 real-world examples of smart contracts potentially affected by Glamsterdam’s gas changes and is coordinating responsible disclosure with affected projects."
     }
   ],
   "paper": {
@@ -632,16 +640,6 @@
         "stopLoss": 1175.05575,
         "takeProfit": 1228.7385,
         "entryTime": "2026-10-24T21:56:26.270014+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
-        "symbol": "XRPUSDT",
-        "side": "BUY",
-        "entry": 1.3116,
-        "stopLoss": 1.291926,
-        "takeProfit": 1.350948,
-        "entryTime": "2026-10-25T03:42:08.513744+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       },
@@ -1082,6 +1080,19 @@
         "exitPrice": 4.671,
         "exitTime": "2026-10-25T17:07:08.575601+00:00",
         "pnlPercent": -6.015
+      },
+      {
+        "symbol": "XRPUSDT",
+        "side": "BUY",
+        "entry": 1.3116,
+        "stopLoss": 1.291926,
+        "takeProfit": 1.350948,
+        "entryTime": "2026-10-25T03:42:08.513744+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 1.2865,
+        "exitTime": "2026-10-26T04:32:52.238897+00:00",
+        "pnlPercent": -1.914
       }
     ]
   },
