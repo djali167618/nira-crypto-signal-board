@@ -81,16 +81,6 @@
       "mode": "PAPER ONLY"
     },
     {
-      "symbol": "ETHUSDT",
-      "side": "SELL",
-      "entry": 2383.01,
-      "stopLoss": 2418.75515,
-      "takeProfit": 2311.5197,
-      "entryTime": "2026-10-22T17:27:00.895700+00:00",
-      "status": "OPEN",
-      "mode": "PAPER ONLY"
-    },
-    {
       "symbol": "XAUTUSDT",
       "side": "SELL",
       "entry": 4046.96,
@@ -167,6 +157,26 @@
       "stopLoss": 1.271241,
       "takeProfit": 1.329318,
       "entryTime": "2026-10-26T10:26:34.237338+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "ETHUSDT",
+      "side": "SELL",
+      "entry": 2305.3,
+      "stopLoss": 2339.8795,
+      "takeProfit": 2236.141,
+      "entryTime": "2026-10-26T21:14:27.954674+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "ENAUSDT",
+      "side": "SELL",
+      "entry": 0.2062,
+      "stopLoss": 0.209293,
+      "takeProfit": 0.200014,
+      "entryTime": "2026-10-26T21:14:27.954674+00:00",
       "status": "OPEN",
       "mode": "PAPER ONLY"
     }
@@ -613,6 +623,19 @@
       "exitPrice": 1230.1,
       "exitTime": "2026-10-26T10:26:34.237338+00:00",
       "pnlPercent": 3.114
+    },
+    {
+      "symbol": "ETHUSDT",
+      "side": "SELL",
+      "entry": 2383.01,
+      "stopLoss": 2418.75515,
+      "takeProfit": 2311.5197,
+      "entryTime": "2026-10-22T17:27:00.895700+00:00",
+      "status": "TAKE_PROFIT",
+      "mode": "PAPER ONLY",
+      "exitPrice": 2305.3,
+      "exitTime": "2026-10-26T21:14:27.954674+00:00",
+      "pnlPercent": 3.261
     }
   ]
 }
