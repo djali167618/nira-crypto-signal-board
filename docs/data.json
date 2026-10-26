@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-25 22:00:32 UTC",
+  "generatedAt": "2026-10-26 00:03:14 UTC",
   "interval": "15m candles",
-  "marketSentiment": 9,
+  "marketSentiment": 4,
   "overallNewsScore": 11,
   "fearGreed": {
-    "value": 54,
+    "value": 50,
     "label": "Neutral",
     "source": "Alternative.me"
   },
@@ -12,21 +12,28 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 80261.61,
-      "change24h": -0.206,
-      "volume24h": 451970814.5742293,
+      "price": 80073.66,
+      "change24h": -0.905,
+      "volume24h": 505819405.4842616,
       "technical": {
-        "rsi": 32.3,
-        "ema9": 80468.4170173942,
-        "ema21": 80537.25181512881,
+        "rsi": 36.3,
+        "ema9": 80297.57036623821,
+        "ema21": 80414.45548918411,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 1.18,
-        "score": 11
+        "volumeRatio": 1.63,
+        "score": 16
       },
-      "newsScore": 20,
+      "newsScore": 10,
       "newsCount": 5,
       "news": [
+        {
+          "title": "AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest",
+          "link": "https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Sun, 25 Oct 2026 22:48:40 +0000",
+          "source": "Cointelegraph",
+          "text": "AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest Similar to the Hugging Face hack, Ethereum researchers have set up an AI Agent message board to help rescue the Glamsterdam fork. New site says ‘Steal My Bitcoin’... if you can."
+        },
         {
           "title": "Bitcoin seeks support above $81K as Brent crude oil hits highest level since March",
           "link": "https://cointelegraph.com/markets/bitcoin-seeks-support-above-81k-as-brent-crude-oil-hits-highest-level-since-march?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -54,38 +61,38 @@
           "published": "Fri, 23 Oct 2026 07:09:39 +0000",
           "source": "Cointelegraph",
           "text": "Bitcoin ETFs bleed $635M as October slides back into the red Thursday’s withdrawals ended a three-day inflow streak and left US spot Bitcoin ETFs with $175 million in net outflows for October."
-        },
-        {
-          "title": "Bitcoin Core changes security policy as AI makes bugs easier to find",
-          "link": "https://cointelegraph.com/news/bitcoin-core-changes-security-policy-as-ai-makes-bugs-easier-to-find?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Fri, 23 Oct 2026 04:34:14 +0000",
-          "source": "Cointelegraph",
-          "text": "Bitcoin Core changes security policy as AI makes bugs easier to find Bitcoin Core says keeping certain vulnerabilities secret no longer offers much protection in the wake of AI-assisted bug hunting."
         }
       ],
-      "marketSentiment": 9,
-      "combinedScore": 34,
+      "marketSentiment": 4,
+      "combinedScore": 35,
       "signal": "SELL",
-      "reason": "Technical 11/100; News +20; Market sentiment +9."
+      "reason": "Technical 16/100; News +10; Market sentiment +4."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2333.4,
-      "change24h": -0.29,
-      "volume24h": 252497764.941285,
+      "price": 2327.06,
+      "change24h": -1.227,
+      "volume24h": 273501071.316822,
       "technical": {
-        "rsi": 31.4,
-        "ema9": 2343.3001667457665,
-        "ema21": 2346.403075228495,
+        "rsi": 37.5,
+        "ema9": 2336.098245012861,
+        "ema21": 2341.0747478220146,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 2.07,
-        "score": 6
+        "volumeRatio": 2.28,
+        "score": 16
       },
-      "newsScore": 0,
-      "newsCount": 4,
+      "newsScore": -20,
+      "newsCount": 5,
       "news": [
+        {
+          "title": "AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest",
+          "link": "https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Sun, 25 Oct 2026 22:48:40 +0000",
+          "source": "Cointelegraph",
+          "text": "AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest Similar to the Hugging Face hack, Ethereum researchers have set up an AI Agent message board to help rescue the Glamsterdam fork. New site says ‘Steal My Bitcoin’... if you can."
+        },
         {
           "title": "Initia halts blockchain after exploit reportedly drains over $2.6M",
           "link": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -115,94 +122,94 @@
           "text": "Ethereum delays Glamsterdam test after security devs flag risk to existing contracts Developers canceled Monday's Hoodi activation after researchers showed how new gas rules could let smart contracts permanently record failed operations."
         }
       ],
-      "marketSentiment": 9,
-      "combinedScore": 29,
+      "marketSentiment": 4,
+      "combinedScore": 30,
       "signal": "SELL",
-      "reason": "Technical 6/100; News +0; Market sentiment +9."
+      "reason": "Technical 16/100; News -20; Market sentiment +4."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 1202.62,
-      "change24h": 0.853,
-      "volume24h": 112508659.73414,
+      "price": 1209.89,
+      "change24h": 0.322,
+      "volume24h": 129088720.17545,
       "technical": {
-        "rsi": 35.2,
-        "ema9": 1210.9441846574405,
-        "ema21": 1214.4367026341022,
+        "rsi": 50.0,
+        "ema9": 1211.7026342041804,
+        "ema21": 1213.6321003080632,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.46,
-        "score": 11
+        "volumeRatio": 3.81,
+        "score": 28
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": 9,
-      "combinedScore": 31,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment +9."
+      "marketSentiment": 4,
+      "combinedScore": 39,
+      "signal": "WAIT",
+      "reason": "Technical 28/100; News +0; Market sentiment +4."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 101.15,
-      "change24h": -0.256,
-      "volume24h": 86129046.93532,
+      "price": 101.33,
+      "change24h": -0.939,
+      "volume24h": 92809220.673,
       "technical": {
-        "rsi": 36.7,
-        "ema9": 101.52867553782292,
-        "ema21": 101.59538302899549,
+        "rsi": 46.8,
+        "ema9": 101.4441932801759,
+        "ema21": 101.52756097776124,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 1.76,
-        "score": 6
+        "volumeRatio": 1.66,
+        "score": 28
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": 9,
-      "combinedScore": 29,
-      "signal": "SELL",
-      "reason": "Technical 6/100; News +0; Market sentiment +9."
+      "marketSentiment": 4,
+      "combinedScore": 39,
+      "signal": "WAIT",
+      "reason": "Technical 28/100; News +0; Market sentiment +4."
     },
     {
       "symbol": "RLUSDUSDT",
       "coin": "RLUSD",
-      "price": 1.0014,
-      "change24h": 0.01,
-      "volume24h": 84367153.0554,
+      "price": 1.0013,
+      "change24h": -0.01,
+      "volume24h": 82906879.8788,
       "technical": {
-        "rsi": 55.2,
-        "ema9": 1.001353513632252,
-        "ema21": 1.0013417582128281,
-        "macdBull": true,
+        "rsi": 54.7,
+        "ema9": 1.0013634008816859,
+        "ema21": 1.0013570575326283,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 0.2,
-        "score": 89
+        "volumeRatio": 0.53,
+        "score": 53
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": 9,
-      "combinedScore": 70,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment +9."
+      "marketSentiment": 4,
+      "combinedScore": 52,
+      "signal": "WAIT",
+      "reason": "Technical 53/100; News +0; Market sentiment +4."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 1.2932,
-      "change24h": 0.046,
-      "volume24h": 73039899.04711,
+      "price": 1.2958,
+      "change24h": -0.239,
+      "volume24h": 74752245.05308,
       "technical": {
-        "rsi": 32.9,
-        "ema9": 1.2980954156127698,
-        "ema21": 1.2994422260031369,
+        "rsi": 45.5,
+        "ema9": 1.2970152585155037,
+        "ema21": 1.2983072669749602,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 1.58,
-        "score": 6
+        "volumeRatio": 1.62,
+        "score": 28
       },
       "newsScore": 100,
       "newsCount": 1,
@@ -215,25 +222,25 @@
           "text": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet Two subscriptions on Thursday nearly quadrupled the fund’s tokens on the network. The receiving wallet shares its authorized signers with the issuer."
         }
       ],
-      "marketSentiment": 9,
-      "combinedScore": 44,
+      "marketSentiment": 4,
+      "combinedScore": 54,
       "signal": "WAIT",
-      "reason": "Technical 6/100; News +100; Market sentiment +9."
+      "reason": "Technical 28/100; News +100; Market sentiment +4."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 4.529,
-      "change24h": 2.281,
-      "volume24h": 72547721.0188,
+      "price": 4.593,
+      "change24h": 2.431,
+      "volume24h": 71841799.8968,
       "technical": {
-        "rsi": 40.8,
-        "ema9": 4.5562509849603385,
-        "ema21": 4.563091221445134,
+        "rsi": 54.7,
+        "ema9": 4.58544805005693,
+        "ema21": 4.5783845168607185,
         "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.92,
-        "score": 11
+        "emaBull": true,
+        "volumeRatio": 1.38,
+        "score": 53
       },
       "newsScore": 0,
       "newsCount": 2,
@@ -253,25 +260,25 @@
           "text": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100 Bitcoin and gold pared early losses as the yen gave up gains and Asian stocks rebounded, though oil near $100 keeps inflation risks in focus."
         }
       ],
-      "marketSentiment": 9,
-      "combinedScore": 31,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment +9."
+      "marketSentiment": 4,
+      "combinedScore": 52,
+      "signal": "WAIT",
+      "reason": "Technical 53/100; News +0; Market sentiment +4."
     },
     {
       "symbol": "BNBUSDT",
       "coin": "BNB",
-      "price": 738.87,
-      "change24h": 0.764,
-      "volume24h": 61896752.02408,
+      "price": 738.4,
+      "change24h": -0.064,
+      "volume24h": 61251415.67625,
       "technical": {
-        "rsi": 36.5,
-        "ema9": 740.4201350969713,
-        "ema21": 741.0751736492502,
+        "rsi": 41.0,
+        "ema9": 739.7329487459438,
+        "ema21": 740.447283371996,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.49,
-        "score": 11
+        "volumeRatio": 1.57,
+        "score": 16
       },
       "newsScore": -100,
       "newsCount": 1,
@@ -284,25 +291,25 @@
           "text": "Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash The attacker moved $744,000 in ETH and BNB to Tornado Cash after exploiting Cysic’s bridge to mint 10 million tokens on BNB Smart Chain."
         }
       ],
-      "marketSentiment": 9,
-      "combinedScore": 16,
+      "marketSentiment": 4,
+      "combinedScore": 18,
       "signal": "SELL",
-      "reason": "Technical 11/100; News -100; Market sentiment +9."
+      "reason": "Technical 16/100; News -100; Market sentiment +4."
     },
     {
       "symbol": "USD1USDT",
       "coin": "USD1",
-      "price": 0.99991,
-      "change24h": 0.0,
-      "volume24h": 47869887.9314,
+      "price": 0.99995,
+      "change24h": 0.001,
+      "volume24h": 52561916.46675,
       "technical": {
-        "rsi": 39.4,
-        "ema9": 0.9999630533394459,
-        "ema21": 0.9999679116660698,
+        "rsi": 44.3,
+        "ema9": 0.9999484286045491,
+        "ema21": 0.9999569678553327,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 1.25,
-        "score": 11
+        "volumeRatio": 2.65,
+        "score": 16
       },
       "newsScore": 0,
       "newsCount": 1,
@@ -315,36 +322,43 @@
           "text": "Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals According to a Circle shareholder, the US president’s “corruption” through USD1 left the company unable to compete with stablecoins, harming USDC."
         }
       ],
-      "marketSentiment": 9,
-      "combinedScore": 31,
+      "marketSentiment": 4,
+      "combinedScore": 33,
       "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment +9."
+      "reason": "Technical 16/100; News +0; Market sentiment +4."
     },
     {
       "symbol": "ENAUSDT",
       "coin": "ENA",
-      "price": 0.2059,
-      "change24h": 8.597,
-      "volume24h": 29088983.69632,
+      "price": 0.2065,
+      "change24h": 5.952,
+      "volume24h": 30488938.560071,
       "technical": {
-        "rsi": 55.4,
-        "ema9": 0.20640080954333595,
-        "ema21": 0.2055511884013758,
+        "rsi": 52.9,
+        "ema9": 0.207448915851174,
+        "ema21": 0.2068118087739579,
         "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 0.5,
-        "score": 65
+        "volumeRatio": 1.13,
+        "score": 53
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": 9,
-      "combinedScore": 58,
+      "marketSentiment": 4,
+      "combinedScore": 52,
       "signal": "WAIT",
-      "reason": "Technical 65/100; News +0; Market sentiment +9."
+      "reason": "Technical 53/100; News +0; Market sentiment +4."
     }
   ],
   "news": [
+    {
+      "title": "AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest",
+      "link": "https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sun, 25 Oct 2026 22:48:40 +0000",
+      "source": "Cointelegraph",
+      "text": "AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest Similar to the Hugging Face hack, Ethereum researchers have set up an AI Agent message board to help rescue the Glamsterdam fork. New site says ‘Steal My Bitcoin’... if you can."
+    },
     {
       "title": "ECB official sees digital euro as key to protecting EU ‘sovereignty’",
       "link": "https://cointelegraph.com/news/ecb-official-sees-digital-euro-tool-to-protect-eu-sovereignty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -477,13 +491,6 @@
       "published": "Fri, 23 Oct 2026 05:09:41 +0000",
       "source": "Cointelegraph",
       "text": "Ethereum delays Glamsterdam Hoodi testnet launch over security risks ChainSecurity said it identified 13 real-world examples of smart contracts potentially affected by Glamsterdam’s gas changes and is coordinating responsible disclosure with affected projects."
-    },
-    {
-      "title": "Bitcoin Core changes security policy as AI makes bugs easier to find",
-      "link": "https://cointelegraph.com/news/bitcoin-core-changes-security-policy-as-ai-makes-bugs-easier-to-find?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 23 Oct 2026 04:34:14 +0000",
-      "source": "Cointelegraph",
-      "text": "Bitcoin Core changes security policy as AI makes bugs easier to find Bitcoin Core says keeping certain vulnerabilities secret no longer offers much protection in the wake of AI-assisted bug hunting."
     }
   ],
   "paper": {
