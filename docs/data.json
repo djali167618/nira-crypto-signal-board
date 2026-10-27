@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-27 05:23:53 UTC",
+  "generatedAt": "2026-10-27 10:44:17 UTC",
   "interval": "15m candles",
-  "marketSentiment": -3,
-  "overallNewsScore": 0,
+  "marketSentiment": -1,
+  "overallNewsScore": 6,
   "fearGreed": {
     "value": 48,
     "label": "Neutral",
@@ -12,34 +12,41 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 79824.0,
-      "change24h": -0.464,
-      "volume24h": 1190761653.406062,
+      "price": 79860.01,
+      "change24h": -0.727,
+      "volume24h": 1195910812.619492,
       "technical": {
         "rsi": 44.5,
-        "ema9": 79808.65726920552,
-        "ema21": 79907.46645862225,
+        "ema9": 79698.13838609544,
+        "ema21": 79754.22231583862,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.48,
+        "volumeRatio": 0.75,
         "score": 11
       },
       "newsScore": 10,
       "newsCount": 5,
       "news": [
         {
+          "title": "Bitcoin ETFs claw back $110M after $774M exit",
+          "link": "https://cointelegraph.com/markets/bitcoin-etf-rebound-110-million-btc-dip-below-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Tue, 27 Oct 2026 07:35:37 +0000",
+          "source": "Cointelegraph",
+          "text": "Bitcoin ETFs claw back $110M after $774M exit US spot Bitcoin ETFs remained in the red for October, with about $202 million in net outflows for the month despite Monday’s rebound."
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Tue, 27 Oct 2026 06:08:28 +0000",
+          "source": "Cointelegraph",
+          "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+        },
+        {
           "title": "Strategy skips Bitcoin purchases, spends $205M on STRC buybacks",
           "link": "https://cointelegraph.com/news/strategy-skips-btc-buy-205-million-strc-buyback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "published": "Mon, 26 Oct 2026 13:27:38 +0000",
           "source": "Cointelegraph",
           "text": "Strategy skips Bitcoin purchases, spends $205M on STRC buybacks Strategy made no Bitcoin purchases or sales last week, as its STRC preferred stock buybacks reduced its USD Cash balance by 46% to $242.4 million."
-        },
-        {
-          "title": "Here’s what happened in crypto today",
-          "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Mon, 26 Oct 2026 13:26:47 +0000",
-          "source": "Cointelegraph",
-          "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
         },
         {
           "title": "BTC price risks $80K loss into FOMC, earnings: Three things to know in Bitcoin this week",
@@ -54,36 +61,29 @@
           "published": "Mon, 26 Oct 2026 08:20:49 +0000",
           "source": "Cointelegraph",
           "text": "Bitcoin ETFs break 2-week outflow streak with $301M comeback US spot Bitcoin ETFs finished the week with $301 million in net inflows after a strong three-day start gave way to heavy withdrawals."
-        },
-        {
-          "title": "AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest",
-          "link": "https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Sun, 25 Oct 2026 22:48:40 +0000",
-          "source": "Cointelegraph",
-          "text": "AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest Similar to the Hugging Face hack, Ethereum researchers have set up an AI Agent message board to help rescue the Glamsterdam fork. ‘Steal My Bitcoin’ site successfully hacked."
         }
       ],
-      "marketSentiment": -3,
+      "marketSentiment": -1,
       "combinedScore": 32,
       "signal": "SELL",
-      "reason": "Technical 11/100; News +10; Market sentiment -3."
+      "reason": "Technical 11/100; News +10; Market sentiment -1."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2313.05,
-      "change24h": -0.507,
-      "volume24h": 385871624.129414,
+      "price": 2312.49,
+      "change24h": -0.803,
+      "volume24h": 379792797.38394,
       "technical": {
-        "rsi": 46.4,
-        "ema9": 2314.4592168319646,
-        "ema21": 2316.6359971221573,
+        "rsi": 43.5,
+        "ema9": 2308.0165205970748,
+        "ema21": 2310.230451586004,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.76,
-        "score": 23
+        "volumeRatio": 1.54,
+        "score": 16
       },
-      "newsScore": -50,
+      "newsScore": 0,
       "newsCount": 4,
       "news": [
         {
@@ -94,11 +94,11 @@
           "text": "AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest Similar to the Hugging Face hack, Ethereum researchers have set up an AI Agent message board to help rescue the Glamsterdam fork. ‘Steal My Bitcoin’ site successfully hacked."
         },
         {
-          "title": "Initia halts blockchain after exploit reportedly drains over $2.6M",
-          "link": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Fri, 23 Oct 2026 18:39:02 +0000",
-          "source": "Cointelegraph",
-          "text": "Initia halts blockchain after exploit reportedly drains over $2.6M The blockchain suspended its layer-1 network and rollups after security researchers identified unauthorized token minting and millions in assets transferred to Ethereum."
+          "title": "Ethereum fixes Glamsterdam bug that could have sent staking deposits to builders",
+          "link": "https://www.coindesk.com/tech/2026/10/27/ethereum-fixes-glamsterdam-bug-that-could-have-sent-staking-deposits-to-builders",
+          "published": "Tue, 27 Oct 2026 07:09:56 +0000",
+          "source": "CoinDesk",
+          "text": "Ethereum fixes Glamsterdam bug that could have sent staking deposits to builders Developers initially rejected the change before reversing course, as testing delays gave them more time to examine a flaw in Ethereum's upcoming Glamsterdam upgrade."
         },
         {
           "title": "Tom Lee's Bitmine favors share buybacks to ether purchases as crypto declines",
@@ -115,74 +115,28 @@
           "text": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting Ether and XRP led losses among the majors as the AI trade took another hit in Asia, where Goldman Sachs cut its Kospi target by 25%."
         }
       ],
-      "marketSentiment": -3,
-      "combinedScore": 29,
+      "marketSentiment": -1,
+      "combinedScore": 33,
       "signal": "SELL",
-      "reason": "Technical 23/100; News -50; Market sentiment -3."
-    },
-    {
-      "symbol": "ZECUSDT",
-      "coin": "ZEC",
-      "price": 1221.56,
-      "change24h": 1.328,
-      "volume24h": 159023183.56231,
-      "technical": {
-        "rsi": 47.9,
-        "ema9": 1222.8050508828233,
-        "ema21": 1225.4101082399761,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.75,
-        "score": 23
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -3,
-      "combinedScore": 36,
-      "signal": "WAIT",
-      "reason": "Technical 23/100; News +0; Market sentiment -3."
-    },
-    {
-      "symbol": "USD1USDT",
-      "coin": "USD1",
-      "price": 1.00006,
-      "change24h": 0.006,
-      "volume24h": 153674265.70169,
-      "technical": {
-        "rsi": 38.0,
-        "ema9": 1.0000662168763437,
-        "ema21": 1.0000828448428913,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.47,
-        "score": 11
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -3,
-      "combinedScore": 30,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment -3."
+      "reason": "Technical 16/100; News +0; Market sentiment -1."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 100.08,
-      "change24h": -1.282,
-      "volume24h": 153478079.01556,
+      "price": 99.99,
+      "change24h": -1.604,
+      "volume24h": 160042482.61848,
       "technical": {
-        "rsi": 40.7,
-        "ema9": 100.18674545358513,
-        "ema21": 100.35103763599588,
+        "rsi": 43.9,
+        "ema9": 99.69590025446757,
+        "ema21": 99.84554330630806,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.94,
+        "volumeRatio": 1.09,
         "score": 11
       },
-      "newsScore": 100,
-      "newsCount": 1,
+      "newsScore": 50,
+      "newsCount": 2,
       "news": [
         {
           "title": "Hong Kong names Nasdaq-listed Solana Company a strategic enterprise",
@@ -190,26 +144,94 @@
           "published": "Mon, 26 Oct 2026 03:21:26 +0000",
           "source": "Cointelegraph",
           "text": "Hong Kong names Nasdaq-listed Solana Company a strategic enterprise The Nasdaq-listed firm said it plans to establish Solana validator operations in Hong Kong."
+        },
+        {
+          "title": "Solana bug reports now cost 1 SOL as AI floods security teams with spam",
+          "link": "https://www.coindesk.com/tech/2026/10/27/solana-bug-reports-now-cost-1-sol-as-ai-floods-security-teams-with-spam",
+          "published": "Tue, 27 Oct 2026 07:44:04 +0000",
+          "source": "CoinDesk",
+          "text": "Solana bug reports now cost 1 SOL as AI floods security teams with spam Researchers must now permanently burn 1 SOL for every submission after a monthlong contest drew 809 reports, with AI believed to have helped generate or write nearly all of them."
         }
       ],
-      "marketSentiment": -3,
-      "combinedScore": 45,
+      "marketSentiment": -1,
+      "combinedScore": 38,
       "signal": "WAIT",
-      "reason": "Technical 11/100; News +100; Market sentiment -3."
+      "reason": "Technical 11/100; News +50; Market sentiment -1."
+    },
+    {
+      "symbol": "ZECUSDT",
+      "coin": "ZEC",
+      "price": 1248.3,
+      "change24h": 0.945,
+      "volume24h": 159876673.04929,
+      "technical": {
+        "rsi": 58.4,
+        "ema9": 1240.031568999957,
+        "ema21": 1234.936313365386,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.91,
+        "score": 89
+      },
+      "newsScore": 100,
+      "newsCount": 2,
+      "news": [
+        {
+          "title": "Zcash co-founder calls to stop funding ‘over $125M’ grants program",
+          "link": "https://cointelegraph.com/news/zcash-co-founder-ending-zcg-funding-125m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Tue, 27 Oct 2026 10:00:31 +0000",
+          "source": "Cointelegraph",
+          "text": "Zcash co-founder calls to stop funding ‘over $125M’ grants program Sean Bowe says ZCG has enough money to keep funding projects and wants its share of new ZEC redirected to a reserve for the network."
+        },
+        {
+          "title": "Zcash co-founder proposes ending grants funding, citing $125 million treasury",
+          "link": "https://www.coindesk.com/markets/2026/10/27/zcash-co-founder-proposes-ending-grants-funding-citing-usd125-million-treasury",
+          "published": "Tue, 27 Oct 2026 06:14:41 +0000",
+          "source": "CoinDesk",
+          "text": "Zcash co-founder proposes ending grants funding, citing $125 million treasury Sean Bowe’s proposal would send the committee’s 8% share of newly created ZEC to a reserve for future miners. The committee would keep the money it has already received."
+        }
+      ],
+      "marketSentiment": -1,
+      "combinedScore": 84,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +100; Market sentiment -1."
+    },
+    {
+      "symbol": "USD1USDT",
+      "coin": "USD1",
+      "price": 1.00028,
+      "change24h": 0.019,
+      "volume24h": 149310684.67693,
+      "technical": {
+        "rsi": 57.7,
+        "ema9": 1.0002395172017566,
+        "ema21": 1.0001943117535765,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.53,
+        "score": 89
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -1,
+      "combinedScore": 69,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment -1."
     },
     {
       "symbol": "RLUSDUSDT",
       "coin": "RLUSD",
-      "price": 1.0016,
-      "change24h": 0.0,
-      "volume24h": 141781489.7732,
+      "price": 1.0017,
+      "change24h": 0.03,
+      "volume24h": 127868798.3411,
       "technical": {
-        "rsi": 45.1,
-        "ema9": 1.0016639326120755,
-        "ema21": 1.0016646133722975,
+        "rsi": 48.1,
+        "ema9": 1.001608199596551,
+        "ema21": 1.001626638235107,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.03,
+        "volumeRatio": 0.09,
         "score": 23
       },
       "newsScore": 0,
@@ -223,25 +245,25 @@
           "text": "Ripple wins final US approval for national trust bank The approval clears the way for Ripple to manage reserves backing its RLUSD stablecoin and provide digital asset custody."
         }
       ],
-      "marketSentiment": -3,
+      "marketSentiment": -1,
       "combinedScore": 36,
       "signal": "WAIT",
-      "reason": "Technical 23/100; News +0; Market sentiment -3."
+      "reason": "Technical 23/100; News +0; Market sentiment -1."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 1.2974,
-      "change24h": 0.535,
-      "volume24h": 91289482.7478,
+      "price": 1.2989,
+      "change24h": 0.635,
+      "volume24h": 89414807.22768,
       "technical": {
-        "rsi": 46.0,
-        "ema9": 1.2990965576872875,
-        "ema21": 1.2998599325572717,
+        "rsi": 41.5,
+        "ema9": 1.2967177983682183,
+        "ema21": 1.2983245585632028,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 1.08,
-        "score": 23
+        "volumeRatio": 1.44,
+        "score": 11
       },
       "newsScore": 33,
       "newsCount": 4,
@@ -275,24 +297,24 @@
           "text": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting Ether and XRP led losses among the majors as the AI trade took another hit in Asia, where Goldman Sachs cut its Kospi target by 25%."
         }
       ],
-      "marketSentiment": -3,
-      "combinedScore": 41,
-      "signal": "WAIT",
-      "reason": "Technical 23/100; News +33; Market sentiment -3."
+      "marketSentiment": -1,
+      "combinedScore": 35,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +33; Market sentiment -1."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 4.417,
-      "change24h": -2.149,
-      "volume24h": 90451775.0684,
+      "price": 4.453,
+      "change24h": -2.153,
+      "volume24h": 87343622.7396,
       "technical": {
-        "rsi": 43.6,
-        "ema9": 4.431934650299896,
-        "ema21": 4.447644608345342,
+        "rsi": 44.7,
+        "ema9": 4.43331063469484,
+        "ema21": 4.438174336462428,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.4,
+        "volumeRatio": 1.1,
         "score": 11
       },
       "newsScore": 0,
@@ -306,59 +328,94 @@
           "text": "Bitcoin holds near $80,000 as oil retreats and the Fed decision looms Bitcoin was little changed near $80,400 since midnight UTC while the DeFi index was the only CoinDesk index to gain, with the Fed due to decide on Wednesday."
         }
       ],
-      "marketSentiment": -3,
+      "marketSentiment": -1,
       "combinedScore": 30,
       "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment -3."
+      "reason": "Technical 11/100; News +0; Market sentiment -1."
     },
     {
       "symbol": "BNBUSDT",
       "coin": "BNB",
-      "price": 737.91,
-      "change24h": -0.681,
-      "volume24h": 77095338.95303,
+      "price": 738.37,
+      "change24h": -0.2,
+      "volume24h": 77312028.70769,
       "technical": {
-        "rsi": 36.7,
-        "ema9": 738.6192208787575,
-        "ema21": 740.2088326395876,
-        "macdBull": false,
+        "rsi": 44.9,
+        "ema9": 736.1008322050275,
+        "ema21": 736.8248593836825,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 1.19,
-        "score": 11
+        "volumeRatio": 0.85,
+        "score": 35
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -3,
-      "combinedScore": 30,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment -3."
+      "marketSentiment": -1,
+      "combinedScore": 42,
+      "signal": "WAIT",
+      "reason": "Technical 35/100; News +0; Market sentiment -1."
     },
     {
       "symbol": "ENAUSDT",
       "coin": "ENA",
-      "price": 0.2077,
-      "change24h": 0.048,
-      "volume24h": 41879479.389533,
+      "price": 0.2016,
+      "change24h": -3.217,
+      "volume24h": 39708032.356546,
       "technical": {
-        "rsi": 54.1,
-        "ema9": 0.20820078568853712,
-        "ema21": 0.20800716916653286,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.76,
-        "score": 77
+        "rsi": 29.1,
+        "ema9": 0.20189331893018575,
+        "ema21": 0.20419154189488511,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 1.81,
+        "score": 16
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -3,
-      "combinedScore": 63,
-      "signal": "WAIT",
-      "reason": "Technical 77/100; News +0; Market sentiment -3."
+      "marketSentiment": -1,
+      "combinedScore": 33,
+      "signal": "SELL",
+      "reason": "Technical 16/100; News +0; Market sentiment -1."
     }
   ],
   "news": [
+    {
+      "title": "Zcash co-founder calls to stop funding ‘over $125M’ grants program",
+      "link": "https://cointelegraph.com/news/zcash-co-founder-ending-zcg-funding-125m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 27 Oct 2026 10:00:31 +0000",
+      "source": "Cointelegraph",
+      "text": "Zcash co-founder calls to stop funding ‘over $125M’ grants program Sean Bowe says ZCG has enough money to keep funding projects and wants its share of new ZEC redirected to a reserve for the network."
+    },
+    {
+      "title": "Bloom bot hackers loot $953K faster than you can microwave popcorn",
+      "link": "https://cointelegraph.com/news/bloom-bot-hackers-953k-faster-popcorn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 27 Oct 2026 09:07:37 +0000",
+      "source": "Cointelegraph",
+      "text": "Bloom bot hackers loot $953K faster than you can microwave popcorn Bloom pledged to reimburse nine traders after $953,000 was drained from 48 wallets, saying no private keys were accessed or compromised."
+    },
+    {
+      "title": "Binance files for Brazil crypto license ahead of Friday deadline",
+      "link": "https://cointelegraph.com/news/binance-brazil-crypto-license-oct-30-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 27 Oct 2026 08:04:21 +0000",
+      "source": "Cointelegraph",
+      "text": "Binance files for Brazil crypto license ahead of Friday deadline The exchange is delisting 22 crypto assets for Brazilian users and hopes talks with the central bank will allow it to restore some services."
+    },
+    {
+      "title": "Bitcoin ETFs claw back $110M after $774M exit",
+      "link": "https://cointelegraph.com/markets/bitcoin-etf-rebound-110-million-btc-dip-below-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 27 Oct 2026 07:35:37 +0000",
+      "source": "Cointelegraph",
+      "text": "Bitcoin ETFs claw back $110M after $774M exit US spot Bitcoin ETFs remained in the red for October, with about $202 million in net outflows for the month despite Monday’s rebound."
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 27 Oct 2026 06:08:28 +0000",
+      "source": "Cointelegraph",
+      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
     {
       "title": "RedotPay weighs confidential US IPO filing by year-end: Bloomberg",
       "link": "https://cointelegraph.com/news/redotpay-weighs-confidential-us-ipo-filing-by-year-end-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -444,13 +501,6 @@
       "text": "Strategy skips Bitcoin purchases, spends $205M on STRC buybacks Strategy made no Bitcoin purchases or sales last week, as its STRC preferred stock buybacks reduced its USD Cash balance by 46% to $242.4 million."
     },
     {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 26 Oct 2026 13:26:47 +0000",
-      "source": "Cointelegraph",
-      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-    },
-    {
       "title": "HOOD’s prediction markets to add $1.7B to revenue, exceed crypto by 2028: Bernstein",
       "link": "https://cointelegraph.com/news/prediction-markets-17b-robinhood-exceed-crypto-revenue-2028-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 26 Oct 2026 13:12:41 +0000",
@@ -470,34 +520,6 @@
       "published": "Mon, 26 Oct 2026 10:49:55 +0000",
       "source": "Cointelegraph",
       "text": "BTC price risks $80K loss into FOMC, earnings: Three things to know in Bitcoin this week Bitcoin bulls fought for $80,000 support over the weekend ahead of a heavy week of US tech earnings and inflation data."
-    },
-    {
-      "title": "Securitize’s tokenized stock value halves as Circle widens lead",
-      "link": "https://cointelegraph.com/markets/securitizes-tokenized-stock-circle-lead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 26 Oct 2026 10:25:01 +0000",
-      "source": "Cointelegraph",
-      "text": "Securitize’s tokenized stock value halves as Circle widens lead SECZ’s onchain market cap fell to $208.6 million as Circle-linked tokens reached a combined $383.6 million across several issuers in the $3.3 billion tokenized equities market."
-    },
-    {
-      "title": "Bitcoin ETFs break 2-week outflow streak with $301M comeback",
-      "link": "https://cointelegraph.com/markets/bitcoin-etfs-rebound-weekly-inflow-301-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 26 Oct 2026 08:20:49 +0000",
-      "source": "Cointelegraph",
-      "text": "Bitcoin ETFs break 2-week outflow streak with $301M comeback US spot Bitcoin ETFs finished the week with $301 million in net inflows after a strong three-day start gave way to heavy withdrawals."
-    },
-    {
-      "title": "Musk warns over 200 AI neoclouds face ‘guppy-level death’",
-      "link": "https://cointelegraph.com/news/musk-warns-over-200-ai-neoclouds-face-guppy-level-death?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 26 Oct 2026 05:13:33 +0000",
-      "source": "Cointelegraph",
-      "text": "Musk warns over 200 AI neoclouds face ‘guppy-level death’ The warning comes as Gartner forecasts that more than 80% of specialist cloud providers will cease operating independently by 2030."
-    },
-    {
-      "title": "Hong Kong names Nasdaq-listed Solana Company a strategic enterprise",
-      "link": "https://cointelegraph.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 26 Oct 2026 03:21:26 +0000",
-      "source": "Cointelegraph",
-      "text": "Hong Kong names Nasdaq-listed Solana Company a strategic enterprise The Nasdaq-listed firm said it plans to establish Solana validator operations in Hong Kong."
     }
   ],
   "paper": {
