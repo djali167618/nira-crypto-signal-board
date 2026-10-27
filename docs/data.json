@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27 00:28:00 UTC",
+  "generatedAt": "2026-10-27 05:23:53 UTC",
   "interval": "15m candles",
   "marketSentiment": -3,
   "overallNewsScore": 0,
@@ -12,19 +12,19 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 80276.44,
-      "change24h": 0.075,
-      "volume24h": 1230590136.3009782,
+      "price": 79824.0,
+      "change24h": -0.464,
+      "volume24h": 1190761653.406062,
       "technical": {
-        "rsi": 56.7,
-        "ema9": 80089.53056163868,
-        "ema21": 80072.21126478832,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 1.26,
-        "score": 89
+        "rsi": 44.5,
+        "ema9": 79808.65726920552,
+        "ema21": 79907.46645862225,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.48,
+        "score": 11
       },
-      "newsScore": 20,
+      "newsScore": 10,
       "newsCount": 5,
       "news": [
         {
@@ -64,24 +64,24 @@
         }
       ],
       "marketSentiment": -3,
-      "combinedScore": 72,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +20; Market sentiment -3."
+      "combinedScore": 32,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +10; Market sentiment -3."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2329.18,
-      "change24h": -0.136,
-      "volume24h": 441244727.56358,
+      "price": 2313.05,
+      "change24h": -0.507,
+      "volume24h": 385871624.129414,
       "technical": {
-        "rsi": 61.4,
-        "ema9": 2319.1504447882744,
-        "ema21": 2317.196606853759,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 1.34,
-        "score": 89
+        "rsi": 46.4,
+        "ema9": 2314.4592168319646,
+        "ema21": 2316.6359971221573,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.76,
+        "score": 23
       },
       "newsScore": -50,
       "newsCount": 4,
@@ -116,47 +116,70 @@
         }
       ],
       "marketSentiment": -3,
-      "combinedScore": 62,
-      "signal": "WAIT",
-      "reason": "Technical 89/100; News -50; Market sentiment -3."
+      "combinedScore": 29,
+      "signal": "SELL",
+      "reason": "Technical 23/100; News -50; Market sentiment -3."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 1237.38,
-      "change24h": 2.194,
-      "volume24h": 182043811.20885,
+      "price": 1221.56,
+      "change24h": 1.328,
+      "volume24h": 159023183.56231,
       "technical": {
-        "rsi": 59.4,
-        "ema9": 1230.0158110300215,
-        "ema21": 1229.2046615444187,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 1.15,
-        "score": 89
+        "rsi": 47.9,
+        "ema9": 1222.8050508828233,
+        "ema21": 1225.4101082399761,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.75,
+        "score": 23
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": -3,
-      "combinedScore": 69,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment -3."
+      "combinedScore": 36,
+      "signal": "WAIT",
+      "reason": "Technical 23/100; News +0; Market sentiment -3."
+    },
+    {
+      "symbol": "USD1USDT",
+      "coin": "USD1",
+      "price": 1.00006,
+      "change24h": 0.006,
+      "volume24h": 153674265.70169,
+      "technical": {
+        "rsi": 38.0,
+        "ema9": 1.0000662168763437,
+        "ema21": 1.0000828448428913,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.47,
+        "score": 11
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -3,
+      "combinedScore": 30,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment -3."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 100.89,
-      "change24h": -0.572,
-      "volume24h": 166515656.6091,
+      "price": 100.08,
+      "change24h": -1.282,
+      "volume24h": 153478079.01556,
       "technical": {
-        "rsi": 57.0,
-        "ema9": 100.69825588273989,
-        "ema21": 100.68426123814224,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 1.32,
-        "score": 89
+        "rsi": 40.7,
+        "ema9": 100.18674545358513,
+        "ema21": 100.35103763599588,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.94,
+        "score": 11
       },
       "newsScore": 100,
       "newsCount": 1,
@@ -170,47 +193,24 @@
         }
       ],
       "marketSentiment": -3,
-      "combinedScore": 84,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +100; Market sentiment -3."
-    },
-    {
-      "symbol": "USD1USDT",
-      "coin": "USD1",
-      "price": 1.00009,
-      "change24h": 0.014,
-      "volume24h": 156656318.13865,
-      "technical": {
-        "rsi": 47.7,
-        "ema9": 1.0001424078106487,
-        "ema21": 1.0001412550969677,
-        "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 1.98,
-        "score": 58
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -3,
-      "combinedScore": 54,
+      "combinedScore": 45,
       "signal": "WAIT",
-      "reason": "Technical 58/100; News +0; Market sentiment -3."
+      "reason": "Technical 11/100; News +100; Market sentiment -3."
     },
     {
       "symbol": "RLUSDUSDT",
       "coin": "RLUSD",
       "price": 1.0016,
-      "change24h": 0.02,
-      "volume24h": 153044011.1846,
+      "change24h": 0.0,
+      "volume24h": 141781489.7732,
       "technical": {
-        "rsi": 55.9,
-        "ema9": 1.001686243055387,
-        "ema21": 1.0016365436881005,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 2.19,
-        "score": 94
+        "rsi": 45.1,
+        "ema9": 1.0016639326120755,
+        "ema21": 1.0016646133722975,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.03,
+        "score": 23
       },
       "newsScore": 0,
       "newsCount": 1,
@@ -224,27 +224,27 @@
         }
       ],
       "marketSentiment": -3,
-      "combinedScore": 72,
-      "signal": "BUY",
-      "reason": "Technical 94/100; News +0; Market sentiment -3."
+      "combinedScore": 36,
+      "signal": "WAIT",
+      "reason": "Technical 23/100; News +0; Market sentiment -3."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 1.3107,
-      "change24h": 1.064,
-      "volume24h": 98539135.21343,
+      "price": 1.2974,
+      "change24h": 0.535,
+      "volume24h": 91289482.7478,
       "technical": {
-        "rsi": 68.2,
-        "ema9": 1.2998181956491508,
-        "ema21": 1.2966756052447554,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 1.68,
-        "score": 84
+        "rsi": 46.0,
+        "ema9": 1.2990965576872875,
+        "ema21": 1.2998599325572717,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 1.08,
+        "score": 23
       },
       "newsScore": 33,
-      "newsCount": 3,
+      "newsCount": 4,
       "news": [
         {
           "title": "Ripple wins final US approval for national trust bank",
@@ -261,6 +261,13 @@
           "text": "Aviva Investors launches tokenized share class of $29B Sterling fund on XRP Ledger The move marks Aviva’s second fund to list tokenized shares, part of a broader collaboration to bring more tokenized funds to the XRP Ledger."
         },
         {
+          "title": "Ripple gets a final go-ahead to launch its own U.S. national trust bank",
+          "link": "https://www.coindesk.com/markets/2026/10/27/ripple-gets-a-final-go-ahead-to-launch-its-own-u-s-national-trust-bank",
+          "published": "Tue, 27 Oct 2026 04:28:49 +0000",
+          "source": "CoinDesk",
+          "text": "Ripple gets a final go-ahead to launch its own U.S. national trust bank The Office of the Comptroller of the Currency has approved Ripple National Trust Bank (RNTB), Ripple's CEO Brad Garlinghouse announced on X."
+        },
+        {
           "title": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting",
           "link": "https://www.coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting",
           "published": "Mon, 26 Oct 2026 04:37:02 +0000",
@@ -269,24 +276,24 @@
         }
       ],
       "marketSentiment": -3,
-      "combinedScore": 72,
-      "signal": "BUY",
-      "reason": "Technical 84/100; News +33; Market sentiment -3."
+      "combinedScore": 41,
+      "signal": "WAIT",
+      "reason": "Technical 23/100; News +33; Market sentiment -3."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 4.498,
-      "change24h": -2.111,
-      "volume24h": 94300800.4629,
+      "price": 4.417,
+      "change24h": -2.149,
+      "volume24h": 90451775.0684,
       "technical": {
-        "rsi": 60.9,
-        "ema9": 4.491430875043196,
-        "ema21": 4.487335803567356,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 1.09,
-        "score": 89
+        "rsi": 43.6,
+        "ema9": 4.431934650299896,
+        "ema21": 4.447644608345342,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.4,
+        "score": 11
       },
       "newsScore": 0,
       "newsCount": 1,
@@ -300,58 +307,72 @@
         }
       ],
       "marketSentiment": -3,
-      "combinedScore": 69,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment -3."
+      "combinedScore": 30,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment -3."
     },
     {
       "symbol": "BNBUSDT",
       "coin": "BNB",
-      "price": 745.0,
-      "change24h": 0.68,
-      "volume24h": 74987633.91903,
+      "price": 737.91,
+      "change24h": -0.681,
+      "volume24h": 77095338.95303,
       "technical": {
-        "rsi": 61.2,
-        "ema9": 742.7932501116527,
-        "ema21": 742.6596305245379,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 2.49,
-        "score": 94
+        "rsi": 36.7,
+        "ema9": 738.6192208787575,
+        "ema21": 740.2088326395876,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 1.19,
+        "score": 11
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": -3,
-      "combinedScore": 72,
-      "signal": "BUY",
-      "reason": "Technical 94/100; News +0; Market sentiment -3."
+      "combinedScore": 30,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment -3."
     },
     {
       "symbol": "ENAUSDT",
       "coin": "ENA",
-      "price": 0.2087,
-      "change24h": 0.627,
-      "volume24h": 42463935.714336,
+      "price": 0.2077,
+      "change24h": 0.048,
+      "volume24h": 41879479.389533,
       "technical": {
-        "rsi": 56.9,
-        "ema9": 0.20778784137588882,
-        "ema21": 0.20794868895813556,
+        "rsi": 54.1,
+        "ema9": 0.20820078568853712,
+        "ema21": 0.20800716916653286,
         "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 2.7,
-        "score": 64
+        "emaBull": true,
+        "volumeRatio": 0.76,
+        "score": 77
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": -3,
-      "combinedScore": 57,
+      "combinedScore": 63,
       "signal": "WAIT",
-      "reason": "Technical 64/100; News +0; Market sentiment -3."
+      "reason": "Technical 77/100; News +0; Market sentiment -3."
     }
   ],
   "news": [
+    {
+      "title": "RedotPay weighs confidential US IPO filing by year-end: Bloomberg",
+      "link": "https://cointelegraph.com/news/redotpay-weighs-confidential-us-ipo-filing-by-year-end-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 27 Oct 2026 04:26:51 +0000",
+      "source": "Cointelegraph",
+      "text": "RedotPay weighs confidential US IPO filing by year-end: Bloomberg The stablecoin payments company previously disputed reports that its US listing had been delayed."
+    },
+    {
+      "title": "Keystone breach deepens: Hackers stole key used to verify wallets as genuine",
+      "link": "https://cointelegraph.com/news/keystone-breach-deepens-hackers-stole-key-used-to-verify-wallets-as-genuine?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 27 Oct 2026 01:55:03 +0000",
+      "source": "Cointelegraph",
+      "text": "Keystone breach deepens: Hackers stole key used to verify wallets as genuine Keystone initially disclosed a leak of customer information but has since disclosed that hackers also stole a key that could allow counterfeit wallets to pass authenticity checks."
+    },
     {
       "title": "Ripple wins final US approval for national trust bank",
       "link": "https://cointelegraph.com/news/ripple-wins-final-us-approval-for-national-trust-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -477,20 +498,6 @@
       "published": "Mon, 26 Oct 2026 03:21:26 +0000",
       "source": "Cointelegraph",
       "text": "Hong Kong names Nasdaq-listed Solana Company a strategic enterprise The Nasdaq-listed firm said it plans to establish Solana validator operations in Hong Kong."
-    },
-    {
-      "title": "Keystone says website breach exposed hardware wallet buyers’ addresses",
-      "link": "https://cointelegraph.com/news/keystone-says-website-breach-exposed-hardware-wallet-buyers-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 26 Oct 2026 02:24:04 +0000",
-      "source": "Cointelegraph",
-      "text": "Keystone says website breach exposed hardware wallet buyers’ addresses A security researcher warned that the leaked shipping details could expose crypto holders to targeted scams and physical attacks."
-    },
-    {
-      "title": "Standard Chartered-led Anchorpoint says it’s not rushing retail stablecoin",
-      "link": "https://cointelegraph.com/news/standard-chartered-led-anchorpoint-says-its-not-rushing-retail-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 26 Oct 2026 00:13:29 +0000",
-      "source": "Cointelegraph",
-      "text": "Standard Chartered-led Anchorpoint says it’s not rushing retail stablecoin The Standard Chartered and Animoca Brands joint venture previously targeted retail access as early as the end of 2026, but its CEO declined to reaffirm that timeline."
     }
   ],
   "paper": {
