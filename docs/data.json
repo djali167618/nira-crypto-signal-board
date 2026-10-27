@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-27 20:36:09 UTC",
+  "generatedAt": "2026-10-27 23:58:51 UTC",
   "interval": "15m candles",
-  "marketSentiment": 0,
-  "overallNewsScore": 7,
+  "marketSentiment": 4,
+  "overallNewsScore": 18,
   "fearGreed": {
     "value": 48,
     "label": "Neutral",
@@ -12,21 +12,35 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 80669.88,
-      "change24h": 0.94,
-      "volume24h": 1031708081.532513,
+      "price": 80909.78,
+      "change24h": 0.963,
+      "volume24h": 1062500894.2285389,
       "technical": {
-        "rsi": 57.8,
-        "ema9": 80713.71000886039,
-        "ema21": 80607.32566836731,
+        "rsi": 64.3,
+        "ema9": 80902.49938339548,
+        "ema21": 80809.3230029225,
         "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 0.52,
+        "volumeRatio": 0.94,
         "score": 65
       },
-      "newsScore": -10,
+      "newsScore": 10,
       "newsCount": 5,
       "news": [
+        {
+          "title": "VanEck launches diversified ETF combining stocks, bonds and Bitcoin exposure",
+          "link": "https://cointelegraph.com/news/vaneck-launches-diversified-etf-combining-stocks-bonds-and-bitcoin-exposure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Tue, 27 Oct 2026 21:28:22 +0000",
+          "source": "Cointelegraph",
+          "text": "VanEck launches diversified ETF combining stocks, bonds and Bitcoin exposure VanEck’s new Wealth Builder ETF targets a 2% Bitcoin allocation, with a permitted range of 1% to 5%, gaining exposure through a spot Bitcoin ETP."
+        },
+        {
+          "title": "Quantum fears already limiting Bitcoin’s growth, Stacks founder says",
+          "link": "https://cointelegraph.com/news/quantum-fears-already-limiting-bitcoins-growth-stacks-founder-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Tue, 27 Oct 2026 20:33:19 +0000",
+          "source": "Cointelegraph",
+          "text": "Quantum fears already limiting Bitcoin’s growth, Stacks founder says Speaking on Cointelegraph’s Chain Reaction podcast, Muneeb Ali warned that uncertainty over Bitcoin’s quantum security could deter institutional investors."
+        },
         {
           "title": "Here’s what happened in crypto today",
           "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -47,41 +61,27 @@
           "published": "Tue, 27 Oct 2026 13:01:00 +0000",
           "source": "Cointelegraph",
           "text": "Luxor raises $16M from CMT Digital amid AI-Bitcoin miner convergence Luxor aims to use the proceeds to scale its existing AI infrastructure business and expand its GPU sourcing services as global chip supply chains become constrained."
-        },
-        {
-          "title": "Bitcoin price analysis sees ‘strong rally’ as old coins become dormant",
-          "link": "https://cointelegraph.com/markets/bitcoin-price-analysis-sees-strong-rally-as-old-coins-become-dormant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Tue, 27 Oct 2026 12:18:24 +0000",
-          "source": "Cointelegraph",
-          "text": "Bitcoin price analysis sees ‘strong rally’ as old coins become dormant A decline in the share of Bitcoin’s realized cap held by coins unmoved for 18 months or longer points to the ‘early stages’ of a bull market, analysis says."
-        },
-        {
-          "title": "Bitcoin ETFs claw back $110M after $774M exit",
-          "link": "https://cointelegraph.com/markets/bitcoin-etf-rebound-110-million-btc-dip-below-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Tue, 27 Oct 2026 07:35:37 +0000",
-          "source": "Cointelegraph",
-          "text": "Bitcoin ETFs claw back $110M after $774M exit US spot Bitcoin ETFs remained in the red for October, with about $202 million in net outflows for the month despite Monday’s rebound."
         }
       ],
-      "marketSentiment": 0,
-      "combinedScore": 56,
+      "marketSentiment": 4,
+      "combinedScore": 59,
       "signal": "WAIT",
-      "reason": "Technical 65/100; News -10; Market sentiment +0."
+      "reason": "Technical 65/100; News +10; Market sentiment +4."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2343.51,
-      "change24h": 1.355,
-      "volume24h": 479687820.085782,
+      "price": 2350.84,
+      "change24h": 1.135,
+      "volume24h": 481765537.538114,
       "technical": {
-        "rsi": 53.8,
-        "ema9": 2346.6824006665825,
-        "ema21": 2344.216444288007,
+        "rsi": 59.9,
+        "ema9": 2350.238559134742,
+        "ema21": 2348.024024700598,
         "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 0.2,
-        "score": 53
+        "volumeRatio": 0.68,
+        "score": 65
       },
       "newsScore": 33,
       "newsCount": 3,
@@ -108,25 +108,25 @@
           "text": "Tom Lee's Bitmine favors share buybacks to ether purchases as crypto declines The Ethereum treasury firm spent $46 million buying back shares as Chairman Tom Lee said crypto has held up better than AI stocks during the recent market pullback."
         }
       ],
-      "marketSentiment": 0,
-      "combinedScore": 56,
+      "marketSentiment": 4,
+      "combinedScore": 63,
       "signal": "WAIT",
-      "reason": "Technical 53/100; News +33; Market sentiment +0."
+      "reason": "Technical 65/100; News +33; Market sentiment +4."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 1296.7,
-      "change24h": 5.725,
-      "volume24h": 157226089.11683,
+      "price": 1311.0,
+      "change24h": 6.293,
+      "volume24h": 154568269.8799,
       "technical": {
-        "rsi": 55.3,
-        "ema9": 1298.6510915875033,
-        "ema21": 1294.6535106665642,
-        "macdBull": false,
+        "rsi": 59.7,
+        "ema9": 1309.2834065785075,
+        "ema21": 1303.7847041947289,
+        "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.19,
-        "score": 65
+        "volumeRatio": 1.76,
+        "score": 84
       },
       "newsScore": 100,
       "newsCount": 2,
@@ -146,24 +146,24 @@
           "text": "Zcash co-founder proposes ending grants funding, citing $125 million treasury Sean Bowe’s proposal would send the committee’s 8% share of newly created ZEC to a reserve for future miners. The committee would keep the money it has already received."
         }
       ],
-      "marketSentiment": 0,
-      "combinedScore": 72,
+      "marketSentiment": 4,
+      "combinedScore": 82,
       "signal": "BUY",
-      "reason": "Technical 65/100; News +100; Market sentiment +0."
+      "reason": "Technical 84/100; News +100; Market sentiment +4."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 101.02,
-      "change24h": 0.638,
-      "volume24h": 135949317.00432,
+      "price": 101.35,
+      "change24h": 0.416,
+      "volume24h": 133151263.6299,
       "technical": {
-        "rsi": 55.5,
-        "ema9": 101.09455851401438,
-        "ema21": 100.97030506445012,
+        "rsi": 57.4,
+        "ema9": 101.2826902437741,
+        "ema21": 101.18059645434238,
         "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 0.51,
+        "volumeRatio": 0.69,
         "score": 65
       },
       "newsScore": 0,
@@ -184,50 +184,73 @@
           "text": "Solana bug reports now cost 1 SOL as AI floods security teams with spam Researchers must now permanently burn 1 SOL for every submission after a monthlong contest drew 809 reports, with AI believed to have helped generate or write nearly all of them."
         }
       ],
-      "marketSentiment": 0,
+      "marketSentiment": 4,
       "combinedScore": 58,
       "signal": "WAIT",
-      "reason": "Technical 65/100; News +0; Market sentiment +0."
+      "reason": "Technical 65/100; News +0; Market sentiment +4."
     },
     {
       "symbol": "USD1USDT",
       "coin": "USD1",
-      "price": 1.00019,
-      "change24h": -0.001,
-      "volume24h": 122841586.65667,
+      "price": 1.00016,
+      "change24h": 0.007,
+      "volume24h": 116850094.11645,
       "technical": {
-        "rsi": 58.3,
-        "ema9": 1.000151383657028,
-        "ema21": 1.0001512883872095,
+        "rsi": 51.1,
+        "ema9": 1.0001652234236569,
+        "ema21": 1.0001623652474678,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.86,
+        "volumeRatio": 0.65,
+        "score": 77
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": 4,
+      "combinedScore": 64,
+      "signal": "WAIT",
+      "reason": "Technical 77/100; News +0; Market sentiment +4."
+    },
+    {
+      "symbol": "NEARUSDT",
+      "coin": "NEAR",
+      "price": 4.684,
+      "change24h": 3.904,
+      "volume24h": 93213513.4928,
+      "technical": {
+        "rsi": 61.9,
+        "ema9": 4.679615941520191,
+        "ema21": 4.6564446029788105,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.35,
         "score": 89
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": 0,
+      "marketSentiment": 4,
       "combinedScore": 70,
       "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment +0."
+      "reason": "Technical 89/100; News +0; Market sentiment +4."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 1.3213,
-      "change24h": 2.141,
-      "volume24h": 89491998.05364,
+      "price": 1.3314,
+      "change24h": 1.634,
+      "volume24h": 91986460.79048,
       "technical": {
-        "rsi": 55.2,
-        "ema9": 1.3233351734887928,
-        "ema21": 1.3212968733071169,
-        "macdBull": false,
+        "rsi": 63.4,
+        "ema9": 1.3265475715231705,
+        "ema21": 1.3242302128269337,
+        "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.35,
-        "score": 65
+        "volumeRatio": 0.55,
+        "score": 89
       },
-      "newsScore": 39,
+      "newsScore": 6,
       "newsCount": 5,
       "news": [
         {
@@ -245,11 +268,11 @@
           "text": "Ripple wins final US approval for national trust bank The approval clears the way for Ripple to manage reserves backing its RLUSD stablecoin and provide digital asset custody."
         },
         {
-          "title": "Aviva Investors launches tokenized share class of $29B Sterling fund on XRP Ledger",
-          "link": "https://cointelegraph.com/news/aviva-investors-launches-tokenized-share-class-of-sterling-fund-on-xrp-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Mon, 26 Oct 2026 11:39:27 +0000",
-          "source": "Cointelegraph",
-          "text": "Aviva Investors launches tokenized share class of $29B Sterling fund on XRP Ledger The move marks Aviva’s second fund to list tokenized shares, part of a broader collaboration to bring more tokenized funds to the XRP Ledger."
+          "title": "Treasury's Bessent sees crypto as America's next tool for keeping the U.S. dollar on top",
+          "link": "https://www.coindesk.com/policy/2026/10/27/treasury-s-bessent-sees-crypto-as-america-s-next-tool-for-keeping-the-u-s-dollar-on-top",
+          "published": "Tue, 27 Oct 2026 20:41:33 +0000",
+          "source": "CoinDesk",
+          "text": "Treasury's Bessent sees crypto as America's next tool for keeping the U.S. dollar on top Speaking at Ripple's conference, the U.S. Treasury Secretary said the SEC and CFTC action could help fill the gap left by the Clarity Act's failure, while curbing crypto debanking."
         },
         {
           "title": "Robinhood taps Ripple’s $2.5 billion RLUSD stablecoin despite backing rival USDG",
@@ -266,70 +289,47 @@
           "text": "Bitcoin shows signs of weakness while Ripple's bank win fails to bolster XRP Your day-ahead look for Oct. 27, 2026"
         }
       ],
-      "marketSentiment": 0,
-      "combinedScore": 63,
-      "signal": "WAIT",
-      "reason": "Technical 65/100; News +39; Market sentiment +0."
-    },
-    {
-      "symbol": "NEARUSDT",
-      "coin": "NEAR",
-      "price": 4.623,
-      "change24h": 3.169,
-      "volume24h": 84752093.8104,
-      "technical": {
-        "rsi": 58.3,
-        "ema9": 4.6303039783679605,
-        "ema21": 4.610511243613598,
-        "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.18,
-        "score": 65
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": 0,
-      "combinedScore": 58,
-      "signal": "WAIT",
-      "reason": "Technical 65/100; News +0; Market sentiment +0."
+      "marketSentiment": 4,
+      "combinedScore": 71,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +6; Market sentiment +4."
     },
     {
       "symbol": "BNBUSDT",
       "coin": "BNB",
-      "price": 747.29,
-      "change24h": 0.674,
-      "volume24h": 81173153.27687,
+      "price": 745.09,
+      "change24h": 0.288,
+      "volume24h": 81310744.32521,
       "technical": {
-        "rsi": 48.8,
-        "ema9": 748.9308791777155,
-        "ema21": 748.4851061284255,
+        "rsi": 40.5,
+        "ema9": 745.8370370383834,
+        "ema21": 746.6765769232246,
         "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.27,
-        "score": 53
+        "emaBull": false,
+        "volumeRatio": 1.09,
+        "score": 11
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": 0,
-      "combinedScore": 52,
-      "signal": "WAIT",
-      "reason": "Technical 53/100; News +0; Market sentiment +0."
+      "marketSentiment": 4,
+      "combinedScore": 31,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment +4."
     },
     {
       "symbol": "RLUSDUSDT",
       "coin": "RLUSD",
       "price": 1.0013,
       "change24h": -0.04,
-      "volume24h": 65109153.5337,
+      "volume24h": 57342232.4186,
       "technical": {
-        "rsi": 48.0,
-        "ema9": 1.0012401668397677,
-        "ema21": 1.0012912479354878,
+        "rsi": 50.9,
+        "ema9": 1.001258923194071,
+        "ema21": 1.0012719337608003,
         "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.01,
+        "volumeRatio": 0.0,
         "score": 47
       },
       "newsScore": 67,
@@ -357,36 +357,57 @@
           "text": "Robinhood taps Ripple’s $2.5 billion RLUSD stablecoin despite backing rival USDG Robinhood helped launch a rival dollar-backed token, USDG, but will also offer Ripple's stablecoin to retail customers later this year."
         }
       ],
-      "marketSentiment": 0,
+      "marketSentiment": 4,
       "combinedScore": 59,
       "signal": "WAIT",
-      "reason": "Technical 47/100; News +67; Market sentiment +0."
+      "reason": "Technical 47/100; News +67; Market sentiment +4."
     },
     {
       "symbol": "SOXLBUSDT",
       "coin": "SOXLB",
-      "price": 98.69,
-      "change24h": 7.658,
-      "volume24h": 46864470.92377,
+      "price": 100.82,
+      "change24h": 8.572,
+      "volume24h": 47055191.49899,
       "technical": {
-        "rsi": 52.3,
-        "ema9": 100.09243994434854,
-        "ema21": 99.48565558752297,
+        "rsi": 61.5,
+        "ema9": 99.6730923726674,
+        "ema21": 99.44369384963457,
         "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 0.09,
-        "score": 53
+        "volumeRatio": 0.35,
+        "score": 65
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": 0,
-      "combinedScore": 52,
+      "marketSentiment": 4,
+      "combinedScore": 58,
       "signal": "WAIT",
-      "reason": "Technical 53/100; News +0; Market sentiment +0."
+      "reason": "Technical 65/100; News +0; Market sentiment +4."
     }
   ],
   "news": [
+    {
+      "title": "VanEck launches diversified ETF combining stocks, bonds and Bitcoin exposure",
+      "link": "https://cointelegraph.com/news/vaneck-launches-diversified-etf-combining-stocks-bonds-and-bitcoin-exposure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 27 Oct 2026 21:28:22 +0000",
+      "source": "Cointelegraph",
+      "text": "VanEck launches diversified ETF combining stocks, bonds and Bitcoin exposure VanEck’s new Wealth Builder ETF targets a 2% Bitcoin allocation, with a permitted range of 1% to 5%, gaining exposure through a spot Bitcoin ETP."
+    },
+    {
+      "title": "Intel, IBM, Oracle and IonQ latest to object to OKX-ICE tokenized stocks",
+      "link": "https://cointelegraph.com/news/intel-ibm-oracle-ionq-object-okx-ice-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 27 Oct 2026 21:26:41 +0000",
+      "source": "Cointelegraph",
+      "text": "Intel, IBM, Oracle and IonQ latest to object to OKX-ICE tokenized stocks More than 40% of the companies initially proposed to have their stocks listed in tokenized form have asked to opt-out."
+    },
+    {
+      "title": "Quantum fears already limiting Bitcoin’s growth, Stacks founder says",
+      "link": "https://cointelegraph.com/news/quantum-fears-already-limiting-bitcoins-growth-stacks-founder-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 27 Oct 2026 20:33:19 +0000",
+      "source": "Cointelegraph",
+      "text": "Quantum fears already limiting Bitcoin’s growth, Stacks founder says Speaking on Cointelegraph’s Chain Reaction podcast, Muneeb Ali warned that uncertainty over Bitcoin’s quantum security could deter institutional investors."
+    },
     {
       "title": "Ripple, Robinhood expand partnership to bring RLUSD to retail and institutional markets",
       "link": "https://cointelegraph.com/news/ripple-robinhood-expand-partnership-rlusd-retail-institutional-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -505,27 +526,6 @@
       "published": "Tue, 27 Oct 2026 00:06:41 +0000",
       "source": "Cointelegraph",
       "text": "Ripple wins final US approval for national trust bank The approval clears the way for Ripple to manage reserves backing its RLUSD stablecoin and provide digital asset custody."
-    },
-    {
-      "title": "US OCC calls on community banks to become payment stablecoin issuers",
-      "link": "https://cointelegraph.com/news/occ-community-banks-stablecoin-issuers-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 26 Oct 2026 21:38:30 +0000",
-      "source": "Cointelegraph",
-      "text": "US OCC calls on community banks to become payment stablecoin issuers The announcement followed the banking regulator finalizing its rules for the GENIUS Act, a stablecoin law to be implemented in January"
-    },
-    {
-      "title": "Injective launches onchain futures market tracking Nvidia GPU rental costs",
-      "link": "https://cointelegraph.com/news/injective-launches-onchain-futures-market-tracking-nvidia-gpu-rental-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 26 Oct 2026 21:23:32 +0000",
-      "source": "Cointelegraph",
-      "text": "Injective launches onchain futures market tracking Nvidia GPU rental costs The new index tracks rental prices for five Nvidia GPUs, offering leveraged trading and potential hedging against fluctuations in AI computing costs."
-    },
-    {
-      "title": "Canada opens consultation on stablecoins, citing US GENIUS Act",
-      "link": "https://cointelegraph.com/news/canada-consultation-stablecoins-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 26 Oct 2026 19:47:40 +0000",
-      "source": "Cointelegraph",
-      "text": "Canada opens consultation on stablecoins, citing US GENIUS Act As part of the potential implementation of its Stablecoin Act, the Canadian government will hear from the public on a proposed framework for tokens from non-financial institutions."
     }
   ],
   "paper": {
@@ -661,16 +661,6 @@
         "mode": "PAPER ONLY"
       },
       {
-        "symbol": "XRPUSDT",
-        "side": "BUY",
-        "entry": 1.2906,
-        "stopLoss": 1.271241,
-        "takeProfit": 1.329318,
-        "entryTime": "2026-10-26T10:26:34.237338+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
         "symbol": "ETHUSDT",
         "side": "BUY",
         "entry": 2346.4,
@@ -697,6 +687,26 @@
         "stopLoss": 0.209214,
         "takeProfit": 0.218772,
         "entryTime": "2026-10-27T16:02:10.593913+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "NEARUSDT",
+        "side": "BUY",
+        "entry": 4.684,
+        "stopLoss": 4.61374,
+        "takeProfit": 4.82452,
+        "entryTime": "2026-10-27T23:58:51.088112+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "XRPUSDT",
+        "side": "BUY",
+        "entry": 1.3314,
+        "stopLoss": 1.311429,
+        "takeProfit": 1.371342,
+        "entryTime": "2026-10-27T23:58:51.088112+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       }
@@ -1208,6 +1218,19 @@
         "exitPrice": 4.623,
         "exitTime": "2026-10-27T20:36:09.036598+00:00",
         "pnlPercent": -2.076
+      },
+      {
+        "symbol": "XRPUSDT",
+        "side": "BUY",
+        "entry": 1.2906,
+        "stopLoss": 1.271241,
+        "takeProfit": 1.329318,
+        "entryTime": "2026-10-26T10:26:34.237338+00:00",
+        "status": "TAKE_PROFIT",
+        "mode": "PAPER ONLY",
+        "exitPrice": 1.3314,
+        "exitTime": "2026-10-27T23:58:51.088112+00:00",
+        "pnlPercent": 3.161
       }
     ]
   },
