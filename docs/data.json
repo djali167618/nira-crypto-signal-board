@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-26 21:14:27 UTC",
+  "generatedAt": "2026-10-27 00:28:00 UTC",
   "interval": "15m candles",
-  "marketSentiment": 0,
+  "marketSentiment": -3,
   "overallNewsScore": 0,
   "fearGreed": {
-    "value": 50,
+    "value": 48,
     "label": "Neutral",
     "source": "Alternative.me"
   },
@@ -12,19 +12,19 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 79942.09,
-      "change24h": -0.686,
-      "volume24h": 1251411587.8647935,
+      "price": 80276.44,
+      "change24h": 0.075,
+      "volume24h": 1230590136.3009782,
       "technical": {
-        "rsi": 41.6,
-        "ema9": 79968.60771903401,
-        "ema21": 80076.08851021364,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.99,
-        "score": 11
+        "rsi": 56.7,
+        "ema9": 80089.53056163868,
+        "ema21": 80072.21126478832,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 1.26,
+        "score": 89
       },
-      "newsScore": 30,
+      "newsScore": 20,
       "newsCount": 5,
       "news": [
         {
@@ -63,25 +63,25 @@
           "text": "AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest Similar to the Hugging Face hack, Ethereum researchers have set up an AI Agent message board to help rescue the Glamsterdam fork. ‘Steal My Bitcoin’ site successfully hacked."
         }
       ],
-      "marketSentiment": 0,
-      "combinedScore": 35,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +30; Market sentiment +0."
+      "marketSentiment": -3,
+      "combinedScore": 72,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +20; Market sentiment -3."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2305.3,
-      "change24h": -1.701,
-      "volume24h": 478492378.157424,
+      "price": 2329.18,
+      "change24h": -0.136,
+      "volume24h": 441244727.56358,
       "technical": {
-        "rsi": 37.9,
-        "ema9": 2313.9721741770854,
-        "ema21": 2317.996959963832,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.61,
-        "score": 11
+        "rsi": 61.4,
+        "ema9": 2319.1504447882744,
+        "ema21": 2317.196606853759,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 1.34,
+        "score": 89
       },
       "newsScore": -50,
       "newsCount": 4,
@@ -115,48 +115,48 @@
           "text": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting Ether and XRP led losses among the majors as the AI trade took another hit in Asia, where Goldman Sachs cut its Kospi target by 25%."
         }
       ],
-      "marketSentiment": 0,
-      "combinedScore": 23,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News -50; Market sentiment +0."
+      "marketSentiment": -3,
+      "combinedScore": 62,
+      "signal": "WAIT",
+      "reason": "Technical 89/100; News -50; Market sentiment -3."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 1218.35,
-      "change24h": 0.474,
-      "volume24h": 195699491.65828,
+      "price": 1237.38,
+      "change24h": 2.194,
+      "volume24h": 182043811.20885,
       "technical": {
-        "rsi": 40.2,
-        "ema9": 1227.7621520942537,
-        "ema21": 1231.9675767379042,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 1.4,
-        "score": 11
+        "rsi": 59.4,
+        "ema9": 1230.0158110300215,
+        "ema21": 1229.2046615444187,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 1.15,
+        "score": 89
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": 0,
-      "combinedScore": 30,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment +0."
+      "marketSentiment": -3,
+      "combinedScore": 69,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment -3."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 100.24,
-      "change24h": -1.339,
-      "volume24h": 167365512.72304,
+      "price": 100.89,
+      "change24h": -0.572,
+      "volume24h": 166515656.6091,
       "technical": {
-        "rsi": 36.8,
-        "ema9": 100.50666077329483,
-        "ema21": 100.83115295621464,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.49,
-        "score": 11
+        "rsi": 57.0,
+        "ema9": 100.69825588273989,
+        "ema21": 100.68426123814224,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 1.32,
+        "score": 89
       },
       "newsScore": 100,
       "newsCount": 1,
@@ -169,75 +169,90 @@
           "text": "Hong Kong names Nasdaq-listed Solana Company a strategic enterprise The Nasdaq-listed firm said it plans to establish Solana validator operations in Hong Kong."
         }
       ],
-      "marketSentiment": 0,
-      "combinedScore": 46,
+      "marketSentiment": -3,
+      "combinedScore": 84,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +100; Market sentiment -3."
+    },
+    {
+      "symbol": "USD1USDT",
+      "coin": "USD1",
+      "price": 1.00009,
+      "change24h": 0.014,
+      "volume24h": 156656318.13865,
+      "technical": {
+        "rsi": 47.7,
+        "ema9": 1.0001424078106487,
+        "ema21": 1.0001412550969677,
+        "macdBull": false,
+        "emaBull": true,
+        "volumeRatio": 1.98,
+        "score": 58
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -3,
+      "combinedScore": 54,
       "signal": "WAIT",
-      "reason": "Technical 11/100; News +100; Market sentiment +0."
+      "reason": "Technical 58/100; News +0; Market sentiment -3."
     },
     {
       "symbol": "RLUSDUSDT",
       "coin": "RLUSD",
       "price": 1.0016,
       "change24h": 0.02,
-      "volume24h": 159732993.368,
+      "volume24h": 153044011.1846,
       "technical": {
-        "rsi": 55.3,
-        "ema9": 1.0015774905255819,
-        "ema21": 1.0015276483451705,
+        "rsi": 55.9,
+        "ema9": 1.001686243055387,
+        "ema21": 1.0016365436881005,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.0,
-        "score": 89
+        "volumeRatio": 2.19,
+        "score": 94
       },
       "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": 0,
-      "combinedScore": 70,
+      "newsCount": 1,
+      "news": [
+        {
+          "title": "Ripple wins final US approval for national trust bank",
+          "link": "https://cointelegraph.com/news/ripple-wins-final-us-approval-for-national-trust-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Tue, 27 Oct 2026 00:06:41 +0000",
+          "source": "Cointelegraph",
+          "text": "Ripple wins final US approval for national trust bank The approval clears the way for Ripple to manage reserves backing its RLUSD stablecoin and provide digital asset custody."
+        }
+      ],
+      "marketSentiment": -3,
+      "combinedScore": 72,
       "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment +0."
-    },
-    {
-      "symbol": "USD1USDT",
-      "coin": "USD1",
-      "price": 1.0002,
-      "change24h": 0.022,
-      "volume24h": 154911553.00723,
-      "technical": {
-        "rsi": 56.3,
-        "ema9": 1.0001143753332893,
-        "ema21": 1.0001038245455671,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.38,
-        "score": 89
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": 0,
-      "combinedScore": 70,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment +0."
+      "reason": "Technical 94/100; News +0; Market sentiment -3."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 1.2887,
-      "change24h": -0.884,
-      "volume24h": 97667221.43759,
+      "price": 1.3107,
+      "change24h": 1.064,
+      "volume24h": 98539135.21343,
       "technical": {
-        "rsi": 41.7,
-        "ema9": 1.2931085732006091,
-        "ema21": 1.2944216932244927,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.49,
-        "score": 11
+        "rsi": 68.2,
+        "ema9": 1.2998181956491508,
+        "ema21": 1.2966756052447554,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 1.68,
+        "score": 84
       },
-      "newsScore": 50,
-      "newsCount": 2,
+      "newsScore": 33,
+      "newsCount": 3,
       "news": [
+        {
+          "title": "Ripple wins final US approval for national trust bank",
+          "link": "https://cointelegraph.com/news/ripple-wins-final-us-approval-for-national-trust-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Tue, 27 Oct 2026 00:06:41 +0000",
+          "source": "Cointelegraph",
+          "text": "Ripple wins final US approval for national trust bank The approval clears the way for Ripple to manage reserves backing its RLUSD stablecoin and provide digital asset custody."
+        },
         {
           "title": "Aviva Investors launches tokenized share class of $29B Sterling fund on XRP Ledger",
           "link": "https://cointelegraph.com/news/aviva-investors-launches-tokenized-share-class-of-sterling-fund-on-xrp-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -253,25 +268,25 @@
           "text": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting Ether and XRP led losses among the majors as the AI trade took another hit in Asia, where Goldman Sachs cut its Kospi target by 25%."
         }
       ],
-      "marketSentiment": 0,
-      "combinedScore": 38,
-      "signal": "WAIT",
-      "reason": "Technical 11/100; News +50; Market sentiment +0."
+      "marketSentiment": -3,
+      "combinedScore": 72,
+      "signal": "BUY",
+      "reason": "Technical 84/100; News +33; Market sentiment -3."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 4.443,
-      "change24h": -2.544,
-      "volume24h": 95917342.6773,
+      "price": 4.498,
+      "change24h": -2.111,
+      "volume24h": 94300800.4629,
       "technical": {
-        "rsi": 37.7,
-        "ema9": 4.4768117539622985,
-        "ema21": 4.498423941379899,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.83,
-        "score": 11
+        "rsi": 60.9,
+        "ema9": 4.491430875043196,
+        "ema21": 4.487335803567356,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 1.09,
+        "score": 89
       },
       "newsScore": 0,
       "newsCount": 1,
@@ -284,59 +299,80 @@
           "text": "Bitcoin holds near $80,000 as oil retreats and the Fed decision looms Bitcoin was little changed near $80,400 since midnight UTC while the DeFi index was the only CoinDesk index to gain, with the Fed due to decide on Wednesday."
         }
       ],
-      "marketSentiment": 0,
-      "combinedScore": 30,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment +0."
+      "marketSentiment": -3,
+      "combinedScore": 69,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment -3."
     },
     {
       "symbol": "BNBUSDT",
       "coin": "BNB",
-      "price": 741.27,
-      "change24h": 0.123,
-      "volume24h": 72789434.33846,
+      "price": 745.0,
+      "change24h": 0.68,
+      "volume24h": 74987633.91903,
       "technical": {
-        "rsi": 42.5,
-        "ema9": 742.4040539153947,
-        "ema21": 742.8468941722115,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.36,
-        "score": 11
+        "rsi": 61.2,
+        "ema9": 742.7932501116527,
+        "ema21": 742.6596305245379,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 2.49,
+        "score": 94
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": 0,
-      "combinedScore": 30,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment +0."
+      "marketSentiment": -3,
+      "combinedScore": 72,
+      "signal": "BUY",
+      "reason": "Technical 94/100; News +0; Market sentiment -3."
     },
     {
       "symbol": "ENAUSDT",
       "coin": "ENA",
-      "price": 0.2062,
-      "change24h": 0.097,
-      "volume24h": 42603243.847407,
+      "price": 0.2087,
+      "change24h": 0.627,
+      "volume24h": 42463935.714336,
       "technical": {
-        "rsi": 44.2,
-        "ema9": 0.20862947617511157,
-        "ema21": 0.20887651987289857,
-        "macdBull": false,
+        "rsi": 56.9,
+        "ema9": 0.20778784137588882,
+        "ema21": 0.20794868895813556,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.56,
-        "score": 11
+        "volumeRatio": 2.7,
+        "score": 64
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": 0,
-      "combinedScore": 30,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment +0."
+      "marketSentiment": -3,
+      "combinedScore": 57,
+      "signal": "WAIT",
+      "reason": "Technical 64/100; News +0; Market sentiment -3."
     }
   ],
   "news": [
+    {
+      "title": "Ripple wins final US approval for national trust bank",
+      "link": "https://cointelegraph.com/news/ripple-wins-final-us-approval-for-national-trust-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 27 Oct 2026 00:06:41 +0000",
+      "source": "Cointelegraph",
+      "text": "Ripple wins final US approval for national trust bank The approval clears the way for Ripple to manage reserves backing its RLUSD stablecoin and provide digital asset custody."
+    },
+    {
+      "title": "US OCC calls on community banks to become payment stablecoin issuers",
+      "link": "https://cointelegraph.com/news/occ-community-banks-stablecoin-issuers-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 26 Oct 2026 21:38:30 +0000",
+      "source": "Cointelegraph",
+      "text": "US OCC calls on community banks to become payment stablecoin issuers The announcement followed the banking regulator finalizing its rules for the GENIUS Act, a stablecoin law to be implemented in January"
+    },
+    {
+      "title": "Injective launches onchain futures market tracking Nvidia GPU rental costs",
+      "link": "https://cointelegraph.com/news/injective-launches-onchain-futures-market-tracking-nvidia-gpu-rental-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 26 Oct 2026 21:23:32 +0000",
+      "source": "Cointelegraph",
+      "text": "Injective launches onchain futures market tracking Nvidia GPU rental costs The new index tracks rental prices for five Nvidia GPUs, offering leveraged trading and potential hedging against fluctuations in AI computing costs."
+    },
     {
       "title": "Canada opens consultation on stablecoins, citing US GENIUS Act",
       "link": "https://cointelegraph.com/news/canada-consultation-stablecoins-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -455,27 +491,6 @@
       "published": "Mon, 26 Oct 2026 00:13:29 +0000",
       "source": "Cointelegraph",
       "text": "Standard Chartered-led Anchorpoint says it’s not rushing retail stablecoin The Standard Chartered and Animoca Brands joint venture previously targeted retail access as early as the end of 2026, but its CEO declined to reaffirm that timeline."
-    },
-    {
-      "title": "AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest",
-      "link": "https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 25 Oct 2026 22:48:40 +0000",
-      "source": "Cointelegraph",
-      "text": "AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest Similar to the Hugging Face hack, Ethereum researchers have set up an AI Agent message board to help rescue the Glamsterdam fork. ‘Steal My Bitcoin’ site successfully hacked."
-    },
-    {
-      "title": "ECB official sees digital euro as key to protecting EU ‘sovereignty’",
-      "link": "https://cointelegraph.com/news/ecb-official-sees-digital-euro-tool-to-protect-eu-sovereignty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 25 Oct 2026 15:11:00 +0000",
-      "source": "Cointelegraph",
-      "text": "ECB official sees digital euro as key to protecting EU ‘sovereignty’ Piero Cipollone said the bloc is on track to test real transactions in 2027 and roll out a digital euro as early as 2029, pending legislation this year."
-    },
-    {
-      "title": "Netanyahu floats use of blockchain as solution to potential financial sanctions",
-      "link": "https://cointelegraph.com/news/netanyahu-floats-use-of-blockchain-as-solution-to-potential-financial-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 25 Oct 2026 11:42:00 +0000",
-      "source": "Cointelegraph",
-      "text": "Netanyahu floats use of blockchain as solution to potential financial sanctions Ahead of elections, Prime Minister Benjamin Netanyahu said Israel could turn to blockchain and crypto to skirt potential international sanctions, to the dismay of opponents and the country’s central banker."
     }
   ],
   "paper": {
