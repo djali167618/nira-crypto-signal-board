@@ -141,16 +141,6 @@
       "mode": "PAPER ONLY"
     },
     {
-      "symbol": "ZECUSDT",
-      "side": "BUY",
-      "entry": 1230.1,
-      "stopLoss": 1211.6485,
-      "takeProfit": 1267.003,
-      "entryTime": "2026-10-26T10:26:34.237338+00:00",
-      "status": "OPEN",
-      "mode": "PAPER ONLY"
-    },
-    {
       "symbol": "XRPUSDT",
       "side": "BUY",
       "entry": 1.2906,
@@ -162,21 +152,31 @@
     },
     {
       "symbol": "ETHUSDT",
-      "side": "SELL",
-      "entry": 2305.3,
-      "stopLoss": 2339.8795,
-      "takeProfit": 2236.141,
-      "entryTime": "2026-10-26T21:14:27.954674+00:00",
+      "side": "BUY",
+      "entry": 2346.4,
+      "stopLoss": 2311.204,
+      "takeProfit": 2416.792,
+      "entryTime": "2026-10-27T16:02:10.593913+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "ZECUSDT",
+      "side": "BUY",
+      "entry": 1291.77,
+      "stopLoss": 1272.39345,
+      "takeProfit": 1330.5231,
+      "entryTime": "2026-10-27T16:02:10.593913+00:00",
       "status": "OPEN",
       "mode": "PAPER ONLY"
     },
     {
       "symbol": "ENAUSDT",
-      "side": "SELL",
-      "entry": 0.2062,
-      "stopLoss": 0.209293,
-      "takeProfit": 0.200014,
-      "entryTime": "2026-10-26T21:14:27.954674+00:00",
+      "side": "BUY",
+      "entry": 0.2124,
+      "stopLoss": 0.209214,
+      "takeProfit": 0.218772,
+      "entryTime": "2026-10-27T16:02:10.593913+00:00",
       "status": "OPEN",
       "mode": "PAPER ONLY"
     }
@@ -636,6 +636,45 @@
       "exitPrice": 2305.3,
       "exitTime": "2026-10-26T21:14:27.954674+00:00",
       "pnlPercent": 3.261
+    },
+    {
+      "symbol": "ZECUSDT",
+      "side": "BUY",
+      "entry": 1230.1,
+      "stopLoss": 1211.6485,
+      "takeProfit": 1267.003,
+      "entryTime": "2026-10-26T10:26:34.237338+00:00",
+      "status": "TAKE_PROFIT",
+      "mode": "PAPER ONLY",
+      "exitPrice": 1291.77,
+      "exitTime": "2026-10-27T16:02:10.593913+00:00",
+      "pnlPercent": 5.013
+    },
+    {
+      "symbol": "ETHUSDT",
+      "side": "SELL",
+      "entry": 2305.3,
+      "stopLoss": 2339.8795,
+      "takeProfit": 2236.141,
+      "entryTime": "2026-10-26T21:14:27.954674+00:00",
+      "status": "STOP_LOSS",
+      "mode": "PAPER ONLY",
+      "exitPrice": 2346.4,
+      "exitTime": "2026-10-27T16:02:10.593913+00:00",
+      "pnlPercent": -1.783
+    },
+    {
+      "symbol": "ENAUSDT",
+      "side": "SELL",
+      "entry": 0.2062,
+      "stopLoss": 0.209293,
+      "takeProfit": 0.200014,
+      "entryTime": "2026-10-26T21:14:27.954674+00:00",
+      "status": "STOP_LOSS",
+      "mode": "PAPER ONLY",
+      "exitPrice": 0.2124,
+      "exitTime": "2026-10-27T16:02:10.593913+00:00",
+      "pnlPercent": -3.007
     }
   ]
 }

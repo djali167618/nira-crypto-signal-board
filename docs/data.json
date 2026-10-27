@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-27 10:44:17 UTC",
+  "generatedAt": "2026-10-27 16:02:10 UTC",
   "interval": "15m candles",
-  "marketSentiment": -1,
-  "overallNewsScore": 6,
+  "marketSentiment": 2,
+  "overallNewsScore": 12,
   "fearGreed": {
     "value": 48,
     "label": "Neutral",
@@ -12,86 +12,86 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 79860.01,
-      "change24h": -0.727,
-      "volume24h": 1195910812.619492,
+      "price": 80550.88,
+      "change24h": 0.138,
+      "volume24h": 1014997218.7028525,
       "technical": {
-        "rsi": 44.5,
-        "ema9": 79698.13838609544,
-        "ema21": 79754.22231583862,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.75,
-        "score": 11
+        "rsi": 66.2,
+        "ema9": 80394.06699649843,
+        "ema21": 80228.93830999073,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 1.36,
+        "score": 89
       },
-      "newsScore": 10,
+      "newsScore": -10,
       "newsCount": 5,
       "news": [
+        {
+          "title": "Crypto could outperform AI stocks: Wall Street veteran Jordi Visser",
+          "link": "https://cointelegraph.com/magazine/crypto-could-outperform-ai-stocks-wall-street-veteran-jordi-visser?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Tue, 27 Oct 2026 13:30:00 +0000",
+          "source": "Cointelegraph",
+          "text": "Crypto could outperform AI stocks: Wall Street veteran Jordi Visser Former Morgan Stanley and Weiss executive Jordi Visser says AI agents are boosting demand for crypto as he expands his holdings beyond Bitcoin, Ether and Solana."
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Tue, 27 Oct 2026 13:17:24 +0000",
+          "source": "Cointelegraph",
+          "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+        },
+        {
+          "title": "Luxor raises $16M from CMT Digital amid AI-Bitcoin miner convergence",
+          "link": "https://cointelegraph.com/news/luxor-raises-16m-ai-bitcoin-miner-convergence?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Tue, 27 Oct 2026 13:01:00 +0000",
+          "source": "Cointelegraph",
+          "text": "Luxor raises $16M from CMT Digital amid AI-Bitcoin miner convergence Luxor aims to use the proceeds to scale its existing AI infrastructure business and expand its GPU sourcing services as global chip supply chains become constrained."
+        },
+        {
+          "title": "Bitcoin price analysis sees ‘strong rally’ as old coins become dormant",
+          "link": "https://cointelegraph.com/markets/bitcoin-price-analysis-sees-strong-rally-as-old-coins-become-dormant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Tue, 27 Oct 2026 12:18:24 +0000",
+          "source": "Cointelegraph",
+          "text": "Bitcoin price analysis sees ‘strong rally’ as old coins become dormant A decline in the share of Bitcoin’s realized cap held by coins unmoved for 18 months or longer points to the ‘early stages’ of a bull market, analysis says."
+        },
         {
           "title": "Bitcoin ETFs claw back $110M after $774M exit",
           "link": "https://cointelegraph.com/markets/bitcoin-etf-rebound-110-million-btc-dip-below-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "published": "Tue, 27 Oct 2026 07:35:37 +0000",
           "source": "Cointelegraph",
           "text": "Bitcoin ETFs claw back $110M after $774M exit US spot Bitcoin ETFs remained in the red for October, with about $202 million in net outflows for the month despite Monday’s rebound."
-        },
-        {
-          "title": "Here’s what happened in crypto today",
-          "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Tue, 27 Oct 2026 06:08:28 +0000",
-          "source": "Cointelegraph",
-          "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-        },
-        {
-          "title": "Strategy skips Bitcoin purchases, spends $205M on STRC buybacks",
-          "link": "https://cointelegraph.com/news/strategy-skips-btc-buy-205-million-strc-buyback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Mon, 26 Oct 2026 13:27:38 +0000",
-          "source": "Cointelegraph",
-          "text": "Strategy skips Bitcoin purchases, spends $205M on STRC buybacks Strategy made no Bitcoin purchases or sales last week, as its STRC preferred stock buybacks reduced its USD Cash balance by 46% to $242.4 million."
-        },
-        {
-          "title": "BTC price risks $80K loss into FOMC, earnings: Three things to know in Bitcoin this week",
-          "link": "https://cointelegraph.com/markets/btc-price-risks-80k-loss-into-fomc-earnings-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Mon, 26 Oct 2026 10:49:55 +0000",
-          "source": "Cointelegraph",
-          "text": "BTC price risks $80K loss into FOMC, earnings: Three things to know in Bitcoin this week Bitcoin bulls fought for $80,000 support over the weekend ahead of a heavy week of US tech earnings and inflation data."
-        },
-        {
-          "title": "Bitcoin ETFs break 2-week outflow streak with $301M comeback",
-          "link": "https://cointelegraph.com/markets/bitcoin-etfs-rebound-weekly-inflow-301-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Mon, 26 Oct 2026 08:20:49 +0000",
-          "source": "Cointelegraph",
-          "text": "Bitcoin ETFs break 2-week outflow streak with $301M comeback US spot Bitcoin ETFs finished the week with $301 million in net inflows after a strong three-day start gave way to heavy withdrawals."
         }
       ],
-      "marketSentiment": -1,
-      "combinedScore": 32,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +10; Market sentiment -1."
+      "marketSentiment": 2,
+      "combinedScore": 68,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News -10; Market sentiment +2."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2312.49,
-      "change24h": -0.803,
-      "volume24h": 379792797.38394,
+      "price": 2346.4,
+      "change24h": 0.805,
+      "volume24h": 376664493.08909,
       "technical": {
-        "rsi": 43.5,
-        "ema9": 2308.0165205970748,
-        "ema21": 2310.230451586004,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 1.54,
-        "score": 16
+        "rsi": 67.5,
+        "ema9": 2338.1444686697623,
+        "ema21": 2330.1863034918274,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 1.0,
+        "score": 89
       },
-      "newsScore": 0,
-      "newsCount": 4,
+      "newsScore": 33,
+      "newsCount": 3,
       "news": [
         {
-          "title": "AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest",
-          "link": "https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Sun, 25 Oct 2026 22:48:40 +0000",
+          "title": "Crypto could outperform AI stocks: Wall Street veteran Jordi Visser",
+          "link": "https://cointelegraph.com/magazine/crypto-could-outperform-ai-stocks-wall-street-veteran-jordi-visser?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Tue, 27 Oct 2026 13:30:00 +0000",
           "source": "Cointelegraph",
-          "text": "AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest Similar to the Hugging Face hack, Ethereum researchers have set up an AI Agent message board to help rescue the Glamsterdam fork. ‘Steal My Bitcoin’ site successfully hacked."
+          "text": "Crypto could outperform AI stocks: Wall Street veteran Jordi Visser Former Morgan Stanley and Weiss executive Jordi Visser says AI agents are boosting demand for crypto as he expands his holdings beyond Bitcoin, Ether and Solana."
         },
         {
           "title": "Ethereum fixes Glamsterdam bug that could have sent staking deposits to builders",
@@ -106,38 +106,38 @@
           "published": "Mon, 26 Oct 2026 16:05:12 +0000",
           "source": "CoinDesk",
           "text": "Tom Lee's Bitmine favors share buybacks to ether purchases as crypto declines The Ethereum treasury firm spent $46 million buying back shares as Chairman Tom Lee said crypto has held up better than AI stocks during the recent market pullback."
-        },
-        {
-          "title": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting",
-          "link": "https://www.coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting",
-          "published": "Mon, 26 Oct 2026 04:37:02 +0000",
-          "source": "CoinDesk",
-          "text": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting Ether and XRP led losses among the majors as the AI trade took another hit in Asia, where Goldman Sachs cut its Kospi target by 25%."
         }
       ],
-      "marketSentiment": -1,
-      "combinedScore": 33,
-      "signal": "SELL",
-      "reason": "Technical 16/100; News +0; Market sentiment -1."
+      "marketSentiment": 2,
+      "combinedScore": 75,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +33; Market sentiment +2."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 99.99,
-      "change24h": -1.604,
-      "volume24h": 160042482.61848,
+      "price": 100.96,
+      "change24h": -0.913,
+      "volume24h": 153162219.85792,
       "technical": {
-        "rsi": 43.9,
-        "ema9": 99.69590025446757,
-        "ema21": 99.84554330630806,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 1.09,
-        "score": 11
+        "rsi": 59.5,
+        "ema9": 100.76430557786017,
+        "ema21": 100.5382339188223,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.86,
+        "score": 89
       },
-      "newsScore": 50,
-      "newsCount": 2,
+      "newsScore": 33,
+      "newsCount": 3,
       "news": [
+        {
+          "title": "Crypto could outperform AI stocks: Wall Street veteran Jordi Visser",
+          "link": "https://cointelegraph.com/magazine/crypto-could-outperform-ai-stocks-wall-street-veteran-jordi-visser?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Tue, 27 Oct 2026 13:30:00 +0000",
+          "source": "Cointelegraph",
+          "text": "Crypto could outperform AI stocks: Wall Street veteran Jordi Visser Former Morgan Stanley and Weiss executive Jordi Visser says AI agents are boosting demand for crypto as he expands his holdings beyond Bitcoin, Ether and Solana."
+        },
         {
           "title": "Hong Kong names Nasdaq-listed Solana Company a strategic enterprise",
           "link": "https://cointelegraph.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -153,25 +153,25 @@
           "text": "Solana bug reports now cost 1 SOL as AI floods security teams with spam Researchers must now permanently burn 1 SOL for every submission after a monthlong contest drew 809 reports, with AI believed to have helped generate or write nearly all of them."
         }
       ],
-      "marketSentiment": -1,
-      "combinedScore": 38,
-      "signal": "WAIT",
-      "reason": "Technical 11/100; News +50; Market sentiment -1."
+      "marketSentiment": 2,
+      "combinedScore": 75,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +33; Market sentiment +2."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 1248.3,
-      "change24h": 0.945,
-      "volume24h": 159876673.04929,
+      "price": 1291.77,
+      "change24h": 3.617,
+      "volume24h": 148568585.69838,
       "technical": {
-        "rsi": 58.4,
-        "ema9": 1240.031568999957,
-        "ema21": 1234.936313365386,
+        "rsi": 72.5,
+        "ema9": 1282.4959024050324,
+        "ema21": 1270.5233633496675,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.91,
-        "score": 89
+        "volumeRatio": 1.26,
+        "score": 72
       },
       "newsScore": 100,
       "newsCount": 2,
@@ -191,81 +191,50 @@
           "text": "Zcash co-founder proposes ending grants funding, citing $125 million treasury Sean Bowe’s proposal would send the committee’s 8% share of newly created ZEC to a reserve for future miners. The committee would keep the money it has already received."
         }
       ],
-      "marketSentiment": -1,
-      "combinedScore": 84,
+      "marketSentiment": 2,
+      "combinedScore": 76,
       "signal": "BUY",
-      "reason": "Technical 89/100; News +100; Market sentiment -1."
+      "reason": "Technical 72/100; News +100; Market sentiment +2."
     },
     {
       "symbol": "USD1USDT",
       "coin": "USD1",
-      "price": 1.00028,
-      "change24h": 0.019,
-      "volume24h": 149310684.67693,
+      "price": 1.00019,
+      "change24h": -0.002,
+      "volume24h": 136750702.16896,
       "technical": {
-        "rsi": 57.7,
-        "ema9": 1.0002395172017566,
-        "ema21": 1.0001943117535765,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.53,
-        "score": 89
+        "rsi": 45.3,
+        "ema9": 1.000218844017099,
+        "ema21": 1.0002336085702135,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 1.02,
+        "score": 23
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -1,
-      "combinedScore": 69,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment -1."
-    },
-    {
-      "symbol": "RLUSDUSDT",
-      "coin": "RLUSD",
-      "price": 1.0017,
-      "change24h": 0.03,
-      "volume24h": 127868798.3411,
-      "technical": {
-        "rsi": 48.1,
-        "ema9": 1.001608199596551,
-        "ema21": 1.001626638235107,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.09,
-        "score": 23
-      },
-      "newsScore": 0,
-      "newsCount": 1,
-      "news": [
-        {
-          "title": "Ripple wins final US approval for national trust bank",
-          "link": "https://cointelegraph.com/news/ripple-wins-final-us-approval-for-national-trust-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Tue, 27 Oct 2026 00:06:41 +0000",
-          "source": "Cointelegraph",
-          "text": "Ripple wins final US approval for national trust bank The approval clears the way for Ripple to manage reserves backing its RLUSD stablecoin and provide digital asset custody."
-        }
-      ],
-      "marketSentiment": -1,
-      "combinedScore": 36,
+      "marketSentiment": 2,
+      "combinedScore": 37,
       "signal": "WAIT",
-      "reason": "Technical 23/100; News +0; Market sentiment -1."
+      "reason": "Technical 23/100; News +0; Market sentiment +2."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 1.2989,
-      "change24h": 0.635,
-      "volume24h": 89414807.22768,
+      "price": 1.3205,
+      "change24h": 1.812,
+      "volume24h": 90659214.83915,
       "technical": {
-        "rsi": 41.5,
-        "ema9": 1.2967177983682183,
-        "ema21": 1.2983245585632028,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 1.44,
-        "score": 11
+        "rsi": 63.7,
+        "ema9": 1.3181712635039828,
+        "ema21": 1.3133402633138294,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 1.13,
+        "score": 89
       },
-      "newsScore": 33,
+      "newsScore": 8,
       "newsCount": 4,
       "news": [
         {
@@ -283,43 +252,50 @@
           "text": "Aviva Investors launches tokenized share class of $29B Sterling fund on XRP Ledger The move marks Aviva’s second fund to list tokenized shares, part of a broader collaboration to bring more tokenized funds to the XRP Ledger."
         },
         {
+          "title": "Bitcoin shows signs of weakness while Ripple's bank win fails to bolster XRP",
+          "link": "https://www.coindesk.com/daybook-us/2026/10/27/bitcoin-shows-signs-of-weakness-while-ripple-s-bank-win-fails-to-bolster-xrp",
+          "published": "Tue, 27 Oct 2026 12:00:39 +0000",
+          "source": "CoinDesk",
+          "text": "Bitcoin shows signs of weakness while Ripple's bank win fails to bolster XRP Your day-ahead look for Oct. 27, 2026"
+        },
+        {
           "title": "Ripple gets a final go-ahead to launch its own U.S. national trust bank",
           "link": "https://www.coindesk.com/markets/2026/10/27/ripple-gets-a-final-go-ahead-to-launch-its-own-u-s-national-trust-bank",
           "published": "Tue, 27 Oct 2026 04:28:49 +0000",
           "source": "CoinDesk",
           "text": "Ripple gets a final go-ahead to launch its own U.S. national trust bank The Office of the Comptroller of the Currency has approved Ripple National Trust Bank (RNTB), Ripple's CEO Brad Garlinghouse announced on X."
-        },
-        {
-          "title": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting",
-          "link": "https://www.coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting",
-          "published": "Mon, 26 Oct 2026 04:37:02 +0000",
-          "source": "CoinDesk",
-          "text": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting Ether and XRP led losses among the majors as the AI trade took another hit in Asia, where Goldman Sachs cut its Kospi target by 25%."
         }
       ],
-      "marketSentiment": -1,
-      "combinedScore": 35,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +33; Market sentiment -1."
+      "marketSentiment": 2,
+      "combinedScore": 71,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +8; Market sentiment +2."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 4.453,
-      "change24h": -2.153,
-      "volume24h": 87343622.7396,
+      "price": 4.58,
+      "change24h": 0.219,
+      "volume24h": 86276608.1757,
       "technical": {
-        "rsi": 44.7,
-        "ema9": 4.43331063469484,
-        "ema21": 4.438174336462428,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 1.1,
-        "score": 11
+        "rsi": 57.9,
+        "ema9": 4.5531503377907505,
+        "ema21": 4.529682579545377,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 1.31,
+        "score": 89
       },
       "newsScore": 0,
-      "newsCount": 1,
+      "newsCount": 2,
       "news": [
+        {
+          "title": "Live updates: Bitcoin holds near $80,000 as AI buildout draws investor attention and capital",
+          "link": "https://www.coindesk.com/tech/2026/10/27/live-updates-bitcoin-holds-below-usd80-000-as-ai-buildout-draws-more-capital",
+          "published": "Tue, 27 Oct 2026 11:40:50 +0000",
+          "source": "CoinDesk",
+          "text": "Live updates: Bitcoin holds near $80,000 as AI buildout draws investor attention and capital Interest rates and oil are slipping and equities are rising, but crypto remains under pressure."
+        },
         {
           "title": "Bitcoin holds near $80,000 as oil retreats and the Fed decision looms",
           "link": "https://www.coindesk.com/markets/2026/10/26/bitcoin-holds-near-usd80-000-as-oil-retreats-and-the-fed-decision-looms",
@@ -328,59 +304,125 @@
           "text": "Bitcoin holds near $80,000 as oil retreats and the Fed decision looms Bitcoin was little changed near $80,400 since midnight UTC while the DeFi index was the only CoinDesk index to gain, with the Fed due to decide on Wednesday."
         }
       ],
-      "marketSentiment": -1,
-      "combinedScore": 30,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment -1."
+      "marketSentiment": 2,
+      "combinedScore": 70,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment +2."
     },
     {
       "symbol": "BNBUSDT",
       "coin": "BNB",
-      "price": 738.37,
-      "change24h": -0.2,
-      "volume24h": 77312028.70769,
+      "price": 750.76,
+      "change24h": 0.962,
+      "volume24h": 80966315.59922,
       "technical": {
-        "rsi": 44.9,
-        "ema9": 736.1008322050275,
-        "ema21": 736.8248593836825,
+        "rsi": 71.2,
+        "ema9": 746.780371715444,
+        "ema21": 743.8999276114164,
         "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.85,
-        "score": 35
+        "emaBull": true,
+        "volumeRatio": 2.45,
+        "score": 94
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -1,
-      "combinedScore": 42,
-      "signal": "WAIT",
-      "reason": "Technical 35/100; News +0; Market sentiment -1."
+      "marketSentiment": 2,
+      "combinedScore": 72,
+      "signal": "BUY",
+      "reason": "Technical 94/100; News +0; Market sentiment +2."
+    },
+    {
+      "symbol": "RLUSDUSDT",
+      "coin": "RLUSD",
+      "price": 1.0014,
+      "change24h": 0.0,
+      "volume24h": 72772772.3057,
+      "technical": {
+        "rsi": 32.3,
+        "ema9": 1.0014997925703109,
+        "ema21": 1.001567130303391,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.01,
+        "score": 11
+      },
+      "newsScore": 0,
+      "newsCount": 1,
+      "news": [
+        {
+          "title": "Ripple wins final US approval for national trust bank",
+          "link": "https://cointelegraph.com/news/ripple-wins-final-us-approval-for-national-trust-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Tue, 27 Oct 2026 00:06:41 +0000",
+          "source": "Cointelegraph",
+          "text": "Ripple wins final US approval for national trust bank The approval clears the way for Ripple to manage reserves backing its RLUSD stablecoin and provide digital asset custody."
+        }
+      ],
+      "marketSentiment": 2,
+      "combinedScore": 31,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment +2."
     },
     {
       "symbol": "ENAUSDT",
       "coin": "ENA",
-      "price": 0.2016,
-      "change24h": -3.217,
-      "volume24h": 39708032.356546,
+      "price": 0.2124,
+      "change24h": 0.807,
+      "volume24h": 38484597.294288,
       "technical": {
-        "rsi": 29.1,
-        "ema9": 0.20189331893018575,
-        "ema21": 0.20419154189488511,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 1.81,
-        "score": 16
+        "rsi": 65.1,
+        "ema9": 0.2092011413600408,
+        "ema21": 0.20724373960654124,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 1.18,
+        "score": 89
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -1,
-      "combinedScore": 33,
-      "signal": "SELL",
-      "reason": "Technical 16/100; News +0; Market sentiment -1."
+      "marketSentiment": 2,
+      "combinedScore": 70,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment +2."
     }
   ],
   "news": [
+    {
+      "title": "Crypto could outperform AI stocks: Wall Street veteran Jordi Visser",
+      "link": "https://cointelegraph.com/magazine/crypto-could-outperform-ai-stocks-wall-street-veteran-jordi-visser?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 27 Oct 2026 13:30:00 +0000",
+      "source": "Cointelegraph",
+      "text": "Crypto could outperform AI stocks: Wall Street veteran Jordi Visser Former Morgan Stanley and Weiss executive Jordi Visser says AI agents are boosting demand for crypto as he expands his holdings beyond Bitcoin, Ether and Solana."
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 27 Oct 2026 13:17:24 +0000",
+      "source": "Cointelegraph",
+      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "title": "Hayes details FLOP’s AI compute derivatives vision after selling his altcoins",
+      "link": "https://cointelegraph.com/news/hayes-flop-ai-compute-vision-selling-altcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 27 Oct 2026 13:01:10 +0000",
+      "source": "Cointelegraph",
+      "text": "Hayes details FLOP’s AI compute derivatives vision after selling his altcoins Arthur Hayes revealed the derivatives market design for Flop Network and how he expects its native token could transform AI compute into a tradable commodity."
+    },
+    {
+      "title": "Luxor raises $16M from CMT Digital amid AI-Bitcoin miner convergence",
+      "link": "https://cointelegraph.com/news/luxor-raises-16m-ai-bitcoin-miner-convergence?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 27 Oct 2026 13:01:00 +0000",
+      "source": "Cointelegraph",
+      "text": "Luxor raises $16M from CMT Digital amid AI-Bitcoin miner convergence Luxor aims to use the proceeds to scale its existing AI infrastructure business and expand its GPU sourcing services as global chip supply chains become constrained."
+    },
+    {
+      "title": "Bitcoin price analysis sees ‘strong rally’ as old coins become dormant",
+      "link": "https://cointelegraph.com/markets/bitcoin-price-analysis-sees-strong-rally-as-old-coins-become-dormant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 27 Oct 2026 12:18:24 +0000",
+      "source": "Cointelegraph",
+      "text": "Bitcoin price analysis sees ‘strong rally’ as old coins become dormant A decline in the share of Bitcoin’s realized cap held by coins unmoved for 18 months or longer points to the ‘early stages’ of a bull market, analysis says."
+    },
     {
       "title": "Zcash co-founder calls to stop funding ‘over $125M’ grants program",
       "link": "https://cointelegraph.com/news/zcash-co-founder-ending-zcg-funding-125m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -408,13 +450,6 @@
       "published": "Tue, 27 Oct 2026 07:35:37 +0000",
       "source": "Cointelegraph",
       "text": "Bitcoin ETFs claw back $110M after $774M exit US spot Bitcoin ETFs remained in the red for October, with about $202 million in net outflows for the month despite Monday’s rebound."
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 27 Oct 2026 06:08:28 +0000",
-      "source": "Cointelegraph",
-      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
       "title": "RedotPay weighs confidential US IPO filing by year-end: Bloomberg",
@@ -492,34 +527,6 @@
       "published": "Mon, 26 Oct 2026 14:25:22 +0000",
       "source": "Cointelegraph",
       "text": "PHP flaw shows AI ‘vulnerability apocalypse’ is on schedule: Immunefi CEO Mitchell Amador warned internet users that websites could remain compromised for weeks, particularly smaller websites slower to adopt the emergency upgrades."
-    },
-    {
-      "title": "Strategy skips Bitcoin purchases, spends $205M on STRC buybacks",
-      "link": "https://cointelegraph.com/news/strategy-skips-btc-buy-205-million-strc-buyback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 26 Oct 2026 13:27:38 +0000",
-      "source": "Cointelegraph",
-      "text": "Strategy skips Bitcoin purchases, spends $205M on STRC buybacks Strategy made no Bitcoin purchases or sales last week, as its STRC preferred stock buybacks reduced its USD Cash balance by 46% to $242.4 million."
-    },
-    {
-      "title": "HOOD’s prediction markets to add $1.7B to revenue, exceed crypto by 2028: Bernstein",
-      "link": "https://cointelegraph.com/news/prediction-markets-17b-robinhood-exceed-crypto-revenue-2028-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 26 Oct 2026 13:12:41 +0000",
-      "source": "Cointelegraph",
-      "text": "HOOD’s prediction markets to add $1.7B to revenue, exceed crypto by 2028: Bernstein Bernstein analysts raised Robinhood’s revenue estimates through 2026 and 2028, while maintaining their HOOD price target unchanged at $160."
-    },
-    {
-      "title": "Aviva Investors launches tokenized share class of $29B Sterling fund on XRP Ledger",
-      "link": "https://cointelegraph.com/news/aviva-investors-launches-tokenized-share-class-of-sterling-fund-on-xrp-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 26 Oct 2026 11:39:27 +0000",
-      "source": "Cointelegraph",
-      "text": "Aviva Investors launches tokenized share class of $29B Sterling fund on XRP Ledger The move marks Aviva’s second fund to list tokenized shares, part of a broader collaboration to bring more tokenized funds to the XRP Ledger."
-    },
-    {
-      "title": "BTC price risks $80K loss into FOMC, earnings: Three things to know in Bitcoin this week",
-      "link": "https://cointelegraph.com/markets/btc-price-risks-80k-loss-into-fomc-earnings-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 26 Oct 2026 10:49:55 +0000",
-      "source": "Cointelegraph",
-      "text": "BTC price risks $80K loss into FOMC, earnings: Three things to know in Bitcoin this week Bitcoin bulls fought for $80,000 support over the weekend ahead of a heavy week of US tech earnings and inflation data."
     }
   ],
   "paper": {
@@ -665,16 +672,6 @@
         "mode": "PAPER ONLY"
       },
       {
-        "symbol": "ZECUSDT",
-        "side": "BUY",
-        "entry": 1230.1,
-        "stopLoss": 1211.6485,
-        "takeProfit": 1267.003,
-        "entryTime": "2026-10-26T10:26:34.237338+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
         "symbol": "XRPUSDT",
         "side": "BUY",
         "entry": 1.2906,
@@ -686,21 +683,31 @@
       },
       {
         "symbol": "ETHUSDT",
-        "side": "SELL",
-        "entry": 2305.3,
-        "stopLoss": 2339.8795,
-        "takeProfit": 2236.141,
-        "entryTime": "2026-10-26T21:14:27.954674+00:00",
+        "side": "BUY",
+        "entry": 2346.4,
+        "stopLoss": 2311.204,
+        "takeProfit": 2416.792,
+        "entryTime": "2026-10-27T16:02:10.593913+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "ZECUSDT",
+        "side": "BUY",
+        "entry": 1291.77,
+        "stopLoss": 1272.39345,
+        "takeProfit": 1330.5231,
+        "entryTime": "2026-10-27T16:02:10.593913+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       },
       {
         "symbol": "ENAUSDT",
-        "side": "SELL",
-        "entry": 0.2062,
-        "stopLoss": 0.209293,
-        "takeProfit": 0.200014,
-        "entryTime": "2026-10-26T21:14:27.954674+00:00",
+        "side": "BUY",
+        "entry": 0.2124,
+        "stopLoss": 0.209214,
+        "takeProfit": 0.218772,
+        "entryTime": "2026-10-27T16:02:10.593913+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       }
@@ -1160,6 +1167,45 @@
         "exitPrice": 2305.3,
         "exitTime": "2026-10-26T21:14:27.954674+00:00",
         "pnlPercent": 3.261
+      },
+      {
+        "symbol": "ZECUSDT",
+        "side": "BUY",
+        "entry": 1230.1,
+        "stopLoss": 1211.6485,
+        "takeProfit": 1267.003,
+        "entryTime": "2026-10-26T10:26:34.237338+00:00",
+        "status": "TAKE_PROFIT",
+        "mode": "PAPER ONLY",
+        "exitPrice": 1291.77,
+        "exitTime": "2026-10-27T16:02:10.593913+00:00",
+        "pnlPercent": 5.013
+      },
+      {
+        "symbol": "ETHUSDT",
+        "side": "SELL",
+        "entry": 2305.3,
+        "stopLoss": 2339.8795,
+        "takeProfit": 2236.141,
+        "entryTime": "2026-10-26T21:14:27.954674+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 2346.4,
+        "exitTime": "2026-10-27T16:02:10.593913+00:00",
+        "pnlPercent": -1.783
+      },
+      {
+        "symbol": "ENAUSDT",
+        "side": "SELL",
+        "entry": 0.2062,
+        "stopLoss": 0.209293,
+        "takeProfit": 0.200014,
+        "entryTime": "2026-10-26T21:14:27.954674+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 0.2124,
+        "exitTime": "2026-10-27T16:02:10.593913+00:00",
+        "pnlPercent": -3.007
       }
     ]
   },
