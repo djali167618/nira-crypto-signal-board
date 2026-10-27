@@ -131,16 +131,6 @@
       "mode": "PAPER ONLY"
     },
     {
-      "symbol": "NEARUSDT",
-      "side": "SELL",
-      "entry": 4.529,
-      "stopLoss": 4.596935,
-      "takeProfit": 4.39313,
-      "entryTime": "2026-10-25T22:00:32.271108+00:00",
-      "status": "OPEN",
-      "mode": "PAPER ONLY"
-    },
-    {
       "symbol": "XRPUSDT",
       "side": "BUY",
       "entry": 1.2906,
@@ -675,6 +665,19 @@
       "exitPrice": 0.2124,
       "exitTime": "2026-10-27T16:02:10.593913+00:00",
       "pnlPercent": -3.007
+    },
+    {
+      "symbol": "NEARUSDT",
+      "side": "SELL",
+      "entry": 4.529,
+      "stopLoss": 4.596935,
+      "takeProfit": 4.39313,
+      "entryTime": "2026-10-25T22:00:32.271108+00:00",
+      "status": "STOP_LOSS",
+      "mode": "PAPER ONLY",
+      "exitPrice": 4.623,
+      "exitTime": "2026-10-27T20:36:09.036598+00:00",
+      "pnlPercent": -2.076
     }
   ]
 }

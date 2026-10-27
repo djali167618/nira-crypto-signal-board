@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-27 16:02:10 UTC",
+  "generatedAt": "2026-10-27 20:36:09 UTC",
   "interval": "15m candles",
-  "marketSentiment": 2,
-  "overallNewsScore": 12,
+  "marketSentiment": 0,
+  "overallNewsScore": 7,
   "fearGreed": {
     "value": 48,
     "label": "Neutral",
@@ -12,34 +12,34 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 80550.88,
-      "change24h": 0.138,
-      "volume24h": 1014997218.7028525,
+      "price": 80669.88,
+      "change24h": 0.94,
+      "volume24h": 1031708081.532513,
       "technical": {
-        "rsi": 66.2,
-        "ema9": 80394.06699649843,
-        "ema21": 80228.93830999073,
-        "macdBull": true,
+        "rsi": 57.8,
+        "ema9": 80713.71000886039,
+        "ema21": 80607.32566836731,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 1.36,
-        "score": 89
+        "volumeRatio": 0.52,
+        "score": 65
       },
       "newsScore": -10,
       "newsCount": 5,
       "news": [
+        {
+          "title": "Here’s what happened in crypto today",
+          "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Tue, 27 Oct 2026 19:36:13 +0000",
+          "source": "Cointelegraph",
+          "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+        },
         {
           "title": "Crypto could outperform AI stocks: Wall Street veteran Jordi Visser",
           "link": "https://cointelegraph.com/magazine/crypto-could-outperform-ai-stocks-wall-street-veteran-jordi-visser?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "published": "Tue, 27 Oct 2026 13:30:00 +0000",
           "source": "Cointelegraph",
           "text": "Crypto could outperform AI stocks: Wall Street veteran Jordi Visser Former Morgan Stanley and Weiss executive Jordi Visser says AI agents are boosting demand for crypto as he expands his holdings beyond Bitcoin, Ether and Solana."
-        },
-        {
-          "title": "Here’s what happened in crypto today",
-          "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Tue, 27 Oct 2026 13:17:24 +0000",
-          "source": "Cointelegraph",
-          "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
         },
         {
           "title": "Luxor raises $16M from CMT Digital amid AI-Bitcoin miner convergence",
@@ -63,25 +63,25 @@
           "text": "Bitcoin ETFs claw back $110M after $774M exit US spot Bitcoin ETFs remained in the red for October, with about $202 million in net outflows for the month despite Monday’s rebound."
         }
       ],
-      "marketSentiment": 2,
-      "combinedScore": 68,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News -10; Market sentiment +2."
+      "marketSentiment": 0,
+      "combinedScore": 56,
+      "signal": "WAIT",
+      "reason": "Technical 65/100; News -10; Market sentiment +0."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2346.4,
-      "change24h": 0.805,
-      "volume24h": 376664493.08909,
+      "price": 2343.51,
+      "change24h": 1.355,
+      "volume24h": 479687820.085782,
       "technical": {
-        "rsi": 67.5,
-        "ema9": 2338.1444686697623,
-        "ema21": 2330.1863034918274,
-        "macdBull": true,
+        "rsi": 53.8,
+        "ema9": 2346.6824006665825,
+        "ema21": 2344.216444288007,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 1.0,
-        "score": 89
+        "volumeRatio": 0.2,
+        "score": 53
       },
       "newsScore": 33,
       "newsCount": 3,
@@ -108,70 +108,25 @@
           "text": "Tom Lee's Bitmine favors share buybacks to ether purchases as crypto declines The Ethereum treasury firm spent $46 million buying back shares as Chairman Tom Lee said crypto has held up better than AI stocks during the recent market pullback."
         }
       ],
-      "marketSentiment": 2,
-      "combinedScore": 75,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +33; Market sentiment +2."
-    },
-    {
-      "symbol": "SOLUSDT",
-      "coin": "SOL",
-      "price": 100.96,
-      "change24h": -0.913,
-      "volume24h": 153162219.85792,
-      "technical": {
-        "rsi": 59.5,
-        "ema9": 100.76430557786017,
-        "ema21": 100.5382339188223,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.86,
-        "score": 89
-      },
-      "newsScore": 33,
-      "newsCount": 3,
-      "news": [
-        {
-          "title": "Crypto could outperform AI stocks: Wall Street veteran Jordi Visser",
-          "link": "https://cointelegraph.com/magazine/crypto-could-outperform-ai-stocks-wall-street-veteran-jordi-visser?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Tue, 27 Oct 2026 13:30:00 +0000",
-          "source": "Cointelegraph",
-          "text": "Crypto could outperform AI stocks: Wall Street veteran Jordi Visser Former Morgan Stanley and Weiss executive Jordi Visser says AI agents are boosting demand for crypto as he expands his holdings beyond Bitcoin, Ether and Solana."
-        },
-        {
-          "title": "Hong Kong names Nasdaq-listed Solana Company a strategic enterprise",
-          "link": "https://cointelegraph.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Mon, 26 Oct 2026 03:21:26 +0000",
-          "source": "Cointelegraph",
-          "text": "Hong Kong names Nasdaq-listed Solana Company a strategic enterprise The Nasdaq-listed firm said it plans to establish Solana validator operations in Hong Kong."
-        },
-        {
-          "title": "Solana bug reports now cost 1 SOL as AI floods security teams with spam",
-          "link": "https://www.coindesk.com/tech/2026/10/27/solana-bug-reports-now-cost-1-sol-as-ai-floods-security-teams-with-spam",
-          "published": "Tue, 27 Oct 2026 07:44:04 +0000",
-          "source": "CoinDesk",
-          "text": "Solana bug reports now cost 1 SOL as AI floods security teams with spam Researchers must now permanently burn 1 SOL for every submission after a monthlong contest drew 809 reports, with AI believed to have helped generate or write nearly all of them."
-        }
-      ],
-      "marketSentiment": 2,
-      "combinedScore": 75,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +33; Market sentiment +2."
+      "marketSentiment": 0,
+      "combinedScore": 56,
+      "signal": "WAIT",
+      "reason": "Technical 53/100; News +33; Market sentiment +0."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 1291.77,
-      "change24h": 3.617,
-      "volume24h": 148568585.69838,
+      "price": 1296.7,
+      "change24h": 5.725,
+      "volume24h": 157226089.11683,
       "technical": {
-        "rsi": 72.5,
-        "ema9": 1282.4959024050324,
-        "ema21": 1270.5233633496675,
-        "macdBull": true,
+        "rsi": 55.3,
+        "ema9": 1298.6510915875033,
+        "ema21": 1294.6535106665642,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 1.26,
-        "score": 72
+        "volumeRatio": 0.19,
+        "score": 65
       },
       "newsScore": 100,
       "newsCount": 2,
@@ -191,52 +146,97 @@
           "text": "Zcash co-founder proposes ending grants funding, citing $125 million treasury Sean Bowe’s proposal would send the committee’s 8% share of newly created ZEC to a reserve for future miners. The committee would keep the money it has already received."
         }
       ],
-      "marketSentiment": 2,
-      "combinedScore": 76,
+      "marketSentiment": 0,
+      "combinedScore": 72,
       "signal": "BUY",
-      "reason": "Technical 72/100; News +100; Market sentiment +2."
+      "reason": "Technical 65/100; News +100; Market sentiment +0."
+    },
+    {
+      "symbol": "SOLUSDT",
+      "coin": "SOL",
+      "price": 101.02,
+      "change24h": 0.638,
+      "volume24h": 135949317.00432,
+      "technical": {
+        "rsi": 55.5,
+        "ema9": 101.09455851401438,
+        "ema21": 100.97030506445012,
+        "macdBull": false,
+        "emaBull": true,
+        "volumeRatio": 0.51,
+        "score": 65
+      },
+      "newsScore": 0,
+      "newsCount": 2,
+      "news": [
+        {
+          "title": "Crypto could outperform AI stocks: Wall Street veteran Jordi Visser",
+          "link": "https://cointelegraph.com/magazine/crypto-could-outperform-ai-stocks-wall-street-veteran-jordi-visser?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Tue, 27 Oct 2026 13:30:00 +0000",
+          "source": "Cointelegraph",
+          "text": "Crypto could outperform AI stocks: Wall Street veteran Jordi Visser Former Morgan Stanley and Weiss executive Jordi Visser says AI agents are boosting demand for crypto as he expands his holdings beyond Bitcoin, Ether and Solana."
+        },
+        {
+          "title": "Solana bug reports now cost 1 SOL as AI floods security teams with spam",
+          "link": "https://www.coindesk.com/tech/2026/10/27/solana-bug-reports-now-cost-1-sol-as-ai-floods-security-teams-with-spam",
+          "published": "Tue, 27 Oct 2026 07:44:04 +0000",
+          "source": "CoinDesk",
+          "text": "Solana bug reports now cost 1 SOL as AI floods security teams with spam Researchers must now permanently burn 1 SOL for every submission after a monthlong contest drew 809 reports, with AI believed to have helped generate or write nearly all of them."
+        }
+      ],
+      "marketSentiment": 0,
+      "combinedScore": 58,
+      "signal": "WAIT",
+      "reason": "Technical 65/100; News +0; Market sentiment +0."
     },
     {
       "symbol": "USD1USDT",
       "coin": "USD1",
       "price": 1.00019,
-      "change24h": -0.002,
-      "volume24h": 136750702.16896,
+      "change24h": -0.001,
+      "volume24h": 122841586.65667,
       "technical": {
-        "rsi": 45.3,
-        "ema9": 1.000218844017099,
-        "ema21": 1.0002336085702135,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 1.02,
-        "score": 23
+        "rsi": 58.3,
+        "ema9": 1.000151383657028,
+        "ema21": 1.0001512883872095,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.86,
+        "score": 89
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": 2,
-      "combinedScore": 37,
-      "signal": "WAIT",
-      "reason": "Technical 23/100; News +0; Market sentiment +2."
+      "marketSentiment": 0,
+      "combinedScore": 70,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment +0."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 1.3205,
-      "change24h": 1.812,
-      "volume24h": 90659214.83915,
+      "price": 1.3213,
+      "change24h": 2.141,
+      "volume24h": 89491998.05364,
       "technical": {
-        "rsi": 63.7,
-        "ema9": 1.3181712635039828,
-        "ema21": 1.3133402633138294,
-        "macdBull": true,
+        "rsi": 55.2,
+        "ema9": 1.3233351734887928,
+        "ema21": 1.3212968733071169,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 1.13,
-        "score": 89
+        "volumeRatio": 0.35,
+        "score": 65
       },
-      "newsScore": 8,
-      "newsCount": 4,
+      "newsScore": 39,
+      "newsCount": 5,
       "news": [
+        {
+          "title": "Ripple, Robinhood expand partnership to bring RLUSD to retail and institutional markets",
+          "link": "https://cointelegraph.com/news/ripple-robinhood-expand-partnership-rlusd-retail-institutional-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Tue, 27 Oct 2026 19:54:05 +0000",
+          "source": "Cointelegraph",
+          "text": "Ripple, Robinhood expand partnership to bring RLUSD to retail and institutional markets Ripple also expanded its collaboration with BNY on digital asset custody and partnered with C2FO to bring trade finance settlement onto the XRP Ledger."
+        },
         {
           "title": "Ripple wins final US approval for national trust bank",
           "link": "https://cointelegraph.com/news/ripple-wins-final-us-approval-for-national-trust-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -252,155 +252,189 @@
           "text": "Aviva Investors launches tokenized share class of $29B Sterling fund on XRP Ledger The move marks Aviva’s second fund to list tokenized shares, part of a broader collaboration to bring more tokenized funds to the XRP Ledger."
         },
         {
+          "title": "Robinhood taps Ripple’s $2.5 billion RLUSD stablecoin despite backing rival USDG",
+          "link": "https://www.coindesk.com/business/2026/10/27/ripple-s-rlusd-stablecoin-is-coming-to-robinhood-s-28-6-million-customer-platform",
+          "published": "Tue, 27 Oct 2026 16:35:29 +0000",
+          "source": "CoinDesk",
+          "text": "Robinhood taps Ripple’s $2.5 billion RLUSD stablecoin despite backing rival USDG Robinhood helped launch a rival dollar-backed token, USDG, but will also offer Ripple's stablecoin to retail customers later this year."
+        },
+        {
           "title": "Bitcoin shows signs of weakness while Ripple's bank win fails to bolster XRP",
           "link": "https://www.coindesk.com/daybook-us/2026/10/27/bitcoin-shows-signs-of-weakness-while-ripple-s-bank-win-fails-to-bolster-xrp",
           "published": "Tue, 27 Oct 2026 12:00:39 +0000",
           "source": "CoinDesk",
           "text": "Bitcoin shows signs of weakness while Ripple's bank win fails to bolster XRP Your day-ahead look for Oct. 27, 2026"
-        },
-        {
-          "title": "Ripple gets a final go-ahead to launch its own U.S. national trust bank",
-          "link": "https://www.coindesk.com/markets/2026/10/27/ripple-gets-a-final-go-ahead-to-launch-its-own-u-s-national-trust-bank",
-          "published": "Tue, 27 Oct 2026 04:28:49 +0000",
-          "source": "CoinDesk",
-          "text": "Ripple gets a final go-ahead to launch its own U.S. national trust bank The Office of the Comptroller of the Currency has approved Ripple National Trust Bank (RNTB), Ripple's CEO Brad Garlinghouse announced on X."
         }
       ],
-      "marketSentiment": 2,
-      "combinedScore": 71,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +8; Market sentiment +2."
+      "marketSentiment": 0,
+      "combinedScore": 63,
+      "signal": "WAIT",
+      "reason": "Technical 65/100; News +39; Market sentiment +0."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 4.58,
-      "change24h": 0.219,
-      "volume24h": 86276608.1757,
+      "price": 4.623,
+      "change24h": 3.169,
+      "volume24h": 84752093.8104,
       "technical": {
-        "rsi": 57.9,
-        "ema9": 4.5531503377907505,
-        "ema21": 4.529682579545377,
-        "macdBull": true,
+        "rsi": 58.3,
+        "ema9": 4.6303039783679605,
+        "ema21": 4.610511243613598,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 1.31,
-        "score": 89
-      },
-      "newsScore": 0,
-      "newsCount": 2,
-      "news": [
-        {
-          "title": "Live updates: Bitcoin holds near $80,000 as AI buildout draws investor attention and capital",
-          "link": "https://www.coindesk.com/tech/2026/10/27/live-updates-bitcoin-holds-below-usd80-000-as-ai-buildout-draws-more-capital",
-          "published": "Tue, 27 Oct 2026 11:40:50 +0000",
-          "source": "CoinDesk",
-          "text": "Live updates: Bitcoin holds near $80,000 as AI buildout draws investor attention and capital Interest rates and oil are slipping and equities are rising, but crypto remains under pressure."
-        },
-        {
-          "title": "Bitcoin holds near $80,000 as oil retreats and the Fed decision looms",
-          "link": "https://www.coindesk.com/markets/2026/10/26/bitcoin-holds-near-usd80-000-as-oil-retreats-and-the-fed-decision-looms",
-          "published": "Mon, 26 Oct 2026 11:24:33 +0000",
-          "source": "CoinDesk",
-          "text": "Bitcoin holds near $80,000 as oil retreats and the Fed decision looms Bitcoin was little changed near $80,400 since midnight UTC while the DeFi index was the only CoinDesk index to gain, with the Fed due to decide on Wednesday."
-        }
-      ],
-      "marketSentiment": 2,
-      "combinedScore": 70,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment +2."
-    },
-    {
-      "symbol": "BNBUSDT",
-      "coin": "BNB",
-      "price": 750.76,
-      "change24h": 0.962,
-      "volume24h": 80966315.59922,
-      "technical": {
-        "rsi": 71.2,
-        "ema9": 746.780371715444,
-        "ema21": 743.8999276114164,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 2.45,
-        "score": 94
+        "volumeRatio": 0.18,
+        "score": 65
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": 2,
-      "combinedScore": 72,
-      "signal": "BUY",
-      "reason": "Technical 94/100; News +0; Market sentiment +2."
+      "marketSentiment": 0,
+      "combinedScore": 58,
+      "signal": "WAIT",
+      "reason": "Technical 65/100; News +0; Market sentiment +0."
+    },
+    {
+      "symbol": "BNBUSDT",
+      "coin": "BNB",
+      "price": 747.29,
+      "change24h": 0.674,
+      "volume24h": 81173153.27687,
+      "technical": {
+        "rsi": 48.8,
+        "ema9": 748.9308791777155,
+        "ema21": 748.4851061284255,
+        "macdBull": false,
+        "emaBull": true,
+        "volumeRatio": 0.27,
+        "score": 53
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": 0,
+      "combinedScore": 52,
+      "signal": "WAIT",
+      "reason": "Technical 53/100; News +0; Market sentiment +0."
     },
     {
       "symbol": "RLUSDUSDT",
       "coin": "RLUSD",
-      "price": 1.0014,
-      "change24h": 0.0,
-      "volume24h": 72772772.3057,
+      "price": 1.0013,
+      "change24h": -0.04,
+      "volume24h": 65109153.5337,
       "technical": {
-        "rsi": 32.3,
-        "ema9": 1.0014997925703109,
-        "ema21": 1.001567130303391,
-        "macdBull": false,
+        "rsi": 48.0,
+        "ema9": 1.0012401668397677,
+        "ema21": 1.0012912479354878,
+        "macdBull": true,
         "emaBull": false,
         "volumeRatio": 0.01,
-        "score": 11
+        "score": 47
       },
-      "newsScore": 0,
-      "newsCount": 1,
+      "newsScore": 67,
+      "newsCount": 3,
       "news": [
+        {
+          "title": "Ripple, Robinhood expand partnership to bring RLUSD to retail and institutional markets",
+          "link": "https://cointelegraph.com/news/ripple-robinhood-expand-partnership-rlusd-retail-institutional-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Tue, 27 Oct 2026 19:54:05 +0000",
+          "source": "Cointelegraph",
+          "text": "Ripple, Robinhood expand partnership to bring RLUSD to retail and institutional markets Ripple also expanded its collaboration with BNY on digital asset custody and partnered with C2FO to bring trade finance settlement onto the XRP Ledger."
+        },
         {
           "title": "Ripple wins final US approval for national trust bank",
           "link": "https://cointelegraph.com/news/ripple-wins-final-us-approval-for-national-trust-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "published": "Tue, 27 Oct 2026 00:06:41 +0000",
           "source": "Cointelegraph",
           "text": "Ripple wins final US approval for national trust bank The approval clears the way for Ripple to manage reserves backing its RLUSD stablecoin and provide digital asset custody."
+        },
+        {
+          "title": "Robinhood taps Ripple’s $2.5 billion RLUSD stablecoin despite backing rival USDG",
+          "link": "https://www.coindesk.com/business/2026/10/27/ripple-s-rlusd-stablecoin-is-coming-to-robinhood-s-28-6-million-customer-platform",
+          "published": "Tue, 27 Oct 2026 16:35:29 +0000",
+          "source": "CoinDesk",
+          "text": "Robinhood taps Ripple’s $2.5 billion RLUSD stablecoin despite backing rival USDG Robinhood helped launch a rival dollar-backed token, USDG, but will also offer Ripple's stablecoin to retail customers later this year."
         }
       ],
-      "marketSentiment": 2,
-      "combinedScore": 31,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment +2."
+      "marketSentiment": 0,
+      "combinedScore": 59,
+      "signal": "WAIT",
+      "reason": "Technical 47/100; News +67; Market sentiment +0."
     },
     {
-      "symbol": "ENAUSDT",
-      "coin": "ENA",
-      "price": 0.2124,
-      "change24h": 0.807,
-      "volume24h": 38484597.294288,
+      "symbol": "SOXLBUSDT",
+      "coin": "SOXLB",
+      "price": 98.69,
+      "change24h": 7.658,
+      "volume24h": 46864470.92377,
       "technical": {
-        "rsi": 65.1,
-        "ema9": 0.2092011413600408,
-        "ema21": 0.20724373960654124,
-        "macdBull": true,
+        "rsi": 52.3,
+        "ema9": 100.09243994434854,
+        "ema21": 99.48565558752297,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 1.18,
-        "score": 89
+        "volumeRatio": 0.09,
+        "score": 53
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": 2,
-      "combinedScore": 70,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment +2."
+      "marketSentiment": 0,
+      "combinedScore": 52,
+      "signal": "WAIT",
+      "reason": "Technical 53/100; News +0; Market sentiment +0."
     }
   ],
   "news": [
+    {
+      "title": "Ripple, Robinhood expand partnership to bring RLUSD to retail and institutional markets",
+      "link": "https://cointelegraph.com/news/ripple-robinhood-expand-partnership-rlusd-retail-institutional-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 27 Oct 2026 19:54:05 +0000",
+      "source": "Cointelegraph",
+      "text": "Ripple, Robinhood expand partnership to bring RLUSD to retail and institutional markets Ripple also expanded its collaboration with BNY on digital asset custody and partnered with C2FO to bring trade finance settlement onto the XRP Ledger."
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 27 Oct 2026 19:36:13 +0000",
+      "source": "Cointelegraph",
+      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "title": "CFTC sues Utah to block action against prediction markets",
+      "link": "https://cointelegraph.com/news/cftc-lawsuit-utah-action-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 27 Oct 2026 19:21:59 +0000",
+      "source": "Cointelegraph",
+      "text": "CFTC sues Utah to block action against prediction markets The US state filed a lawsuit against Kalshi last week, seeking to recover up to $60 million in profits related to event contracts on prediction markets."
+    },
+    {
+      "title": "Majority of Americans want candidates who support US-based financial technology: Poll",
+      "link": "https://cointelegraph.com/news/us-voters-candidates-support-financial-technology-poll?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 27 Oct 2026 18:08:00 +0000",
+      "source": "Cointelegraph",
+      "text": "Majority of Americans want candidates who support US-based financial technology: Poll The September survey offered a possible window into US voters who could consider fintech and digital asset policies on Election Day."
+    },
+    {
+      "title": "Janus Henderson, Centrifuge launch tokenized Nasdaq-100 fund on Stellar",
+      "link": "https://cointelegraph.com/news/janus-henderson-centrifuge-launch-tokenized-nasdaq-100-fund-on-stellar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 27 Oct 2026 16:37:15 +0000",
+      "source": "Cointelegraph",
+      "text": "Janus Henderson, Centrifuge launch tokenized Nasdaq-100 fund on Stellar The blockchain-based fund offers eligible non-US investors exposure to the Nasdaq-100 as Janus Henderson expands its institutional tokenization business."
+    },
+    {
+      "title": "USDC overtakes USDT in euro stablecoin trading as EU rules reshape market: Kaiko",
+      "link": "https://cointelegraph.com/news/usdc-overtakes-usdt-euro-stablecoin-trading-mica-kaiko?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 27 Oct 2026 15:59:58 +0000",
+      "source": "Cointelegraph",
+      "text": "USDC overtakes USDT in euro stablecoin trading as EU rules reshape market: Kaiko USDC’s share of euro stablecoin trading has climbed to 56% since January 2024, with deeper liquidity as exchanges restrict USDT under MiCA."
+    },
     {
       "title": "Crypto could outperform AI stocks: Wall Street veteran Jordi Visser",
       "link": "https://cointelegraph.com/magazine/crypto-could-outperform-ai-stocks-wall-street-veteran-jordi-visser?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 27 Oct 2026 13:30:00 +0000",
       "source": "Cointelegraph",
       "text": "Crypto could outperform AI stocks: Wall Street veteran Jordi Visser Former Morgan Stanley and Weiss executive Jordi Visser says AI agents are boosting demand for crypto as he expands his holdings beyond Bitcoin, Ether and Solana."
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 27 Oct 2026 13:17:24 +0000",
-      "source": "Cointelegraph",
-      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
       "title": "Hayes details FLOP’s AI compute derivatives vision after selling his altcoins",
@@ -492,41 +526,6 @@
       "published": "Mon, 26 Oct 2026 19:47:40 +0000",
       "source": "Cointelegraph",
       "text": "Canada opens consultation on stablecoins, citing US GENIUS Act As part of the potential implementation of its Stablecoin Act, the Canadian government will hear from the public on a proposed framework for tokens from non-financial institutions."
-    },
-    {
-      "title": "AI company Anthropic announces IPO, expected as early as November",
-      "link": "https://cointelegraph.com/news/anthropic-artificial-intelligence-ipo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 26 Oct 2026 18:42:41 +0000",
-      "source": "Cointelegraph",
-      "text": "AI company Anthropic announces IPO, expected as early as November The artificial intelligence company disclosed more than $16 billion in revenue and an $80 billion net loss for the first half of 2026."
-    },
-    {
-      "title": "NBA names Kalshi, Polymarket preferred exchanges, signs CFTC deal",
-      "link": "https://cointelegraph.com/news/nba-names-kalshi-polymarket-preferred-exchanges-signs-cftc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 26 Oct 2026 17:46:09 +0000",
-      "source": "Cointelegraph",
-      "text": "NBA names Kalshi, Polymarket preferred exchanges, signs CFTC deal The US professional basketball league is expanding into prediction markets with official data agreements and safeguards against insider trading."
-    },
-    {
-      "title": "South Korea lawmakers mull pushing crypto tax implementation to 2029",
-      "link": "https://cointelegraph.com/news/south-korea-implementation-crypto-tax-2029?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 26 Oct 2026 16:18:09 +0000",
-      "source": "Cointelegraph",
-      "text": "South Korea lawmakers mull pushing crypto tax implementation to 2029 The Seoul government is reportedly weighing another delay for a 2020 income tax policy on digital assets, citing concerns with receiving data from US officials."
-    },
-    {
-      "title": "Kalshi strikes deal with S&P Dow Jones Indices to expand financial event contracts",
-      "link": "https://cointelegraph.com/news/sp-dow-jones-partners-with-kalshi-to-bring-financial-benchmarks-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 26 Oct 2026 15:54:15 +0000",
-      "source": "Cointelegraph",
-      "text": "Kalshi strikes deal with S&P Dow Jones Indices to expand financial event contracts The agreement adds S&P Dow Jones gauges to a growing list of Wall Street firms expanding their involvement in prediction markets."
-    },
-    {
-      "title": "PHP flaw shows AI ‘vulnerability apocalypse’ is on schedule: Immunefi CEO",
-      "link": "https://cointelegraph.com/news/php-flaw-ai-vulnerability-apocalypse-immunefi-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 26 Oct 2026 14:25:22 +0000",
-      "source": "Cointelegraph",
-      "text": "PHP flaw shows AI ‘vulnerability apocalypse’ is on schedule: Immunefi CEO Mitchell Amador warned internet users that websites could remain compromised for weeks, particularly smaller websites slower to adopt the emergency upgrades."
     }
   ],
   "paper": {
@@ -658,16 +657,6 @@
         "stopLoss": 4.5371e-06,
         "takeProfit": 4.3359e-06,
         "entryTime": "2026-10-25T03:42:08.513744+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
-        "symbol": "NEARUSDT",
-        "side": "SELL",
-        "entry": 4.529,
-        "stopLoss": 4.596935,
-        "takeProfit": 4.39313,
-        "entryTime": "2026-10-25T22:00:32.271108+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       },
@@ -1206,6 +1195,19 @@
         "exitPrice": 0.2124,
         "exitTime": "2026-10-27T16:02:10.593913+00:00",
         "pnlPercent": -3.007
+      },
+      {
+        "symbol": "NEARUSDT",
+        "side": "SELL",
+        "entry": 4.529,
+        "stopLoss": 4.596935,
+        "takeProfit": 4.39313,
+        "entryTime": "2026-10-25T22:00:32.271108+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 4.623,
+        "exitTime": "2026-10-27T20:36:09.036598+00:00",
+        "pnlPercent": -2.076
       }
     ]
   },
