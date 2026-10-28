@@ -121,16 +121,6 @@
       "mode": "PAPER ONLY"
     },
     {
-      "symbol": "PEPEUSDT",
-      "side": "SELL",
-      "entry": 4.47e-06,
-      "stopLoss": 4.5371e-06,
-      "takeProfit": 4.3359e-06,
-      "entryTime": "2026-10-25T03:42:08.513744+00:00",
-      "status": "OPEN",
-      "mode": "PAPER ONLY"
-    },
-    {
       "symbol": "ETHUSDT",
       "side": "BUY",
       "entry": 2346.4,
@@ -177,6 +167,16 @@
       "stopLoss": 1.311429,
       "takeProfit": 1.371342,
       "entryTime": "2026-10-27T23:58:51.088112+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "SOXLBUSDT",
+      "side": "BUY",
+      "entry": 103.0,
+      "stopLoss": 101.455,
+      "takeProfit": 106.09,
+      "entryTime": "2026-10-28T04:42:22.984910+00:00",
       "status": "OPEN",
       "mode": "PAPER ONLY"
     }
@@ -701,6 +701,19 @@
       "exitPrice": 1.3314,
       "exitTime": "2026-10-27T23:58:51.088112+00:00",
       "pnlPercent": 3.161
+    },
+    {
+      "symbol": "PEPEUSDT",
+      "side": "SELL",
+      "entry": 4.47e-06,
+      "stopLoss": 4.5371e-06,
+      "takeProfit": 4.3359e-06,
+      "entryTime": "2026-10-25T03:42:08.513744+00:00",
+      "status": "STOP_LOSS",
+      "mode": "PAPER ONLY",
+      "exitPrice": 4.85e-06,
+      "exitTime": "2026-10-28T04:42:22.984910+00:00",
+      "pnlPercent": -8.501
     }
   ]
 }

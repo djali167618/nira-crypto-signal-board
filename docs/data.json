@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-27 23:58:51 UTC",
+  "generatedAt": "2026-10-28 04:42:22 UTC",
   "interval": "15m candles",
-  "marketSentiment": 4,
-  "overallNewsScore": 18,
+  "marketSentiment": 8,
+  "overallNewsScore": 20,
   "fearGreed": {
-    "value": 48,
+    "value": 51,
     "label": "Neutral",
     "source": "Alternative.me"
   },
@@ -12,17 +12,17 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 80909.78,
-      "change24h": 0.963,
-      "volume24h": 1062500894.2285389,
+      "price": 81013.37,
+      "change24h": 1.72,
+      "volume24h": 1026441876.4345459,
       "technical": {
-        "rsi": 64.3,
-        "ema9": 80902.49938339548,
-        "ema21": 80809.3230029225,
-        "macdBull": false,
+        "rsi": 52.8,
+        "ema9": 81013.20242445754,
+        "ema21": 80948.22612321658,
+        "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.94,
-        "score": 65
+        "volumeRatio": 0.86,
+        "score": 77
       },
       "newsScore": 10,
       "newsCount": 5,
@@ -63,25 +63,25 @@
           "text": "Luxor raises $16M from CMT Digital amid AI-Bitcoin miner convergence Luxor aims to use the proceeds to scale its existing AI infrastructure business and expand its GPU sourcing services as global chip supply chains become constrained."
         }
       ],
-      "marketSentiment": 4,
-      "combinedScore": 59,
-      "signal": "WAIT",
-      "reason": "Technical 65/100; News +10; Market sentiment +4."
+      "marketSentiment": 8,
+      "combinedScore": 66,
+      "signal": "BUY",
+      "reason": "Technical 77/100; News +10; Market sentiment +8."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2350.84,
-      "change24h": 1.135,
-      "volume24h": 481765537.538114,
+      "price": 2356.82,
+      "change24h": 2.094,
+      "volume24h": 493808404.038776,
       "technical": {
-        "rsi": 59.9,
-        "ema9": 2350.238559134742,
-        "ema21": 2348.024024700598,
+        "rsi": 50.5,
+        "ema9": 2357.4839870453925,
+        "ema21": 2354.9788614801873,
         "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 0.68,
-        "score": 65
+        "volumeRatio": 0.75,
+        "score": 53
       },
       "newsScore": 33,
       "newsCount": 3,
@@ -108,28 +108,28 @@
           "text": "Tom Lee's Bitmine favors share buybacks to ether purchases as crypto declines The Ethereum treasury firm spent $46 million buying back shares as Chairman Tom Lee said crypto has held up better than AI stocks during the recent market pullback."
         }
       ],
-      "marketSentiment": 4,
-      "combinedScore": 63,
+      "marketSentiment": 8,
+      "combinedScore": 57,
       "signal": "WAIT",
-      "reason": "Technical 65/100; News +33; Market sentiment +4."
+      "reason": "Technical 53/100; News +33; Market sentiment +8."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 1311.0,
-      "change24h": 6.293,
-      "volume24h": 154568269.8799,
+      "price": 1319.8,
+      "change24h": 8.369,
+      "volume24h": 165717770.43349,
       "technical": {
-        "rsi": 59.7,
-        "ema9": 1309.2834065785075,
-        "ema21": 1303.7847041947289,
+        "rsi": 67.9,
+        "ema9": 1318.1371533937415,
+        "ema21": 1312.7211625745288,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 1.76,
-        "score": 84
+        "volumeRatio": 0.89,
+        "score": 89
       },
-      "newsScore": 100,
-      "newsCount": 2,
+      "newsScore": 67,
+      "newsCount": 3,
       "news": [
         {
           "title": "Zcash co-founder calls to stop funding ‘over $125M’ grants program",
@@ -139,6 +139,13 @@
           "text": "Zcash co-founder calls to stop funding ‘over $125M’ grants program Sean Bowe says ZCG has enough money to keep funding projects and wants its share of new ZEC redirected to a reserve for the network."
         },
         {
+          "title": "Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%",
+          "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-nears-usd81-000-ahead-of-fed-decision-as-zec-jumps-8",
+          "published": "Wed, 28 Oct 2026 04:15:20 +0000",
+          "source": "CoinDesk",
+          "text": "Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8% Majors outpaced bitcoin across the board as tech stocks extended a climb."
+        },
+        {
           "title": "Zcash co-founder proposes ending grants funding, citing $125 million treasury",
           "link": "https://www.coindesk.com/markets/2026/10/27/zcash-co-founder-proposes-ending-grants-funding-citing-usd125-million-treasury",
           "published": "Tue, 27 Oct 2026 06:14:41 +0000",
@@ -146,25 +153,25 @@
           "text": "Zcash co-founder proposes ending grants funding, citing $125 million treasury Sean Bowe’s proposal would send the committee’s 8% share of newly created ZEC to a reserve for future miners. The committee would keep the money it has already received."
         }
       ],
-      "marketSentiment": 4,
-      "combinedScore": 82,
+      "marketSentiment": 8,
+      "combinedScore": 80,
       "signal": "BUY",
-      "reason": "Technical 84/100; News +100; Market sentiment +4."
+      "reason": "Technical 89/100; News +67; Market sentiment +8."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 101.35,
-      "change24h": 0.416,
-      "volume24h": 133151263.6299,
+      "price": 102.16,
+      "change24h": 2.191,
+      "volume24h": 133307882.15446,
       "technical": {
-        "rsi": 57.4,
-        "ema9": 101.2826902437741,
-        "ema21": 101.18059645434238,
-        "macdBull": false,
+        "rsi": 57.0,
+        "ema9": 101.8351402355238,
+        "ema21": 101.64676128032995,
+        "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.69,
-        "score": 65
+        "volumeRatio": 0.82,
+        "score": 89
       },
       "newsScore": 0,
       "newsCount": 2,
@@ -184,71 +191,48 @@
           "text": "Solana bug reports now cost 1 SOL as AI floods security teams with spam Researchers must now permanently burn 1 SOL for every submission after a monthlong contest drew 809 reports, with AI believed to have helped generate or write nearly all of them."
         }
       ],
-      "marketSentiment": 4,
-      "combinedScore": 58,
-      "signal": "WAIT",
-      "reason": "Technical 65/100; News +0; Market sentiment +4."
+      "marketSentiment": 8,
+      "combinedScore": 70,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment +8."
     },
     {
       "symbol": "USD1USDT",
       "coin": "USD1",
-      "price": 1.00016,
-      "change24h": 0.007,
-      "volume24h": 116850094.11645,
+      "price": 1.00017,
+      "change24h": 0.011,
+      "volume24h": 112467969.8881,
       "technical": {
-        "rsi": 51.1,
-        "ema9": 1.0001652234236569,
-        "ema21": 1.0001623652474678,
+        "rsi": 58.0,
+        "ema9": 1.0001898588529918,
+        "ema21": 1.0001749163902132,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.65,
-        "score": 77
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": 4,
-      "combinedScore": 64,
-      "signal": "WAIT",
-      "reason": "Technical 77/100; News +0; Market sentiment +4."
-    },
-    {
-      "symbol": "NEARUSDT",
-      "coin": "NEAR",
-      "price": 4.684,
-      "change24h": 3.904,
-      "volume24h": 93213513.4928,
-      "technical": {
-        "rsi": 61.9,
-        "ema9": 4.679615941520191,
-        "ema21": 4.6564446029788105,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.35,
+        "volumeRatio": 1.22,
         "score": 89
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": 4,
+      "marketSentiment": 8,
       "combinedScore": 70,
       "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment +4."
+      "reason": "Technical 89/100; News +0; Market sentiment +8."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 1.3314,
-      "change24h": 1.634,
-      "volume24h": 91986460.79048,
+      "price": 1.3315,
+      "change24h": 2.676,
+      "volume24h": 89591386.06956,
       "technical": {
-        "rsi": 63.4,
-        "ema9": 1.3265475715231705,
-        "ema21": 1.3242302128269337,
-        "macdBull": true,
+        "rsi": 48.7,
+        "ema9": 1.3344004044062217,
+        "ema21": 1.3326765842260524,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 0.55,
-        "score": 89
+        "volumeRatio": 1.01,
+        "score": 53
       },
       "newsScore": 6,
       "newsCount": 5,
@@ -289,104 +273,126 @@
           "text": "Bitcoin shows signs of weakness while Ripple's bank win fails to bolster XRP Your day-ahead look for Oct. 27, 2026"
         }
       ],
-      "marketSentiment": 4,
-      "combinedScore": 71,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +6; Market sentiment +4."
+      "marketSentiment": 8,
+      "combinedScore": 53,
+      "signal": "WAIT",
+      "reason": "Technical 53/100; News +6; Market sentiment +8."
     },
     {
-      "symbol": "BNBUSDT",
-      "coin": "BNB",
-      "price": 745.09,
-      "change24h": 0.288,
-      "volume24h": 81310744.32521,
+      "symbol": "NEARUSDT",
+      "coin": "NEAR",
+      "price": 4.681,
+      "change24h": 5.929,
+      "volume24h": 89271393.5436,
       "technical": {
-        "rsi": 40.5,
-        "ema9": 745.8370370383834,
-        "ema21": 746.6765769232246,
+        "rsi": 45.5,
+        "ema9": 4.694549366171215,
+        "ema21": 4.6896886586877224,
         "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 1.09,
-        "score": 11
+        "emaBull": true,
+        "volumeRatio": 0.74,
+        "score": 53
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": 4,
-      "combinedScore": 31,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment +4."
-    },
-    {
-      "symbol": "RLUSDUSDT",
-      "coin": "RLUSD",
-      "price": 1.0013,
-      "change24h": -0.04,
-      "volume24h": 57342232.4186,
-      "technical": {
-        "rsi": 50.9,
-        "ema9": 1.001258923194071,
-        "ema21": 1.0012719337608003,
-        "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.0,
-        "score": 47
-      },
-      "newsScore": 67,
-      "newsCount": 3,
-      "news": [
-        {
-          "title": "Ripple, Robinhood expand partnership to bring RLUSD to retail and institutional markets",
-          "link": "https://cointelegraph.com/news/ripple-robinhood-expand-partnership-rlusd-retail-institutional-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Tue, 27 Oct 2026 19:54:05 +0000",
-          "source": "Cointelegraph",
-          "text": "Ripple, Robinhood expand partnership to bring RLUSD to retail and institutional markets Ripple also expanded its collaboration with BNY on digital asset custody and partnered with C2FO to bring trade finance settlement onto the XRP Ledger."
-        },
-        {
-          "title": "Ripple wins final US approval for national trust bank",
-          "link": "https://cointelegraph.com/news/ripple-wins-final-us-approval-for-national-trust-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Tue, 27 Oct 2026 00:06:41 +0000",
-          "source": "Cointelegraph",
-          "text": "Ripple wins final US approval for national trust bank The approval clears the way for Ripple to manage reserves backing its RLUSD stablecoin and provide digital asset custody."
-        },
-        {
-          "title": "Robinhood taps Ripple’s $2.5 billion RLUSD stablecoin despite backing rival USDG",
-          "link": "https://www.coindesk.com/business/2026/10/27/ripple-s-rlusd-stablecoin-is-coming-to-robinhood-s-28-6-million-customer-platform",
-          "published": "Tue, 27 Oct 2026 16:35:29 +0000",
-          "source": "CoinDesk",
-          "text": "Robinhood taps Ripple’s $2.5 billion RLUSD stablecoin despite backing rival USDG Robinhood helped launch a rival dollar-backed token, USDG, but will also offer Ripple's stablecoin to retail customers later this year."
-        }
-      ],
-      "marketSentiment": 4,
-      "combinedScore": 59,
+      "marketSentiment": 8,
+      "combinedScore": 52,
       "signal": "WAIT",
-      "reason": "Technical 47/100; News +67; Market sentiment +4."
+      "reason": "Technical 53/100; News +0; Market sentiment +8."
     },
     {
-      "symbol": "SOXLBUSDT",
-      "coin": "SOXLB",
-      "price": 100.82,
-      "change24h": 8.572,
-      "volume24h": 47055191.49899,
+      "symbol": "BNBUSDT",
+      "coin": "BNB",
+      "price": 746.94,
+      "change24h": 1.335,
+      "volume24h": 81689764.01246,
       "technical": {
-        "rsi": 61.5,
-        "ema9": 99.6730923726674,
-        "ema21": 99.44369384963457,
+        "rsi": 56.7,
+        "ema9": 746.5261473340521,
+        "ema21": 746.0134286419184,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 2.56,
+        "score": 94
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": 8,
+      "combinedScore": 73,
+      "signal": "BUY",
+      "reason": "Technical 94/100; News +0; Market sentiment +8."
+    },
+    {
+      "symbol": "PEPEUSDT",
+      "coin": "PEPE",
+      "price": 4.85e-06,
+      "change24h": 12.269,
+      "volume24h": 56196460.93049892,
+      "technical": {
+        "rsi": 62.4,
+        "ema9": 4.887373059210241e-06,
+        "ema21": 4.8001185891630085e-06,
         "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 0.35,
+        "volumeRatio": 0.48,
         "score": 65
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": 4,
+      "marketSentiment": 8,
       "combinedScore": 58,
       "signal": "WAIT",
-      "reason": "Technical 65/100; News +0; Market sentiment +4."
+      "reason": "Technical 65/100; News +0; Market sentiment +8."
+    },
+    {
+      "symbol": "SOXLBUSDT",
+      "coin": "SOXLB",
+      "price": 103.0,
+      "change24h": 14.419,
+      "volume24h": 54594578.61664,
+      "technical": {
+        "rsi": 65.9,
+        "ema9": 103.11742443242751,
+        "ema21": 102.08278495061897,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 2.78,
+        "score": 84
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": 8,
+      "combinedScore": 68,
+      "signal": "BUY",
+      "reason": "Technical 84/100; News +0; Market sentiment +8."
     }
   ],
   "news": [
+    {
+      "title": "Robinhood’s Tenev warns US tokenization uncertainty deters ‘serious assets’",
+      "link": "https://cointelegraph.com/news/robinhoods-tenev-warns-us-tokenization-uncertainty-deters-serious-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 28 Oct 2026 03:55:57 +0000",
+      "source": "Cointelegraph",
+      "text": "Robinhood’s Tenev warns US tokenization uncertainty deters ‘serious assets’ Robinhood CEO Vlad Tenev says tokenized equities need more than a temporary SEC exemption to flourish in the US."
+    },
+    {
+      "title": "Bithumb discloses data leak after internal system breach: Report",
+      "link": "https://cointelegraph.com/news/bithumb-discloses-data-leak-after-internal-system-breach-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 28 Oct 2026 02:18:47 +0000",
+      "source": "Cointelegraph",
+      "text": "Bithumb discloses data leak after internal system breach: Report The breach impacted its in-house mobile system, used by employees for work and information sharing."
+    },
+    {
+      "title": "Discord is making public chats searchable on Google: How to opt out",
+      "link": "https://cointelegraph.com/news/discord-is-making-public-chats-searchable-on-google-how-to-opt-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 28 Oct 2026 00:47:04 +0000",
+      "source": "Cointelegraph",
+      "text": "Discord is making public chats searchable on Google: How to opt out Discord conversations on large public servers will soon reach audiences far beyond their communities, raising privacy concerns."
+    },
     {
       "title": "VanEck launches diversified ETF combining stocks, bonds and Bitcoin exposure",
       "link": "https://cointelegraph.com/news/vaneck-launches-diversified-etf-combining-stocks-bonds-and-bitcoin-exposure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -505,27 +511,6 @@
       "published": "Tue, 27 Oct 2026 07:35:37 +0000",
       "source": "Cointelegraph",
       "text": "Bitcoin ETFs claw back $110M after $774M exit US spot Bitcoin ETFs remained in the red for October, with about $202 million in net outflows for the month despite Monday’s rebound."
-    },
-    {
-      "title": "RedotPay weighs confidential US IPO filing by year-end: Bloomberg",
-      "link": "https://cointelegraph.com/news/redotpay-weighs-confidential-us-ipo-filing-by-year-end-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 27 Oct 2026 04:26:51 +0000",
-      "source": "Cointelegraph",
-      "text": "RedotPay weighs confidential US IPO filing by year-end: Bloomberg The stablecoin payments company previously disputed reports that its US listing had been delayed."
-    },
-    {
-      "title": "Keystone breach deepens: Hackers stole key used to verify wallets as genuine",
-      "link": "https://cointelegraph.com/news/keystone-breach-deepens-hackers-stole-key-used-to-verify-wallets-as-genuine?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 27 Oct 2026 01:55:03 +0000",
-      "source": "Cointelegraph",
-      "text": "Keystone breach deepens: Hackers stole key used to verify wallets as genuine Keystone initially disclosed a leak of customer information but has since disclosed that hackers also stole a key that could allow counterfeit wallets to pass authenticity checks."
-    },
-    {
-      "title": "Ripple wins final US approval for national trust bank",
-      "link": "https://cointelegraph.com/news/ripple-wins-final-us-approval-for-national-trust-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 27 Oct 2026 00:06:41 +0000",
-      "source": "Cointelegraph",
-      "text": "Ripple wins final US approval for national trust bank The approval clears the way for Ripple to manage reserves backing its RLUSD stablecoin and provide digital asset custody."
     }
   ],
   "paper": {
@@ -651,16 +636,6 @@
         "mode": "PAPER ONLY"
       },
       {
-        "symbol": "PEPEUSDT",
-        "side": "SELL",
-        "entry": 4.47e-06,
-        "stopLoss": 4.5371e-06,
-        "takeProfit": 4.3359e-06,
-        "entryTime": "2026-10-25T03:42:08.513744+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
         "symbol": "ETHUSDT",
         "side": "BUY",
         "entry": 2346.4,
@@ -707,6 +682,16 @@
         "stopLoss": 1.311429,
         "takeProfit": 1.371342,
         "entryTime": "2026-10-27T23:58:51.088112+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "SOXLBUSDT",
+        "side": "BUY",
+        "entry": 103.0,
+        "stopLoss": 101.455,
+        "takeProfit": 106.09,
+        "entryTime": "2026-10-28T04:42:22.984910+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       }
@@ -1231,6 +1216,19 @@
         "exitPrice": 1.3314,
         "exitTime": "2026-10-27T23:58:51.088112+00:00",
         "pnlPercent": 3.161
+      },
+      {
+        "symbol": "PEPEUSDT",
+        "side": "SELL",
+        "entry": 4.47e-06,
+        "stopLoss": 4.5371e-06,
+        "takeProfit": 4.3359e-06,
+        "entryTime": "2026-10-25T03:42:08.513744+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 4.85e-06,
+        "exitTime": "2026-10-28T04:42:22.984910+00:00",
+        "pnlPercent": -8.501
       }
     ]
   },
