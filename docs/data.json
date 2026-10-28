@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-28 10:50:54 UTC",
+  "generatedAt": "2026-10-28 16:51:43 UTC",
   "interval": "15m candles",
-  "marketSentiment": 11,
-  "overallNewsScore": 29,
+  "marketSentiment": 8,
+  "overallNewsScore": 20,
   "fearGreed": {
     "value": 51,
     "label": "Neutral",
@@ -12,25 +12,39 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 81569.92,
-      "change24h": 1.945,
-      "volume24h": 1003600019.0512549,
+      "price": 80458.19,
+      "change24h": -0.085,
+      "volume24h": 925420388.7868727,
       "technical": {
-        "rsi": 67.4,
-        "ema9": 81482.7261426297,
-        "ema21": 81320.69655075927,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.79,
-        "score": 89
+        "rsi": 30.6,
+        "ema9": 80585.90947010196,
+        "ema21": 80741.95862396949,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.64,
+        "score": 11
       },
       "newsScore": 23,
       "newsCount": 5,
       "news": [
         {
+          "title": "Google Cloud outlines MPC service for institutional Bitcoin custody",
+          "link": "https://cointelegraph.com/news/google-cloud-mpc-service-bitcoin-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Wed, 28 Oct 2026 13:47:51 +0000",
+          "source": "Cointelegraph",
+          "text": "Google Cloud outlines MPC service for institutional Bitcoin custody Google Cloud has detailed its preview MPC service for institutional Bitcoin custody as it holds a New York symposium focused on digital asset security."
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Wed, 28 Oct 2026 13:35:44 +0000",
+          "source": "Cointelegraph",
+          "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+        },
+        {
           "title": "Bitcoin price eyes $82K as Morgan Stanley strategist says most of correction is over",
           "link": "https://cointelegraph.com/markets/bitcoin-price-eyes-82k-as-morgan-stanley-strategist-says-most-of-correction-is-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Wed, 28 Oct 2026 09:55:29 +0000",
+          "published": "Wed, 28 Oct 2026 09:56:00 +0000",
           "source": "Cointelegraph",
           "text": "Bitcoin price eyes $82K as Morgan Stanley strategist says most of correction is over Bitcoin sought to rebuild support at $80,000 while Asian and US tech stocks extended a rebound into key corporate earnings releases."
         },
@@ -42,49 +56,35 @@
           "text": "Bitcoin ETF inflows climb to $176M as BTC rebounds above $80K US spot Bitcoin ETFs drew $286 million over two days, narrowing October’s net outflows to $26 million as the Crypto Fear & Greed Index remained neutral."
         },
         {
-          "title": "Here’s what happened in crypto today",
-          "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Wed, 28 Oct 2026 06:00:00 +0000",
-          "source": "Cointelegraph",
-          "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-        },
-        {
           "title": "VanEck launches diversified ETF combining stocks, bonds and Bitcoin exposure",
           "link": "https://cointelegraph.com/news/vaneck-launches-diversified-etf-combining-stocks-bonds-and-bitcoin-exposure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "published": "Tue, 27 Oct 2026 21:28:22 +0000",
           "source": "Cointelegraph",
           "text": "VanEck launches diversified ETF combining stocks, bonds and Bitcoin exposure VanEck’s new Wealth Builder ETF targets a 2% Bitcoin allocation, with a permitted range of 1% to 5%, gaining exposure through a spot Bitcoin ETP."
-        },
-        {
-          "title": "Quantum fears already limiting Bitcoin’s growth, Stacks founder says",
-          "link": "https://cointelegraph.com/news/quantum-fears-already-limiting-bitcoins-growth-stacks-founder-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Tue, 27 Oct 2026 20:33:19 +0000",
-          "source": "Cointelegraph",
-          "text": "Quantum fears already limiting Bitcoin’s growth, Stacks founder says Speaking on Cointelegraph’s Chain Reaction podcast, Muneeb Ali warned that uncertainty over Bitcoin’s quantum security could deter institutional investors."
         }
       ],
-      "marketSentiment": 11,
-      "combinedScore": 74,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +23; Market sentiment +11."
+      "marketSentiment": 8,
+      "combinedScore": 35,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +23; Market sentiment +8."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2371.14,
-      "change24h": 2.311,
-      "volume24h": 483515161.542663,
+      "price": 2329.11,
+      "change24h": -0.693,
+      "volume24h": 430249789.894745,
       "technical": {
-        "rsi": 58.7,
-        "ema9": 2369.9953867197314,
-        "ema21": 2365.878446740132,
+        "rsi": 31.1,
+        "ema9": 2334.2292465407554,
+        "ema21": 2339.977777714736,
         "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.35,
-        "score": 89
+        "emaBull": false,
+        "volumeRatio": 0.61,
+        "score": 35
       },
       "newsScore": 0,
-      "newsCount": 1,
+      "newsCount": 2,
       "news": [
         {
           "title": "Crypto could outperform AI stocks: Wall Street veteran Jordi Visser",
@@ -92,27 +92,79 @@
           "published": "Tue, 27 Oct 2026 13:30:00 +0000",
           "source": "Cointelegraph",
           "text": "Crypto could outperform AI stocks: Wall Street veteran Jordi Visser Former Morgan Stanley and Weiss executive Jordi Visser says AI agents are boosting demand for crypto as he expands his holdings beyond Bitcoin, Ether and Solana."
+        },
+        {
+          "title": "Google to preview crypto custody security system as AI threats grow",
+          "link": "https://www.coindesk.com/tech/2026/10/28/google-to-preview-crypto-custody-security-system-as-ai-threats-grow",
+          "published": "Wed, 28 Oct 2026 11:00:00 +0000",
+          "source": "CoinDesk",
+          "text": "Google to preview crypto custody security system as AI threats grow Google Multi-Party Compute is in private preview, with several major financial institutions testing the technology and parent company Alphabet using it to secure its own digital assets on Ethereum and Solana."
         }
       ],
-      "marketSentiment": 11,
-      "combinedScore": 71,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment +11."
+      "marketSentiment": 8,
+      "combinedScore": 43,
+      "signal": "WAIT",
+      "reason": "Technical 35/100; News +0; Market sentiment +8."
+    },
+    {
+      "symbol": "SOLUSDT",
+      "coin": "SOL",
+      "price": 100.85,
+      "change24h": -0.04,
+      "volume24h": 137695301.1788,
+      "technical": {
+        "rsi": 35.8,
+        "ema9": 101.05454416931936,
+        "ema21": 101.3624470372723,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.81,
+        "score": 11
+      },
+      "newsScore": 0,
+      "newsCount": 3,
+      "news": [
+        {
+          "title": "Mirae Asset Securities issues tokenized notes on Solana",
+          "link": "https://cointelegraph.com/news/mirae-asset-securities-tokenized-notes-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Wed, 28 Oct 2026 11:05:33 +0000",
+          "source": "Cointelegraph",
+          "text": "Mirae Asset Securities issues tokenized notes on Solana The company’s Hong Kong unit issued six-month notes under its $3 billion program, extending blockchain-based distribution to institutional investors."
+        },
+        {
+          "title": "Crypto could outperform AI stocks: Wall Street veteran Jordi Visser",
+          "link": "https://cointelegraph.com/magazine/crypto-could-outperform-ai-stocks-wall-street-veteran-jordi-visser?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Tue, 27 Oct 2026 13:30:00 +0000",
+          "source": "Cointelegraph",
+          "text": "Crypto could outperform AI stocks: Wall Street veteran Jordi Visser Former Morgan Stanley and Weiss executive Jordi Visser says AI agents are boosting demand for crypto as he expands his holdings beyond Bitcoin, Ether and Solana."
+        },
+        {
+          "title": "Google to preview crypto custody security system as AI threats grow",
+          "link": "https://www.coindesk.com/tech/2026/10/28/google-to-preview-crypto-custody-security-system-as-ai-threats-grow",
+          "published": "Wed, 28 Oct 2026 11:00:00 +0000",
+          "source": "CoinDesk",
+          "text": "Google to preview crypto custody security system as AI threats grow Google Multi-Party Compute is in private preview, with several major financial institutions testing the technology and parent company Alphabet using it to secure its own digital assets on Ethereum and Solana."
+        }
+      ],
+      "marketSentiment": 8,
+      "combinedScore": 31,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment +8."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 1314.74,
-      "change24h": 4.861,
-      "volume24h": 156041165.30054,
+      "price": 1266.29,
+      "change24h": -3.521,
+      "volume24h": 132160179.1402,
       "technical": {
-        "rsi": 48.1,
-        "ema9": 1316.1473990506233,
-        "ema21": 1315.0011702706643,
+        "rsi": 27.1,
+        "ema9": 1275.5087681588582,
+        "ema21": 1283.3365655348227,
         "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.98,
-        "score": 53
+        "emaBull": false,
+        "volumeRatio": 0.63,
+        "score": 28
       },
       "newsScore": 50,
       "newsCount": 2,
@@ -132,82 +184,51 @@
           "text": "Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8% Majors outpaced bitcoin across the board as tech stocks extended a climb."
         }
       ],
-      "marketSentiment": 11,
-      "combinedScore": 60,
+      "marketSentiment": 8,
+      "combinedScore": 47,
       "signal": "WAIT",
-      "reason": "Technical 53/100; News +50; Market sentiment +11."
-    },
-    {
-      "symbol": "SOLUSDT",
-      "coin": "SOL",
-      "price": 103.05,
-      "change24h": 2.803,
-      "volume24h": 137280019.41131,
-      "technical": {
-        "rsi": 65.5,
-        "ema9": 102.8853826468056,
-        "ema21": 102.57473470821031,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.41,
-        "score": 89
-      },
-      "newsScore": 0,
-      "newsCount": 1,
-      "news": [
-        {
-          "title": "Crypto could outperform AI stocks: Wall Street veteran Jordi Visser",
-          "link": "https://cointelegraph.com/magazine/crypto-could-outperform-ai-stocks-wall-street-veteran-jordi-visser?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Tue, 27 Oct 2026 13:30:00 +0000",
-          "source": "Cointelegraph",
-          "text": "Crypto could outperform AI stocks: Wall Street veteran Jordi Visser Former Morgan Stanley and Weiss executive Jordi Visser says AI agents are boosting demand for crypto as he expands his holdings beyond Bitcoin, Ether and Solana."
-        }
-      ],
-      "marketSentiment": 11,
-      "combinedScore": 71,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment +11."
+      "reason": "Technical 28/100; News +50; Market sentiment +8."
     },
     {
       "symbol": "USD1USDT",
       "coin": "USD1",
-      "price": 1.00035,
-      "change24h": 0.007,
-      "volume24h": 115335326.40426,
+      "price": 1.0001,
+      "change24h": -0.002,
+      "volume24h": 101190088.28487,
       "technical": {
-        "rsi": 57.1,
-        "ema9": 1.0002494975371725,
-        "ema21": 1.0002294782984043,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 1.63,
-        "score": 84
+        "rsi": 40.0,
+        "ema9": 1.0001420436439656,
+        "ema21": 1.000175714039786,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.24,
+        "score": 11
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": 11,
-      "combinedScore": 68,
-      "signal": "BUY",
-      "reason": "Technical 84/100; News +0; Market sentiment +11."
+      "marketSentiment": 8,
+      "combinedScore": 31,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment +8."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 1.3307,
-      "change24h": 2.149,
-      "volume24h": 95710893.06554,
+      "price": 1.3103,
+      "change24h": -0.802,
+      "volume24h": 92921414.45468,
       "technical": {
-        "rsi": 48.6,
-        "ema9": 1.3304518184841063,
-        "ema21": 1.330314105995948,
+        "rsi": 33.1,
+        "ema9": 1.3124655588395895,
+        "ema21": 1.3160029990004318,
         "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.58,
-        "score": 53
+        "emaBull": false,
+        "volumeRatio": 0.47,
+        "score": 11
       },
-      "newsScore": 0,
-      "newsCount": 5,
+      "newsScore": 25,
+      "newsCount": 4,
       "news": [
         {
           "title": "Ripple, Robinhood expand partnership to bring RLUSD to retail and institutional markets",
@@ -217,11 +238,11 @@
           "text": "Ripple, Robinhood expand partnership to bring RLUSD to retail and institutional markets Ripple also expanded its collaboration with BNY on digital asset custody and partnered with C2FO to bring trade finance settlement onto the XRP Ledger."
         },
         {
-          "title": "Ripple wins final US approval for national trust bank",
-          "link": "https://cointelegraph.com/news/ripple-wins-final-us-approval-for-national-trust-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Tue, 27 Oct 2026 00:06:41 +0000",
-          "source": "Cointelegraph",
-          "text": "Ripple wins final US approval for national trust bank The approval clears the way for Ripple to manage reserves backing its RLUSD stablecoin and provide digital asset custody."
+          "title": "XRP Ledger developers propose creating wallets with zero XRP for stablecoin payments",
+          "link": "https://www.coindesk.com/tech/2026/10/28/xrp-ledger-developers-propose-creating-wallets-with-zero-xrp-for-stablecoin-payments",
+          "published": "Wed, 28 Oct 2026 11:52:14 +0000",
+          "source": "CoinDesk",
+          "text": "XRP Ledger developers propose creating wallets with zero XRP for stablecoin payments An experimental change would let companies cover the reserve for customer and AI-agent accounts, allowing users to start with stablecoins without first acquiring XRP."
         },
         {
           "title": "Treasury's Bessent sees crypto as America's next tool for keeping the U.S. dollar on top",
@@ -236,118 +257,168 @@
           "published": "Tue, 27 Oct 2026 16:35:29 +0000",
           "source": "CoinDesk",
           "text": "Robinhood taps Ripple’s $2.5 billion RLUSD stablecoin despite backing rival USDG Robinhood helped launch a rival dollar-backed token, USDG, but will also offer Ripple's stablecoin to retail customers later this year."
-        },
-        {
-          "title": "Bitcoin shows signs of weakness while Ripple's bank win fails to bolster XRP",
-          "link": "https://www.coindesk.com/daybook-us/2026/10/27/bitcoin-shows-signs-of-weakness-while-ripple-s-bank-win-fails-to-bolster-xrp",
-          "published": "Tue, 27 Oct 2026 12:00:39 +0000",
-          "source": "CoinDesk",
-          "text": "Bitcoin shows signs of weakness while Ripple's bank win fails to bolster XRP Your day-ahead look for Oct. 27, 2026"
         }
       ],
-      "marketSentiment": 11,
-      "combinedScore": 53,
-      "signal": "WAIT",
-      "reason": "Technical 53/100; News +0; Market sentiment +11."
-    },
-    {
-      "symbol": "NEARUSDT",
-      "coin": "NEAR",
-      "price": 4.695,
-      "change24h": 4.473,
-      "volume24h": 88602691.6188,
-      "technical": {
-        "rsi": 44.2,
-        "ema9": 4.718908060011648,
-        "ema21": 4.716862738062816,
-        "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.67,
-        "score": 41
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": 11,
-      "combinedScore": 47,
-      "signal": "WAIT",
-      "reason": "Technical 41/100; News +0; Market sentiment +11."
-    },
-    {
-      "symbol": "BNBUSDT",
-      "coin": "BNB",
-      "price": 758.65,
-      "change24h": 2.511,
-      "volume24h": 86986635.49024,
-      "technical": {
-        "rsi": 80.0,
-        "ema9": 753.1578580910061,
-        "ema21": 750.3942613487134,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 1.1,
-        "score": 72
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": 11,
-      "combinedScore": 62,
-      "signal": "WAIT",
-      "reason": "Technical 72/100; News +0; Market sentiment +11."
+      "marketSentiment": 8,
+      "combinedScore": 35,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +25; Market sentiment +8."
     },
     {
       "symbol": "PEPEUSDT",
       "coin": "PEPE",
-      "price": 4.96e-06,
-      "change24h": 15.349,
-      "volume24h": 76493005.85250947,
+      "price": 4.82e-06,
+      "change24h": 8.315,
+      "volume24h": 87735938.77048317,
       "technical": {
-        "rsi": 58.8,
-        "ema9": 4.964000226659713e-06,
-        "ema21": 4.909804776916852e-06,
+        "rsi": 41.0,
+        "ema9": 4.850199860875262e-06,
+        "ema21": 4.867780791531483e-06,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.72,
+        "score": 11
+      },
+      "newsScore": 0,
+      "newsCount": 1,
+      "news": [
+        {
+          "title": "Bitcoin rebounds above $81,000 as Asian chip rally spills into crypto, pepe jumps 9%",
+          "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-rebounds-above-usd81-000-as-asian-chip-rally-spills-into-crypto-pepe-jumps-9",
+          "published": "Wed, 28 Oct 2026 11:32:31 +0000",
+          "source": "CoinDesk",
+          "text": "Bitcoin rebounds above $81,000 as Asian chip rally spills into crypto, pepe jumps 9% Bitcoin rose above $81,400 as Asian chip stocks rallied, with frog-themed memecoin pepe adding 9%."
+        }
+      ],
+      "marketSentiment": 8,
+      "combinedScore": 31,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment +8."
+    },
+    {
+      "symbol": "BNBUSDT",
+      "coin": "BNB",
+      "price": 747.37,
+      "change24h": -0.482,
+      "volume24h": 86524033.83859,
+      "technical": {
+        "rsi": 37.0,
+        "ema9": 749.7477148280982,
+        "ema21": 750.9295057756444,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.46,
+        "score": 11
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": 8,
+      "combinedScore": 31,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment +8."
+    },
+    {
+      "symbol": "NEARUSDT",
+      "coin": "NEAR",
+      "price": 4.569,
+      "change24h": -0.782,
+      "volume24h": 71615323.2138,
+      "technical": {
+        "rsi": 37.5,
+        "ema9": 4.606482241618083,
+        "ema21": 4.621671528998156,
+        "macdBull": true,
+        "emaBull": false,
+        "volumeRatio": 0.69,
+        "score": 35
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": 8,
+      "combinedScore": 43,
+      "signal": "WAIT",
+      "reason": "Technical 35/100; News +0; Market sentiment +8."
+    },
+    {
+      "symbol": "SOXLBUSDT",
+      "coin": "SOXLB",
+      "price": 104.31,
+      "change24h": 4.771,
+      "volume24h": 53779361.02379,
+      "technical": {
+        "rsi": 56.2,
+        "ema9": 104.23936331788306,
+        "ema21": 104.09352994079072,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.55,
+        "volumeRatio": 0.83,
         "score": 89
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": 11,
-      "combinedScore": 71,
+      "marketSentiment": 8,
+      "combinedScore": 70,
       "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment +11."
-    },
-    {
-      "symbol": "SOXLBUSDT",
-      "coin": "SOXLB",
-      "price": 104.64,
-      "change24h": 11.497,
-      "volume24h": 65696795.91946,
-      "technical": {
-        "rsi": 62.3,
-        "ema9": 104.09006865142354,
-        "ema21": 103.84189118509337,
-        "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.28,
-        "score": 65
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": 11,
-      "combinedScore": 59,
-      "signal": "WAIT",
-      "reason": "Technical 65/100; News +0; Market sentiment +11."
+      "reason": "Technical 89/100; News +0; Market sentiment +8."
     }
   ],
   "news": [
     {
+      "title": "Phantom launches Kalshi-powered prediction markets for US users",
+      "link": "https://cointelegraph.com/news/phantom-launches-kalshi-powered-prediction-markets-for-us-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 28 Oct 2026 16:40:02 +0000",
+      "source": "Cointelegraph",
+      "text": "Phantom launches Kalshi-powered prediction markets for US users The crypto wallet’s new integration offers CFTC-regulated event contracts through Kalshi, as prediction markets face growing legal challenges in the US."
+    },
+    {
+      "title": "Google Cloud outlines MPC service for institutional Bitcoin custody",
+      "link": "https://cointelegraph.com/news/google-cloud-mpc-service-bitcoin-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 28 Oct 2026 13:47:51 +0000",
+      "source": "Cointelegraph",
+      "text": "Google Cloud outlines MPC service for institutional Bitcoin custody Google Cloud has detailed its preview MPC service for institutional Bitcoin custody as it holds a New York symposium focused on digital asset security."
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 28 Oct 2026 13:35:44 +0000",
+      "source": "Cointelegraph",
+      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "title": "Cybersecurity’s Black October: How to protect yourself",
+      "link": "https://cointelegraph.com/magazine/cybersecuritys-black-october-how-to-protect-yourself?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 28 Oct 2026 13:30:00 +0000",
+      "source": "Cointelegraph",
+      "text": "Cybersecurity’s Black October: How to protect yourself Each day brings news of another AI-powered attack, or a newly discovered vulnerability. Here’s what’s happening and how ordinary people can protect themselves online."
+    },
+    {
+      "title": "DTCC unit launches tokenization services",
+      "link": "https://cointelegraph.com/news/dtcc-subsidiary-launches-tokenization-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 28 Oct 2026 13:19:00 +0000",
+      "source": "Cointelegraph",
+      "text": "DTCC unit launches tokenization services The post-trade market infrastructure provider said the tokenization services will create a “practical path” for tokenized securities adoption."
+    },
+    {
+      "title": "Settlement concerns prompt Euronext to halt CoinShares’ Zcash ETP ahead of debut",
+      "link": "https://cointelegraph.com/news/euronext-suspends-coinshares-zcash-etp-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 28 Oct 2026 11:24:07 +0000",
+      "source": "Cointelegraph",
+      "text": "Settlement concerns prompt Euronext to halt CoinShares’ Zcash ETP ahead of debut A Euronext spokesperson told Cointelegraph the suspension was due to “operational settlement requirements” and remains in effect until settlement operations are supported by the CSD."
+    },
+    {
+      "title": "Mirae Asset Securities issues tokenized notes on Solana",
+      "link": "https://cointelegraph.com/news/mirae-asset-securities-tokenized-notes-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 28 Oct 2026 11:05:33 +0000",
+      "source": "Cointelegraph",
+      "text": "Mirae Asset Securities issues tokenized notes on Solana The company’s Hong Kong unit issued six-month notes under its $3 billion program, extending blockchain-based distribution to institutional investors."
+    },
+    {
       "title": "Bitcoin price eyes $82K as Morgan Stanley strategist says most of correction is over",
       "link": "https://cointelegraph.com/markets/bitcoin-price-eyes-82k-as-morgan-stanley-strategist-says-most-of-correction-is-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 28 Oct 2026 09:55:29 +0000",
+      "published": "Wed, 28 Oct 2026 09:56:00 +0000",
       "source": "Cointelegraph",
       "text": "Bitcoin price eyes $82K as Morgan Stanley strategist says most of correction is over Bitcoin sought to rebuild support at $80,000 while Asian and US tech stocks extended a rebound into key corporate earnings releases."
     },
@@ -364,13 +435,6 @@
       "published": "Wed, 28 Oct 2026 07:42:55 +0000",
       "source": "Cointelegraph",
       "text": "Coinbase denies systems breach, says vendor exposed customer data Coinbase said that an incident at analytics vendor Amplitude exposed some customers’ contact data, but it found no evidence of unauthorized access to its own systems."
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 28 Oct 2026 06:00:00 +0000",
-      "source": "Cointelegraph",
-      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
       "title": "Robinhood’s Tenev warns US tokenization uncertainty deters ‘serious assets’",
@@ -441,48 +505,6 @@
       "published": "Tue, 27 Oct 2026 16:37:15 +0000",
       "source": "Cointelegraph",
       "text": "Janus Henderson, Centrifuge launch tokenized Nasdaq-100 fund on Stellar The blockchain-based fund offers eligible non-US investors exposure to the Nasdaq-100 as Janus Henderson expands its institutional tokenization business."
-    },
-    {
-      "title": "USDC overtakes USDT in euro stablecoin trading as EU rules reshape market: Kaiko",
-      "link": "https://cointelegraph.com/news/usdc-overtakes-usdt-euro-stablecoin-trading-mica-kaiko?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 27 Oct 2026 15:59:58 +0000",
-      "source": "Cointelegraph",
-      "text": "USDC overtakes USDT in euro stablecoin trading as EU rules reshape market: Kaiko USDC’s share of euro stablecoin trading has climbed to 56% since January 2024, with deeper liquidity as exchanges restrict USDT under MiCA."
-    },
-    {
-      "title": "Crypto could outperform AI stocks: Wall Street veteran Jordi Visser",
-      "link": "https://cointelegraph.com/magazine/crypto-could-outperform-ai-stocks-wall-street-veteran-jordi-visser?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 27 Oct 2026 13:30:00 +0000",
-      "source": "Cointelegraph",
-      "text": "Crypto could outperform AI stocks: Wall Street veteran Jordi Visser Former Morgan Stanley and Weiss executive Jordi Visser says AI agents are boosting demand for crypto as he expands his holdings beyond Bitcoin, Ether and Solana."
-    },
-    {
-      "title": "Hayes details FLOP’s AI compute derivatives vision after selling his altcoins",
-      "link": "https://cointelegraph.com/news/hayes-flop-ai-compute-vision-selling-altcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 27 Oct 2026 13:01:10 +0000",
-      "source": "Cointelegraph",
-      "text": "Hayes details FLOP’s AI compute derivatives vision after selling his altcoins Arthur Hayes revealed the derivatives market design for Flop Network and how he expects its native token could transform AI compute into a tradable commodity."
-    },
-    {
-      "title": "Luxor raises $16M from CMT Digital amid AI-Bitcoin miner convergence",
-      "link": "https://cointelegraph.com/news/luxor-raises-16m-ai-bitcoin-miner-convergence?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 27 Oct 2026 13:01:00 +0000",
-      "source": "Cointelegraph",
-      "text": "Luxor raises $16M from CMT Digital amid AI-Bitcoin miner convergence Luxor aims to use the proceeds to scale its existing AI infrastructure business and expand its GPU sourcing services as global chip supply chains become constrained."
-    },
-    {
-      "title": "Bitcoin price analysis sees ‘strong rally’ as old coins become dormant",
-      "link": "https://cointelegraph.com/markets/bitcoin-price-analysis-sees-strong-rally-as-old-coins-become-dormant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 27 Oct 2026 12:18:24 +0000",
-      "source": "Cointelegraph",
-      "text": "Bitcoin price analysis sees ‘strong rally’ as old coins become dormant A decline in the share of Bitcoin’s realized cap held by coins unmoved for 18 months or longer points to the ‘early stages’ of a bull market, analysis says."
-    },
-    {
-      "title": "Zcash co-founder calls to stop funding ‘over $125M’ grants program",
-      "link": "https://cointelegraph.com/news/zcash-co-founder-ending-zcg-funding-125m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 27 Oct 2026 10:00:31 +0000",
-      "source": "Cointelegraph",
-      "text": "Zcash co-founder calls to stop funding ‘over $125M’ grants program Sean Bowe says ZCG has enough money to keep funding projects and wants its share of new ZEC redirected to a reserve for the network."
     }
   ],
   "paper": {
@@ -608,42 +630,12 @@
         "mode": "PAPER ONLY"
       },
       {
-        "symbol": "ZECUSDT",
-        "side": "BUY",
-        "entry": 1291.77,
-        "stopLoss": 1272.39345,
-        "takeProfit": 1330.5231,
-        "entryTime": "2026-10-27T16:02:10.593913+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
         "symbol": "ENAUSDT",
         "side": "BUY",
         "entry": 0.2124,
         "stopLoss": 0.209214,
         "takeProfit": 0.218772,
         "entryTime": "2026-10-27T16:02:10.593913+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
-        "symbol": "NEARUSDT",
-        "side": "BUY",
-        "entry": 4.684,
-        "stopLoss": 4.61374,
-        "takeProfit": 4.82452,
-        "entryTime": "2026-10-27T23:58:51.088112+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
-        "symbol": "XRPUSDT",
-        "side": "BUY",
-        "entry": 1.3314,
-        "stopLoss": 1.311429,
-        "takeProfit": 1.371342,
-        "entryTime": "2026-10-27T23:58:51.088112+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       },
@@ -658,12 +650,32 @@
         "mode": "PAPER ONLY"
       },
       {
+        "symbol": "XRPUSDT",
+        "side": "SELL",
+        "entry": 1.3103,
+        "stopLoss": 1.3299545,
+        "takeProfit": 1.270991,
+        "entryTime": "2026-10-28T16:51:43.723546+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
         "symbol": "PEPEUSDT",
-        "side": "BUY",
-        "entry": 4.96e-06,
-        "stopLoss": 4.8856e-06,
-        "takeProfit": 5.1088e-06,
-        "entryTime": "2026-10-28T10:50:54.345657+00:00",
+        "side": "SELL",
+        "entry": 4.82e-06,
+        "stopLoss": 4.8923e-06,
+        "takeProfit": 4.6754e-06,
+        "entryTime": "2026-10-28T16:51:43.723546+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "BNBUSDT",
+        "side": "SELL",
+        "entry": 747.37,
+        "stopLoss": 758.58055,
+        "takeProfit": 724.9489,
+        "entryTime": "2026-10-28T16:51:43.723546+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       }
@@ -1214,6 +1226,58 @@
         "exitPrice": 758.65,
         "exitTime": "2026-10-28T10:50:54.345657+00:00",
         "pnlPercent": 3.612
+      },
+      {
+        "symbol": "ZECUSDT",
+        "side": "BUY",
+        "entry": 1291.77,
+        "stopLoss": 1272.39345,
+        "takeProfit": 1330.5231,
+        "entryTime": "2026-10-27T16:02:10.593913+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 1266.29,
+        "exitTime": "2026-10-28T16:51:43.723546+00:00",
+        "pnlPercent": -1.972
+      },
+      {
+        "symbol": "NEARUSDT",
+        "side": "BUY",
+        "entry": 4.684,
+        "stopLoss": 4.61374,
+        "takeProfit": 4.82452,
+        "entryTime": "2026-10-27T23:58:51.088112+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 4.569,
+        "exitTime": "2026-10-28T16:51:43.723546+00:00",
+        "pnlPercent": -2.455
+      },
+      {
+        "symbol": "XRPUSDT",
+        "side": "BUY",
+        "entry": 1.3314,
+        "stopLoss": 1.311429,
+        "takeProfit": 1.371342,
+        "entryTime": "2026-10-27T23:58:51.088112+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 1.3103,
+        "exitTime": "2026-10-28T16:51:43.723546+00:00",
+        "pnlPercent": -1.585
+      },
+      {
+        "symbol": "PEPEUSDT",
+        "side": "BUY",
+        "entry": 4.96e-06,
+        "stopLoss": 4.8856e-06,
+        "takeProfit": 5.1088e-06,
+        "entryTime": "2026-10-28T10:50:54.345657+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 4.82e-06,
+        "exitTime": "2026-10-28T16:51:43.723546+00:00",
+        "pnlPercent": -2.823
       }
     ]
   },
