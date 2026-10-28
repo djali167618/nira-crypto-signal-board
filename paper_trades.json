@@ -31,16 +31,6 @@
       "mode": "PAPER ONLY"
     },
     {
-      "symbol": "BNBUSDT",
-      "side": "BUY",
-      "entry": 732.2,
-      "stopLoss": 721.217,
-      "takeProfit": 754.166,
-      "entryTime": "2026-10-19T23:02:38.643180+00:00",
-      "status": "OPEN",
-      "mode": "PAPER ONLY"
-    },
-    {
       "symbol": "SNDKBUSDT",
       "side": "BUY",
       "entry": 1385.76,
@@ -177,6 +167,16 @@
       "stopLoss": 101.455,
       "takeProfit": 106.09,
       "entryTime": "2026-10-28T04:42:22.984910+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "PEPEUSDT",
+      "side": "BUY",
+      "entry": 4.96e-06,
+      "stopLoss": 4.8856e-06,
+      "takeProfit": 5.1088e-06,
+      "entryTime": "2026-10-28T10:50:54.345657+00:00",
       "status": "OPEN",
       "mode": "PAPER ONLY"
     }
@@ -714,6 +714,19 @@
       "exitPrice": 4.85e-06,
       "exitTime": "2026-10-28T04:42:22.984910+00:00",
       "pnlPercent": -8.501
+    },
+    {
+      "symbol": "BNBUSDT",
+      "side": "BUY",
+      "entry": 732.2,
+      "stopLoss": 721.217,
+      "takeProfit": 754.166,
+      "entryTime": "2026-10-19T23:02:38.643180+00:00",
+      "status": "TAKE_PROFIT",
+      "mode": "PAPER ONLY",
+      "exitPrice": 758.65,
+      "exitTime": "2026-10-28T10:50:54.345657+00:00",
+      "pnlPercent": 3.612
     }
   ]
 }
