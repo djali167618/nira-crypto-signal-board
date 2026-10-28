@@ -141,32 +141,52 @@
       "mode": "PAPER ONLY"
     },
     {
-      "symbol": "XRPUSDT",
-      "side": "SELL",
-      "entry": 1.3103,
-      "stopLoss": 1.3299545,
-      "takeProfit": 1.270991,
-      "entryTime": "2026-10-28T16:51:43.723546+00:00",
-      "status": "OPEN",
-      "mode": "PAPER ONLY"
-    },
-    {
-      "symbol": "PEPEUSDT",
-      "side": "SELL",
-      "entry": 4.82e-06,
-      "stopLoss": 4.8923e-06,
-      "takeProfit": 4.6754e-06,
-      "entryTime": "2026-10-28T16:51:43.723546+00:00",
-      "status": "OPEN",
-      "mode": "PAPER ONLY"
-    },
-    {
       "symbol": "BNBUSDT",
       "side": "SELL",
       "entry": 747.37,
       "stopLoss": 758.58055,
       "takeProfit": 724.9489,
       "entryTime": "2026-10-28T16:51:43.723546+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "ZECUSDT",
+      "side": "BUY",
+      "entry": 1308.0,
+      "stopLoss": 1288.38,
+      "takeProfit": 1347.24,
+      "entryTime": "2026-10-28T21:23:32.368023+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "PEPEUSDT",
+      "side": "BUY",
+      "entry": 5.07e-06,
+      "stopLoss": 4.9939e-06,
+      "takeProfit": 5.2221e-06,
+      "entryTime": "2026-10-28T21:23:32.368023+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "XRPUSDT",
+      "side": "BUY",
+      "entry": 1.3325,
+      "stopLoss": 1.3125125,
+      "takeProfit": 1.372475,
+      "entryTime": "2026-10-28T21:23:32.368023+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "NEARUSDT",
+      "side": "BUY",
+      "entry": 4.753,
+      "stopLoss": 4.681705,
+      "takeProfit": 4.89559,
+      "entryTime": "2026-10-28T21:23:32.368023+00:00",
       "status": "OPEN",
       "mode": "PAPER ONLY"
     }
@@ -769,6 +789,32 @@
       "exitPrice": 4.82e-06,
       "exitTime": "2026-10-28T16:51:43.723546+00:00",
       "pnlPercent": -2.823
+    },
+    {
+      "symbol": "XRPUSDT",
+      "side": "SELL",
+      "entry": 1.3103,
+      "stopLoss": 1.3299545,
+      "takeProfit": 1.270991,
+      "entryTime": "2026-10-28T16:51:43.723546+00:00",
+      "status": "STOP_LOSS",
+      "mode": "PAPER ONLY",
+      "exitPrice": 1.3325,
+      "exitTime": "2026-10-28T21:23:32.368023+00:00",
+      "pnlPercent": -1.694
+    },
+    {
+      "symbol": "PEPEUSDT",
+      "side": "SELL",
+      "entry": 4.82e-06,
+      "stopLoss": 4.8923e-06,
+      "takeProfit": 4.6754e-06,
+      "entryTime": "2026-10-28T16:51:43.723546+00:00",
+      "status": "STOP_LOSS",
+      "mode": "PAPER ONLY",
+      "exitPrice": 5.07e-06,
+      "exitTime": "2026-10-28T21:23:32.368023+00:00",
+      "pnlPercent": -5.187
     }
   ]
 }
