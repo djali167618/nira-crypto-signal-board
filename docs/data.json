@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-29 06:59:16 UTC",
+  "generatedAt": "2026-10-29 13:59:50 UTC",
   "interval": "15m candles",
-  "marketSentiment": 3,
-  "overallNewsScore": 5,
+  "marketSentiment": 1,
+  "overallNewsScore": 0,
   "fearGreed": {
     "value": 51,
     "label": "Neutral",
@@ -12,80 +12,87 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 79968.0,
-      "change24h": -1.138,
-      "volume24h": 1148638394.7814605,
+      "price": 80358.01,
+      "change24h": -0.473,
+      "volume24h": 1114083802.6447136,
       "technical": {
-        "rsi": 38.1,
-        "ema9": 80151.92671903125,
-        "ema21": 80254.38261118314,
-        "macdBull": true,
+        "rsi": 40.8,
+        "ema9": 80114.66067948565,
+        "ema21": 80132.93927382692,
+        "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.51,
-        "score": 35
+        "volumeRatio": 2.43,
+        "score": 6
       },
-      "newsScore": 33,
+      "newsScore": 20,
       "newsCount": 5,
       "news": [
         {
           "title": "Here’s what happened in crypto today",
           "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Thu, 29 Oct 2026 06:00:00 +0000",
+          "published": "Thu, 29 Oct 2026 13:51:06 +0000",
           "source": "Cointelegraph",
           "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
         },
         {
-          "title": "Fed’s hawkish rate hold keeps pressure on Bitcoin: Analysts",
-          "link": "https://cointelegraph.com/markets/bitcoin-faces-fresh-pressure-after-feds-hawkish-rate-hold-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Thu, 29 Oct 2026 01:12:01 +0000",
+          "title": "Private, fast USDT is coming to Bitcoin. Can it compete with Ethereum and Tron?",
+          "link": "https://cointelegraph.com/magazine/private-fast-usdt-is-coming-to-bitcoin-can-it-compete-with-ethereum-and-tron?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Thu, 29 Oct 2026 13:30:00 +0000",
           "source": "Cointelegraph",
-          "text": "Fed’s hawkish rate hold keeps pressure on Bitcoin: Analysts Traders are pricing in a 78% chance of a December rate hike, while analysts say Treasury yields, the US dollar and upcoming inflation data could determine Bitcoin’s next move."
+          "text": "Private, fast USDT is coming to Bitcoin. Can it compete with Ethereum and Tron? USDT is coming home to Bitcoin, offering privacy and Lightning-fast payments. But can Bitcoin’s revamped version of Tether compete with stablecoins on ETH and TRON?"
         },
         {
-          "title": "Strategy shareholders approve daily dividends for four preferred stocks",
-          "link": "https://cointelegraph.com/news/strategy-shareholders-approve-daily-dividends-for-four-preferred-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Wed, 28 Oct 2026 18:00:54 +0000",
+          "title": "Bitcoin lending and yield could drive next wave of institutional demand, Rootstock says",
+          "link": "https://cointelegraph.com/news/bitcoin-lending-and-yield-could-drive-next-wave-of-institutional-demand-rootstock-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Thu, 29 Oct 2026 12:00:00 +0000",
           "source": "Cointelegraph",
-          "text": "Strategy shareholders approve daily dividends for four preferred stocks The largest Bitcoin treasury company will begin daily dividend payments on STRC in November, with three other preferred securities following in January 2027."
+          "text": "Bitcoin lending and yield could drive next wave of institutional demand, Rootstock says A new report argues that putting institutional Bitcoin holdings to work through lending, collateral and financing could create demand beyond its store-of-value role."
         },
         {
-          "title": "Bitcoin price bounce rejected at 50-day trend line ahead of FOMC, earnings",
-          "link": "https://cointelegraph.com/markets/bitcoin-price-bounce-rejected-at-50-day-trend-line-ahead-of-fomc-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Wed, 28 Oct 2026 16:53:26 +0000",
+          "title": "Bitcoin long-term resistance in focus as analysis sees selling risk above $85K",
+          "link": "https://cointelegraph.com/markets/bitcoin-long-term-resistance-in-focus-as-analysis-sees-selling-risk-above-85k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Thu, 29 Oct 2026 10:46:43 +0000",
           "source": "Cointelegraph",
-          "text": "Bitcoin price bounce rejected at 50-day trend line ahead of FOMC, earnings Bitcoin failed to move past its 50-day simple moving average as market participants awaited the outcome of the FOMC meeting and key tech earnings."
+          "text": "Bitcoin long-term resistance in focus as analysis sees selling risk above $85K BTC price analysis from Glassnode drew attention to $85,000 as the lower boundary of a cost-basis zone for long-term holders."
         },
         {
-          "title": "Google Cloud outlines MPC service for institutional Bitcoin custody",
-          "link": "https://cointelegraph.com/news/google-cloud-mpc-service-bitcoin-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Wed, 28 Oct 2026 13:47:51 +0000",
+          "title": "Bitcoin ETFs add $137M, pushing October back into the green",
+          "link": "https://cointelegraph.com/markets/bitcoin-etf-137-million-october-back-green?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Thu, 29 Oct 2026 07:32:20 +0000",
           "source": "Cointelegraph",
-          "text": "Google Cloud outlines MPC service for institutional Bitcoin custody Google Cloud has detailed its preview MPC service for institutional Bitcoin custody as it holds a New York symposium focused on digital asset security."
+          "text": "Bitcoin ETFs add $137M, pushing October back into the green Bitcoin ETFs drew $424 million over three days, lifting October net inflows to $111 million despite a hawkish Federal Reserve decision and weaker crypto sentiment."
         }
       ],
-      "marketSentiment": 3,
-      "combinedScore": 48,
-      "signal": "WAIT",
-      "reason": "Technical 35/100; News +33; Market sentiment +3."
+      "marketSentiment": 1,
+      "combinedScore": 31,
+      "signal": "SELL",
+      "reason": "Technical 6/100; News +20; Market sentiment +1."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2313.85,
-      "change24h": -1.61,
-      "volume24h": 495351922.657859,
+      "price": 2328.72,
+      "change24h": -0.314,
+      "volume24h": 472710666.04871,
       "technical": {
-        "rsi": 39.9,
-        "ema9": 2319.3042349709685,
-        "ema21": 2322.6993394545975,
-        "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.61,
-        "score": 35
+        "rsi": 43.0,
+        "ema9": 2323.2698117168434,
+        "ema21": 2322.4772611768894,
+        "macdBull": false,
+        "emaBull": true,
+        "volumeRatio": 2.6,
+        "score": 36
       },
-      "newsScore": 50,
-      "newsCount": 4,
+      "newsScore": 67,
+      "newsCount": 3,
       "news": [
+        {
+          "title": "Private, fast USDT is coming to Bitcoin. Can it compete with Ethereum and Tron?",
+          "link": "https://cointelegraph.com/magazine/private-fast-usdt-is-coming-to-bitcoin-can-it-compete-with-ethereum-and-tron?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Thu, 29 Oct 2026 13:30:00 +0000",
+          "source": "Cointelegraph",
+          "text": "Private, fast USDT is coming to Bitcoin. Can it compete with Ethereum and Tron? USDT is coming home to Bitcoin, offering privacy and Lightning-fast payments. But can Bitcoin’s revamped version of Tether compete with stablecoins on ETH and TRON?"
+        },
         {
           "title": "Your fridge could one day stake Ether, launch memecoins: CFTC chair",
           "link": "https://cointelegraph.com/news/a-fridge-that-launches-memecoins-cftc-floats-ai-crypto-future?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -94,50 +101,66 @@
           "text": "Your fridge could one day stake Ether, launch memecoins: CFTC chair CFTC chair Mike Selig says autonomous AI agents could challenge financial rules built around human traders, and regulators need to adapt."
         },
         {
-          "title": "Crypto could outperform AI stocks: Wall Street veteran Jordi Visser",
-          "link": "https://cointelegraph.com/magazine/crypto-could-outperform-ai-stocks-wall-street-veteran-jordi-visser?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Tue, 27 Oct 2026 13:30:00 +0000",
-          "source": "Cointelegraph",
-          "text": "Crypto could outperform AI stocks: Wall Street veteran Jordi Visser Former Morgan Stanley and Weiss executive Jordi Visser says AI agents are boosting demand for crypto as he expands his holdings beyond Bitcoin, Ether and Solana."
-        },
-        {
           "title": "Security failure at Indian certificate firm bites Ethereum as developers rush out fixes",
           "link": "https://www.coindesk.com/tech/2026/10/29/ethereum-clients-patch-flaw-that-could-let-attackers-redirect-eth-rewards",
           "published": "Thu, 29 Oct 2026 05:30:34 +0000",
           "source": "CoinDesk",
           "text": "Security failure at Indian certificate firm bites Ethereum as developers rush out fixes A key blunder at Indian certificate issuer eMudhra left some Teku and Besu setups trusting forged certificates. Default mainnet nodes weren’t exposed."
-        },
-        {
-          "title": "Google to preview crypto custody security system as AI threats grow",
-          "link": "https://www.coindesk.com/tech/2026/10/28/google-to-preview-crypto-custody-security-system-as-ai-threats-grow",
-          "published": "Wed, 28 Oct 2026 11:00:00 +0000",
-          "source": "CoinDesk",
-          "text": "Google to preview crypto custody security system as AI threats grow Google Multi-Party Compute is in private preview, with several major financial institutions testing the technology and parent company Alphabet using it to secure its own digital assets on Ethereum and Solana."
         }
       ],
-      "marketSentiment": 3,
-      "combinedScore": 50,
+      "marketSentiment": 1,
+      "combinedScore": 53,
       "signal": "WAIT",
-      "reason": "Technical 35/100; News +50; Market sentiment +3."
+      "reason": "Technical 36/100; News +67; Market sentiment +1."
+    },
+    {
+      "symbol": "BNBUSDT",
+      "coin": "BNB",
+      "price": 745.08,
+      "change24h": -0.709,
+      "volume24h": 216446924.55187,
+      "technical": {
+        "rsi": 43.5,
+        "ema9": 742.261919907199,
+        "ema21": 743.9580286661719,
+        "macdBull": true,
+        "emaBull": false,
+        "volumeRatio": 0.44,
+        "score": 35
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": 1,
+      "combinedScore": 43,
+      "signal": "WAIT",
+      "reason": "Technical 35/100; News +0; Market sentiment +1."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 100.09,
-      "change24h": -1.815,
-      "volume24h": 215995284.08072,
+      "price": 100.75,
+      "change24h": -0.395,
+      "volume24h": 199863194.94167,
       "technical": {
-        "rsi": 40.1,
-        "ema9": 100.20750412698578,
-        "ema21": 100.39202869057524,
+        "rsi": 47.5,
+        "ema9": 100.50957143682888,
+        "ema21": 100.42261984433904,
         "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.86,
-        "score": 35
+        "emaBull": true,
+        "volumeRatio": 1.81,
+        "score": 72
       },
-      "newsScore": 0,
+      "newsScore": 33,
       "newsCount": 3,
       "news": [
+        {
+          "title": "Polygon expands Open Money Stack to Solana, after Tron rollout",
+          "link": "https://cointelegraph.com/news/polygon-brings-open-money-stack-payments-services-to-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Thu, 29 Oct 2026 13:00:00 +0000",
+          "source": "Cointelegraph",
+          "text": "Polygon expands Open Money Stack to Solana, after Tron rollout The move follows the addition of Tron support and Polygon’s acquisition of Coinme."
+        },
         {
           "title": "Mirae Asset Securities issues tokenized notes on Solana",
           "link": "https://cointelegraph.com/news/mirae-asset-securities-tokenized-notes-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -146,225 +169,256 @@
           "text": "Mirae Asset Securities issues tokenized notes on Solana The company’s Hong Kong unit issued six-month notes under its $3 billion program, extending blockchain-based distribution to institutional investors."
         },
         {
-          "title": "Crypto could outperform AI stocks: Wall Street veteran Jordi Visser",
-          "link": "https://cointelegraph.com/magazine/crypto-could-outperform-ai-stocks-wall-street-veteran-jordi-visser?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Tue, 27 Oct 2026 13:30:00 +0000",
-          "source": "Cointelegraph",
-          "text": "Crypto could outperform AI stocks: Wall Street veteran Jordi Visser Former Morgan Stanley and Weiss executive Jordi Visser says AI agents are boosting demand for crypto as he expands his holdings beyond Bitcoin, Ether and Solana."
-        },
-        {
-          "title": "Google to preview crypto custody security system as AI threats grow",
-          "link": "https://www.coindesk.com/tech/2026/10/28/google-to-preview-crypto-custody-security-system-as-ai-threats-grow",
-          "published": "Wed, 28 Oct 2026 11:00:00 +0000",
+          "title": "Solana wallet Solflare pledges to pay missed rewards on staked $160 million after validator goes offline",
+          "link": "https://www.coindesk.com/markets/2026/10/29/solana-wallet-solflare-pledges-to-pay-missed-rewards-on-staked-usd160-million-after-validator-goes-offline",
+          "published": "Thu, 29 Oct 2026 10:44:48 +0000",
           "source": "CoinDesk",
-          "text": "Google to preview crypto custody security system as AI threats grow Google Multi-Party Compute is in private preview, with several major financial institutions testing the technology and parent company Alphabet using it to secure its own digital assets on Ethereum and Solana."
+          "text": "Solana wallet Solflare pledges to pay missed rewards on staked $160 million after validator goes offline About 1.56 million SOL sat on a validator that stopped earning, and the wallet still hasn’t named the firm that held its keys."
         }
       ],
-      "marketSentiment": 3,
-      "combinedScore": 43,
-      "signal": "WAIT",
-      "reason": "Technical 35/100; News +0; Market sentiment +3."
+      "marketSentiment": 1,
+      "combinedScore": 66,
+      "signal": "BUY",
+      "reason": "Technical 72/100; News +33; Market sentiment +1."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 1245.87,
-      "change24h": -4.581,
-      "volume24h": 174351821.81994,
+      "price": 1278.9,
+      "change24h": -0.495,
+      "volume24h": 174849692.65828,
       "technical": {
-        "rsi": 37.7,
-        "ema9": 1248.168774361916,
-        "ema21": 1254.37335847713,
+        "rsi": 56.1,
+        "ema9": 1272.9885210282414,
+        "ema21": 1265.6600787678262,
         "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.55,
-        "score": 35
+        "emaBull": true,
+        "volumeRatio": 1.85,
+        "score": 84
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": 3,
-      "combinedScore": 43,
-      "signal": "WAIT",
-      "reason": "Technical 35/100; News +0; Market sentiment +3."
+      "marketSentiment": 1,
+      "combinedScore": 67,
+      "signal": "BUY",
+      "reason": "Technical 84/100; News +0; Market sentiment +1."
     },
     {
       "symbol": "USD1USDT",
       "coin": "USD1",
-      "price": 0.99992,
-      "change24h": -0.029,
-      "volume24h": 141356986.23524,
+      "price": 1.00011,
+      "change24h": -0.009,
+      "volume24h": 149103639.93299,
       "technical": {
-        "rsi": 34.2,
-        "ema9": 0.9999469969552949,
-        "ema21": 0.9999815619965381,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.65,
-        "score": 11
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": 3,
-      "combinedScore": 31,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment +3."
-    },
-    {
-      "symbol": "BNBUSDT",
-      "coin": "BNB",
-      "price": 752.22,
-      "change24h": 1.022,
-      "volume24h": 127046417.24148,
-      "technical": {
-        "rsi": 49.0,
-        "ema9": 753.8106323341187,
-        "ema21": 753.0039588887088,
+        "rsi": 56.9,
+        "ema9": 1.0000862632855845,
+        "ema21": 1.0000606003888164,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 2.17,
-        "score": 72
+        "volumeRatio": 0.51,
+        "score": 89
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": 3,
-      "combinedScore": 61,
-      "signal": "WAIT",
-      "reason": "Technical 72/100; News +0; Market sentiment +3."
+      "marketSentiment": 1,
+      "combinedScore": 70,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment +1."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 4.346,
-      "change24h": -7.374,
-      "volume24h": 115850037.253,
+      "price": 4.457,
+      "change24h": -3.024,
+      "volume24h": 133412608.6019,
       "technical": {
-        "rsi": 29.9,
-        "ema9": 4.456778113349497,
-        "ema21": 4.489773895017027,
+        "rsi": 52.8,
+        "ema9": 4.441427322799962,
+        "ema21": 4.421412647830752,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 1.96,
+        "score": 72
+      },
+      "newsScore": 0,
+      "newsCount": 1,
+      "news": [
+        {
+          "title": "As $10 billion in bitcoin options near expiry, the tell is in the pricing",
+          "link": "https://www.coindesk.com/daybook-us/2026/10/29/as-usd10-billion-in-bitcoin-options-near-expiry-the-tell-is-in-the-pricing",
+          "published": "Thu, 29 Oct 2026 12:04:50 +0000",
+          "source": "CoinDesk",
+          "text": "As $10 billion in bitcoin options near expiry, the tell is in the pricing Your day-ahead look for Oct. 29, 2026"
+        }
+      ],
+      "marketSentiment": 1,
+      "combinedScore": 61,
+      "signal": "WAIT",
+      "reason": "Technical 72/100; News +0; Market sentiment +1."
+    },
+    {
+      "symbol": "XRPUSDT",
+      "coin": "XRP",
+      "price": 1.2924,
+      "change24h": -2.039,
+      "volume24h": 110684041.7884,
+      "technical": {
+        "rsi": 41.2,
+        "ema9": 1.2907936446229868,
+        "ema21": 1.2917269251053196,
         "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 6.74,
+        "volumeRatio": 1.61,
         "score": 30
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": 3,
+      "marketSentiment": 1,
       "combinedScore": 40,
       "signal": "WAIT",
-      "reason": "Technical 30/100; News +0; Market sentiment +3."
-    },
-    {
-      "symbol": "XRPUSDT",
-      "coin": "XRP",
-      "price": 1.2944,
-      "change24h": -2.368,
-      "volume24h": 114226513.70824,
-      "technical": {
-        "rsi": 36.9,
-        "ema9": 1.29718632347582,
-        "ema21": 1.300222587574012,
-        "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 1.08,
-        "score": 35
-      },
-      "newsScore": 50,
-      "newsCount": 2,
-      "news": [
-        {
-          "title": "Ripple, Robinhood expand partnership to bring RLUSD to retail and institutional markets",
-          "link": "https://cointelegraph.com/news/ripple-robinhood-expand-partnership-rlusd-retail-institutional-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Tue, 27 Oct 2026 19:54:05 +0000",
-          "source": "Cointelegraph",
-          "text": "Ripple, Robinhood expand partnership to bring RLUSD to retail and institutional markets Ripple also expanded its collaboration with BNY on digital asset custody and partnered with C2FO to bring trade finance settlement onto the XRP Ledger."
-        },
-        {
-          "title": "XRP Ledger developers propose creating wallets with zero XRP for stablecoin payments",
-          "link": "https://www.coindesk.com/tech/2026/10/28/xrp-ledger-developers-propose-creating-wallets-with-zero-xrp-for-stablecoin-payments",
-          "published": "Wed, 28 Oct 2026 11:52:14 +0000",
-          "source": "CoinDesk",
-          "text": "XRP Ledger developers propose creating wallets with zero XRP for stablecoin payments An experimental change would let companies cover the reserve for customer and AI-agent accounts, allowing users to start with stablecoins without first acquiring XRP."
-        }
-      ],
-      "marketSentiment": 3,
-      "combinedScore": 50,
-      "signal": "WAIT",
-      "reason": "Technical 35/100; News +50; Market sentiment +3."
+      "reason": "Technical 30/100; News +0; Market sentiment +1."
     },
     {
       "symbol": "PEPEUSDT",
       "coin": "PEPE",
-      "price": 5.03e-06,
-      "change24h": 5.895,
-      "volume24h": 110493889.95090178,
+      "price": 4.88e-06,
+      "change24h": 0.412,
+      "volume24h": 103223472.87506726,
       "technical": {
-        "rsi": 51.1,
-        "ema9": 5.038252822574019e-06,
-        "ema21": 5.025804172590415e-06,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.52,
-        "score": 77
+        "rsi": 39.0,
+        "ema9": 4.8892978945315175e-06,
+        "ema21": 4.912708785104955e-06,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 2.46,
+        "score": 6
       },
       "newsScore": 0,
-      "newsCount": 1,
-      "news": [
-        {
-          "title": "Bitcoin rebounds above $81,000 as Asian chip rally spills into crypto, pepe jumps 9%",
-          "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-rebounds-above-usd81-000-as-asian-chip-rally-spills-into-crypto-pepe-jumps-9",
-          "published": "Wed, 28 Oct 2026 11:32:31 +0000",
-          "source": "CoinDesk",
-          "text": "Bitcoin rebounds above $81,000 as Asian chip rally spills into crypto, pepe jumps 9% Bitcoin rose above $81,400 as Asian chip stocks rallied, with frog-themed memecoin pepe adding 9%."
-        }
-      ],
-      "marketSentiment": 3,
-      "combinedScore": 64,
-      "signal": "WAIT",
-      "reason": "Technical 77/100; News +0; Market sentiment +3."
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": 1,
+      "combinedScore": 28,
+      "signal": "SELL",
+      "reason": "Technical 6/100; News +0; Market sentiment +1."
     },
     {
-      "symbol": "RLUSDUSDT",
-      "coin": "RLUSD",
-      "price": 1.0013,
-      "change24h": -0.01,
-      "volume24h": 53063737.5478,
+      "symbol": "GOOGLBUSDT",
+      "coin": "GOOGLB",
+      "price": 284.86,
+      "change24h": -12.218,
+      "volume24h": 73631768.84491,
       "technical": {
-        "rsi": 56.0,
-        "ema9": 1.0012893282823447,
-        "ema21": 1.001262285528742,
+        "rsi": 17.5,
+        "ema9": 287.95951187706004,
+        "ema21": 289.6784430146774,
         "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.17,
-        "score": 65
+        "emaBull": false,
+        "volumeRatio": 4.84,
+        "score": 23
       },
-      "newsScore": 100,
-      "newsCount": 1,
-      "news": [
-        {
-          "title": "Ripple, Robinhood expand partnership to bring RLUSD to retail and institutional markets",
-          "link": "https://cointelegraph.com/news/ripple-robinhood-expand-partnership-rlusd-retail-institutional-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Tue, 27 Oct 2026 19:54:05 +0000",
-          "source": "Cointelegraph",
-          "text": "Ripple, Robinhood expand partnership to bring RLUSD to retail and institutional markets Ripple also expanded its collaboration with BNY on digital asset custody and partnered with C2FO to bring trade finance settlement onto the XRP Ledger."
-        }
-      ],
-      "marketSentiment": 3,
-      "combinedScore": 73,
-      "signal": "BUY",
-      "reason": "Technical 65/100; News +100; Market sentiment +3."
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": 1,
+      "combinedScore": 37,
+      "signal": "WAIT",
+      "reason": "Technical 23/100; News +0; Market sentiment +1."
     }
   ],
   "news": [
     {
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 29 Oct 2026 06:00:00 +0000",
+      "published": "Thu, 29 Oct 2026 13:51:06 +0000",
       "source": "Cointelegraph",
       "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "title": "Brazil’s Halloween eve crypto deadline brings more tricks than treats",
+      "link": "https://cointelegraph.com/news/brazil-crypto-license-filing-deadline-hurdles-uncertainty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 29 Oct 2026 13:30:00 +0000",
+      "source": "Cointelegraph",
+      "text": "Brazil’s Halloween eve crypto deadline brings more tricks than treats Brazil’s crypto exchanges face an application deadline on Friday, with costly requirements and unanswered regulatory questions complicating compliance."
+    },
+    {
+      "title": "Private, fast USDT is coming to Bitcoin. Can it compete with Ethereum and Tron?",
+      "link": "https://cointelegraph.com/magazine/private-fast-usdt-is-coming-to-bitcoin-can-it-compete-with-ethereum-and-tron?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 29 Oct 2026 13:30:00 +0000",
+      "source": "Cointelegraph",
+      "text": "Private, fast USDT is coming to Bitcoin. Can it compete with Ethereum and Tron? USDT is coming home to Bitcoin, offering privacy and Lightning-fast payments. But can Bitcoin’s revamped version of Tether compete with stablecoins on ETH and TRON?"
+    },
+    {
+      "title": "Polygon expands Open Money Stack to Solana, after Tron rollout",
+      "link": "https://cointelegraph.com/news/polygon-brings-open-money-stack-payments-services-to-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 29 Oct 2026 13:00:00 +0000",
+      "source": "Cointelegraph",
+      "text": "Polygon expands Open Money Stack to Solana, after Tron rollout The move follows the addition of Tron support and Polygon’s acquisition of Coinme."
+    },
+    {
+      "title": "Chainalysis traces North Korean crypto cash-outs through Garantex",
+      "link": "https://cointelegraph.com/news/chainalysis-dprk-crypto-cash-out-network-ofac-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 29 Oct 2026 12:38:03 +0000",
+      "source": "Cointelegraph",
+      "text": "Chainalysis traces North Korean crypto cash-outs through Garantex The analysis followed US sanctions against 10 people and one entity accused of helping North Korean IT worker schemes fund weapons programs."
+    },
+    {
+      "title": "Unlimit founder backs Phase blockchain with $45M as mainnet launches",
+      "link": "https://cointelegraph.com/news/unlimit-founder-phase-blockchain-mainnet-launches?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 29 Oct 2026 12:30:00 +0000",
+      "source": "Cointelegraph",
+      "text": "Unlimit founder backs Phase blockchain with $45M as mainnet launches Phase’s new network lets smartphone owners earn tokens for validating transactions and sharing internet connections with AI agents."
+    },
+    {
+      "title": "HTX agrees to halt unlawful UK crypto promotions after FCA case",
+      "link": "https://cointelegraph.com/news/htx-halt-unlawful-uk-crypto-promotions-fca?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 29 Oct 2026 12:20:27 +0000",
+      "source": "Cointelegraph",
+      "text": "HTX agrees to halt unlawful UK crypto promotions after FCA case HTX has pledged to stop crypto marketing in the UK until October 2031, with deposits and new account registrations already blocked there."
+    },
+    {
+      "title": "EU investors rank crypto above retirement plans for lasting wealth creation: OKX survey",
+      "link": "https://cointelegraph.com/news/eu-investors-crypto-above-retirement-lasting-wealth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 29 Oct 2026 12:00:00 +0000",
+      "source": "Cointelegraph",
+      "text": "EU investors rank crypto above retirement plans for lasting wealth creation: OKX survey European investors ranked crypto above retirement plans for lasting wealth creation, while prior surveys show US investors are skeptical on crypto’s role in retirement accounts."
+    },
+    {
+      "title": "Coinbase seeks Brazil crypto license, expects no service disruption",
+      "link": "https://cointelegraph.com/news/coinbase-brazil-license-no-service-disruption-expected?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 29 Oct 2026 12:00:00 +0000",
+      "source": "Cointelegraph",
+      "text": "Coinbase seeks Brazil crypto license, expects no service disruption Coinbase has applied for authorization ahead of Brazil’s Oct. 30 deadline and says it expects to maintain existing services while regulators review its application."
+    },
+    {
+      "title": "Bitcoin lending and yield could drive next wave of institutional demand, Rootstock says",
+      "link": "https://cointelegraph.com/news/bitcoin-lending-and-yield-could-drive-next-wave-of-institutional-demand-rootstock-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 29 Oct 2026 12:00:00 +0000",
+      "source": "Cointelegraph",
+      "text": "Bitcoin lending and yield could drive next wave of institutional demand, Rootstock says A new report argues that putting institutional Bitcoin holdings to work through lending, collateral and financing could create demand beyond its store-of-value role."
+    },
+    {
+      "title": "Bitcoin long-term resistance in focus as analysis sees selling risk above $85K",
+      "link": "https://cointelegraph.com/markets/bitcoin-long-term-resistance-in-focus-as-analysis-sees-selling-risk-above-85k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 29 Oct 2026 10:46:43 +0000",
+      "source": "Cointelegraph",
+      "text": "Bitcoin long-term resistance in focus as analysis sees selling risk above $85K BTC price analysis from Glassnode drew attention to $85,000 as the lower boundary of a cost-basis zone for long-term holders."
+    },
+    {
+      "title": "ECB President Christine Lagarde to step down in February 2027",
+      "link": "https://cointelegraph.com/news/ecb-president-lagarde-step-down-february-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 29 Oct 2026 10:33:00 +0000",
+      "source": "Cointelegraph",
+      "text": "ECB President Christine Lagarde to step down in February 2027 Lagarde announced plans to step down as European Central Bank President after serving more than seven years in the role."
+    },
+    {
+      "title": "Bitcoin ETFs add $137M, pushing October back into the green",
+      "link": "https://cointelegraph.com/markets/bitcoin-etf-137-million-october-back-green?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 29 Oct 2026 07:32:20 +0000",
+      "source": "Cointelegraph",
+      "text": "Bitcoin ETFs add $137M, pushing October back into the green Bitcoin ETFs drew $424 million over three days, lifting October net inflows to $111 million despite a hawkish Federal Reserve decision and weaker crypto sentiment."
     },
     {
       "title": "Your fridge could one day stake Ether, launch memecoins: CFTC chair",
@@ -414,90 +468,6 @@
       "published": "Wed, 28 Oct 2026 17:05:42 +0000",
       "source": "Cointelegraph",
       "text": "Crypto PAC spending before midterms possibly obscured after reported FEC hack The FEC reported an “electronic filing system outage” on Tuesday as groups are expected to ramp up spending before the US midterm elections."
-    },
-    {
-      "title": "Bitcoin price bounce rejected at 50-day trend line ahead of FOMC, earnings",
-      "link": "https://cointelegraph.com/markets/bitcoin-price-bounce-rejected-at-50-day-trend-line-ahead-of-fomc-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 28 Oct 2026 16:53:26 +0000",
-      "source": "Cointelegraph",
-      "text": "Bitcoin price bounce rejected at 50-day trend line ahead of FOMC, earnings Bitcoin failed to move past its 50-day simple moving average as market participants awaited the outcome of the FOMC meeting and key tech earnings."
-    },
-    {
-      "title": "Phantom launches Kalshi-powered prediction markets for US users",
-      "link": "https://cointelegraph.com/news/phantom-launches-kalshi-powered-prediction-markets-for-us-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 28 Oct 2026 16:40:02 +0000",
-      "source": "Cointelegraph",
-      "text": "Phantom launches Kalshi-powered prediction markets for US users The crypto wallet’s new integration offers CFTC-regulated event contracts through Kalshi, as prediction markets face growing legal challenges in the US."
-    },
-    {
-      "title": "Google Cloud outlines MPC service for institutional Bitcoin custody",
-      "link": "https://cointelegraph.com/news/google-cloud-mpc-service-bitcoin-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 28 Oct 2026 13:47:51 +0000",
-      "source": "Cointelegraph",
-      "text": "Google Cloud outlines MPC service for institutional Bitcoin custody Google Cloud has detailed its preview MPC service for institutional Bitcoin custody as it holds a New York symposium focused on digital asset security."
-    },
-    {
-      "title": "Cybersecurity’s Black October: How to protect yourself",
-      "link": "https://cointelegraph.com/magazine/cybersecuritys-black-october-how-to-protect-yourself?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 28 Oct 2026 13:30:00 +0000",
-      "source": "Cointelegraph",
-      "text": "Cybersecurity’s Black October: How to protect yourself Each day brings news of another AI-powered attack, or a newly discovered vulnerability. Here’s what’s happening and how ordinary people can protect themselves online."
-    },
-    {
-      "title": "DTCC unit launches tokenization services",
-      "link": "https://cointelegraph.com/news/dtcc-subsidiary-launches-tokenization-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 28 Oct 2026 13:19:00 +0000",
-      "source": "Cointelegraph",
-      "text": "DTCC unit launches tokenization services The post-trade market infrastructure provider said the tokenization services will create a “practical path” for tokenized securities adoption."
-    },
-    {
-      "title": "Settlement concerns prompt Euronext to halt CoinShares’ Zcash ETP ahead of debut",
-      "link": "https://cointelegraph.com/news/euronext-suspends-coinshares-zcash-etp-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 28 Oct 2026 11:24:07 +0000",
-      "source": "Cointelegraph",
-      "text": "Settlement concerns prompt Euronext to halt CoinShares’ Zcash ETP ahead of debut A Euronext spokesperson told Cointelegraph the suspension was due to “operational settlement requirements” and remains in effect until settlement operations are supported by the CSD."
-    },
-    {
-      "title": "Mirae Asset Securities issues tokenized notes on Solana",
-      "link": "https://cointelegraph.com/news/mirae-asset-securities-tokenized-notes-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 28 Oct 2026 11:05:33 +0000",
-      "source": "Cointelegraph",
-      "text": "Mirae Asset Securities issues tokenized notes on Solana The company’s Hong Kong unit issued six-month notes under its $3 billion program, extending blockchain-based distribution to institutional investors."
-    },
-    {
-      "title": "Bitcoin price eyes $82K as Morgan Stanley strategist says most of correction is over",
-      "link": "https://cointelegraph.com/markets/bitcoin-price-eyes-82k-as-morgan-stanley-strategist-says-most-of-correction-is-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 28 Oct 2026 09:56:00 +0000",
-      "source": "Cointelegraph",
-      "text": "Bitcoin price eyes $82K as Morgan Stanley strategist says most of correction is over Bitcoin sought to rebuild support at $80,000 while Asian and US tech stocks extended a rebound into key corporate earnings releases."
-    },
-    {
-      "title": "Bitcoin ETF inflows climb to $176M as BTC rebounds above $80K",
-      "link": "https://cointelegraph.com/markets/bitcoin-etf-176-million-inflow-sentiment-rebounds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 28 Oct 2026 07:57:18 +0000",
-      "source": "Cointelegraph",
-      "text": "Bitcoin ETF inflows climb to $176M as BTC rebounds above $80K US spot Bitcoin ETFs drew $286 million over two days, narrowing October’s net outflows to $26 million as the Crypto Fear & Greed Index remained neutral."
-    },
-    {
-      "title": "Coinbase denies systems breach, says vendor exposed customer data",
-      "link": "https://cointelegraph.com/news/coinbase-analytics-provider-customer-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 28 Oct 2026 07:42:55 +0000",
-      "source": "Cointelegraph",
-      "text": "Coinbase denies systems breach, says vendor exposed customer data Coinbase said that an incident at analytics vendor Amplitude exposed some customers’ contact data, but it found no evidence of unauthorized access to its own systems."
-    },
-    {
-      "title": "Robinhood’s Tenev warns US tokenization uncertainty deters ‘serious assets’",
-      "link": "https://cointelegraph.com/news/robinhoods-tenev-warns-us-tokenization-uncertainty-deters-serious-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 28 Oct 2026 03:55:57 +0000",
-      "source": "Cointelegraph",
-      "text": "Robinhood’s Tenev warns US tokenization uncertainty deters ‘serious assets’ Robinhood CEO Vlad Tenev says tokenized equities need more than a temporary SEC exemption to flourish in the US."
-    },
-    {
-      "title": "Bithumb discloses data leak after internal system breach: Report",
-      "link": "https://cointelegraph.com/news/bithumb-discloses-data-leak-after-internal-system-breach-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 28 Oct 2026 02:18:47 +0000",
-      "source": "Cointelegraph",
-      "text": "Bithumb discloses data leak after internal system breach: Report The breach impacted its in-house mobile system, used by employees for work and information sharing."
     }
   ],
   "paper": {
@@ -653,12 +623,22 @@
         "mode": "PAPER ONLY"
       },
       {
-        "symbol": "PEPEUSDT",
+        "symbol": "ZECUSDT",
         "side": "BUY",
-        "entry": 5.07e-06,
-        "stopLoss": 4.9939e-06,
-        "takeProfit": 5.2221e-06,
-        "entryTime": "2026-10-28T21:23:32.368023+00:00",
+        "entry": 1278.9,
+        "stopLoss": 1259.7165,
+        "takeProfit": 1317.267,
+        "entryTime": "2026-10-29T13:59:50.073943+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "PEPEUSDT",
+        "side": "SELL",
+        "entry": 4.88e-06,
+        "stopLoss": 4.9532e-06,
+        "takeProfit": 4.7336e-06,
+        "entryTime": "2026-10-29T13:59:50.073943+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       }
@@ -1326,6 +1306,19 @@
         "exitPrice": 1.2944,
         "exitTime": "2026-10-29T06:59:16.778580+00:00",
         "pnlPercent": -2.859
+      },
+      {
+        "symbol": "PEPEUSDT",
+        "side": "BUY",
+        "entry": 5.07e-06,
+        "stopLoss": 4.9939e-06,
+        "takeProfit": 5.2221e-06,
+        "entryTime": "2026-10-28T21:23:32.368023+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 4.88e-06,
+        "exitTime": "2026-10-29T13:59:50.073943+00:00",
+        "pnlPercent": -3.748
       }
     ]
   },
