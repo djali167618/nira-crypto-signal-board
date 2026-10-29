@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-29 13:59:50 UTC",
+  "generatedAt": "2026-10-29 19:28:30 UTC",
   "interval": "15m candles",
-  "marketSentiment": 1,
-  "overallNewsScore": 0,
+  "marketSentiment": 13,
+  "overallNewsScore": 33,
   "fearGreed": {
     "value": 51,
     "label": "Neutral",
@@ -12,21 +12,28 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 80358.01,
-      "change24h": -0.473,
-      "volume24h": 1114083802.6447136,
+      "price": 80846.0,
+      "change24h": -0.374,
+      "volume24h": 1224476303.587996,
       "technical": {
-        "rsi": 40.8,
-        "ema9": 80114.66067948565,
-        "ema21": 80132.93927382692,
+        "rsi": 48.2,
+        "ema9": 80903.23536569953,
+        "ema21": 80911.17557964439,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 2.43,
-        "score": 6
+        "volumeRatio": 0.49,
+        "score": 23
       },
-      "newsScore": 20,
+      "newsScore": 13,
       "newsCount": 5,
       "news": [
+        {
+          "title": "Bitcoin price jumps to $81.5K as US GDP data beats expectations",
+          "link": "https://cointelegraph.com/markets/bitcoin-reaction-to-pce-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Thu, 29 Oct 2026 15:39:54 +0000",
+          "source": "Cointelegraph",
+          "text": "Bitcoin price jumps to $81.5K as US GDP data beats expectations BTC price action returned to a key weekly resistance level as US stock markets digested Alphabet’s Q3 earnings miss."
+        },
         {
           "title": "Here’s what happened in crypto today",
           "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -54,36 +61,29 @@
           "published": "Thu, 29 Oct 2026 10:46:43 +0000",
           "source": "Cointelegraph",
           "text": "Bitcoin long-term resistance in focus as analysis sees selling risk above $85K BTC price analysis from Glassnode drew attention to $85,000 as the lower boundary of a cost-basis zone for long-term holders."
-        },
-        {
-          "title": "Bitcoin ETFs add $137M, pushing October back into the green",
-          "link": "https://cointelegraph.com/markets/bitcoin-etf-137-million-october-back-green?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Thu, 29 Oct 2026 07:32:20 +0000",
-          "source": "Cointelegraph",
-          "text": "Bitcoin ETFs add $137M, pushing October back into the green Bitcoin ETFs drew $424 million over three days, lifting October net inflows to $111 million despite a hawkish Federal Reserve decision and weaker crypto sentiment."
         }
       ],
-      "marketSentiment": 1,
-      "combinedScore": 31,
-      "signal": "SELL",
-      "reason": "Technical 6/100; News +20; Market sentiment +1."
+      "marketSentiment": 13,
+      "combinedScore": 40,
+      "signal": "WAIT",
+      "reason": "Technical 23/100; News +13; Market sentiment +13."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2328.72,
-      "change24h": -0.314,
-      "volume24h": 472710666.04871,
+      "price": 2330.66,
+      "change24h": -1.102,
+      "volume24h": 544863708.938165,
       "technical": {
-        "rsi": 43.0,
-        "ema9": 2323.2698117168434,
-        "ema21": 2322.4772611768894,
+        "rsi": 39.9,
+        "ema9": 2337.394228688893,
+        "ema21": 2340.5223713274167,
         "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 2.6,
-        "score": 36
+        "emaBull": false,
+        "volumeRatio": 0.25,
+        "score": 11
       },
-      "newsScore": 67,
+      "newsScore": 44,
       "newsCount": 3,
       "news": [
         {
@@ -101,58 +101,81 @@
           "text": "Your fridge could one day stake Ether, launch memecoins: CFTC chair CFTC chair Mike Selig says autonomous AI agents could challenge financial rules built around human traders, and regulators need to adapt."
         },
         {
-          "title": "Security failure at Indian certificate firm bites Ethereum as developers rush out fixes",
-          "link": "https://www.coindesk.com/tech/2026/10/29/ethereum-clients-patch-flaw-that-could-let-attackers-redirect-eth-rewards",
-          "published": "Thu, 29 Oct 2026 05:30:34 +0000",
+          "title": "Why Switzerland’s first genuine spot bitcoin ETF could soon attract overseas banks and brokers",
+          "link": "https://www.coindesk.com/business/2026/10/29/switzerland-s-first-bitcoin-etf-gets-rare-exemption-will-open-to-overseas-brokers",
+          "published": "Thu, 29 Oct 2026 14:15:46 +0000",
           "source": "CoinDesk",
-          "text": "Security failure at Indian certificate firm bites Ethereum as developers rush out fixes A key blunder at Indian certificate issuer eMudhra left some Teku and Besu setups trusting forged certificates. Default mainnet nodes weren’t exposed."
+          "text": "Why Switzerland’s first genuine spot bitcoin ETF could soon attract overseas banks and brokers SIX Swiss Exchange confirms international access, while FINMA explains why it approved the fund and whether ether and solana ETFs could follow."
         }
       ],
-      "marketSentiment": 1,
-      "combinedScore": 53,
+      "marketSentiment": 13,
+      "combinedScore": 38,
       "signal": "WAIT",
-      "reason": "Technical 36/100; News +67; Market sentiment +1."
+      "reason": "Technical 11/100; News +44; Market sentiment +13."
     },
     {
-      "symbol": "BNBUSDT",
-      "coin": "BNB",
-      "price": 745.08,
-      "change24h": -0.709,
-      "volume24h": 216446924.55187,
+      "symbol": "ZECUSDT",
+      "coin": "ZEC",
+      "price": 1319.34,
+      "change24h": 2.42,
+      "volume24h": 234386866.25817,
       "technical": {
-        "rsi": 43.5,
-        "ema9": 742.261919907199,
-        "ema21": 743.9580286661719,
-        "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.44,
-        "score": 35
+        "rsi": 51.0,
+        "ema9": 1328.1638882964419,
+        "ema21": 1322.8157199024367,
+        "macdBull": false,
+        "emaBull": true,
+        "volumeRatio": 0.32,
+        "score": 53
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": 1,
-      "combinedScore": 43,
+      "marketSentiment": 13,
+      "combinedScore": 53,
       "signal": "WAIT",
-      "reason": "Technical 35/100; News +0; Market sentiment +1."
+      "reason": "Technical 53/100; News +0; Market sentiment +13."
+    },
+    {
+      "symbol": "BNBUSDT",
+      "coin": "BNB",
+      "price": 744.1,
+      "change24h": -0.895,
+      "volume24h": 224997081.60617,
+      "technical": {
+        "rsi": 41.7,
+        "ema9": 745.4817362257113,
+        "ema21": 746.315026973964,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.3,
+        "score": 11
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": 13,
+      "combinedScore": 32,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment +13."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 100.75,
-      "change24h": -0.395,
-      "volume24h": 199863194.94167,
+      "price": 100.26,
+      "change24h": -1.831,
+      "volume24h": 200908382.94853,
       "technical": {
-        "rsi": 47.5,
-        "ema9": 100.50957143682888,
-        "ema21": 100.42261984433904,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 1.81,
-        "score": 72
+        "rsi": 37.1,
+        "ema9": 100.92313780920075,
+        "ema21": 101.16199791902072,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.63,
+        "score": 11
       },
-      "newsScore": 33,
-      "newsCount": 3,
+      "newsScore": 8,
+      "newsCount": 4,
       "news": [
         {
           "title": "Polygon expands Open Money Stack to Solana, after Tron rollout",
@@ -162,11 +185,18 @@
           "text": "Polygon expands Open Money Stack to Solana, after Tron rollout The move follows the addition of Tron support and Polygon’s acquisition of Coinme."
         },
         {
-          "title": "Mirae Asset Securities issues tokenized notes on Solana",
-          "link": "https://cointelegraph.com/news/mirae-asset-securities-tokenized-notes-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Wed, 28 Oct 2026 11:05:33 +0000",
-          "source": "Cointelegraph",
-          "text": "Mirae Asset Securities issues tokenized notes on Solana The company’s Hong Kong unit issued six-month notes under its $3 billion program, extending blockchain-based distribution to institutional investors."
+          "title": "From rivals to partners: Polygon and Solana team to bring stablecoin payments to banks",
+          "link": "https://www.coindesk.com/business/2026/10/29/from-rivals-to-partners-polygon-and-solana-team-to-bring-stablecoin-payments-to-banks",
+          "published": "Thu, 29 Oct 2026 16:35:43 +0000",
+          "source": "CoinDesk",
+          "text": "From rivals to partners: Polygon and Solana team to bring stablecoin payments to banks The two networks are setting aside their rivalry to connect Solana's stablecoin activity with Polygon's banking, wallet and payment infrastructure."
+        },
+        {
+          "title": "Why Switzerland’s first genuine spot bitcoin ETF could soon attract overseas banks and brokers",
+          "link": "https://www.coindesk.com/business/2026/10/29/switzerland-s-first-bitcoin-etf-gets-rare-exemption-will-open-to-overseas-brokers",
+          "published": "Thu, 29 Oct 2026 14:15:46 +0000",
+          "source": "CoinDesk",
+          "text": "Why Switzerland’s first genuine spot bitcoin ETF could soon attract overseas banks and brokers SIX Swiss Exchange confirms international access, while FINMA explains why it approved the fund and whether ether and solana ETFs could follow."
         },
         {
           "title": "Solana wallet Solflare pledges to pay missed rewards on staked $160 million after validator goes offline",
@@ -176,71 +206,48 @@
           "text": "Solana wallet Solflare pledges to pay missed rewards on staked $160 million after validator goes offline About 1.56 million SOL sat on a validator that stopped earning, and the wallet still hasn’t named the firm that held its keys."
         }
       ],
-      "marketSentiment": 1,
-      "combinedScore": 66,
-      "signal": "BUY",
-      "reason": "Technical 72/100; News +33; Market sentiment +1."
+      "marketSentiment": 13,
+      "combinedScore": 33,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +8; Market sentiment +13."
     },
     {
-      "symbol": "ZECUSDT",
-      "coin": "ZEC",
-      "price": 1278.9,
-      "change24h": -0.495,
-      "volume24h": 174849692.65828,
+      "symbol": "PEPEUSDT",
+      "coin": "PEPE",
+      "price": 5.26e-06,
+      "change24h": 6.911,
+      "volume24h": 179430923.966044,
       "technical": {
-        "rsi": 56.1,
-        "ema9": 1272.9885210282414,
-        "ema21": 1265.6600787678262,
-        "macdBull": true,
+        "rsi": 55.1,
+        "ema9": 5.330770614278057e-06,
+        "ema21": 5.266662047819988e-06,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 1.85,
-        "score": 84
+        "volumeRatio": 0.32,
+        "score": 65
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": 1,
-      "combinedScore": 67,
-      "signal": "BUY",
-      "reason": "Technical 84/100; News +0; Market sentiment +1."
-    },
-    {
-      "symbol": "USD1USDT",
-      "coin": "USD1",
-      "price": 1.00011,
-      "change24h": -0.009,
-      "volume24h": 149103639.93299,
-      "technical": {
-        "rsi": 56.9,
-        "ema9": 1.0000862632855845,
-        "ema21": 1.0000606003888164,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.51,
-        "score": 89
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": 1,
-      "combinedScore": 70,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment +1."
+      "marketSentiment": 13,
+      "combinedScore": 59,
+      "signal": "WAIT",
+      "reason": "Technical 65/100; News +0; Market sentiment +13."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 4.457,
-      "change24h": -3.024,
-      "volume24h": 133412608.6019,
+      "price": 4.402,
+      "change24h": -6.34,
+      "volume24h": 156219435.6603,
       "technical": {
-        "rsi": 52.8,
-        "ema9": 4.441427322799962,
-        "ema21": 4.421412647830752,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 1.96,
-        "score": 72
+        "rsi": 35.7,
+        "ema9": 4.467384916346598,
+        "ema21": 4.494692996762924,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.97,
+        "score": 11
       },
       "newsScore": 0,
       "newsCount": 1,
@@ -253,82 +260,160 @@
           "text": "As $10 billion in bitcoin options near expiry, the tell is in the pricing Your day-ahead look for Oct. 29, 2026"
         }
       ],
-      "marketSentiment": 1,
-      "combinedScore": 61,
+      "marketSentiment": 13,
+      "combinedScore": 32,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment +13."
+    },
+    {
+      "symbol": "USD1USDT",
+      "coin": "USD1",
+      "price": 0.99996,
+      "change24h": -0.014,
+      "volume24h": 147675826.28908,
+      "technical": {
+        "rsi": 38.5,
+        "ema9": 1.000010707239667,
+        "ema21": 1.0000428582019771,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.3,
+        "score": 11
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": 13,
+      "combinedScore": 32,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment +13."
+    },
+    {
+      "symbol": "HYPEUSDT",
+      "coin": "HYPE",
+      "price": 93.88,
+      "change24h": 16.059,
+      "volume24h": 124409837.63024,
+      "technical": {
+        "rsi": 59.7,
+        "ema9": 94.76229668872986,
+        "ema21": 93.60479866197628,
+        "macdBull": false,
+        "emaBull": true,
+        "volumeRatio": 0.5,
+        "score": 65
+      },
+      "newsScore": 0,
+      "newsCount": 2,
+      "news": [
+        {
+          "title": "HYPE teases all-time high as NYSE owner ICE eyes US Hyperliquid perps",
+          "link": "https://cointelegraph.com/markets/hype-price-all-time-high-ice-us-hyperliquid-perps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Thu, 29 Oct 2026 17:12:03 +0000",
+          "source": "Cointelegraph",
+          "text": "HYPE teases all-time high as NYSE owner ICE eyes US Hyperliquid perps Hyperliquid’s token pumped following news of ICE and Trade[XYZ] unveiling plans for US perpetual futures."
+        },
+        {
+          "title": "Stanley Druckenmiller's first X post backs Hyperliquid venture after $23 million indirect investment",
+          "link": "https://www.coindesk.com/business/2026/10/29/stanley-druckenmiller-s-first-x-post-backs-hyperliquid-venture-after-usd23-million-indirect-investment",
+          "published": "Thu, 29 Oct 2026 17:04:19 +0000",
+          "source": "CoinDesk",
+          "text": "Stanley Druckenmiller's first X post backs Hyperliquid venture after $23 million indirect investment The billionaire investor disclosed an investment in Trade[XYZ] as the platform teams up with the NYSE's parent company. His family office previously reported owning shares in a HYPE-focused treasury company."
+        }
+      ],
+      "marketSentiment": 13,
+      "combinedScore": 59,
       "signal": "WAIT",
-      "reason": "Technical 72/100; News +0; Market sentiment +1."
+      "reason": "Technical 65/100; News +0; Market sentiment +13."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 1.2924,
-      "change24h": -2.039,
-      "volume24h": 110684041.7884,
+      "price": 1.2833,
+      "change24h": -3.264,
+      "volume24h": 117273812.00249,
       "technical": {
-        "rsi": 41.2,
-        "ema9": 1.2907936446229868,
-        "ema21": 1.2917269251053196,
-        "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 1.61,
-        "score": 30
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": 1,
-      "combinedScore": 40,
-      "signal": "WAIT",
-      "reason": "Technical 30/100; News +0; Market sentiment +1."
-    },
-    {
-      "symbol": "PEPEUSDT",
-      "coin": "PEPE",
-      "price": 4.88e-06,
-      "change24h": 0.412,
-      "volume24h": 103223472.87506726,
-      "technical": {
-        "rsi": 39.0,
-        "ema9": 4.8892978945315175e-06,
-        "ema21": 4.912708785104955e-06,
+        "rsi": 36.8,
+        "ema9": 1.2898537022861085,
+        "ema21": 1.2938560870920528,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 2.46,
-        "score": 6
+        "volumeRatio": 0.71,
+        "score": 11
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": 1,
-      "combinedScore": 28,
+      "marketSentiment": 13,
+      "combinedScore": 32,
       "signal": "SELL",
-      "reason": "Technical 6/100; News +0; Market sentiment +1."
-    },
-    {
-      "symbol": "GOOGLBUSDT",
-      "coin": "GOOGLB",
-      "price": 284.86,
-      "change24h": -12.218,
-      "volume24h": 73631768.84491,
-      "technical": {
-        "rsi": 17.5,
-        "ema9": 287.95951187706004,
-        "ema21": 289.6784430146774,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 4.84,
-        "score": 23
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": 1,
-      "combinedScore": 37,
-      "signal": "WAIT",
-      "reason": "Technical 23/100; News +0; Market sentiment +1."
+      "reason": "Technical 11/100; News +0; Market sentiment +13."
     }
   ],
   "news": [
+    {
+      "title": "Polymarket suspended trading amid reports of user funds being drained",
+      "link": "https://cointelegraph.com/news/polymarket-suspends-trading-user-funds-compromised?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 29 Oct 2026 19:23:03 +0000",
+      "source": "Cointelegraph",
+      "text": "Polymarket suspended trading amid reports of user funds being drained The prediction markets platform halted trading on Thursday after it reported one of its third party providers had been compromised."
+    },
+    {
+      "title": "HYPE teases all-time high as NYSE owner ICE eyes US Hyperliquid perps",
+      "link": "https://cointelegraph.com/markets/hype-price-all-time-high-ice-us-hyperliquid-perps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 29 Oct 2026 17:12:03 +0000",
+      "source": "Cointelegraph",
+      "text": "HYPE teases all-time high as NYSE owner ICE eyes US Hyperliquid perps Hyperliquid’s token pumped following news of ICE and Trade[XYZ] unveiling plans for US perpetual futures."
+    },
+    {
+      "title": "KuCoin suspends services in Russia and Belarus",
+      "link": "https://cointelegraph.com/news/kucoin-services-russia-belarus-suspended?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 29 Oct 2026 17:08:41 +0000",
+      "source": "Cointelegraph",
+      "text": "KuCoin suspends services in Russia and Belarus The exchange cited legal and regulatory compliance in its reason for cutting off services to users based in the two countries, currently the targets of international sanctions."
+    },
+    {
+      "title": "Nasdaq-listed Canton Strategic Holdings plans tokenized stock trading from Nov. 2",
+      "link": "https://cointelegraph.com/news/canton-strategic-holdings-tokenized-stock-trading-november-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 29 Oct 2026 16:27:39 +0000",
+      "source": "Cointelegraph",
+      "text": "Nasdaq-listed Canton Strategic Holdings plans tokenized stock trading from Nov. 2 The tokenized shares would carry the same shareholder rights as traditional stock, with round-the-clock trading and immediate settlement under the SEC’s innovation exemption."
+    },
+    {
+      "title": "Kalshi raises $1B at $40B valuation as non-sports revenue run rate tops $1B",
+      "link": "https://cointelegraph.com/news/kalshi-closes-1b-funding-round-at-40b-valuation-as-non-sports-revenue-run-rate-tops-1b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 29 Oct 2026 15:52:43 +0000",
+      "source": "Cointelegraph",
+      "text": "Kalshi raises $1B at $40B valuation as non-sports revenue run rate tops $1B The funding round comes as Kalshi expands its partnerships with the NBA and S&P Dow Jones Indices while facing legal challenges over its sports contracts."
+    },
+    {
+      "title": "Bitcoin price jumps to $81.5K as US GDP data beats expectations",
+      "link": "https://cointelegraph.com/markets/bitcoin-reaction-to-pce-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 29 Oct 2026 15:39:54 +0000",
+      "source": "Cointelegraph",
+      "text": "Bitcoin price jumps to $81.5K as US GDP data beats expectations BTC price action returned to a key weekly resistance level as US stock markets digested Alphabet’s Q3 earnings miss."
+    },
+    {
+      "title": "French Senate adopts bill for automatic sharing of crypto tax data",
+      "link": "https://cointelegraph.com/news/french-senate-adopts-bill-automatic-crypto-tax-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 29 Oct 2026 15:00:02 +0000",
+      "source": "Cointelegraph",
+      "text": "French Senate adopts bill for automatic sharing of crypto tax data The French Senate adopted a bill authorizing the automatic exchange of crypto-asset tax information between international tax authorities, pending completion of the legislative process."
+    },
+    {
+      "title": "Bank of England opens consultation on tokenized collateral for clearing",
+      "link": "https://cointelegraph.com/news/bank-of-england-opens-consultation-on-tokenized-collateral-for-clearing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 29 Oct 2026 14:27:46 +0000",
+      "source": "Cointelegraph",
+      "text": "Bank of England opens consultation on tokenized collateral for clearing Central counterparties would need to show tokenized collateral meets liquidity and risk tests under proposed Bank of England guidance."
+    },
+    {
+      "title": "Canton Foundation grants RedStone 15.8M Canton Coin for pricing standard",
+      "link": "https://cointelegraph.com/news/canton-foundation-redstone-coin-pricing-standard?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 29 Oct 2026 14:00:00 +0000",
+      "source": "Cointelegraph",
+      "text": "Canton Foundation grants RedStone 15.8M Canton Coin for pricing standard RedStone’s planned pricing tool will let institutions on Canton use shared market prices without exposing deal terms to data providers."
+    },
     {
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -405,69 +490,6 @@
       "published": "Thu, 29 Oct 2026 10:46:43 +0000",
       "source": "Cointelegraph",
       "text": "Bitcoin long-term resistance in focus as analysis sees selling risk above $85K BTC price analysis from Glassnode drew attention to $85,000 as the lower boundary of a cost-basis zone for long-term holders."
-    },
-    {
-      "title": "ECB President Christine Lagarde to step down in February 2027",
-      "link": "https://cointelegraph.com/news/ecb-president-lagarde-step-down-february-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 29 Oct 2026 10:33:00 +0000",
-      "source": "Cointelegraph",
-      "text": "ECB President Christine Lagarde to step down in February 2027 Lagarde announced plans to step down as European Central Bank President after serving more than seven years in the role."
-    },
-    {
-      "title": "Bitcoin ETFs add $137M, pushing October back into the green",
-      "link": "https://cointelegraph.com/markets/bitcoin-etf-137-million-october-back-green?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 29 Oct 2026 07:32:20 +0000",
-      "source": "Cointelegraph",
-      "text": "Bitcoin ETFs add $137M, pushing October back into the green Bitcoin ETFs drew $424 million over three days, lifting October net inflows to $111 million despite a hawkish Federal Reserve decision and weaker crypto sentiment."
-    },
-    {
-      "title": "Your fridge could one day stake Ether, launch memecoins: CFTC chair",
-      "link": "https://cointelegraph.com/news/a-fridge-that-launches-memecoins-cftc-floats-ai-crypto-future?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 29 Oct 2026 04:39:49 +0000",
-      "source": "Cointelegraph",
-      "text": "Your fridge could one day stake Ether, launch memecoins: CFTC chair CFTC chair Mike Selig says autonomous AI agents could challenge financial rules built around human traders, and regulators need to adapt."
-    },
-    {
-      "title": "Tampered Ledger wallets cost Singapore users $2.7M: Police",
-      "link": "https://cointelegraph.com/news/tampered-ledger-wallets-cost-singapore-users-27m-police?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 29 Oct 2026 03:16:32 +0000",
-      "source": "Cointelegraph",
-      "text": "Tampered Ledger wallets cost Singapore users $2.7M: Police Police say at least two cases were reported as early as Sept. 10, nearly a month before the wider incident became public."
-    },
-    {
-      "title": "Fed’s hawkish rate hold keeps pressure on Bitcoin: Analysts",
-      "link": "https://cointelegraph.com/markets/bitcoin-faces-fresh-pressure-after-feds-hawkish-rate-hold-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 29 Oct 2026 01:12:01 +0000",
-      "source": "Cointelegraph",
-      "text": "Fed’s hawkish rate hold keeps pressure on Bitcoin: Analysts Traders are pricing in a 78% chance of a December rate hike, while analysts say Treasury yields, the US dollar and upcoming inflation data could determine Bitcoin’s next move."
-    },
-    {
-      "title": "Canadian ‘crypto king’ case to go to jury as criminal trial winds down",
-      "link": "https://cointelegraph.com/news/canada-crypto-king-jury-criminal-trial-closing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 28 Oct 2026 21:35:52 +0000",
-      "source": "Cointelegraph",
-      "text": "Canadian ‘crypto king’ case to go to jury as criminal trial winds down Aiden Pleterski, facing fraud charges in Canada over his alleged role in a digital asset Ponzi scheme, said that he was innocent at closing."
-    },
-    {
-      "title": "Sam Bankman-Fried wrote to actor portraying him in Netflix series",
-      "link": "https://cointelegraph.com/news/sam-bankman-fried-actor-anthony-boyle-netflix?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 28 Oct 2026 19:10:40 +0000",
-      "source": "Cointelegraph",
-      "text": "Sam Bankman-Fried wrote to actor portraying him in Netflix series The former FTX CEO remains incarcerated as Irish actor Anthony Boyle portrays him in a series about the downfall of the crypto exchange and his relationship with Caroline Ellison."
-    },
-    {
-      "title": "Strategy shareholders approve daily dividends for four preferred stocks",
-      "link": "https://cointelegraph.com/news/strategy-shareholders-approve-daily-dividends-for-four-preferred-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 28 Oct 2026 18:00:54 +0000",
-      "source": "Cointelegraph",
-      "text": "Strategy shareholders approve daily dividends for four preferred stocks The largest Bitcoin treasury company will begin daily dividend payments on STRC in November, with three other preferred securities following in January 2027."
-    },
-    {
-      "title": "Crypto PAC spending before midterms possibly obscured after reported FEC hack",
-      "link": "https://cointelegraph.com/news/crypto-pac-spending-midterms-fec-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 28 Oct 2026 17:05:42 +0000",
-      "source": "Cointelegraph",
-      "text": "Crypto PAC spending before midterms possibly obscured after reported FEC hack The FEC reported an “electronic filing system outage” on Tuesday as groups are expected to ramp up spending before the US midterm elections."
     }
   ],
   "paper": {
@@ -623,22 +645,22 @@
         "mode": "PAPER ONLY"
       },
       {
-        "symbol": "ZECUSDT",
-        "side": "BUY",
-        "entry": 1278.9,
-        "stopLoss": 1259.7165,
-        "takeProfit": 1317.267,
-        "entryTime": "2026-10-29T13:59:50.073943+00:00",
+        "symbol": "NEARUSDT",
+        "side": "SELL",
+        "entry": 4.402,
+        "stopLoss": 4.46803,
+        "takeProfit": 4.26994,
+        "entryTime": "2026-10-29T19:28:30.832110+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       },
       {
-        "symbol": "PEPEUSDT",
+        "symbol": "XRPUSDT",
         "side": "SELL",
-        "entry": 4.88e-06,
-        "stopLoss": 4.9532e-06,
-        "takeProfit": 4.7336e-06,
-        "entryTime": "2026-10-29T13:59:50.073943+00:00",
+        "entry": 1.2833,
+        "stopLoss": 1.3025495,
+        "takeProfit": 1.244801,
+        "entryTime": "2026-10-29T19:28:30.832110+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       }
@@ -1319,6 +1341,32 @@
         "exitPrice": 4.88e-06,
         "exitTime": "2026-10-29T13:59:50.073943+00:00",
         "pnlPercent": -3.748
+      },
+      {
+        "symbol": "ZECUSDT",
+        "side": "BUY",
+        "entry": 1278.9,
+        "stopLoss": 1259.7165,
+        "takeProfit": 1317.267,
+        "entryTime": "2026-10-29T13:59:50.073943+00:00",
+        "status": "TAKE_PROFIT",
+        "mode": "PAPER ONLY",
+        "exitPrice": 1319.34,
+        "exitTime": "2026-10-29T19:28:30.832110+00:00",
+        "pnlPercent": 3.162
+      },
+      {
+        "symbol": "PEPEUSDT",
+        "side": "SELL",
+        "entry": 4.88e-06,
+        "stopLoss": 4.9532e-06,
+        "takeProfit": 4.7336e-06,
+        "entryTime": "2026-10-29T13:59:50.073943+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 5.26e-06,
+        "exitTime": "2026-10-29T19:28:30.832110+00:00",
+        "pnlPercent": -7.787
       }
     ]
   },

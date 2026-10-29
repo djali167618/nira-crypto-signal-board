@@ -151,22 +151,22 @@
       "mode": "PAPER ONLY"
     },
     {
-      "symbol": "ZECUSDT",
-      "side": "BUY",
-      "entry": 1278.9,
-      "stopLoss": 1259.7165,
-      "takeProfit": 1317.267,
-      "entryTime": "2026-10-29T13:59:50.073943+00:00",
+      "symbol": "NEARUSDT",
+      "side": "SELL",
+      "entry": 4.402,
+      "stopLoss": 4.46803,
+      "takeProfit": 4.26994,
+      "entryTime": "2026-10-29T19:28:30.832110+00:00",
       "status": "OPEN",
       "mode": "PAPER ONLY"
     },
     {
-      "symbol": "PEPEUSDT",
+      "symbol": "XRPUSDT",
       "side": "SELL",
-      "entry": 4.88e-06,
-      "stopLoss": 4.9532e-06,
-      "takeProfit": 4.7336e-06,
-      "entryTime": "2026-10-29T13:59:50.073943+00:00",
+      "entry": 1.2833,
+      "stopLoss": 1.3025495,
+      "takeProfit": 1.244801,
+      "entryTime": "2026-10-29T19:28:30.832110+00:00",
       "status": "OPEN",
       "mode": "PAPER ONLY"
     }
@@ -847,6 +847,32 @@
       "exitPrice": 4.88e-06,
       "exitTime": "2026-10-29T13:59:50.073943+00:00",
       "pnlPercent": -3.748
+    },
+    {
+      "symbol": "ZECUSDT",
+      "side": "BUY",
+      "entry": 1278.9,
+      "stopLoss": 1259.7165,
+      "takeProfit": 1317.267,
+      "entryTime": "2026-10-29T13:59:50.073943+00:00",
+      "status": "TAKE_PROFIT",
+      "mode": "PAPER ONLY",
+      "exitPrice": 1319.34,
+      "exitTime": "2026-10-29T19:28:30.832110+00:00",
+      "pnlPercent": 3.162
+    },
+    {
+      "symbol": "PEPEUSDT",
+      "side": "SELL",
+      "entry": 4.88e-06,
+      "stopLoss": 4.9532e-06,
+      "takeProfit": 4.7336e-06,
+      "entryTime": "2026-10-29T13:59:50.073943+00:00",
+      "status": "STOP_LOSS",
+      "mode": "PAPER ONLY",
+      "exitPrice": 5.26e-06,
+      "exitTime": "2026-10-29T19:28:30.832110+00:00",
+      "pnlPercent": -7.787
     }
   ]
 }
