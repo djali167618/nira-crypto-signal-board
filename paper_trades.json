@@ -179,16 +179,6 @@
       "entryTime": "2026-10-28T21:23:32.368023+00:00",
       "status": "OPEN",
       "mode": "PAPER ONLY"
-    },
-    {
-      "symbol": "NEARUSDT",
-      "side": "BUY",
-      "entry": 4.753,
-      "stopLoss": 4.681705,
-      "takeProfit": 4.89559,
-      "entryTime": "2026-10-28T21:23:32.368023+00:00",
-      "status": "OPEN",
-      "mode": "PAPER ONLY"
     }
   ],
   "closed": [
@@ -815,6 +805,19 @@
       "exitPrice": 5.07e-06,
       "exitTime": "2026-10-28T21:23:32.368023+00:00",
       "pnlPercent": -5.187
+    },
+    {
+      "symbol": "NEARUSDT",
+      "side": "BUY",
+      "entry": 4.753,
+      "stopLoss": 4.681705,
+      "takeProfit": 4.89559,
+      "entryTime": "2026-10-28T21:23:32.368023+00:00",
+      "status": "STOP_LOSS",
+      "mode": "PAPER ONLY",
+      "exitPrice": 4.666,
+      "exitTime": "2026-10-29T01:05:33.168537+00:00",
+      "pnlPercent": -1.83
     }
   ]
 }
