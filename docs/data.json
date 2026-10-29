@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-29 19:28:30 UTC",
+  "generatedAt": "2026-10-29 23:29:48 UTC",
   "interval": "15m candles",
-  "marketSentiment": 13,
-  "overallNewsScore": 33,
+  "marketSentiment": 15,
+  "overallNewsScore": 38,
   "fearGreed": {
     "value": 51,
     "label": "Neutral",
@@ -12,34 +12,34 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 80846.0,
-      "change24h": -0.374,
-      "volume24h": 1224476303.587996,
+      "price": 78732.85,
+      "change24h": -3.217,
+      "volume24h": 1809143853.0015335,
       "technical": {
-        "rsi": 48.2,
-        "ema9": 80903.23536569953,
-        "ema21": 80911.17557964439,
+        "rsi": 29.5,
+        "ema9": 79135.61066190721,
+        "ema21": 79640.77037035272,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.49,
-        "score": 23
+        "volumeRatio": 0.75,
+        "score": 11
       },
-      "newsScore": 13,
+      "newsScore": -7,
       "newsCount": 5,
       "news": [
+        {
+          "title": "Here’s what happened in crypto today",
+          "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Thu, 29 Oct 2026 19:58:57 +0000",
+          "source": "Cointelegraph",
+          "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+        },
         {
           "title": "Bitcoin price jumps to $81.5K as US GDP data beats expectations",
           "link": "https://cointelegraph.com/markets/bitcoin-reaction-to-pce-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "published": "Thu, 29 Oct 2026 15:39:54 +0000",
           "source": "Cointelegraph",
           "text": "Bitcoin price jumps to $81.5K as US GDP data beats expectations BTC price action returned to a key weekly resistance level as US stock markets digested Alphabet’s Q3 earnings miss."
-        },
-        {
-          "title": "Here’s what happened in crypto today",
-          "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Thu, 29 Oct 2026 13:51:06 +0000",
-          "source": "Cointelegraph",
-          "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
         },
         {
           "title": "Private, fast USDT is coming to Bitcoin. Can it compete with Ethereum and Tron?",
@@ -63,24 +63,24 @@
           "text": "Bitcoin long-term resistance in focus as analysis sees selling risk above $85K BTC price analysis from Glassnode drew attention to $85,000 as the lower boundary of a cost-basis zone for long-term holders."
         }
       ],
-      "marketSentiment": 13,
-      "combinedScore": 40,
-      "signal": "WAIT",
-      "reason": "Technical 23/100; News +13; Market sentiment +13."
+      "marketSentiment": 15,
+      "combinedScore": 31,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News -7; Market sentiment +15."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2330.66,
-      "change24h": -1.102,
-      "volume24h": 544863708.938165,
+      "price": 2266.74,
+      "change24h": -4.011,
+      "volume24h": 919324863.391165,
       "technical": {
-        "rsi": 39.9,
-        "ema9": 2337.394228688893,
-        "ema21": 2340.5223713274167,
+        "rsi": 33.3,
+        "ema9": 2276.0317810785773,
+        "ema21": 2293.1277132702553,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.25,
+        "volumeRatio": 0.98,
         "score": 11
       },
       "newsScore": 44,
@@ -108,70 +108,47 @@
           "text": "Why Switzerland’s first genuine spot bitcoin ETF could soon attract overseas banks and brokers SIX Swiss Exchange confirms international access, while FINMA explains why it approved the fund and whether ether and solana ETFs could follow."
         }
       ],
-      "marketSentiment": 13,
-      "combinedScore": 38,
+      "marketSentiment": 15,
+      "combinedScore": 39,
       "signal": "WAIT",
-      "reason": "Technical 11/100; News +44; Market sentiment +13."
-    },
-    {
-      "symbol": "ZECUSDT",
-      "coin": "ZEC",
-      "price": 1319.34,
-      "change24h": 2.42,
-      "volume24h": 234386866.25817,
-      "technical": {
-        "rsi": 51.0,
-        "ema9": 1328.1638882964419,
-        "ema21": 1322.8157199024367,
-        "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.32,
-        "score": 53
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": 13,
-      "combinedScore": 53,
-      "signal": "WAIT",
-      "reason": "Technical 53/100; News +0; Market sentiment +13."
+      "reason": "Technical 11/100; News +44; Market sentiment +15."
     },
     {
       "symbol": "BNBUSDT",
       "coin": "BNB",
-      "price": 744.1,
-      "change24h": -0.895,
-      "volume24h": 224997081.60617,
+      "price": 706.52,
+      "change24h": -6.822,
+      "volume24h": 398877473.96251,
       "technical": {
-        "rsi": 41.7,
-        "ema9": 745.4817362257113,
-        "ema21": 746.315026973964,
+        "rsi": 35.1,
+        "ema9": 708.3239795353911,
+        "ema21": 718.6983342539429,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.3,
+        "volumeRatio": 0.84,
         "score": 11
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": 13,
+      "marketSentiment": 15,
       "combinedScore": 32,
       "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment +13."
+      "reason": "Technical 11/100; News +0; Market sentiment +15."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 100.26,
-      "change24h": -1.831,
-      "volume24h": 200908382.94853,
+      "price": 96.63,
+      "change24h": -5.69,
+      "volume24h": 342379696.63463,
       "technical": {
-        "rsi": 37.1,
-        "ema9": 100.92313780920075,
-        "ema21": 101.16199791902072,
+        "rsi": 30.2,
+        "ema9": 97.3245618034994,
+        "ema21": 98.31366107956185,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.63,
+        "volumeRatio": 0.8,
         "score": 11
       },
       "newsScore": 8,
@@ -206,48 +183,94 @@
           "text": "Solana wallet Solflare pledges to pay missed rewards on staked $160 million after validator goes offline About 1.56 million SOL sat on a validator that stopped earning, and the wallet still hasn’t named the firm that held its keys."
         }
       ],
-      "marketSentiment": 13,
+      "marketSentiment": 15,
       "combinedScore": 33,
       "signal": "SELL",
-      "reason": "Technical 11/100; News +8; Market sentiment +13."
+      "reason": "Technical 11/100; News +8; Market sentiment +15."
     },
     {
-      "symbol": "PEPEUSDT",
-      "coin": "PEPE",
-      "price": 5.26e-06,
-      "change24h": 6.911,
-      "volume24h": 179430923.966044,
+      "symbol": "ZECUSDT",
+      "coin": "ZEC",
+      "price": 1247.04,
+      "change24h": -5.245,
+      "volume24h": 285530353.50698,
       "technical": {
-        "rsi": 55.1,
-        "ema9": 5.330770614278057e-06,
-        "ema21": 5.266662047819988e-06,
+        "rsi": 32.8,
+        "ema9": 1257.3570547074144,
+        "ema21": 1276.9372044632432,
         "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.32,
-        "score": 65
+        "emaBull": false,
+        "volumeRatio": 0.93,
+        "score": 11
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": 13,
-      "combinedScore": 59,
+      "marketSentiment": 15,
+      "combinedScore": 32,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment +15."
+    },
+    {
+      "symbol": "PEPEUSDT",
+      "coin": "PEPE",
+      "price": 4.66e-06,
+      "change24h": -7.356,
+      "volume24h": 221425771.8565613,
+      "technical": {
+        "rsi": 24.0,
+        "ema9": 4.64775498118387e-06,
+        "ema21": 4.860704921365058e-06,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 1.24,
+        "score": 28
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": 15,
+      "combinedScore": 40,
       "signal": "WAIT",
-      "reason": "Technical 65/100; News +0; Market sentiment +13."
+      "reason": "Technical 28/100; News +0; Market sentiment +15."
+    },
+    {
+      "symbol": "USD1USDT",
+      "coin": "USD1",
+      "price": 0.99927,
+      "change24h": -0.091,
+      "volume24h": 217736491.64268,
+      "technical": {
+        "rsi": 37.1,
+        "ema9": 0.9995926963558308,
+        "ema21": 0.9996995109083678,
+        "macdBull": true,
+        "emaBull": false,
+        "volumeRatio": 0.9,
+        "score": 35
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": 15,
+      "combinedScore": 44,
+      "signal": "WAIT",
+      "reason": "Technical 35/100; News +0; Market sentiment +15."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 4.402,
-      "change24h": -6.34,
-      "volume24h": 156219435.6603,
+      "price": 4.108,
+      "change24h": -13.479,
+      "volume24h": 205694943.6012,
       "technical": {
-        "rsi": 35.7,
-        "ema9": 4.467384916346598,
-        "ema21": 4.494692996762924,
+        "rsi": 22.0,
+        "ema9": 4.154500901148067,
+        "ema21": 4.2509723915313495,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.97,
-        "score": 11
+        "volumeRatio": 0.8,
+        "score": 28
       },
       "newsScore": 0,
       "newsCount": 1,
@@ -260,48 +283,48 @@
           "text": "As $10 billion in bitcoin options near expiry, the tell is in the pricing Your day-ahead look for Oct. 29, 2026"
         }
       ],
-      "marketSentiment": 13,
-      "combinedScore": 32,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment +13."
+      "marketSentiment": 15,
+      "combinedScore": 40,
+      "signal": "WAIT",
+      "reason": "Technical 28/100; News +0; Market sentiment +15."
     },
     {
-      "symbol": "USD1USDT",
-      "coin": "USD1",
-      "price": 0.99996,
-      "change24h": -0.014,
-      "volume24h": 147675826.28908,
+      "symbol": "XRPUSDT",
+      "coin": "XRP",
+      "price": 1.2447,
+      "change24h": -6.23,
+      "volume24h": 196578621.30097,
       "technical": {
-        "rsi": 38.5,
-        "ema9": 1.000010707239667,
-        "ema21": 1.0000428582019771,
+        "rsi": 30.2,
+        "ema9": 1.250843878256208,
+        "ema21": 1.2622218220879278,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.3,
+        "volumeRatio": 0.82,
         "score": 11
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": 13,
+      "marketSentiment": 15,
       "combinedScore": 32,
       "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment +13."
+      "reason": "Technical 11/100; News +0; Market sentiment +15."
     },
     {
       "symbol": "HYPEUSDT",
       "coin": "HYPE",
-      "price": 93.88,
-      "change24h": 16.059,
-      "volume24h": 124409837.63024,
+      "price": 91.04,
+      "change24h": 12.631,
+      "volume24h": 156967230.12833,
       "technical": {
-        "rsi": 59.7,
-        "ema9": 94.76229668872986,
-        "ema21": 93.60479866197628,
+        "rsi": 39.9,
+        "ema9": 92.20271235182439,
+        "ema21": 92.74682465806073,
         "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.5,
-        "score": 65
+        "emaBull": false,
+        "volumeRatio": 0.84,
+        "score": 11
       },
       "newsScore": 0,
       "newsCount": 2,
@@ -321,36 +344,41 @@
           "text": "Stanley Druckenmiller's first X post backs Hyperliquid venture after $23 million indirect investment The billionaire investor disclosed an investment in Trade[XYZ] as the platform teams up with the NYSE's parent company. His family office previously reported owning shares in a HYPE-focused treasury company."
         }
       ],
-      "marketSentiment": 13,
-      "combinedScore": 59,
-      "signal": "WAIT",
-      "reason": "Technical 65/100; News +0; Market sentiment +13."
-    },
-    {
-      "symbol": "XRPUSDT",
-      "coin": "XRP",
-      "price": 1.2833,
-      "change24h": -3.264,
-      "volume24h": 117273812.00249,
-      "technical": {
-        "rsi": 36.8,
-        "ema9": 1.2898537022861085,
-        "ema21": 1.2938560870920528,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.71,
-        "score": 11
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": 13,
+      "marketSentiment": 15,
       "combinedScore": 32,
       "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment +13."
+      "reason": "Technical 11/100; News +0; Market sentiment +15."
     }
   ],
   "news": [
+    {
+      "title": "Tampered Ledger reported in Singapore a month before news broke: Asia Express",
+      "link": "https://cointelegraph.com/magazine/tampered-ledger-reported-in-singapore-a-month-before-news-broke-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 29 Oct 2026 22:31:07 +0000",
+      "source": "Cointelegraph",
+      "text": "Tampered Ledger reported in Singapore a month before news broke: Asia Express Singapore police say tampered Ledgers started showing up there on September 10. South Korean lawmakers look set to delay the crypto tax law for a fourth time."
+    },
+    {
+      "title": "Live Updates: Binance hit by largest crypto hack in history",
+      "link": "https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 29 Oct 2026 21:24:36 +0000",
+      "source": "Cointelegraph",
+      "text": "Live Updates: Binance hit by largest crypto hack in history Follow live updates as Binance investigates a multibillion-dollar hack and Tether and Circle freeze more than $2.36 billion in stablecoins."
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 29 Oct 2026 19:58:57 +0000",
+      "source": "Cointelegraph",
+      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "title": "Public companies double share of blockchain revenue since 2022: Report",
+      "link": "https://cointelegraph.com/news/public-companies-double-share-of-blockchain-revenue-since-2022-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 29 Oct 2026 19:53:14 +0000",
+      "source": "Cointelegraph",
+      "text": "Public companies double share of blockchain revenue since 2022: Report A new 1kx report finds that public companies are capturing a larger share of blockchain revenue, driven by institutional adoption and real-world applications."
+    },
     {
       "title": "Polymarket suspended trading amid reports of user funds being drained",
       "link": "https://cointelegraph.com/news/polymarket-suspends-trading-user-funds-compromised?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -415,13 +443,6 @@
       "text": "Canton Foundation grants RedStone 15.8M Canton Coin for pricing standard RedStone’s planned pricing tool will let institutions on Canton use shared market prices without exposing deal terms to data providers."
     },
     {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 29 Oct 2026 13:51:06 +0000",
-      "source": "Cointelegraph",
-      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-    },
-    {
       "title": "Brazil’s Halloween eve crypto deadline brings more tricks than treats",
       "link": "https://cointelegraph.com/news/brazil-crypto-license-filing-deadline-hurdles-uncertainty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 29 Oct 2026 13:30:00 +0000",
@@ -469,27 +490,6 @@
       "published": "Thu, 29 Oct 2026 12:00:00 +0000",
       "source": "Cointelegraph",
       "text": "EU investors rank crypto above retirement plans for lasting wealth creation: OKX survey European investors ranked crypto above retirement plans for lasting wealth creation, while prior surveys show US investors are skeptical on crypto’s role in retirement accounts."
-    },
-    {
-      "title": "Coinbase seeks Brazil crypto license, expects no service disruption",
-      "link": "https://cointelegraph.com/news/coinbase-brazil-license-no-service-disruption-expected?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 29 Oct 2026 12:00:00 +0000",
-      "source": "Cointelegraph",
-      "text": "Coinbase seeks Brazil crypto license, expects no service disruption Coinbase has applied for authorization ahead of Brazil’s Oct. 30 deadline and says it expects to maintain existing services while regulators review its application."
-    },
-    {
-      "title": "Bitcoin lending and yield could drive next wave of institutional demand, Rootstock says",
-      "link": "https://cointelegraph.com/news/bitcoin-lending-and-yield-could-drive-next-wave-of-institutional-demand-rootstock-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 29 Oct 2026 12:00:00 +0000",
-      "source": "Cointelegraph",
-      "text": "Bitcoin lending and yield could drive next wave of institutional demand, Rootstock says A new report argues that putting institutional Bitcoin holdings to work through lending, collateral and financing could create demand beyond its store-of-value role."
-    },
-    {
-      "title": "Bitcoin long-term resistance in focus as analysis sees selling risk above $85K",
-      "link": "https://cointelegraph.com/markets/bitcoin-long-term-resistance-in-focus-as-analysis-sees-selling-risk-above-85k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 29 Oct 2026 10:46:43 +0000",
-      "source": "Cointelegraph",
-      "text": "Bitcoin long-term resistance in focus as analysis sees selling risk above $85K BTC price analysis from Glassnode drew attention to $85,000 as the lower boundary of a cost-basis zone for long-term holders."
     }
   ],
   "paper": {
@@ -555,32 +555,12 @@
         "mode": "PAPER ONLY"
       },
       {
-        "symbol": "BTCUSDT",
-        "side": "SELL",
-        "entry": 81347.32,
-        "stopLoss": 82567.5298,
-        "takeProfit": 78906.9004,
-        "entryTime": "2026-10-22T17:27:00.895700+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
         "symbol": "XAUTUSDT",
         "side": "SELL",
         "entry": 4046.96,
         "stopLoss": 4107.6644,
         "takeProfit": 3925.5512,
         "entryTime": "2026-10-22T17:27:00.895700+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
-        "symbol": "SOLUSDT",
-        "side": "SELL",
-        "entry": 102.21,
-        "stopLoss": 103.74315,
-        "takeProfit": 99.1437,
-        "entryTime": "2026-10-24T01:37:42.164364+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       },
@@ -605,16 +585,6 @@
         "mode": "PAPER ONLY"
       },
       {
-        "symbol": "ETHUSDT",
-        "side": "BUY",
-        "entry": 2346.4,
-        "stopLoss": 2311.204,
-        "takeProfit": 2416.792,
-        "entryTime": "2026-10-27T16:02:10.593913+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
         "symbol": "ENAUSDT",
         "side": "BUY",
         "entry": 0.2124,
@@ -635,32 +605,62 @@
         "mode": "PAPER ONLY"
       },
       {
-        "symbol": "BNBUSDT",
+        "symbol": "BTCUSDT",
         "side": "SELL",
-        "entry": 747.37,
-        "stopLoss": 758.58055,
-        "takeProfit": 724.9489,
-        "entryTime": "2026-10-28T16:51:43.723546+00:00",
+        "entry": 78732.85,
+        "stopLoss": 79913.84275,
+        "takeProfit": 76370.8645,
+        "entryTime": "2026-10-29T23:29:48.238528+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       },
       {
-        "symbol": "NEARUSDT",
+        "symbol": "BNBUSDT",
         "side": "SELL",
-        "entry": 4.402,
-        "stopLoss": 4.46803,
-        "takeProfit": 4.26994,
-        "entryTime": "2026-10-29T19:28:30.832110+00:00",
+        "entry": 706.52,
+        "stopLoss": 717.1178,
+        "takeProfit": 685.3244,
+        "entryTime": "2026-10-29T23:29:48.238528+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "SOLUSDT",
+        "side": "SELL",
+        "entry": 96.63,
+        "stopLoss": 98.07945,
+        "takeProfit": 93.7311,
+        "entryTime": "2026-10-29T23:29:48.238528+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "ZECUSDT",
+        "side": "SELL",
+        "entry": 1247.04,
+        "stopLoss": 1265.7456,
+        "takeProfit": 1209.6288,
+        "entryTime": "2026-10-29T23:29:48.238528+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       },
       {
         "symbol": "XRPUSDT",
         "side": "SELL",
-        "entry": 1.2833,
-        "stopLoss": 1.3025495,
-        "takeProfit": 1.244801,
-        "entryTime": "2026-10-29T19:28:30.832110+00:00",
+        "entry": 1.2447,
+        "stopLoss": 1.2633705,
+        "takeProfit": 1.207359,
+        "entryTime": "2026-10-29T23:29:48.238528+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "HYPEUSDT",
+        "side": "SELL",
+        "entry": 91.04,
+        "stopLoss": 92.4056,
+        "takeProfit": 88.3088,
+        "entryTime": "2026-10-29T23:29:48.238528+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       }
@@ -1367,6 +1367,84 @@
         "exitPrice": 5.26e-06,
         "exitTime": "2026-10-29T19:28:30.832110+00:00",
         "pnlPercent": -7.787
+      },
+      {
+        "symbol": "BTCUSDT",
+        "side": "SELL",
+        "entry": 81347.32,
+        "stopLoss": 82567.5298,
+        "takeProfit": 78906.9004,
+        "entryTime": "2026-10-22T17:27:00.895700+00:00",
+        "status": "TAKE_PROFIT",
+        "mode": "PAPER ONLY",
+        "exitPrice": 78732.85,
+        "exitTime": "2026-10-29T23:29:48.238528+00:00",
+        "pnlPercent": 3.214
+      },
+      {
+        "symbol": "SOLUSDT",
+        "side": "SELL",
+        "entry": 102.21,
+        "stopLoss": 103.74315,
+        "takeProfit": 99.1437,
+        "entryTime": "2026-10-24T01:37:42.164364+00:00",
+        "status": "TAKE_PROFIT",
+        "mode": "PAPER ONLY",
+        "exitPrice": 96.63,
+        "exitTime": "2026-10-29T23:29:48.238528+00:00",
+        "pnlPercent": 5.459
+      },
+      {
+        "symbol": "ETHUSDT",
+        "side": "BUY",
+        "entry": 2346.4,
+        "stopLoss": 2311.204,
+        "takeProfit": 2416.792,
+        "entryTime": "2026-10-27T16:02:10.593913+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 2266.74,
+        "exitTime": "2026-10-29T23:29:48.238528+00:00",
+        "pnlPercent": -3.395
+      },
+      {
+        "symbol": "BNBUSDT",
+        "side": "SELL",
+        "entry": 747.37,
+        "stopLoss": 758.58055,
+        "takeProfit": 724.9489,
+        "entryTime": "2026-10-28T16:51:43.723546+00:00",
+        "status": "TAKE_PROFIT",
+        "mode": "PAPER ONLY",
+        "exitPrice": 706.52,
+        "exitTime": "2026-10-29T23:29:48.238528+00:00",
+        "pnlPercent": 5.466
+      },
+      {
+        "symbol": "NEARUSDT",
+        "side": "SELL",
+        "entry": 4.402,
+        "stopLoss": 4.46803,
+        "takeProfit": 4.26994,
+        "entryTime": "2026-10-29T19:28:30.832110+00:00",
+        "status": "TAKE_PROFIT",
+        "mode": "PAPER ONLY",
+        "exitPrice": 4.108,
+        "exitTime": "2026-10-29T23:29:48.238528+00:00",
+        "pnlPercent": 6.679
+      },
+      {
+        "symbol": "XRPUSDT",
+        "side": "SELL",
+        "entry": 1.2833,
+        "stopLoss": 1.3025495,
+        "takeProfit": 1.244801,
+        "entryTime": "2026-10-29T19:28:30.832110+00:00",
+        "status": "TAKE_PROFIT",
+        "mode": "PAPER ONLY",
+        "exitPrice": 1.2447,
+        "exitTime": "2026-10-29T23:29:48.238528+00:00",
+        "pnlPercent": 3.008
       }
     ]
   },
