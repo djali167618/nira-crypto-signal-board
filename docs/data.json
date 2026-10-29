@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29 01:05:33 UTC",
+  "generatedAt": "2026-10-29 06:59:16 UTC",
   "interval": "15m candles",
   "marketSentiment": 3,
   "overallNewsScore": 5,
@@ -12,17 +12,17 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 81038.0,
-      "change24h": 0.434,
-      "volume24h": 1042825337.6063492,
+      "price": 79968.0,
+      "change24h": -1.138,
+      "volume24h": 1148638394.7814605,
       "technical": {
-        "rsi": 45.7,
-        "ema9": 81237.72548289517,
-        "ema21": 81219.16311781574,
-        "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.67,
-        "score": 53
+        "rsi": 38.1,
+        "ema9": 80151.92671903125,
+        "ema21": 80254.38261118314,
+        "macdBull": true,
+        "emaBull": false,
+        "volumeRatio": 0.51,
+        "score": 35
       },
       "newsScore": 33,
       "newsCount": 5,
@@ -30,9 +30,16 @@
         {
           "title": "Here’s what happened in crypto today",
           "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Wed, 28 Oct 2026 19:46:45 +0000",
+          "published": "Thu, 29 Oct 2026 06:00:00 +0000",
           "source": "Cointelegraph",
           "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+        },
+        {
+          "title": "Fed’s hawkish rate hold keeps pressure on Bitcoin: Analysts",
+          "link": "https://cointelegraph.com/markets/bitcoin-faces-fresh-pressure-after-feds-hawkish-rate-hold-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Thu, 29 Oct 2026 01:12:01 +0000",
+          "source": "Cointelegraph",
+          "text": "Fed’s hawkish rate hold keeps pressure on Bitcoin: Analysts Traders are pricing in a 78% chance of a December rate hike, while analysts say Treasury yields, the US dollar and upcoming inflation data could determine Bitcoin’s next move."
         },
         {
           "title": "Strategy shareholders approve daily dividends for four preferred stocks",
@@ -54,44 +61,51 @@
           "published": "Wed, 28 Oct 2026 13:47:51 +0000",
           "source": "Cointelegraph",
           "text": "Google Cloud outlines MPC service for institutional Bitcoin custody Google Cloud has detailed its preview MPC service for institutional Bitcoin custody as it holds a New York symposium focused on digital asset security."
-        },
-        {
-          "title": "Bitcoin price eyes $82K as Morgan Stanley strategist says most of correction is over",
-          "link": "https://cointelegraph.com/markets/bitcoin-price-eyes-82k-as-morgan-stanley-strategist-says-most-of-correction-is-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Wed, 28 Oct 2026 09:56:00 +0000",
-          "source": "Cointelegraph",
-          "text": "Bitcoin price eyes $82K as Morgan Stanley strategist says most of correction is over Bitcoin sought to rebuild support at $80,000 while Asian and US tech stocks extended a rebound into key corporate earnings releases."
         }
       ],
       "marketSentiment": 3,
-      "combinedScore": 57,
+      "combinedScore": 48,
       "signal": "WAIT",
-      "reason": "Technical 53/100; News +33; Market sentiment +3."
+      "reason": "Technical 35/100; News +33; Market sentiment +3."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2350.73,
-      "change24h": 0.309,
-      "volume24h": 416944793.844401,
+      "price": 2313.85,
+      "change24h": -1.61,
+      "volume24h": 495351922.657859,
       "technical": {
-        "rsi": 46.6,
-        "ema9": 2358.056825218414,
-        "ema21": 2357.6399608481884,
-        "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.2,
-        "score": 53
+        "rsi": 39.9,
+        "ema9": 2319.3042349709685,
+        "ema21": 2322.6993394545975,
+        "macdBull": true,
+        "emaBull": false,
+        "volumeRatio": 0.61,
+        "score": 35
       },
-      "newsScore": 0,
-      "newsCount": 2,
+      "newsScore": 50,
+      "newsCount": 4,
       "news": [
+        {
+          "title": "Your fridge could one day stake Ether, launch memecoins: CFTC chair",
+          "link": "https://cointelegraph.com/news/a-fridge-that-launches-memecoins-cftc-floats-ai-crypto-future?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Thu, 29 Oct 2026 04:39:49 +0000",
+          "source": "Cointelegraph",
+          "text": "Your fridge could one day stake Ether, launch memecoins: CFTC chair CFTC chair Mike Selig says autonomous AI agents could challenge financial rules built around human traders, and regulators need to adapt."
+        },
         {
           "title": "Crypto could outperform AI stocks: Wall Street veteran Jordi Visser",
           "link": "https://cointelegraph.com/magazine/crypto-could-outperform-ai-stocks-wall-street-veteran-jordi-visser?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "published": "Tue, 27 Oct 2026 13:30:00 +0000",
           "source": "Cointelegraph",
           "text": "Crypto could outperform AI stocks: Wall Street veteran Jordi Visser Former Morgan Stanley and Weiss executive Jordi Visser says AI agents are boosting demand for crypto as he expands his holdings beyond Bitcoin, Ether and Solana."
+        },
+        {
+          "title": "Security failure at Indian certificate firm bites Ethereum as developers rush out fixes",
+          "link": "https://www.coindesk.com/tech/2026/10/29/ethereum-clients-patch-flaw-that-could-let-attackers-redirect-eth-rewards",
+          "published": "Thu, 29 Oct 2026 05:30:34 +0000",
+          "source": "CoinDesk",
+          "text": "Security failure at Indian certificate firm bites Ethereum as developers rush out fixes A key blunder at Indian certificate issuer eMudhra left some Teku and Besu setups trusting forged certificates. Default mainnet nodes weren’t exposed."
         },
         {
           "title": "Google to preview crypto custody security system as AI threats grow",
@@ -102,24 +116,24 @@
         }
       ],
       "marketSentiment": 3,
-      "combinedScore": 52,
+      "combinedScore": 50,
       "signal": "WAIT",
-      "reason": "Technical 53/100; News +0; Market sentiment +3."
+      "reason": "Technical 35/100; News +50; Market sentiment +3."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 101.8,
-      "change24h": 0.623,
-      "volume24h": 189606971.46683,
+      "price": 100.09,
+      "change24h": -1.815,
+      "volume24h": 215995284.08072,
       "technical": {
-        "rsi": 41.3,
-        "ema9": 102.25155766793495,
-        "ema21": 102.27625164520454,
-        "macdBull": false,
+        "rsi": 40.1,
+        "ema9": 100.20750412698578,
+        "ema21": 100.39202869057524,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.46,
-        "score": 11
+        "volumeRatio": 0.86,
+        "score": 35
       },
       "newsScore": 0,
       "newsCount": 3,
@@ -147,112 +161,119 @@
         }
       ],
       "marketSentiment": 3,
-      "combinedScore": 31,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment +3."
+      "combinedScore": 43,
+      "signal": "WAIT",
+      "reason": "Technical 35/100; News +0; Market sentiment +3."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 1294.91,
-      "change24h": -0.405,
-      "volume24h": 153055715.32226,
+      "price": 1245.87,
+      "change24h": -4.581,
+      "volume24h": 174351821.81994,
       "technical": {
-        "rsi": 46.5,
-        "ema9": 1305.6569122841624,
-        "ema21": 1302.827323747351,
-        "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.57,
-        "score": 53
-      },
-      "newsScore": 0,
-      "newsCount": 1,
-      "news": [
-        {
-          "title": "Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%",
-          "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-nears-usd81-000-ahead-of-fed-decision-as-zec-jumps-8",
-          "published": "Wed, 28 Oct 2026 04:15:20 +0000",
-          "source": "CoinDesk",
-          "text": "Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8% Majors outpaced bitcoin across the board as tech stocks extended a climb."
-        }
-      ],
-      "marketSentiment": 3,
-      "combinedScore": 52,
-      "signal": "WAIT",
-      "reason": "Technical 53/100; News +0; Market sentiment +3."
-    },
-    {
-      "symbol": "USD1USDT",
-      "coin": "USD1",
-      "price": 1.00011,
-      "change24h": -0.004,
-      "volume24h": 121476297.87012,
-      "technical": {
-        "rsi": 45.2,
-        "ema9": 1.000136195257459,
-        "ema21": 1.0001403405633813,
-        "macdBull": false,
+        "rsi": 37.7,
+        "ema9": 1248.168774361916,
+        "ema21": 1254.37335847713,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 1.56,
-        "score": 28
+        "volumeRatio": 0.55,
+        "score": 35
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": 3,
-      "combinedScore": 39,
+      "combinedScore": 43,
       "signal": "WAIT",
-      "reason": "Technical 28/100; News +0; Market sentiment +3."
+      "reason": "Technical 35/100; News +0; Market sentiment +3."
     },
     {
-      "symbol": "PEPEUSDT",
-      "coin": "PEPE",
-      "price": 5.05e-06,
-      "change24h": 9.783,
-      "volume24h": 116353371.04488882,
+      "symbol": "USD1USDT",
+      "coin": "USD1",
+      "price": 0.99992,
+      "change24h": -0.029,
+      "volume24h": 141356986.23524,
       "technical": {
-        "rsi": 55.4,
-        "ema9": 5.056552291641648e-06,
-        "ema21": 5.029158505957177e-06,
+        "rsi": 34.2,
+        "ema9": 0.9999469969552949,
+        "ema21": 0.9999815619965381,
         "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.37,
-        "score": 65
+        "emaBull": false,
+        "volumeRatio": 0.65,
+        "score": 11
       },
       "newsScore": 0,
-      "newsCount": 1,
-      "news": [
-        {
-          "title": "Bitcoin rebounds above $81,000 as Asian chip rally spills into crypto, pepe jumps 9%",
-          "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-rebounds-above-usd81-000-as-asian-chip-rally-spills-into-crypto-pepe-jumps-9",
-          "published": "Wed, 28 Oct 2026 11:32:31 +0000",
-          "source": "CoinDesk",
-          "text": "Bitcoin rebounds above $81,000 as Asian chip rally spills into crypto, pepe jumps 9% Bitcoin rose above $81,400 as Asian chip stocks rallied, with frog-themed memecoin pepe adding 9%."
-        }
-      ],
+      "newsCount": 0,
+      "news": [],
       "marketSentiment": 3,
-      "combinedScore": 58,
+      "combinedScore": 31,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment +3."
+    },
+    {
+      "symbol": "BNBUSDT",
+      "coin": "BNB",
+      "price": 752.22,
+      "change24h": 1.022,
+      "volume24h": 127046417.24148,
+      "technical": {
+        "rsi": 49.0,
+        "ema9": 753.8106323341187,
+        "ema21": 753.0039588887088,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 2.17,
+        "score": 72
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": 3,
+      "combinedScore": 61,
       "signal": "WAIT",
-      "reason": "Technical 65/100; News +0; Market sentiment +3."
+      "reason": "Technical 72/100; News +0; Market sentiment +3."
+    },
+    {
+      "symbol": "NEARUSDT",
+      "coin": "NEAR",
+      "price": 4.346,
+      "change24h": -7.374,
+      "volume24h": 115850037.253,
+      "technical": {
+        "rsi": 29.9,
+        "ema9": 4.456778113349497,
+        "ema21": 4.489773895017027,
+        "macdBull": true,
+        "emaBull": false,
+        "volumeRatio": 6.74,
+        "score": 30
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": 3,
+      "combinedScore": 40,
+      "signal": "WAIT",
+      "reason": "Technical 30/100; News +0; Market sentiment +3."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 1.319,
-      "change24h": -0.588,
-      "volume24h": 107140610.06991,
+      "price": 1.2944,
+      "change24h": -2.368,
+      "volume24h": 114226513.70824,
       "technical": {
-        "rsi": 39.6,
-        "ema9": 1.32467307908942,
-        "ema21": 1.325703592904103,
-        "macdBull": false,
+        "rsi": 36.9,
+        "ema9": 1.29718632347582,
+        "ema21": 1.300222587574012,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.66,
-        "score": 11
+        "volumeRatio": 1.08,
+        "score": 35
       },
-      "newsScore": 0,
-      "newsCount": 3,
+      "newsScore": 50,
+      "newsCount": 2,
       "news": [
         {
           "title": "Ripple, Robinhood expand partnership to bring RLUSD to retail and institutional markets",
@@ -267,80 +288,58 @@
           "published": "Wed, 28 Oct 2026 11:52:14 +0000",
           "source": "CoinDesk",
           "text": "XRP Ledger developers propose creating wallets with zero XRP for stablecoin payments An experimental change would let companies cover the reserve for customer and AI-agent accounts, allowing users to start with stablecoins without first acquiring XRP."
-        },
-        {
-          "title": "Treasury's Bessent sees crypto as America's next tool for keeping the U.S. dollar on top",
-          "link": "https://www.coindesk.com/policy/2026/10/27/treasury-s-bessent-sees-crypto-as-america-s-next-tool-for-keeping-the-u-s-dollar-on-top",
-          "published": "Tue, 27 Oct 2026 20:41:33 +0000",
-          "source": "CoinDesk",
-          "text": "Treasury's Bessent sees crypto as America's next tool for keeping the U.S. dollar on top Speaking at Ripple's conference, the U.S. Treasury Secretary said the SEC and CFTC action could help fill the gap left by the Clarity Act's failure, while curbing crypto debanking."
         }
       ],
       "marketSentiment": 3,
-      "combinedScore": 31,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment +3."
+      "combinedScore": 50,
+      "signal": "WAIT",
+      "reason": "Technical 35/100; News +50; Market sentiment +3."
     },
     {
-      "symbol": "BNBUSDT",
-      "coin": "BNB",
-      "price": 755.07,
-      "change24h": 1.674,
-      "volume24h": 98980093.44711,
+      "symbol": "PEPEUSDT",
+      "coin": "PEPE",
+      "price": 5.03e-06,
+      "change24h": 5.895,
+      "volume24h": 110493889.95090178,
       "technical": {
-        "rsi": 49.6,
-        "ema9": 758.0560358480103,
-        "ema21": 756.7198097754051,
-        "macdBull": false,
+        "rsi": 51.1,
+        "ema9": 5.038252822574019e-06,
+        "ema21": 5.025804172590415e-06,
+        "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 1.56,
-        "score": 48
+        "volumeRatio": 0.52,
+        "score": 77
       },
       "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
+      "newsCount": 1,
+      "news": [
+        {
+          "title": "Bitcoin rebounds above $81,000 as Asian chip rally spills into crypto, pepe jumps 9%",
+          "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-rebounds-above-usd81-000-as-asian-chip-rally-spills-into-crypto-pepe-jumps-9",
+          "published": "Wed, 28 Oct 2026 11:32:31 +0000",
+          "source": "CoinDesk",
+          "text": "Bitcoin rebounds above $81,000 as Asian chip rally spills into crypto, pepe jumps 9% Bitcoin rose above $81,400 as Asian chip stocks rallied, with frog-themed memecoin pepe adding 9%."
+        }
+      ],
       "marketSentiment": 3,
-      "combinedScore": 49,
+      "combinedScore": 64,
       "signal": "WAIT",
-      "reason": "Technical 48/100; News +0; Market sentiment +3."
-    },
-    {
-      "symbol": "NEARUSDT",
-      "coin": "NEAR",
-      "price": 4.666,
-      "change24h": 0.215,
-      "volume24h": 74404945.6202,
-      "technical": {
-        "rsi": 40.2,
-        "ema9": 4.711937112452797,
-        "ema21": 4.71160466905307,
-        "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 1.52,
-        "score": 36
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": 3,
-      "combinedScore": 43,
-      "signal": "WAIT",
-      "reason": "Technical 36/100; News +0; Market sentiment +3."
+      "reason": "Technical 77/100; News +0; Market sentiment +3."
     },
     {
       "symbol": "RLUSDUSDT",
       "coin": "RLUSD",
-      "price": 1.0011,
-      "change24h": -0.02,
-      "volume24h": 48411289.9465,
+      "price": 1.0013,
+      "change24h": -0.01,
+      "volume24h": 53063737.5478,
       "technical": {
-        "rsi": 53.7,
-        "ema9": 1.0010846203826198,
-        "ema21": 1.001050220558649,
-        "macdBull": true,
+        "rsi": 56.0,
+        "ema9": 1.0012893282823447,
+        "ema21": 1.001262285528742,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 0.01,
-        "score": 77
+        "volumeRatio": 0.17,
+        "score": 65
       },
       "newsScore": 100,
       "newsCount": 1,
@@ -354,25 +353,46 @@
         }
       ],
       "marketSentiment": 3,
-      "combinedScore": 79,
+      "combinedScore": 73,
       "signal": "BUY",
-      "reason": "Technical 77/100; News +100; Market sentiment +3."
+      "reason": "Technical 65/100; News +100; Market sentiment +3."
     }
   ],
   "news": [
+    {
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 29 Oct 2026 06:00:00 +0000",
+      "source": "Cointelegraph",
+      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "title": "Your fridge could one day stake Ether, launch memecoins: CFTC chair",
+      "link": "https://cointelegraph.com/news/a-fridge-that-launches-memecoins-cftc-floats-ai-crypto-future?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 29 Oct 2026 04:39:49 +0000",
+      "source": "Cointelegraph",
+      "text": "Your fridge could one day stake Ether, launch memecoins: CFTC chair CFTC chair Mike Selig says autonomous AI agents could challenge financial rules built around human traders, and regulators need to adapt."
+    },
+    {
+      "title": "Tampered Ledger wallets cost Singapore users $2.7M: Police",
+      "link": "https://cointelegraph.com/news/tampered-ledger-wallets-cost-singapore-users-27m-police?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 29 Oct 2026 03:16:32 +0000",
+      "source": "Cointelegraph",
+      "text": "Tampered Ledger wallets cost Singapore users $2.7M: Police Police say at least two cases were reported as early as Sept. 10, nearly a month before the wider incident became public."
+    },
+    {
+      "title": "Fed’s hawkish rate hold keeps pressure on Bitcoin: Analysts",
+      "link": "https://cointelegraph.com/markets/bitcoin-faces-fresh-pressure-after-feds-hawkish-rate-hold-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 29 Oct 2026 01:12:01 +0000",
+      "source": "Cointelegraph",
+      "text": "Fed’s hawkish rate hold keeps pressure on Bitcoin: Analysts Traders are pricing in a 78% chance of a December rate hike, while analysts say Treasury yields, the US dollar and upcoming inflation data could determine Bitcoin’s next move."
+    },
     {
       "title": "Canadian ‘crypto king’ case to go to jury as criminal trial winds down",
       "link": "https://cointelegraph.com/news/canada-crypto-king-jury-criminal-trial-closing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 28 Oct 2026 21:35:52 +0000",
       "source": "Cointelegraph",
       "text": "Canadian ‘crypto king’ case to go to jury as criminal trial winds down Aiden Pleterski, facing fraud charges in Canada over his alleged role in a digital asset Ponzi scheme, said that he was innocent at closing."
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 28 Oct 2026 19:46:45 +0000",
-      "source": "Cointelegraph",
-      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
       "title": "Sam Bankman-Fried wrote to actor portraying him in Netflix series",
@@ -478,27 +498,6 @@
       "published": "Wed, 28 Oct 2026 02:18:47 +0000",
       "source": "Cointelegraph",
       "text": "Bithumb discloses data leak after internal system breach: Report The breach impacted its in-house mobile system, used by employees for work and information sharing."
-    },
-    {
-      "title": "Discord is making public chats searchable on Google: How to opt out",
-      "link": "https://cointelegraph.com/news/discord-is-making-public-chats-searchable-on-google-how-to-opt-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 28 Oct 2026 00:47:04 +0000",
-      "source": "Cointelegraph",
-      "text": "Discord is making public chats searchable on Google: How to opt out Discord conversations on large public servers will soon reach audiences far beyond their communities, raising privacy concerns."
-    },
-    {
-      "title": "VanEck launches diversified ETF combining stocks, bonds and Bitcoin exposure",
-      "link": "https://cointelegraph.com/news/vaneck-launches-diversified-etf-combining-stocks-bonds-and-bitcoin-exposure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 27 Oct 2026 21:28:22 +0000",
-      "source": "Cointelegraph",
-      "text": "VanEck launches diversified ETF combining stocks, bonds and Bitcoin exposure VanEck’s new Wealth Builder ETF targets a 2% Bitcoin allocation, with a permitted range of 1% to 5%, gaining exposure through a spot Bitcoin ETP."
-    },
-    {
-      "title": "Intel, IBM, Oracle and IonQ latest to object to OKX-ICE tokenized stocks",
-      "link": "https://cointelegraph.com/news/intel-ibm-oracle-ionq-object-okx-ice-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 27 Oct 2026 21:26:41 +0000",
-      "source": "Cointelegraph",
-      "text": "Intel, IBM, Oracle and IonQ latest to object to OKX-ICE tokenized stocks More than 40% of the companies initially proposed to have their stocks listed in tokenized form have asked to opt-out."
     }
   ],
   "paper": {
@@ -654,31 +653,11 @@
         "mode": "PAPER ONLY"
       },
       {
-        "symbol": "ZECUSDT",
-        "side": "BUY",
-        "entry": 1308.0,
-        "stopLoss": 1288.38,
-        "takeProfit": 1347.24,
-        "entryTime": "2026-10-28T21:23:32.368023+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
         "symbol": "PEPEUSDT",
         "side": "BUY",
         "entry": 5.07e-06,
         "stopLoss": 4.9939e-06,
         "takeProfit": 5.2221e-06,
-        "entryTime": "2026-10-28T21:23:32.368023+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
-        "symbol": "XRPUSDT",
-        "side": "BUY",
-        "entry": 1.3325,
-        "stopLoss": 1.3125125,
-        "takeProfit": 1.372475,
         "entryTime": "2026-10-28T21:23:32.368023+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
@@ -1321,6 +1300,32 @@
         "exitPrice": 4.666,
         "exitTime": "2026-10-29T01:05:33.168537+00:00",
         "pnlPercent": -1.83
+      },
+      {
+        "symbol": "ZECUSDT",
+        "side": "BUY",
+        "entry": 1308.0,
+        "stopLoss": 1288.38,
+        "takeProfit": 1347.24,
+        "entryTime": "2026-10-28T21:23:32.368023+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 1245.87,
+        "exitTime": "2026-10-29T06:59:16.778580+00:00",
+        "pnlPercent": -4.75
+      },
+      {
+        "symbol": "XRPUSDT",
+        "side": "BUY",
+        "entry": 1.3325,
+        "stopLoss": 1.3125125,
+        "takeProfit": 1.372475,
+        "entryTime": "2026-10-28T21:23:32.368023+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 1.2944,
+        "exitTime": "2026-10-29T06:59:16.778580+00:00",
+        "pnlPercent": -2.859
       }
     ]
   },
