@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-30 09:05:22 UTC",
+  "generatedAt": "2026-10-30 15:50:56 UTC",
   "interval": "15m candles",
-  "marketSentiment": -21,
-  "overallNewsScore": 14,
+  "marketSentiment": -26,
+  "overallNewsScore": 0,
   "fearGreed": {
     "value": 30,
     "label": "Fear",
@@ -12,27 +12,48 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 77982.0,
-      "change24h": -2.6,
-      "volume24h": 2606437557.5139337,
+      "price": 77618.72,
+      "change24h": -4.971,
+      "volume24h": 2688617719.766224,
       "technical": {
-        "rsi": 43.8,
-        "ema9": 78170.15757058556,
-        "ema21": 78235.71429082262,
-        "macdBull": false,
+        "rsi": 50.2,
+        "ema9": 77372.76426961842,
+        "ema21": 77431.21434372477,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.88,
-        "score": 11
+        "volumeRatio": 0.87,
+        "score": 47
       },
-      "newsScore": -20,
+      "newsScore": -40,
       "newsCount": 5,
       "news": [
         {
           "title": "Here’s what happened in crypto today",
           "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Fri, 30 Oct 2026 06:00:00 +0000",
+          "published": "Fri, 30 Oct 2026 14:07:42 +0000",
           "source": "Cointelegraph",
           "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+        },
+        {
+          "title": "Will gold’s ‘infinite mint bug’ make Bitcoin more valuable?",
+          "link": "https://cointelegraph.com/magazine/will-golds-infinite-mint-bug-make-bitcoin-more-valuable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Fri, 30 Oct 2026 13:30:00 +0000",
+          "source": "Cointelegraph",
+          "text": "Will gold’s ‘infinite mint bug’ make Bitcoin more valuable? A US fusion startup says it has turned mercury into gold. Could a potential increase in the gold supply strengthen Bitcoin’s claim to be a better form of digital gold?"
+        },
+        {
+          "title": "Bitcoin price metrics hint at rebound as $1.6B liquidations follow Binance hack",
+          "link": "https://cointelegraph.com/markets/bitcoin-price-metrics-hint-at-rebound-as-16b-liquidations-follow-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Fri, 30 Oct 2026 11:29:23 +0000",
+          "source": "Cointelegraph",
+          "text": "Bitcoin price metrics hint at rebound as $1.6B liquidations follow Binance hack Bitcoin held above $76,000 after a $6.3 billion Binance hack and a tech-stock sell-off, as momentum indicators pointed to a possible rebound."
+        },
+        {
+          "title": "Binance hacker’s Bitcoin haul tops Coinbase’s corporate treasury",
+          "link": "https://cointelegraph.com/news/binance-hacker-bitcoin-holdings-exceed-coinbase-btc-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Fri, 30 Oct 2026 10:54:30 +0000",
+          "source": "Cointelegraph",
+          "text": "Binance hacker’s Bitcoin haul tops Coinbase’s corporate treasury The attackers held 18,270 BTC early Friday, topping Coinbase’s reported corporate holdings, and an Ether stash exceeding 500,000 ETH."
         },
         {
           "title": "Strategy eyes more Bitcoin buys as Saylor touts $30B credit capacity",
@@ -40,52 +61,45 @@
           "published": "Fri, 30 Oct 2026 05:53:07 +0000",
           "source": "Cointelegraph",
           "text": "Strategy eyes more Bitcoin buys as Saylor touts $30B credit capacity Michael Saylor says Strategy could create up to $30 billion in digital credit without new common-stock fundraising or further Bitcoin price gains, as the company plans more BTC purchases."
-        },
-        {
-          "title": "Binance hack rattles markets as BNB falls 8%, Bitcoin nears $77K",
-          "link": "https://cointelegraph.com/markets/binance-hack-rattles-crypto-markets-bnb-bitcoin-slide?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Thu, 29 Oct 2026 23:24:21 +0000",
-          "source": "Cointelegraph",
-          "text": "Binance hack rattles markets as BNB falls 8%, Bitcoin nears $77K Bitcoin, Ether and the broader crypto market took a dive as Binance suffered a multibillion-dollar hack."
-        },
-        {
-          "title": "Bitcoin price jumps to $81.5K as US GDP data beats expectations",
-          "link": "https://cointelegraph.com/markets/bitcoin-reaction-to-pce-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Thu, 29 Oct 2026 15:39:54 +0000",
-          "source": "Cointelegraph",
-          "text": "Bitcoin price jumps to $81.5K as US GDP data beats expectations BTC price action returned to a key weekly resistance level as US stock markets digested Alphabet’s Q3 earnings miss."
-        },
-        {
-          "title": "Private, fast USDT is coming to Bitcoin. Can it compete with Ethereum and Tron?",
-          "link": "https://cointelegraph.com/magazine/private-fast-usdt-is-coming-to-bitcoin-can-it-compete-with-ethereum-and-tron?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Thu, 29 Oct 2026 13:30:00 +0000",
-          "source": "Cointelegraph",
-          "text": "Private, fast USDT is coming to Bitcoin. Can it compete with Ethereum and Tron? USDT is coming home to Bitcoin, offering privacy and Lightning-fast payments. But can Bitcoin’s revamped version of Tether compete with stablecoins on ETH and TRON?"
         }
       ],
-      "marketSentiment": -21,
-      "combinedScore": 25,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News -20; Market sentiment -21."
+      "marketSentiment": -26,
+      "combinedScore": 40,
+      "signal": "WAIT",
+      "reason": "Technical 47/100; News -40; Market sentiment -26."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2228.82,
-      "change24h": -3.847,
-      "volume24h": 1288311364.484762,
+      "price": 2231.05,
+      "change24h": -5.668,
+      "volume24h": 1430876340.284369,
       "technical": {
-        "rsi": 42.3,
-        "ema9": 2234.2135945371283,
-        "ema21": 2237.8856036938864,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.7,
-        "score": 11
+        "rsi": 46.1,
+        "ema9": 2233.8522437587144,
+        "ema21": 2233.731783208484,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 1.87,
+        "score": 72
       },
-      "newsScore": -44,
+      "newsScore": -50,
       "newsCount": 5,
       "news": [
+        {
+          "title": "EIP-7702 didn’t cause Binance hack, but may have amplified losses",
+          "link": "https://cointelegraph.com/news/binance-hack-security-ethereum-eip-7702-role?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Fri, 30 Oct 2026 11:00:10 +0000",
+          "source": "Cointelegraph",
+          "text": "EIP-7702 didn’t cause Binance hack, but may have amplified losses Security experts said attackers could have drained Binance’s wallets without EIP-7702, but the Ethereum upgrade may have helped bypass withdrawal safeguards."
+        },
+        {
+          "title": "Binance hacker’s Bitcoin haul tops Coinbase’s corporate treasury",
+          "link": "https://cointelegraph.com/news/binance-hacker-bitcoin-holdings-exceed-coinbase-btc-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Fri, 30 Oct 2026 10:54:30 +0000",
+          "source": "Cointelegraph",
+          "text": "Binance hacker’s Bitcoin haul tops Coinbase’s corporate treasury The attackers held 18,270 BTC early Friday, topping Coinbase’s reported corporate holdings, and an Ether stash exceeding 500,000 ETH."
+        },
         {
           "title": "Binance hack rattles markets as BNB falls 8%, Bitcoin nears $77K",
           "link": "https://cointelegraph.com/markets/binance-hack-rattles-crypto-markets-bnb-bitcoin-slide?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -98,91 +112,39 @@
           "link": "https://cointelegraph.com/magazine/private-fast-usdt-is-coming-to-bitcoin-can-it-compete-with-ethereum-and-tron?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "published": "Thu, 29 Oct 2026 13:30:00 +0000",
           "source": "Cointelegraph",
-          "text": "Private, fast USDT is coming to Bitcoin. Can it compete with Ethereum and Tron? USDT is coming home to Bitcoin, offering privacy and Lightning-fast payments. But can Bitcoin’s revamped version of Tether compete with stablecoins on ETH and TRON?"
+          "text": "Private, fast USDT is coming to Bitcoin. Can it compete with Ethereum and Tron? USDT is coming home to Bitcoin, offering privacy and Lightning-fast payments. But can Utexo’s bridged version of USD₮ compete with stablecoins on ETH and TRON?"
         },
         {
-          "title": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
-          "link": "https://www.coindesk.com/markets/2026/10/30/bitcoin-ether-and-xrp-selloff-wipes-out-usd1-5-billion-in-leveraged-crypto-bets",
-          "published": "Fri, 30 Oct 2026 06:22:00 +0000",
+          "title": "Here’s how an Ethereum upgrade helped drain part of Binance’s $6 billion loss",
+          "link": "https://www.coindesk.com/tech/2026/10/30/here-s-how-one-ethereum-permission-let-an-attacker-drain-usd2-5-billion-from-binance",
+          "published": "Fri, 30 Oct 2026 11:35:16 +0000",
           "source": "CoinDesk",
-          "text": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets Bets on rising prices accounted for nearly 84% of forced closures, with Binance handling almost half the total. A rebound has since started catching short sellers."
-        },
-        {
-          "title": "$6 billion Binance hack sends bitcoin, ether tumbling; Standard Chartered expects more pain",
-          "link": "https://www.coindesk.com/markets/2026/10/30/usd6-billion-binance-hack-sends-bitcoin-ether-tumbling-standard-chartered-sees-more-losses-ahead",
-          "published": "Fri, 30 Oct 2026 04:00:43 +0000",
-          "source": "CoinDesk",
-          "text": "$6 billion Binance hack sends bitcoin, ether tumbling; Standard Chartered expects more pain Bitcoin and ether slid after a suspected $6.3 billion Binance security breach and a Polymarket exploit. Standard Chartered says crypto prices may remain under pressure before finding a base."
-        },
-        {
-          "title": "Binance hack drained wallets backing customer assets, reserve data shows",
-          "link": "https://www.coindesk.com/business/2026/10/30/binance-hack-drained-wallets-backing-customer-assets-reserve-data-shows",
-          "published": "Fri, 30 Oct 2026 00:17:10 +0000",
-          "source": "CoinDesk",
-          "text": "Binance hack drained wallets backing customer assets, reserve data shows Binance’s own reserve data lists the drained wallets as backing customer balances, leaving its ether backing an estimated 6% short until the exchange replaces what was stolen."
+          "text": "Here’s how an Ethereum upgrade helped drain part of Binance’s $6 billion loss On Ethereum, the attacker used a 2025 upgrade built to make ordinary wallets smarter, armed with 50 signatures from Binance's own wallet."
         }
       ],
-      "marketSentiment": -21,
-      "combinedScore": 22,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News -44; Market sentiment -21."
-    },
-    {
-      "symbol": "BNBUSDT",
-      "coin": "BNB",
-      "price": 705.32,
-      "change24h": -6.356,
-      "volume24h": 488950137.37635,
-      "technical": {
-        "rsi": 37.4,
-        "ema9": 708.9064819364655,
-        "ema21": 711.2417943581262,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.81,
-        "score": 11
-      },
-      "newsScore": -100,
-      "newsCount": 1,
-      "news": [
-        {
-          "title": "Binance hack rattles markets as BNB falls 8%, Bitcoin nears $77K",
-          "link": "https://cointelegraph.com/markets/binance-hack-rattles-crypto-markets-bnb-bitcoin-slide?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Thu, 29 Oct 2026 23:24:21 +0000",
-          "source": "Cointelegraph",
-          "text": "Binance hack rattles markets as BNB falls 8%, Bitcoin nears $77K Bitcoin, Ether and the broader crypto market took a dive as Binance suffered a multibillion-dollar hack."
-        }
-      ],
-      "marketSentiment": -21,
-      "combinedScore": 13,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News -100; Market sentiment -21."
+      "marketSentiment": -26,
+      "combinedScore": 51,
+      "signal": "WAIT",
+      "reason": "Technical 72/100; News -50; Market sentiment -26."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 97.36,
-      "change24h": -2.922,
-      "volume24h": 461069430.0421,
+      "price": 94.66,
+      "change24h": -7.559,
+      "volume24h": 470285917.48851,
       "technical": {
-        "rsi": 51.1,
-        "ema9": 97.46401046597283,
-        "ema21": 97.3754456370047,
+        "rsi": 35.3,
+        "ema9": 95.07002721196825,
+        "ema21": 95.68812392135172,
         "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.53,
-        "score": 53
+        "emaBull": false,
+        "volumeRatio": 1.27,
+        "score": 11
       },
-      "newsScore": 11,
-      "newsCount": 3,
+      "newsScore": -34,
+      "newsCount": 2,
       "news": [
-        {
-          "title": "Polygon expands Open Money Stack to Solana, after Tron rollout",
-          "link": "https://cointelegraph.com/news/polygon-brings-open-money-stack-payments-services-to-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Thu, 29 Oct 2026 13:00:00 +0000",
-          "source": "Cointelegraph",
-          "text": "Polygon expands Open Money Stack to Solana, after Tron rollout The move follows the addition of Tron support and Polygon’s acquisition of Coinme."
-        },
         {
           "title": "From rivals to partners: Polygon and Solana team to bring stablecoin payments to banks",
           "link": "https://www.coindesk.com/business/2026/10/29/from-rivals-to-partners-polygon-and-solana-team-to-bring-stablecoin-payments-to-banks",
@@ -198,71 +160,133 @@
           "text": "Why Switzerland’s first genuine spot bitcoin ETF could soon attract overseas banks and brokers SIX Swiss Exchange confirms international access, while FINMA explains why it approved the fund and whether ether and solana ETFs could follow."
         }
       ],
-      "marketSentiment": -21,
-      "combinedScore": 51,
+      "marketSentiment": -26,
+      "combinedScore": 23,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News -34; Market sentiment -26."
+    },
+    {
+      "symbol": "BNBUSDT",
+      "coin": "BNB",
+      "price": 700.31,
+      "change24h": -6.705,
+      "volume24h": 439051291.88093,
+      "technical": {
+        "rsi": 48.5,
+        "ema9": 700.2338857246768,
+        "ema21": 700.9692889938391,
+        "macdBull": true,
+        "emaBull": false,
+        "volumeRatio": 0.94,
+        "score": 47
+      },
+      "newsScore": -100,
+      "newsCount": 1,
+      "news": [
+        {
+          "title": "Binance hack rattles markets as BNB falls 8%, Bitcoin nears $77K",
+          "link": "https://cointelegraph.com/markets/binance-hack-rattles-crypto-markets-bnb-bitcoin-slide?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Thu, 29 Oct 2026 23:24:21 +0000",
+          "source": "Cointelegraph",
+          "text": "Binance hack rattles markets as BNB falls 8%, Bitcoin nears $77K Bitcoin, Ether and the broader crypto market took a dive as Binance suffered a multibillion-dollar hack."
+        }
+      ],
+      "marketSentiment": -26,
+      "combinedScore": 31,
       "signal": "WAIT",
-      "reason": "Technical 53/100; News +11; Market sentiment -21."
+      "reason": "Technical 47/100; News -100; Market sentiment -26."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 1245.05,
-      "change24h": -0.139,
-      "volume24h": 322183844.63703,
+      "price": 1232.93,
+      "change24h": -7.902,
+      "volume24h": 300767302.56209,
       "technical": {
-        "rsi": 41.8,
-        "ema9": 1254.1499301161086,
-        "ema21": 1259.971569596526,
-        "macdBull": false,
+        "rsi": 45.0,
+        "ema9": 1240.173509815511,
+        "ema21": 1243.572618347531,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 1.15,
-        "score": 11
+        "volumeRatio": 1.67,
+        "score": 30
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -21,
-      "combinedScore": 28,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment -21."
+      "marketSentiment": -26,
+      "combinedScore": 37,
+      "signal": "WAIT",
+      "reason": "Technical 30/100; News +0; Market sentiment -26."
+    },
+    {
+      "symbol": "PEPEUSDT",
+      "coin": "PEPE",
+      "price": 5.02e-06,
+      "change24h": -6.518,
+      "volume24h": 295216693.4671283,
+      "technical": {
+        "rsi": 43.6,
+        "ema9": 5.1600026658616565e-06,
+        "ema21": 5.154308137049404e-06,
+        "macdBull": false,
+        "emaBull": true,
+        "volumeRatio": 1.43,
+        "score": 41
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -26,
+      "combinedScore": 43,
+      "signal": "WAIT",
+      "reason": "Technical 41/100; News +0; Market sentiment -26."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 4.361,
-      "change24h": 0.23,
-      "volume24h": 263628438.4837,
+      "price": 4.313,
+      "change24h": -6.726,
+      "volume24h": 258495426.5366,
       "technical": {
-        "rsi": 62.6,
-        "ema9": 4.312688982374503,
-        "ema21": 4.265591970880563,
+        "rsi": 48.3,
+        "ema9": 4.321870192799916,
+        "ema21": 4.313193153065365,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.83,
-        "score": 89
+        "volumeRatio": 1.29,
+        "score": 77
       },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -21,
-      "combinedScore": 67,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment -21."
+      "newsScore": -100,
+      "newsCount": 1,
+      "news": [
+        {
+          "title": "Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower",
+          "link": "https://www.coindesk.com/markets/2026/10/30/crypto-liquidations-jump-to-usd1-57-billion-as-binance-hack-sends-bitcoin-ether-lower",
+          "published": "Fri, 30 Oct 2026 11:09:24 +0000",
+          "source": "CoinDesk",
+          "text": "Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower Bitcoin traded near $77,350 after $6.3 billion Binance hack, with crypto futures liquidations jumping to $1.57 billion."
+        }
+      ],
+      "marketSentiment": -26,
+      "combinedScore": 46,
+      "signal": "WAIT",
+      "reason": "Technical 77/100; News -100; Market sentiment -26."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 1.2614,
-      "change24h": -2.346,
-      "volume24h": 256288775.76957,
+      "price": 1.2498,
+      "change24h": -4.428,
+      "volume24h": 255130213.49155,
       "technical": {
-        "rsi": 54.1,
-        "ema9": 1.2558282250565571,
-        "ema21": 1.2536883296158685,
-        "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.69,
-        "score": 53
+        "rsi": 50.1,
+        "ema9": 1.246578870159386,
+        "ema21": 1.2470969003033021,
+        "macdBull": true,
+        "emaBull": false,
+        "volumeRatio": 1.95,
+        "score": 42
       },
       "newsScore": 0,
       "newsCount": 2,
@@ -282,110 +306,143 @@
           "text": "XRP Ledger developers tighten the rules for who can hold 'restricted' tokens A set of fixes would tighten who can hold permissioned tokens on the network. The XRP Ledger Foundation says no users were affected."
         }
       ],
-      "marketSentiment": -21,
-      "combinedScore": 49,
+      "marketSentiment": -26,
+      "combinedScore": 43,
       "signal": "WAIT",
-      "reason": "Technical 53/100; News +0; Market sentiment -21."
+      "reason": "Technical 42/100; News +0; Market sentiment -26."
     },
     {
-      "symbol": "PEPEUSDT",
-      "coin": "PEPE",
-      "price": 4.94e-06,
-      "change24h": -1.002,
-      "volume24h": 254508618.24607322,
+      "symbol": "TRXUSDT",
+      "coin": "TRX",
+      "price": 0.3318,
+      "change24h": 0.06,
+      "volume24h": 226346780.5905,
       "technical": {
-        "rsi": 55.5,
-        "ema9": 4.948875510580956e-06,
-        "ema21": 4.928614985714882e-06,
-        "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.78,
-        "score": 65
+        "rsi": 43.8,
+        "ema9": 0.3328758826535316,
+        "ema21": 0.3337404142798128,
+        "macdBull": true,
+        "emaBull": false,
+        "volumeRatio": 0.76,
+        "score": 35
       },
       "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -21,
-      "combinedScore": 55,
+      "newsCount": 1,
+      "news": [
+        {
+          "title": "Private, fast USDT is coming to Bitcoin. Can it compete with Ethereum and Tron?",
+          "link": "https://cointelegraph.com/magazine/private-fast-usdt-is-coming-to-bitcoin-can-it-compete-with-ethereum-and-tron?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Thu, 29 Oct 2026 13:30:00 +0000",
+          "source": "Cointelegraph",
+          "text": "Private, fast USDT is coming to Bitcoin. Can it compete with Ethereum and Tron? USDT is coming home to Bitcoin, offering privacy and Lightning-fast payments. But can Utexo’s bridged version of USD₮ compete with stablecoins on ETH and TRON?"
+        }
+      ],
+      "marketSentiment": -26,
+      "combinedScore": 40,
       "signal": "WAIT",
-      "reason": "Technical 65/100; News +0; Market sentiment -21."
+      "reason": "Technical 35/100; News +0; Market sentiment -26."
     },
     {
       "symbol": "USD1USDT",
       "coin": "USD1",
-      "price": 0.99966,
-      "change24h": -0.039,
-      "volume24h": 224521651.57622,
+      "price": 0.99903,
+      "change24h": -0.112,
+      "volume24h": 190477302.02703,
       "technical": {
-        "rsi": 55.0,
-        "ema9": 0.999693268001558,
-        "ema21": 0.999625644694293,
+        "rsi": 42.1,
+        "ema9": 0.9990690332131907,
+        "ema21": 0.9991442912062097,
         "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.45,
-        "score": 77
+        "emaBull": false,
+        "volumeRatio": 1.18,
+        "score": 35
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -21,
-      "combinedScore": 61,
+      "marketSentiment": -26,
+      "combinedScore": 40,
       "signal": "WAIT",
-      "reason": "Technical 77/100; News +0; Market sentiment -21."
-    },
-    {
-      "symbol": "HYPEUSDT",
-      "coin": "HYPE",
-      "price": 91.79,
-      "change24h": 16.014,
-      "volume24h": 205506417.40385,
-      "technical": {
-        "rsi": 47.2,
-        "ema9": 92.01493238210654,
-        "ema21": 92.20122980214717,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 1.2,
-        "score": 23
-      },
-      "newsScore": 0,
-      "newsCount": 2,
-      "news": [
-        {
-          "title": "HYPE teases all-time high as NYSE owner ICE eyes US Hyperliquid perps",
-          "link": "https://cointelegraph.com/markets/hype-price-all-time-high-ice-us-hyperliquid-perps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Thu, 29 Oct 2026 17:12:03 +0000",
-          "source": "Cointelegraph",
-          "text": "HYPE teases all-time high as NYSE owner ICE eyes US Hyperliquid perps Hyperliquid’s token pumped following news of ICE and Trade[XYZ] unveiling plans for US perpetual futures."
-        },
-        {
-          "title": "Stanley Druckenmiller's first X post backs Hyperliquid venture after $23 million indirect investment",
-          "link": "https://www.coindesk.com/business/2026/10/29/stanley-druckenmiller-s-first-x-post-backs-hyperliquid-venture-after-usd23-million-indirect-investment",
-          "published": "Thu, 29 Oct 2026 17:04:19 +0000",
-          "source": "CoinDesk",
-          "text": "Stanley Druckenmiller's first X post backs Hyperliquid venture after $23 million indirect investment The billionaire investor disclosed an investment in Trade[XYZ] as the platform teams up with the NYSE's parent company. His family office previously reported owning shares in a HYPE-focused treasury company."
-        }
-      ],
-      "marketSentiment": -21,
-      "combinedScore": 34,
-      "signal": "SELL",
-      "reason": "Technical 23/100; News +0; Market sentiment -21."
+      "reason": "Technical 35/100; News +0; Market sentiment -26."
     }
   ],
   "news": [
     {
-      "title": "Live updates: Binance $6.3B hack linked to North Korea’s TraderTraitor",
+      "title": "Live updates: Binance says $6.34B set aside to cover hack losses",
       "link": "https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 30 Oct 2026 08:00:39 +0000",
+      "published": "Fri, 30 Oct 2026 14:12:26 +0000",
       "source": "Cointelegraph",
-      "text": "Live updates: Binance $6.3B hack linked to North Korea’s TraderTraitor Follow live updates as Binance says $6.3 billion in assets have been stolen in a major hack. Around $3 billion in stolen funds have been frozen."
+      "text": "Live updates: Binance says $6.34B set aside to cover hack losses Follow live updates as Binance says $6.3 billion in assets have been stolen in a major hack. Around $3 billion in stolen funds have been frozen."
     },
     {
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 30 Oct 2026 06:00:00 +0000",
+      "published": "Fri, 30 Oct 2026 14:07:42 +0000",
       "source": "Cointelegraph",
       "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "title": "Will gold’s ‘infinite mint bug’ make Bitcoin more valuable?",
+      "link": "https://cointelegraph.com/magazine/will-golds-infinite-mint-bug-make-bitcoin-more-valuable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 30 Oct 2026 13:30:00 +0000",
+      "source": "Cointelegraph",
+      "text": "Will gold’s ‘infinite mint bug’ make Bitcoin more valuable? A US fusion startup says it has turned mercury into gold. Could a potential increase in the gold supply strengthen Bitcoin’s claim to be a better form of digital gold?"
+    },
+    {
+      "title": "Binance working with FBI to recover assets following $6.3B hack",
+      "link": "https://cointelegraph.com/news/binance-fbi-recover-assets-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 30 Oct 2026 13:11:10 +0000",
+      "source": "Cointelegraph",
+      "text": "Binance working with FBI to recover assets following $6.3B hack Binance is working with law enforcement to recover $3 billion that is frozen, after setting aside more than $6.3 billion from the company’s funds to cover the shortfall."
+    },
+    {
+      "title": "Binance says it holds $5B in matching tokens to cover hack losses",
+      "link": "https://cointelegraph.com/news/binance-5-billion-replacement-crypto-in-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 30 Oct 2026 12:41:43 +0000",
+      "source": "Cointelegraph",
+      "text": "Binance says it holds $5B in matching tokens to cover hack losses The exchange said it set aside more than $6.34 billion to cover losses and would include the assets in its next proof-of-reserves report."
+    },
+    {
+      "title": "Zcash grants group offers $124M compromise as governance backlash grows",
+      "link": "https://cointelegraph.com/news/zcash-grants-46m-proposal-governance-backlash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 30 Oct 2026 11:36:23 +0000",
+      "source": "Cointelegraph",
+      "text": "Zcash grants group offers $124M compromise as governance backlash grows Zcash Community Grants proposed redirecting about $124 million in existing and future funding toward mining rewards, but critics say the plan fails to address governance and accountability concerns."
+    },
+    {
+      "title": "Bitcoin price metrics hint at rebound as $1.6B liquidations follow Binance hack",
+      "link": "https://cointelegraph.com/markets/bitcoin-price-metrics-hint-at-rebound-as-16b-liquidations-follow-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 30 Oct 2026 11:29:23 +0000",
+      "source": "Cointelegraph",
+      "text": "Bitcoin price metrics hint at rebound as $1.6B liquidations follow Binance hack Bitcoin held above $76,000 after a $6.3 billion Binance hack and a tech-stock sell-off, as momentum indicators pointed to a possible rebound."
+    },
+    {
+      "title": "EIP-7702 didn’t cause Binance hack, but may have amplified losses",
+      "link": "https://cointelegraph.com/news/binance-hack-security-ethereum-eip-7702-role?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 30 Oct 2026 11:00:10 +0000",
+      "source": "Cointelegraph",
+      "text": "EIP-7702 didn’t cause Binance hack, but may have amplified losses Security experts said attackers could have drained Binance’s wallets without EIP-7702, but the Ethereum upgrade may have helped bypass withdrawal safeguards."
+    },
+    {
+      "title": "Binance hacker’s Bitcoin haul tops Coinbase’s corporate treasury",
+      "link": "https://cointelegraph.com/news/binance-hacker-bitcoin-holdings-exceed-coinbase-btc-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 30 Oct 2026 10:54:30 +0000",
+      "source": "Cointelegraph",
+      "text": "Binance hacker’s Bitcoin haul tops Coinbase’s corporate treasury The attackers held 18,270 BTC early Friday, topping Coinbase’s reported corporate holdings, and an Ether stash exceeding 500,000 ETH."
+    },
+    {
+      "title": "THORChain’s RUNE jumps 13% after Binance’s record $6.3B hack",
+      "link": "https://cointelegraph.com/markets/rune-token-surges-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 30 Oct 2026 09:52:29 +0000",
+      "source": "Cointelegraph",
+      "text": "THORChain’s RUNE jumps 13% after Binance’s record $6.3B hack North Korean hackers previously used THORChain to move funds stolen from Bybit and Bitget, prompting calls for the protocol to intervene."
+    },
+    {
+      "title": "Trezor warns CryptoBilis buyers to move funds over suspected implant",
+      "link": "https://cointelegraph.com/news/trezor-cryptobilis-wallet-implant-funds-warning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 30 Oct 2026 09:26:45 +0000",
+      "source": "Cointelegraph",
+      "text": "Trezor warns CryptoBilis buyers to move funds over suspected implant Trezor urged customers who bought devices from CryptoBilis since March to move their funds after a report of a suspected hardware implant."
     },
     {
       "title": "Strategy eyes more Bitcoin buys as Saylor touts $30B credit capacity",
@@ -399,21 +456,21 @@
       "link": "https://cointelegraph.com/news/north-korea-linked-to-63b-binance-hack-by-crypto-investigators?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 30 Oct 2026 05:51:41 +0000",
       "source": "Cointelegraph",
-      "text": "North Korea’s TraderTraitor linked to $6.3B Binance hack TRM Labs says it has high confidence in the attribution, while ZachXBT identified stolen funds from the Binance and Bitget hacks converging at the same address."
+      "text": "North Korea’s TraderTraitor linked to $6.3B Binance hack TRM Labs said it has high confidence in the attribution, while ZachXBT identified stolen funds from the Binance and Bitget hacks converging at the same address."
     },
     {
       "title": "Binance hack could accelerate shift to DEXs: Standard Chartered",
       "link": "https://cointelegraph.com/news/binance-hack-could-accelerate-shift-to-dexs-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 30 Oct 2026 03:47:01 +0000",
       "source": "Cointelegraph",
-      "text": "Binance hack could accelerate shift to DEXs: Standard Chartered Standard Chartered’s Geoffrey Kendrick says the breach could accelerate a shift toward decentralized trading and strengthen his case for Uniswap’s UNI token reaching $100 by 2030."
+      "text": "Binance hack could accelerate shift to DEXs: Standard Chartered Standard Chartered’s Geoffrey Kendrick said the breach could accelerate a shift toward decentralized trading and strengthen his case for Uniswap’s UNI token reaching $100 by 2030."
     },
     {
       "title": "Binance points to engineer’s hacked laptop in $6.3B breach",
       "link": "https://cointelegraph.com/news/binance-hack-may-involve-private-key-misuse-not-theft-blockaid-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 30 Oct 2026 00:11:26 +0000",
       "source": "Cointelegraph",
-      "text": "Binance points to engineer’s hacked laptop in $6.3B breach Binance says attackers may have used a compromised DevOps laptop to access internal infrastructure."
+      "text": "Binance points to engineer’s hacked laptop in $6.3B breach Binance said attackers may have used a compromised DevOps laptop to access internal infrastructure."
     },
     {
       "title": "Binance hack rattles markets as BNB falls 8%, Bitcoin nears $77K",
@@ -430,11 +487,11 @@
       "text": "Tampered Ledger reported in Singapore a month before news broke: Asia Express Singapore police say tampered Ledgers started showing up there on September 10. South Korean lawmakers look set to delay the crypto tax law for a fourth time."
     },
     {
-      "title": "Binance investigates multibillion-dollar security breach",
+      "title": "Binance hit by $6.3B hack, the largest in cryptocurrency history",
       "link": "https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 29 Oct 2026 21:24:36 +0000",
       "source": "Cointelegraph",
-      "text": "Binance investigates multibillion-dollar security breach Binance is investigating a potential multibillion-dollar security breach that is estimated to have impacted $6.3 billion in funds."
+      "text": "Binance hit by $6.3B hack, the largest in cryptocurrency history Binance pledged to cover all losses after a $6.3 billion hack, with about $3 billion in assets frozen by the exchange and its partners."
     },
     {
       "title": "Public companies double share of blockchain revenue since 2022: Report",
@@ -449,69 +506,6 @@
       "published": "Thu, 29 Oct 2026 19:23:03 +0000",
       "source": "Cointelegraph",
       "text": "Polymarket suspended trading amid reports of user funds being drained The prediction markets platform halted trading on Thursday after it reported one of its third party providers had been compromised."
-    },
-    {
-      "title": "HYPE teases all-time high as NYSE owner ICE eyes US Hyperliquid perps",
-      "link": "https://cointelegraph.com/markets/hype-price-all-time-high-ice-us-hyperliquid-perps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 29 Oct 2026 17:12:03 +0000",
-      "source": "Cointelegraph",
-      "text": "HYPE teases all-time high as NYSE owner ICE eyes US Hyperliquid perps Hyperliquid’s token pumped following news of ICE and Trade[XYZ] unveiling plans for US perpetual futures."
-    },
-    {
-      "title": "KuCoin suspends services in Russia and Belarus",
-      "link": "https://cointelegraph.com/news/kucoin-services-russia-belarus-suspended?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 29 Oct 2026 17:08:41 +0000",
-      "source": "Cointelegraph",
-      "text": "KuCoin suspends services in Russia and Belarus The exchange cited legal and regulatory compliance in its reason for cutting off services to users based in the two countries, currently the targets of international sanctions."
-    },
-    {
-      "title": "Nasdaq-listed Canton Strategic Holdings plans tokenized stock trading from Nov. 2",
-      "link": "https://cointelegraph.com/news/canton-strategic-holdings-tokenized-stock-trading-november-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 29 Oct 2026 16:27:39 +0000",
-      "source": "Cointelegraph",
-      "text": "Nasdaq-listed Canton Strategic Holdings plans tokenized stock trading from Nov. 2 The tokenized shares would carry the same shareholder rights as traditional stock, with round-the-clock trading and immediate settlement under the SEC’s innovation exemption."
-    },
-    {
-      "title": "Kalshi raises $1B at $40B valuation as non-sports revenue run rate tops $1B",
-      "link": "https://cointelegraph.com/news/kalshi-closes-1b-funding-round-at-40b-valuation-as-non-sports-revenue-run-rate-tops-1b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 29 Oct 2026 15:52:43 +0000",
-      "source": "Cointelegraph",
-      "text": "Kalshi raises $1B at $40B valuation as non-sports revenue run rate tops $1B The funding round comes as Kalshi expands its partnerships with the NBA and S&P Dow Jones Indices while facing legal challenges over its sports contracts."
-    },
-    {
-      "title": "Bitcoin price jumps to $81.5K as US GDP data beats expectations",
-      "link": "https://cointelegraph.com/markets/bitcoin-reaction-to-pce-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 29 Oct 2026 15:39:54 +0000",
-      "source": "Cointelegraph",
-      "text": "Bitcoin price jumps to $81.5K as US GDP data beats expectations BTC price action returned to a key weekly resistance level as US stock markets digested Alphabet’s Q3 earnings miss."
-    },
-    {
-      "title": "French Senate adopts bill for automatic sharing of crypto tax data",
-      "link": "https://cointelegraph.com/news/french-senate-adopts-bill-automatic-crypto-tax-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 29 Oct 2026 15:00:02 +0000",
-      "source": "Cointelegraph",
-      "text": "French Senate adopts bill for automatic sharing of crypto tax data The French Senate adopted a bill authorizing the automatic exchange of crypto-asset tax information between international tax authorities, pending completion of the legislative process."
-    },
-    {
-      "title": "Bank of England opens consultation on tokenized collateral for clearing",
-      "link": "https://cointelegraph.com/news/bank-of-england-opens-consultation-on-tokenized-collateral-for-clearing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 29 Oct 2026 14:27:46 +0000",
-      "source": "Cointelegraph",
-      "text": "Bank of England opens consultation on tokenized collateral for clearing Central counterparties would need to show tokenized collateral meets liquidity and risk tests under proposed Bank of England guidance."
-    },
-    {
-      "title": "Canton Foundation grants RedStone 15.8M Canton Coin for pricing standard",
-      "link": "https://cointelegraph.com/news/canton-foundation-redstone-coin-pricing-standard?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 29 Oct 2026 14:00:00 +0000",
-      "source": "Cointelegraph",
-      "text": "Canton Foundation grants RedStone 15.8M Canton Coin for pricing standard RedStone’s planned pricing tool will let institutions on Canton use shared market prices without exposing deal terms to data providers."
-    },
-    {
-      "title": "Brazil’s Halloween eve crypto deadline brings more tricks than treats",
-      "link": "https://cointelegraph.com/news/brazil-crypto-license-filing-deadline-hurdles-uncertainty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 29 Oct 2026 13:30:00 +0000",
-      "source": "Cointelegraph",
-      "text": "Brazil’s Halloween eve crypto deadline brings more tricks than treats Brazil’s crypto exchanges face an application deadline on Friday, with costly requirements and unanswered regulatory questions complicating compliance."
     }
   ],
   "paper": {
