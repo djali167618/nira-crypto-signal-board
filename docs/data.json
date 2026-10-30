@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30 20:12:05 UTC",
+  "generatedAt": "2026-10-30 23:45:41 UTC",
   "interval": "15m candles",
   "marketSentiment": -28,
   "overallNewsScore": -7,
@@ -12,19 +12,19 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 76951.98,
-      "change24h": -4.31,
-      "volume24h": 2589084284.2354927,
+      "price": 77371.21,
+      "change24h": -1.263,
+      "volume24h": 1948464937.2984154,
       "technical": {
-        "rsi": 44.3,
-        "ema9": 76849.8496579623,
-        "ema21": 77060.70942380167,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.73,
-        "score": 11
+        "rsi": 60.8,
+        "ema9": 77065.98951666671,
+        "ema21": 77021.16184613592,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.7,
+        "score": 89
       },
-      "newsScore": -30,
+      "newsScore": -40,
       "newsCount": 5,
       "news": [
         {
@@ -64,24 +64,24 @@
         }
       ],
       "marketSentiment": -28,
-      "combinedScore": 23,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News -30; Market sentiment -28."
+      "combinedScore": 61,
+      "signal": "WAIT",
+      "reason": "Technical 89/100; News -40; Market sentiment -28."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2241.17,
-      "change24h": -3.207,
-      "volume24h": 1443517151.961247,
+      "price": 2246.21,
+      "change24h": -0.629,
+      "volume24h": 1050602981.823191,
       "technical": {
-        "rsi": 53.8,
-        "ema9": 2235.8186898109575,
-        "ema21": 2235.7715527039277,
-        "macdBull": false,
+        "rsi": 59.2,
+        "ema9": 2241.1837401700345,
+        "ema21": 2239.687046514113,
+        "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.54,
-        "score": 53
+        "volumeRatio": 0.58,
+        "score": 89
       },
       "newsScore": -67,
       "newsCount": 5,
@@ -123,24 +123,24 @@
         }
       ],
       "marketSentiment": -28,
-      "combinedScore": 39,
+      "combinedScore": 57,
       "signal": "WAIT",
-      "reason": "Technical 53/100; News -67; Market sentiment -28."
+      "reason": "Technical 89/100; News -67; Market sentiment -28."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 94.95,
-      "change24h": -4.013,
-      "volume24h": 452612274.7127,
+      "price": 96.37,
+      "change24h": 0.135,
+      "volume24h": 307468716.98046,
       "technical": {
-        "rsi": 47.0,
-        "ema9": 94.54554518368475,
-        "ema21": 94.80085182371533,
+        "rsi": 71.9,
+        "ema9": 95.849648080513,
+        "ema21": 95.5038689891698,
         "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.98,
-        "score": 47
+        "emaBull": true,
+        "volumeRatio": 0.77,
+        "score": 89
       },
       "newsScore": -100,
       "newsCount": 1,
@@ -154,24 +154,24 @@
         }
       ],
       "marketSentiment": -28,
-      "combinedScore": 31,
+      "combinedScore": 52,
       "signal": "WAIT",
-      "reason": "Technical 47/100; News -100; Market sentiment -28."
+      "reason": "Technical 89/100; News -100; Market sentiment -28."
     },
     {
       "symbol": "BNBUSDT",
       "coin": "BNB",
-      "price": 700.61,
-      "change24h": -5.259,
-      "volume24h": 436351586.13039,
+      "price": 704.68,
+      "change24h": 0.357,
+      "volume24h": 258830329.56946,
       "technical": {
-        "rsi": 51.2,
-        "ema9": 699.2010486495485,
-        "ema21": 699.8490772109902,
+        "rsi": 63.7,
+        "ema9": 701.5489188472773,
+        "ema21": 700.5796366220374,
         "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.45,
-        "score": 47
+        "emaBull": true,
+        "volumeRatio": 0.8,
+        "score": 89
       },
       "newsScore": -100,
       "newsCount": 1,
@@ -185,70 +185,24 @@
         }
       ],
       "marketSentiment": -28,
-      "combinedScore": 31,
+      "combinedScore": 52,
       "signal": "WAIT",
-      "reason": "Technical 47/100; News -100; Market sentiment -28."
-    },
-    {
-      "symbol": "ZECUSDT",
-      "coin": "ZEC",
-      "price": 1225.15,
-      "change24h": -6.303,
-      "volume24h": 256618375.29976,
-      "technical": {
-        "rsi": 48.5,
-        "ema9": 1224.9488534442069,
-        "ema21": 1229.41679376662,
-        "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.69,
-        "score": 47
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -28,
-      "combinedScore": 46,
-      "signal": "WAIT",
-      "reason": "Technical 47/100; News +0; Market sentiment -28."
-    },
-    {
-      "symbol": "PEPEUSDT",
-      "coin": "PEPE",
-      "price": 5.02e-06,
-      "change24h": -3.276,
-      "volume24h": 251456401.5601227,
-      "technical": {
-        "rsi": 48.2,
-        "ema9": 5.080122673562235e-06,
-        "ema21": 5.107318138573298e-06,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.3,
-        "score": 23
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -28,
-      "combinedScore": 34,
-      "signal": "SELL",
-      "reason": "Technical 23/100; News +0; Market sentiment -28."
+      "reason": "Technical 89/100; News -100; Market sentiment -28."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 4.319,
-      "change24h": -0.667,
-      "volume24h": 244657576.6004,
+      "price": 4.308,
+      "change24h": 5.692,
+      "volume24h": 193149851.2294,
       "technical": {
-        "rsi": 58.4,
-        "ema9": 4.301574502190303,
-        "ema21": 4.299714471825874,
-        "macdBull": true,
+        "rsi": 50.4,
+        "ema9": 4.313788195935686,
+        "ema21": 4.31084337456512,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 0.63,
-        "score": 89
+        "volumeRatio": 1.16,
+        "score": 53
       },
       "newsScore": -100,
       "newsCount": 1,
@@ -262,24 +216,70 @@
         }
       ],
       "marketSentiment": -28,
-      "combinedScore": 52,
+      "combinedScore": 34,
       "signal": "WAIT",
-      "reason": "Technical 89/100; News -100; Market sentiment -28."
+      "reason": "Technical 53/100; News -100; Market sentiment -28."
+    },
+    {
+      "symbol": "PEPEUSDT",
+      "coin": "PEPE",
+      "price": 4.97e-06,
+      "change24h": 8.279,
+      "volume24h": 191001320.43723223,
+      "technical": {
+        "rsi": 45.0,
+        "ema9": 4.988114030822265e-06,
+        "ema21": 5.011582095662133e-06,
+        "macdBull": true,
+        "emaBull": false,
+        "volumeRatio": 0.6,
+        "score": 47
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -28,
+      "combinedScore": 46,
+      "signal": "WAIT",
+      "reason": "Technical 47/100; News +0; Market sentiment -28."
+    },
+    {
+      "symbol": "ZECUSDT",
+      "coin": "ZEC",
+      "price": 1265.64,
+      "change24h": 2.87,
+      "volume24h": 183659302.3991,
+      "technical": {
+        "rsi": 69.7,
+        "ema9": 1248.5113759009475,
+        "ema21": 1240.9907927786535,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 1.01,
+        "score": 89
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -28,
+      "combinedScore": 67,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment -28."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 1.2487,
-      "change24h": -1.7,
-      "volume24h": 235397067.68329,
+      "price": 1.2563,
+      "change24h": 1.29,
+      "volume24h": 151099567.24321,
       "technical": {
-        "rsi": 55.6,
-        "ema9": 1.2456614826315706,
-        "ema21": 1.2459930747160322,
+        "rsi": 62.5,
+        "ema9": 1.2534336657038754,
+        "ema21": 1.2512366390786807,
         "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.79,
-        "score": 59
+        "emaBull": true,
+        "volumeRatio": 0.94,
+        "score": 89
       },
       "newsScore": -33,
       "newsCount": 3,
@@ -307,58 +307,65 @@
         }
       ],
       "marketSentiment": -28,
-      "combinedScore": 47,
+      "combinedScore": 62,
       "signal": "WAIT",
-      "reason": "Technical 59/100; News -33; Market sentiment -28."
+      "reason": "Technical 89/100; News -33; Market sentiment -28."
     },
     {
       "symbol": "TRXUSDT",
       "coin": "TRX",
-      "price": 0.3312,
-      "change24h": -0.09,
-      "volume24h": 228410444.84703,
+      "price": 0.3289,
+      "change24h": -6.43,
+      "volume24h": 145658411.35192,
       "technical": {
-        "rsi": 41.8,
-        "ema9": 0.33086818559525927,
-        "ema21": 0.3318455861370841,
-        "macdBull": false,
+        "rsi": 44.9,
+        "ema9": 0.3287790457351853,
+        "ema21": 0.329497369745732,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.5,
-        "score": 11
+        "volumeRatio": 0.52,
+        "score": 35
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": -28,
-      "combinedScore": 28,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment -28."
+      "combinedScore": 40,
+      "signal": "WAIT",
+      "reason": "Technical 35/100; News +0; Market sentiment -28."
     },
     {
       "symbol": "USD1USDT",
       "coin": "USD1",
-      "price": 0.999,
-      "change24h": -0.095,
-      "volume24h": 168072694.12162,
+      "price": 0.99946,
+      "change24h": 0.016,
+      "volume24h": 94923323.2959,
       "technical": {
-        "rsi": 40.1,
-        "ema9": 0.9990846823939935,
-        "ema21": 0.999118653287119,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.5,
-        "score": 11
+        "rsi": 61.5,
+        "ema9": 0.9994214383243654,
+        "ema21": 0.9993202005826953,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.66,
+        "score": 89
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": -28,
-      "combinedScore": 28,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment -28."
+      "combinedScore": 67,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment -28."
     }
   ],
   "news": [
+    {
+      "title": "Binance hackers raced to move billions before it could be frozen",
+      "link": "https://cointelegraph.com/magazine/binance-hackers-raced-to-move-billions-before-could-be-frozen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 30 Oct 2026 22:00:00 +0000",
+      "source": "Cointelegraph",
+      "text": "Binance hackers raced to move billions before it could be frozen Attackers raced to convert stolen stablecoins into crypto that issuers could not freeze as industry players like Tether and Circle moved to immobilize billions of dollars in assets."
+    },
     {
       "title": "Tether’s excess reserves nearly double to $8B as Q3 profit hits $1.5B",
       "link": "https://cointelegraph.com/news/tethers-excess-reserves-nearly-double-to-8b-as-q3-profit-hits-15b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -416,11 +423,11 @@
       "text": "Will gold’s ‘infinite mint bug’ make Bitcoin more valuable? A US fusion startup says it has turned mercury into gold. Could a potential increase in the gold supply strengthen Bitcoin’s claim to be a better form of digital gold?"
     },
     {
-      "title": "Binance working with FBI to recover assets following $6.3B hack",
+      "title": "FBI and Secret Service join response to Binance’s $6.3B hack",
       "link": "https://cointelegraph.com/news/binance-fbi-recover-assets-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 30 Oct 2026 13:11:10 +0000",
       "source": "Cointelegraph",
-      "text": "Binance working with FBI to recover assets following $6.3B hack Binance is working with law enforcement to recover $3 billion that is frozen, after setting aside more than $6.3 billion from the company’s funds to cover the shortfall."
+      "text": "FBI and Secret Service join response to Binance’s $6.3B hack US agencies are investigating the theft and helping trace stolen assets, while Binance says about $3 billion has been frozen."
     },
     {
       "title": "Binance says it holds $5B in matching tokens to cover hack losses",
@@ -491,13 +498,6 @@
       "published": "Fri, 30 Oct 2026 03:47:01 +0000",
       "source": "Cointelegraph",
       "text": "Binance hack could accelerate shift to DEXs: Standard Chartered Standard Chartered’s Geoffrey Kendrick said the breach could accelerate a shift toward decentralized trading and strengthen his case for Uniswap’s UNI token reaching $100 by 2030."
-    },
-    {
-      "title": "Binance points to engineer’s hacked laptop in $6.3B breach",
-      "link": "https://cointelegraph.com/news/binance-hack-may-involve-private-key-misuse-not-theft-blockaid-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 30 Oct 2026 00:11:26 +0000",
-      "source": "Cointelegraph",
-      "text": "Binance points to engineer’s hacked laptop in $6.3B breach Binance said attackers may have used a compromised DevOps laptop to access internal infrastructure."
     }
   ],
   "paper": {
