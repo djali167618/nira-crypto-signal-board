@@ -1,32 +1,39 @@
 {
-  "generatedAt": "2026-10-29 23:29:48 UTC",
+  "generatedAt": "2026-10-30 02:50:55 UTC",
   "interval": "15m candles",
-  "marketSentiment": 15,
-  "overallNewsScore": 38,
+  "marketSentiment": -16,
+  "overallNewsScore": 29,
   "fearGreed": {
-    "value": 51,
-    "label": "Neutral",
+    "value": 30,
+    "label": "Fear",
     "source": "Alternative.me"
   },
   "coins": [
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 78732.85,
-      "change24h": -3.217,
-      "volume24h": 1809143853.0015335,
+      "price": 77350.0,
+      "change24h": -3.196,
+      "volume24h": 2341963405.1687965,
       "technical": {
-        "rsi": 29.5,
-        "ema9": 79135.61066190721,
-        "ema21": 79640.77037035272,
-        "macdBull": false,
+        "rsi": 38.4,
+        "ema9": 77353.88956445185,
+        "ema21": 77949.79647307866,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.75,
-        "score": 11
+        "volumeRatio": 0.88,
+        "score": 35
       },
       "newsScore": -7,
       "newsCount": 5,
       "news": [
+        {
+          "title": "Binance hack rattles markets as BNB falls 8%, Bitcoin nears $77K",
+          "link": "https://cointelegraph.com/markets/binance-hack-rattles-crypto-markets-bnb-bitcoin-slide?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Thu, 29 Oct 2026 23:24:21 +0000",
+          "source": "Cointelegraph",
+          "text": "Binance hack rattles markets as BNB falls 8%, Bitcoin nears $77K Bitcoin, Ether and the broader crypto market took a dive as Binance suffered a multibillion-dollar hack."
+        },
         {
           "title": "Here’s what happened in crypto today",
           "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -54,38 +61,38 @@
           "published": "Thu, 29 Oct 2026 12:00:00 +0000",
           "source": "Cointelegraph",
           "text": "Bitcoin lending and yield could drive next wave of institutional demand, Rootstock says A new report argues that putting institutional Bitcoin holdings to work through lending, collateral and financing could create demand beyond its store-of-value role."
-        },
-        {
-          "title": "Bitcoin long-term resistance in focus as analysis sees selling risk above $85K",
-          "link": "https://cointelegraph.com/markets/bitcoin-long-term-resistance-in-focus-as-analysis-sees-selling-risk-above-85k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Thu, 29 Oct 2026 10:46:43 +0000",
-          "source": "Cointelegraph",
-          "text": "Bitcoin long-term resistance in focus as analysis sees selling risk above $85K BTC price analysis from Glassnode drew attention to $85,000 as the lower boundary of a cost-basis zone for long-term holders."
         }
       ],
-      "marketSentiment": 15,
-      "combinedScore": 31,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News -7; Market sentiment +15."
+      "marketSentiment": -16,
+      "combinedScore": 40,
+      "signal": "WAIT",
+      "reason": "Technical 35/100; News -7; Market sentiment -16."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2266.74,
-      "change24h": -4.011,
-      "volume24h": 919324863.391165,
+      "price": 2210.0,
+      "change24h": -4.188,
+      "volume24h": 1151205069.995038,
       "technical": {
-        "rsi": 33.3,
-        "ema9": 2276.0317810785773,
-        "ema21": 2293.1277132702553,
-        "macdBull": false,
+        "rsi": 35.7,
+        "ema9": 2216.3926203705932,
+        "ema21": 2238.0107869763024,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.98,
-        "score": 11
+        "volumeRatio": 0.29,
+        "score": 35
       },
-      "newsScore": 44,
-      "newsCount": 3,
+      "newsScore": -13,
+      "newsCount": 5,
       "news": [
+        {
+          "title": "Binance hack rattles markets as BNB falls 8%, Bitcoin nears $77K",
+          "link": "https://cointelegraph.com/markets/binance-hack-rattles-crypto-markets-bnb-bitcoin-slide?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Thu, 29 Oct 2026 23:24:21 +0000",
+          "source": "Cointelegraph",
+          "text": "Binance hack rattles markets as BNB falls 8%, Bitcoin nears $77K Bitcoin, Ether and the broader crypto market took a dive as Binance suffered a multibillion-dollar hack."
+        },
         {
           "title": "Private, fast USDT is coming to Bitcoin. Can it compete with Ethereum and Tron?",
           "link": "https://cointelegraph.com/magazine/private-fast-usdt-is-coming-to-bitcoin-can-it-compete-with-ethereum-and-tron?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -101,6 +108,13 @@
           "text": "Your fridge could one day stake Ether, launch memecoins: CFTC chair CFTC chair Mike Selig says autonomous AI agents could challenge financial rules built around human traders, and regulators need to adapt."
         },
         {
+          "title": "Binance hack drained wallets backing customer assets, reserve data shows",
+          "link": "https://www.coindesk.com/business/2026/10/30/binance-hack-drained-wallets-backing-customer-assets-reserve-data-shows",
+          "published": "Fri, 30 Oct 2026 00:17:10 +0000",
+          "source": "CoinDesk",
+          "text": "Binance hack drained wallets backing customer assets, reserve data shows Binance’s own reserve data lists the drained wallets as backing customer balances, leaving its ether backing an estimated 6% short until the exchange replaces what was stolen."
+        },
+        {
           "title": "Why Switzerland’s first genuine spot bitcoin ETF could soon attract overseas banks and brokers",
           "link": "https://www.coindesk.com/business/2026/10/29/switzerland-s-first-bitcoin-etf-gets-rare-exemption-will-open-to-overseas-brokers",
           "published": "Thu, 29 Oct 2026 14:15:46 +0000",
@@ -108,48 +122,56 @@
           "text": "Why Switzerland’s first genuine spot bitcoin ETF could soon attract overseas banks and brokers SIX Swiss Exchange confirms international access, while FINMA explains why it approved the fund and whether ether and solana ETFs could follow."
         }
       ],
-      "marketSentiment": 15,
+      "marketSentiment": -16,
       "combinedScore": 39,
       "signal": "WAIT",
-      "reason": "Technical 11/100; News +44; Market sentiment +15."
+      "reason": "Technical 35/100; News -13; Market sentiment -16."
     },
     {
       "symbol": "BNBUSDT",
       "coin": "BNB",
-      "price": 706.52,
-      "change24h": -6.822,
-      "volume24h": 398877473.96251,
+      "price": 711.43,
+      "change24h": -4.874,
+      "volume24h": 480405526.76036,
       "technical": {
-        "rsi": 35.1,
-        "ema9": 708.3239795353911,
-        "ema21": 718.6983342539429,
-        "macdBull": false,
+        "rsi": 54.1,
+        "ema9": 706.0535664809333,
+        "ema21": 707.1366235177275,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.84,
-        "score": 11
+        "volumeRatio": 0.68,
+        "score": 47
       },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": 15,
+      "newsScore": -100,
+      "newsCount": 1,
+      "news": [
+        {
+          "title": "Binance hack rattles markets as BNB falls 8%, Bitcoin nears $77K",
+          "link": "https://cointelegraph.com/markets/binance-hack-rattles-crypto-markets-bnb-bitcoin-slide?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Thu, 29 Oct 2026 23:24:21 +0000",
+          "source": "Cointelegraph",
+          "text": "Binance hack rattles markets as BNB falls 8%, Bitcoin nears $77K Bitcoin, Ether and the broader crypto market took a dive as Binance suffered a multibillion-dollar hack."
+        }
+      ],
+      "marketSentiment": -16,
       "combinedScore": 32,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment +15."
+      "signal": "WAIT",
+      "reason": "Technical 47/100; News -100; Market sentiment -16."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 96.63,
-      "change24h": -5.69,
-      "volume24h": 342379696.63463,
+      "price": 95.2,
+      "change24h": -4.733,
+      "volume24h": 432233856.27213,
       "technical": {
-        "rsi": 30.2,
-        "ema9": 97.3245618034994,
-        "ema21": 98.31366107956185,
-        "macdBull": false,
+        "rsi": 44.8,
+        "ema9": 94.87503525732927,
+        "ema21": 95.69492656870096,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.8,
-        "score": 11
+        "volumeRatio": 0.22,
+        "score": 35
       },
       "newsScore": 8,
       "newsCount": 4,
@@ -183,94 +205,117 @@
           "text": "Solana wallet Solflare pledges to pay missed rewards on staked $160 million after validator goes offline About 1.56 million SOL sat on a validator that stopped earning, and the wallet still hasn’t named the firm that held its keys."
         }
       ],
-      "marketSentiment": 15,
-      "combinedScore": 33,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +8; Market sentiment +15."
+      "marketSentiment": -16,
+      "combinedScore": 42,
+      "signal": "WAIT",
+      "reason": "Technical 35/100; News +8; Market sentiment -16."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 1247.04,
-      "change24h": -5.245,
-      "volume24h": 285530353.50698,
+      "price": 1263.2,
+      "change24h": 1.595,
+      "volume24h": 320465875.11542,
       "technical": {
-        "rsi": 32.8,
-        "ema9": 1257.3570547074144,
-        "ema21": 1276.9372044632432,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.93,
-        "score": 11
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": 15,
-      "combinedScore": 32,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment +15."
-    },
-    {
-      "symbol": "PEPEUSDT",
-      "coin": "PEPE",
-      "price": 4.66e-06,
-      "change24h": -7.356,
-      "volume24h": 221425771.8565613,
-      "technical": {
-        "rsi": 24.0,
-        "ema9": 4.64775498118387e-06,
-        "ema21": 4.860704921365058e-06,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 1.24,
-        "score": 28
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": 15,
-      "combinedScore": 40,
-      "signal": "WAIT",
-      "reason": "Technical 28/100; News +0; Market sentiment +15."
-    },
-    {
-      "symbol": "USD1USDT",
-      "coin": "USD1",
-      "price": 0.99927,
-      "change24h": -0.091,
-      "volume24h": 217736491.64268,
-      "technical": {
-        "rsi": 37.1,
-        "ema9": 0.9995926963558308,
-        "ema21": 0.9996995109083678,
+        "rsi": 54.3,
+        "ema9": 1246.2755566871483,
+        "ema21": 1249.371851976441,
         "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.9,
+        "volumeRatio": 0.45,
+        "score": 47
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -16,
+      "combinedScore": 47,
+      "signal": "WAIT",
+      "reason": "Technical 47/100; News +0; Market sentiment -16."
+    },
+    {
+      "symbol": "XRPUSDT",
+      "coin": "XRP",
+      "price": 1.2198,
+      "change24h": -5.756,
+      "volume24h": 245010335.06581,
+      "technical": {
+        "rsi": 41.1,
+        "ema9": 1.2211171975658728,
+        "ema21": 1.2319382451746743,
+        "macdBull": true,
+        "emaBull": false,
+        "volumeRatio": 0.42,
         "score": 35
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": 15,
-      "combinedScore": 44,
+      "marketSentiment": -16,
+      "combinedScore": 41,
       "signal": "WAIT",
-      "reason": "Technical 35/100; News +0; Market sentiment +15."
+      "reason": "Technical 35/100; News +0; Market sentiment -16."
+    },
+    {
+      "symbol": "PEPEUSDT",
+      "coin": "PEPE",
+      "price": 4.73e-06,
+      "change24h": -4.829,
+      "volume24h": 237897833.150318,
+      "technical": {
+        "rsi": 53.3,
+        "ema9": 4.684337076415237e-06,
+        "ema21": 4.707539966564172e-06,
+        "macdBull": true,
+        "emaBull": false,
+        "volumeRatio": 0.32,
+        "score": 47
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -16,
+      "combinedScore": 47,
+      "signal": "WAIT",
+      "reason": "Technical 47/100; News +0; Market sentiment -16."
+    },
+    {
+      "symbol": "USD1USDT",
+      "coin": "USD1",
+      "price": 0.99937,
+      "change24h": -0.056,
+      "volume24h": 235494478.93777,
+      "technical": {
+        "rsi": 40.8,
+        "ema9": 0.9991233282524925,
+        "ema21": 0.999264389350689,
+        "macdBull": true,
+        "emaBull": false,
+        "volumeRatio": 0.26,
+        "score": 35
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -16,
+      "combinedScore": 41,
+      "signal": "WAIT",
+      "reason": "Technical 35/100; News +0; Market sentiment -16."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 4.108,
-      "change24h": -13.479,
-      "volume24h": 205694943.6012,
+      "price": 4.073,
+      "change24h": -8.451,
+      "volume24h": 230140153.7209,
       "technical": {
-        "rsi": 22.0,
-        "ema9": 4.154500901148067,
-        "ema21": 4.2509723915313495,
-        "macdBull": false,
+        "rsi": 45.6,
+        "ema9": 4.046935083676702,
+        "ema21": 4.091689678145381,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.8,
-        "score": 28
+        "volumeRatio": 1.01,
+        "score": 47
       },
       "newsScore": 0,
       "newsCount": 1,
@@ -283,48 +328,25 @@
           "text": "As $10 billion in bitcoin options near expiry, the tell is in the pricing Your day-ahead look for Oct. 29, 2026"
         }
       ],
-      "marketSentiment": 15,
-      "combinedScore": 40,
+      "marketSentiment": -16,
+      "combinedScore": 47,
       "signal": "WAIT",
-      "reason": "Technical 28/100; News +0; Market sentiment +15."
-    },
-    {
-      "symbol": "XRPUSDT",
-      "coin": "XRP",
-      "price": 1.2447,
-      "change24h": -6.23,
-      "volume24h": 196578621.30097,
-      "technical": {
-        "rsi": 30.2,
-        "ema9": 1.250843878256208,
-        "ema21": 1.2622218220879278,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.82,
-        "score": 11
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": 15,
-      "combinedScore": 32,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment +15."
+      "reason": "Technical 47/100; News +0; Market sentiment -16."
     },
     {
       "symbol": "HYPEUSDT",
       "coin": "HYPE",
-      "price": 91.04,
-      "change24h": 12.631,
-      "volume24h": 156967230.12833,
+      "price": 90.85,
+      "change24h": 15.615,
+      "volume24h": 183601858.64308,
       "technical": {
-        "rsi": 39.9,
-        "ema9": 92.20271235182439,
-        "ema21": 92.74682465806073,
-        "macdBull": false,
+        "rsi": 51.1,
+        "ema9": 90.58374468299151,
+        "ema21": 90.99463255092232,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.84,
-        "score": 11
+        "volumeRatio": 2.34,
+        "score": 52
       },
       "newsScore": 0,
       "newsCount": 2,
@@ -344,13 +366,27 @@
           "text": "Stanley Druckenmiller's first X post backs Hyperliquid venture after $23 million indirect investment The billionaire investor disclosed an investment in Trade[XYZ] as the platform teams up with the NYSE's parent company. His family office previously reported owning shares in a HYPE-focused treasury company."
         }
       ],
-      "marketSentiment": 15,
-      "combinedScore": 32,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment +15."
+      "marketSentiment": -16,
+      "combinedScore": 49,
+      "signal": "WAIT",
+      "reason": "Technical 52/100; News +0; Market sentiment -16."
     }
   ],
   "news": [
+    {
+      "title": "Binance points to engineer’s hacked laptop in $6.3B breach",
+      "link": "https://cointelegraph.com/news/binance-hack-may-involve-private-key-misuse-not-theft-blockaid-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 30 Oct 2026 00:11:26 +0000",
+      "source": "Cointelegraph",
+      "text": "Binance points to engineer’s hacked laptop in $6.3B breach Binance says attackers may have used a compromised DevOps laptop to access internal infrastructure."
+    },
+    {
+      "title": "Binance hack rattles markets as BNB falls 8%, Bitcoin nears $77K",
+      "link": "https://cointelegraph.com/markets/binance-hack-rattles-crypto-markets-bnb-bitcoin-slide?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 29 Oct 2026 23:24:21 +0000",
+      "source": "Cointelegraph",
+      "text": "Binance hack rattles markets as BNB falls 8%, Bitcoin nears $77K Bitcoin, Ether and the broader crypto market took a dive as Binance suffered a multibillion-dollar hack."
+    },
     {
       "title": "Tampered Ledger reported in Singapore a month before news broke: Asia Express",
       "link": "https://cointelegraph.com/magazine/tampered-ledger-reported-in-singapore-a-month-before-news-broke-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -359,11 +395,11 @@
       "text": "Tampered Ledger reported in Singapore a month before news broke: Asia Express Singapore police say tampered Ledgers started showing up there on September 10. South Korean lawmakers look set to delay the crypto tax law for a fourth time."
     },
     {
-      "title": "Live Updates: Binance hit by largest crypto hack in history",
+      "title": "Live updates: Binance says $3B in crypto frozen in connection to hack",
       "link": "https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 29 Oct 2026 21:24:36 +0000",
       "source": "Cointelegraph",
-      "text": "Live Updates: Binance hit by largest crypto hack in history Follow live updates as Binance investigates a multibillion-dollar hack and Tether and Circle freeze more than $2.36 billion in stablecoins."
+      "text": "Live updates: Binance says $3B in crypto frozen in connection to hack Follow live updates as Binance says $3 billion in assets has been frozen after a multibillion-dollar hack, with further freezes possible as investigators trace funds."
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -476,20 +512,6 @@
       "published": "Thu, 29 Oct 2026 12:30:00 +0000",
       "source": "Cointelegraph",
       "text": "Unlimit founder backs Phase blockchain with $45M as mainnet launches Phase’s new network lets smartphone owners earn tokens for validating transactions and sharing internet connections with AI agents."
-    },
-    {
-      "title": "HTX agrees to halt unlawful UK crypto promotions after FCA case",
-      "link": "https://cointelegraph.com/news/htx-halt-unlawful-uk-crypto-promotions-fca?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 29 Oct 2026 12:20:27 +0000",
-      "source": "Cointelegraph",
-      "text": "HTX agrees to halt unlawful UK crypto promotions after FCA case HTX has pledged to stop crypto marketing in the UK until October 2031, with deposits and new account registrations already blocked there."
-    },
-    {
-      "title": "EU investors rank crypto above retirement plans for lasting wealth creation: OKX survey",
-      "link": "https://cointelegraph.com/news/eu-investors-crypto-above-retirement-lasting-wealth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 29 Oct 2026 12:00:00 +0000",
-      "source": "Cointelegraph",
-      "text": "EU investors rank crypto above retirement plans for lasting wealth creation: OKX survey European investors ranked crypto above retirement plans for lasting wealth creation, while prior surveys show US investors are skeptical on crypto’s role in retirement accounts."
     }
   ],
   "paper": {
