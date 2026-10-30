@@ -189,6 +189,26 @@
       "entryTime": "2026-10-30T09:05:22.124334+00:00",
       "status": "OPEN",
       "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "PEPEUSDT",
+      "side": "SELL",
+      "entry": 5.02e-06,
+      "stopLoss": 5.0953e-06,
+      "takeProfit": 4.8694e-06,
+      "entryTime": "2026-10-30T20:12:05.401422+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "TRXUSDT",
+      "side": "SELL",
+      "entry": 0.3312,
+      "stopLoss": 0.336168,
+      "takeProfit": 0.321264,
+      "entryTime": "2026-10-30T20:12:05.401422+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
     }
   ],
   "closed": [

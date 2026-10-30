@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-30 15:50:56 UTC",
+  "generatedAt": "2026-10-30 20:12:05 UTC",
   "interval": "15m candles",
-  "marketSentiment": -26,
-  "overallNewsScore": 0,
+  "marketSentiment": -28,
+  "overallNewsScore": -7,
   "fearGreed": {
     "value": 30,
     "label": "Fear",
@@ -12,21 +12,42 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 77618.72,
-      "change24h": -4.971,
-      "volume24h": 2688617719.766224,
+      "price": 76951.98,
+      "change24h": -4.31,
+      "volume24h": 2589084284.2354927,
       "technical": {
-        "rsi": 50.2,
-        "ema9": 77372.76426961842,
-        "ema21": 77431.21434372477,
-        "macdBull": true,
+        "rsi": 44.3,
+        "ema9": 76849.8496579623,
+        "ema21": 77060.70942380167,
+        "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.87,
-        "score": 47
+        "volumeRatio": 0.73,
+        "score": 11
       },
-      "newsScore": -40,
+      "newsScore": -30,
       "newsCount": 5,
       "news": [
+        {
+          "title": "Tether’s excess reserves nearly double to $8B as Q3 profit hits $1.5B",
+          "link": "https://cointelegraph.com/news/tethers-excess-reserves-nearly-double-to-8b-as-q3-profit-hits-15b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Fri, 30 Oct 2026 19:01:58 +0000",
+          "source": "Cointelegraph",
+          "text": "Tether’s excess reserves nearly double to $8B as Q3 profit hits $1.5B The stablecoin issuer’s US Treasury holdings are comparable to those of major foreign holders, while its Bitcoin reserves were valued at $8.37 billion at the end of September."
+        },
+        {
+          "title": "Crypto Biz: Bitcoin’s quantum threat is becoming an economic problem",
+          "link": "https://cointelegraph.com/news/bitcoin-quantum-threat-ripple-bank-usdc-vaneck-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Fri, 30 Oct 2026 17:09:31 +0000",
+          "source": "Cointelegraph",
+          "text": "Crypto Biz: Bitcoin’s quantum threat is becoming an economic problem Bitcoin faces mounting quantum security concerns as Ripple secures a US banking charter, USDC gains ground in Europe and VanEck adds BTC to a new ETF."
+        },
+        {
+          "title": "Bitcoin risks worst October in 12 years as tech sell-off spreads to gold",
+          "link": "https://cointelegraph.com/markets/bitcoin-risks-worst-october-in-12-years-as-tech-sell-off-spreads-to-gold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Fri, 30 Oct 2026 16:06:28 +0000",
+          "source": "Cointelegraph",
+          "text": "Bitcoin risks worst October in 12 years as tech sell-off spreads to gold Bitcoin circled $77,000 as crypto markets navigated US stock-market downside, while the gold price fell to its lowest in a year."
+        },
         {
           "title": "Here’s what happened in crypto today",
           "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -40,50 +61,29 @@
           "published": "Fri, 30 Oct 2026 13:30:00 +0000",
           "source": "Cointelegraph",
           "text": "Will gold’s ‘infinite mint bug’ make Bitcoin more valuable? A US fusion startup says it has turned mercury into gold. Could a potential increase in the gold supply strengthen Bitcoin’s claim to be a better form of digital gold?"
-        },
-        {
-          "title": "Bitcoin price metrics hint at rebound as $1.6B liquidations follow Binance hack",
-          "link": "https://cointelegraph.com/markets/bitcoin-price-metrics-hint-at-rebound-as-16b-liquidations-follow-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Fri, 30 Oct 2026 11:29:23 +0000",
-          "source": "Cointelegraph",
-          "text": "Bitcoin price metrics hint at rebound as $1.6B liquidations follow Binance hack Bitcoin held above $76,000 after a $6.3 billion Binance hack and a tech-stock sell-off, as momentum indicators pointed to a possible rebound."
-        },
-        {
-          "title": "Binance hacker’s Bitcoin haul tops Coinbase’s corporate treasury",
-          "link": "https://cointelegraph.com/news/binance-hacker-bitcoin-holdings-exceed-coinbase-btc-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Fri, 30 Oct 2026 10:54:30 +0000",
-          "source": "Cointelegraph",
-          "text": "Binance hacker’s Bitcoin haul tops Coinbase’s corporate treasury The attackers held 18,270 BTC early Friday, topping Coinbase’s reported corporate holdings, and an Ether stash exceeding 500,000 ETH."
-        },
-        {
-          "title": "Strategy eyes more Bitcoin buys as Saylor touts $30B credit capacity",
-          "link": "https://cointelegraph.com/news/strategy-30-billion-digital-credit-capacity-bitcoin-buys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Fri, 30 Oct 2026 05:53:07 +0000",
-          "source": "Cointelegraph",
-          "text": "Strategy eyes more Bitcoin buys as Saylor touts $30B credit capacity Michael Saylor says Strategy could create up to $30 billion in digital credit without new common-stock fundraising or further Bitcoin price gains, as the company plans more BTC purchases."
         }
       ],
-      "marketSentiment": -26,
-      "combinedScore": 40,
-      "signal": "WAIT",
-      "reason": "Technical 47/100; News -40; Market sentiment -26."
+      "marketSentiment": -28,
+      "combinedScore": 23,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News -30; Market sentiment -28."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2231.05,
-      "change24h": -5.668,
-      "volume24h": 1430876340.284369,
+      "price": 2241.17,
+      "change24h": -3.207,
+      "volume24h": 1443517151.961247,
       "technical": {
-        "rsi": 46.1,
-        "ema9": 2233.8522437587144,
-        "ema21": 2233.731783208484,
-        "macdBull": true,
+        "rsi": 53.8,
+        "ema9": 2235.8186898109575,
+        "ema21": 2235.7715527039277,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 1.87,
-        "score": 72
+        "volumeRatio": 0.54,
+        "score": 53
       },
-      "newsScore": -50,
+      "newsScore": -67,
       "newsCount": 5,
       "news": [
         {
@@ -108,42 +108,42 @@
           "text": "Binance hack rattles markets as BNB falls 8%, Bitcoin nears $77K Bitcoin, Ether and the broader crypto market took a dive as Binance suffered a multibillion-dollar hack."
         },
         {
-          "title": "Private, fast USDT is coming to Bitcoin. Can it compete with Ethereum and Tron?",
-          "link": "https://cointelegraph.com/magazine/private-fast-usdt-is-coming-to-bitcoin-can-it-compete-with-ethereum-and-tron?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Thu, 29 Oct 2026 13:30:00 +0000",
-          "source": "Cointelegraph",
-          "text": "Private, fast USDT is coming to Bitcoin. Can it compete with Ethereum and Tron? USDT is coming home to Bitcoin, offering privacy and Lightning-fast payments. But can Utexo’s bridged version of USD₮ compete with stablecoins on ETH and TRON?"
-        },
-        {
           "title": "Here’s how an Ethereum upgrade helped drain part of Binance’s $6 billion loss",
           "link": "https://www.coindesk.com/tech/2026/10/30/here-s-how-one-ethereum-permission-let-an-attacker-drain-usd2-5-billion-from-binance",
           "published": "Fri, 30 Oct 2026 11:35:16 +0000",
           "source": "CoinDesk",
           "text": "Here’s how an Ethereum upgrade helped drain part of Binance’s $6 billion loss On Ethereum, the attacker used a 2025 upgrade built to make ordinary wallets smarter, armed with 50 signatures from Binance's own wallet."
+        },
+        {
+          "title": "Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower",
+          "link": "https://www.coindesk.com/markets/2026/10/30/crypto-liquidations-jump-to-usd1-57-billion-as-binance-hack-sends-bitcoin-ether-lower",
+          "published": "Fri, 30 Oct 2026 11:09:24 +0000",
+          "source": "CoinDesk",
+          "text": "Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower Bitcoin traded near $77,350 after $6.3 billion Binance hack, with crypto futures liquidations jumping to $1.57 billion."
         }
       ],
-      "marketSentiment": -26,
-      "combinedScore": 51,
+      "marketSentiment": -28,
+      "combinedScore": 39,
       "signal": "WAIT",
-      "reason": "Technical 72/100; News -50; Market sentiment -26."
+      "reason": "Technical 53/100; News -67; Market sentiment -28."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 94.66,
-      "change24h": -7.559,
-      "volume24h": 470285917.48851,
+      "price": 94.95,
+      "change24h": -4.013,
+      "volume24h": 452612274.7127,
       "technical": {
-        "rsi": 35.3,
-        "ema9": 95.07002721196825,
-        "ema21": 95.68812392135172,
-        "macdBull": false,
+        "rsi": 47.0,
+        "ema9": 94.54554518368475,
+        "ema21": 94.80085182371533,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 1.27,
-        "score": 11
+        "volumeRatio": 0.98,
+        "score": 47
       },
-      "newsScore": -34,
-      "newsCount": 2,
+      "newsScore": -100,
+      "newsCount": 1,
       "news": [
         {
           "title": "From rivals to partners: Polygon and Solana team to bring stablecoin payments to banks",
@@ -151,33 +151,26 @@
           "published": "Thu, 29 Oct 2026 16:35:43 +0000",
           "source": "CoinDesk",
           "text": "From rivals to partners: Polygon and Solana team to bring stablecoin payments to banks The two networks are setting aside their rivalry to connect Solana's stablecoin activity with Polygon's banking, wallet and payment infrastructure."
-        },
-        {
-          "title": "Why Switzerland’s first genuine spot bitcoin ETF could soon attract overseas banks and brokers",
-          "link": "https://www.coindesk.com/business/2026/10/29/switzerland-s-first-bitcoin-etf-gets-rare-exemption-will-open-to-overseas-brokers",
-          "published": "Thu, 29 Oct 2026 14:15:46 +0000",
-          "source": "CoinDesk",
-          "text": "Why Switzerland’s first genuine spot bitcoin ETF could soon attract overseas banks and brokers SIX Swiss Exchange confirms international access, while FINMA explains why it approved the fund and whether ether and solana ETFs could follow."
         }
       ],
-      "marketSentiment": -26,
-      "combinedScore": 23,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News -34; Market sentiment -26."
+      "marketSentiment": -28,
+      "combinedScore": 31,
+      "signal": "WAIT",
+      "reason": "Technical 47/100; News -100; Market sentiment -28."
     },
     {
       "symbol": "BNBUSDT",
       "coin": "BNB",
-      "price": 700.31,
-      "change24h": -6.705,
-      "volume24h": 439051291.88093,
+      "price": 700.61,
+      "change24h": -5.259,
+      "volume24h": 436351586.13039,
       "technical": {
-        "rsi": 48.5,
-        "ema9": 700.2338857246768,
-        "ema21": 700.9692889938391,
+        "rsi": 51.2,
+        "ema9": 699.2010486495485,
+        "ema21": 699.8490772109902,
         "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.94,
+        "volumeRatio": 0.45,
         "score": 47
       },
       "newsScore": -100,
@@ -191,71 +184,71 @@
           "text": "Binance hack rattles markets as BNB falls 8%, Bitcoin nears $77K Bitcoin, Ether and the broader crypto market took a dive as Binance suffered a multibillion-dollar hack."
         }
       ],
-      "marketSentiment": -26,
+      "marketSentiment": -28,
       "combinedScore": 31,
       "signal": "WAIT",
-      "reason": "Technical 47/100; News -100; Market sentiment -26."
+      "reason": "Technical 47/100; News -100; Market sentiment -28."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 1232.93,
-      "change24h": -7.902,
-      "volume24h": 300767302.56209,
+      "price": 1225.15,
+      "change24h": -6.303,
+      "volume24h": 256618375.29976,
       "technical": {
-        "rsi": 45.0,
-        "ema9": 1240.173509815511,
-        "ema21": 1243.572618347531,
+        "rsi": 48.5,
+        "ema9": 1224.9488534442069,
+        "ema21": 1229.41679376662,
         "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 1.67,
-        "score": 30
+        "volumeRatio": 0.69,
+        "score": 47
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -26,
-      "combinedScore": 37,
+      "marketSentiment": -28,
+      "combinedScore": 46,
       "signal": "WAIT",
-      "reason": "Technical 30/100; News +0; Market sentiment -26."
+      "reason": "Technical 47/100; News +0; Market sentiment -28."
     },
     {
       "symbol": "PEPEUSDT",
       "coin": "PEPE",
       "price": 5.02e-06,
-      "change24h": -6.518,
-      "volume24h": 295216693.4671283,
+      "change24h": -3.276,
+      "volume24h": 251456401.5601227,
       "technical": {
-        "rsi": 43.6,
-        "ema9": 5.1600026658616565e-06,
-        "ema21": 5.154308137049404e-06,
+        "rsi": 48.2,
+        "ema9": 5.080122673562235e-06,
+        "ema21": 5.107318138573298e-06,
         "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 1.43,
-        "score": 41
+        "emaBull": false,
+        "volumeRatio": 0.3,
+        "score": 23
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -26,
-      "combinedScore": 43,
-      "signal": "WAIT",
-      "reason": "Technical 41/100; News +0; Market sentiment -26."
+      "marketSentiment": -28,
+      "combinedScore": 34,
+      "signal": "SELL",
+      "reason": "Technical 23/100; News +0; Market sentiment -28."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 4.313,
-      "change24h": -6.726,
-      "volume24h": 258495426.5366,
+      "price": 4.319,
+      "change24h": -0.667,
+      "volume24h": 244657576.6004,
       "technical": {
-        "rsi": 48.3,
-        "ema9": 4.321870192799916,
-        "ema21": 4.313193153065365,
+        "rsi": 58.4,
+        "ema9": 4.301574502190303,
+        "ema21": 4.299714471825874,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 1.29,
-        "score": 77
+        "volumeRatio": 0.63,
+        "score": 89
       },
       "newsScore": -100,
       "newsCount": 1,
@@ -268,29 +261,36 @@
           "text": "Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower Bitcoin traded near $77,350 after $6.3 billion Binance hack, with crypto futures liquidations jumping to $1.57 billion."
         }
       ],
-      "marketSentiment": -26,
-      "combinedScore": 46,
+      "marketSentiment": -28,
+      "combinedScore": 52,
       "signal": "WAIT",
-      "reason": "Technical 77/100; News -100; Market sentiment -26."
+      "reason": "Technical 89/100; News -100; Market sentiment -28."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 1.2498,
-      "change24h": -4.428,
-      "volume24h": 255130213.49155,
+      "price": 1.2487,
+      "change24h": -1.7,
+      "volume24h": 235397067.68329,
       "technical": {
-        "rsi": 50.1,
-        "ema9": 1.246578870159386,
-        "ema21": 1.2470969003033021,
+        "rsi": 55.6,
+        "ema9": 1.2456614826315706,
+        "ema21": 1.2459930747160322,
         "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 1.95,
-        "score": 42
+        "volumeRatio": 0.79,
+        "score": 59
       },
-      "newsScore": 0,
-      "newsCount": 2,
+      "newsScore": -33,
+      "newsCount": 3,
       "news": [
+        {
+          "title": "Crypto Biz: Bitcoin’s quantum threat is becoming an economic problem",
+          "link": "https://cointelegraph.com/news/bitcoin-quantum-threat-ripple-bank-usdc-vaneck-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Fri, 30 Oct 2026 17:09:31 +0000",
+          "source": "Cointelegraph",
+          "text": "Crypto Biz: Bitcoin’s quantum threat is becoming an economic problem Bitcoin faces mounting quantum security concerns as Ripple secures a US banking charter, USDC gains ground in Europe and VanEck adds BTC to a new ETF."
+        },
         {
           "title": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
           "link": "https://www.coindesk.com/markets/2026/10/30/bitcoin-ether-and-xrp-selloff-wipes-out-usd1-5-billion-in-leveraged-crypto-bets",
@@ -306,73 +306,100 @@
           "text": "XRP Ledger developers tighten the rules for who can hold 'restricted' tokens A set of fixes would tighten who can hold permissioned tokens on the network. The XRP Ledger Foundation says no users were affected."
         }
       ],
-      "marketSentiment": -26,
-      "combinedScore": 43,
+      "marketSentiment": -28,
+      "combinedScore": 47,
       "signal": "WAIT",
-      "reason": "Technical 42/100; News +0; Market sentiment -26."
+      "reason": "Technical 59/100; News -33; Market sentiment -28."
     },
     {
       "symbol": "TRXUSDT",
       "coin": "TRX",
-      "price": 0.3318,
-      "change24h": 0.06,
-      "volume24h": 226346780.5905,
+      "price": 0.3312,
+      "change24h": -0.09,
+      "volume24h": 228410444.84703,
       "technical": {
-        "rsi": 43.8,
-        "ema9": 0.3328758826535316,
-        "ema21": 0.3337404142798128,
-        "macdBull": true,
+        "rsi": 41.8,
+        "ema9": 0.33086818559525927,
+        "ema21": 0.3318455861370841,
+        "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.76,
-        "score": 35
-      },
-      "newsScore": 0,
-      "newsCount": 1,
-      "news": [
-        {
-          "title": "Private, fast USDT is coming to Bitcoin. Can it compete with Ethereum and Tron?",
-          "link": "https://cointelegraph.com/magazine/private-fast-usdt-is-coming-to-bitcoin-can-it-compete-with-ethereum-and-tron?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Thu, 29 Oct 2026 13:30:00 +0000",
-          "source": "Cointelegraph",
-          "text": "Private, fast USDT is coming to Bitcoin. Can it compete with Ethereum and Tron? USDT is coming home to Bitcoin, offering privacy and Lightning-fast payments. But can Utexo’s bridged version of USD₮ compete with stablecoins on ETH and TRON?"
-        }
-      ],
-      "marketSentiment": -26,
-      "combinedScore": 40,
-      "signal": "WAIT",
-      "reason": "Technical 35/100; News +0; Market sentiment -26."
-    },
-    {
-      "symbol": "USD1USDT",
-      "coin": "USD1",
-      "price": 0.99903,
-      "change24h": -0.112,
-      "volume24h": 190477302.02703,
-      "technical": {
-        "rsi": 42.1,
-        "ema9": 0.9990690332131907,
-        "ema21": 0.9991442912062097,
-        "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 1.18,
-        "score": 35
+        "volumeRatio": 0.5,
+        "score": 11
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -26,
-      "combinedScore": 40,
-      "signal": "WAIT",
-      "reason": "Technical 35/100; News +0; Market sentiment -26."
+      "marketSentiment": -28,
+      "combinedScore": 28,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment -28."
+    },
+    {
+      "symbol": "USD1USDT",
+      "coin": "USD1",
+      "price": 0.999,
+      "change24h": -0.095,
+      "volume24h": 168072694.12162,
+      "technical": {
+        "rsi": 40.1,
+        "ema9": 0.9990846823939935,
+        "ema21": 0.999118653287119,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.5,
+        "score": 11
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -28,
+      "combinedScore": 28,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment -28."
     }
   ],
   "news": [
     {
-      "title": "Live updates: Binance says $6.34B set aside to cover hack losses",
-      "link": "https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 30 Oct 2026 14:12:26 +0000",
+      "title": "Tether’s excess reserves nearly double to $8B as Q3 profit hits $1.5B",
+      "link": "https://cointelegraph.com/news/tethers-excess-reserves-nearly-double-to-8b-as-q3-profit-hits-15b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 30 Oct 2026 19:01:58 +0000",
       "source": "Cointelegraph",
-      "text": "Live updates: Binance says $6.34B set aside to cover hack losses Follow live updates as Binance says $6.3 billion in assets have been stolen in a major hack. Around $3 billion in stolen funds have been frozen."
+      "text": "Tether’s excess reserves nearly double to $8B as Q3 profit hits $1.5B The stablecoin issuer’s US Treasury holdings are comparable to those of major foreign holders, while its Bitcoin reserves were valued at $8.37 billion at the end of September."
+    },
+    {
+      "title": "Coinbase leads crypto stock selloff following $6.3B Binance hack",
+      "link": "https://cointelegraph.com/markets/coinbase-leads-crypto-stock-selloff-shares-tumble?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 30 Oct 2026 17:48:27 +0000",
+      "source": "Cointelegraph",
+      "text": "Coinbase leads crypto stock selloff following $6.3B Binance hack Circle, Strategy and other crypto-linked stocks fell sharply Friday, a day after Binance disclosed a $6.3 billion security breach."
+    },
+    {
+      "title": "Crypto Biz: Bitcoin’s quantum threat is becoming an economic problem",
+      "link": "https://cointelegraph.com/news/bitcoin-quantum-threat-ripple-bank-usdc-vaneck-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 30 Oct 2026 17:09:31 +0000",
+      "source": "Cointelegraph",
+      "text": "Crypto Biz: Bitcoin’s quantum threat is becoming an economic problem Bitcoin faces mounting quantum security concerns as Ripple secures a US banking charter, USDC gains ground in Europe and VanEck adds BTC to a new ETF."
+    },
+    {
+      "title": "Recap: How Binance’s record $6.3B hack unfolded",
+      "link": "https://cointelegraph.com/news/recap-binances-record-63b-hack-unfolded?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 30 Oct 2026 16:53:46 +0000",
+      "source": "Cointelegraph",
+      "text": "Recap: How Binance’s record $6.3B hack unfolded A recap of Cointelegraph’s live coverage of the Binance hack, including early breach reports and the exchange’s full reimbursement pledge."
+    },
+    {
+      "title": "As it happened: Binance’s record $6.3B crypto hack",
+      "link": "https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 30 Oct 2026 16:49:50 +0000",
+      "source": "Cointelegraph",
+      "text": "As it happened: Binance’s record $6.3B crypto hack How Binance’s $6.3 billion hack unfolded, from the first onchain alerts to $3 billion in frozen funds and a widening security investigation."
+    },
+    {
+      "title": "Bitcoin risks worst October in 12 years as tech sell-off spreads to gold",
+      "link": "https://cointelegraph.com/markets/bitcoin-risks-worst-october-in-12-years-as-tech-sell-off-spreads-to-gold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 30 Oct 2026 16:06:28 +0000",
+      "source": "Cointelegraph",
+      "text": "Bitcoin risks worst October in 12 years as tech sell-off spreads to gold Bitcoin circled $77,000 as crypto markets navigated US stock-market downside, while the gold price fell to its lowest in a year."
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -471,41 +498,6 @@
       "published": "Fri, 30 Oct 2026 00:11:26 +0000",
       "source": "Cointelegraph",
       "text": "Binance points to engineer’s hacked laptop in $6.3B breach Binance said attackers may have used a compromised DevOps laptop to access internal infrastructure."
-    },
-    {
-      "title": "Binance hack rattles markets as BNB falls 8%, Bitcoin nears $77K",
-      "link": "https://cointelegraph.com/markets/binance-hack-rattles-crypto-markets-bnb-bitcoin-slide?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 29 Oct 2026 23:24:21 +0000",
-      "source": "Cointelegraph",
-      "text": "Binance hack rattles markets as BNB falls 8%, Bitcoin nears $77K Bitcoin, Ether and the broader crypto market took a dive as Binance suffered a multibillion-dollar hack."
-    },
-    {
-      "title": "Tampered Ledger reported in Singapore a month before news broke: Asia Express",
-      "link": "https://cointelegraph.com/magazine/tampered-ledger-reported-in-singapore-a-month-before-news-broke-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 29 Oct 2026 22:31:07 +0000",
-      "source": "Cointelegraph",
-      "text": "Tampered Ledger reported in Singapore a month before news broke: Asia Express Singapore police say tampered Ledgers started showing up there on September 10. South Korean lawmakers look set to delay the crypto tax law for a fourth time."
-    },
-    {
-      "title": "Binance hit by $6.3B hack, the largest in cryptocurrency history",
-      "link": "https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 29 Oct 2026 21:24:36 +0000",
-      "source": "Cointelegraph",
-      "text": "Binance hit by $6.3B hack, the largest in cryptocurrency history Binance pledged to cover all losses after a $6.3 billion hack, with about $3 billion in assets frozen by the exchange and its partners."
-    },
-    {
-      "title": "Public companies double share of blockchain revenue since 2022: Report",
-      "link": "https://cointelegraph.com/news/public-companies-double-share-of-blockchain-revenue-since-2022-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 29 Oct 2026 19:53:14 +0000",
-      "source": "Cointelegraph",
-      "text": "Public companies double share of blockchain revenue since 2022: Report A new 1kx report finds that public companies are capturing a larger share of blockchain revenue, driven by institutional adoption and real-world applications."
-    },
-    {
-      "title": "Polymarket suspended trading amid reports of user funds being drained",
-      "link": "https://cointelegraph.com/news/polymarket-suspends-trading-user-funds-compromised?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 29 Oct 2026 19:23:03 +0000",
-      "source": "Cointelegraph",
-      "text": "Polymarket suspended trading amid reports of user funds being drained The prediction markets platform halted trading on Thursday after it reported one of its third party providers had been compromised."
     }
   ],
   "paper": {
@@ -697,6 +689,26 @@
         "stopLoss": 4.295585,
         "takeProfit": 4.49183,
         "entryTime": "2026-10-30T09:05:22.124334+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "PEPEUSDT",
+        "side": "SELL",
+        "entry": 5.02e-06,
+        "stopLoss": 5.0953e-06,
+        "takeProfit": 4.8694e-06,
+        "entryTime": "2026-10-30T20:12:05.401422+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "TRXUSDT",
+        "side": "SELL",
+        "entry": 0.3312,
+        "stopLoss": 0.336168,
+        "takeProfit": 0.321264,
+        "entryTime": "2026-10-30T20:12:05.401422+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       }
