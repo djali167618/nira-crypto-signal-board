@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-30 02:50:55 UTC",
+  "generatedAt": "2026-10-30 09:05:22 UTC",
   "interval": "15m candles",
-  "marketSentiment": -16,
-  "overallNewsScore": 29,
+  "marketSentiment": -21,
+  "overallNewsScore": 14,
   "fearGreed": {
     "value": 30,
     "label": "Fear",
@@ -12,34 +12,41 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 77350.0,
-      "change24h": -3.196,
-      "volume24h": 2341963405.1687965,
+      "price": 77982.0,
+      "change24h": -2.6,
+      "volume24h": 2606437557.5139337,
       "technical": {
-        "rsi": 38.4,
-        "ema9": 77353.88956445185,
-        "ema21": 77949.79647307866,
-        "macdBull": true,
+        "rsi": 43.8,
+        "ema9": 78170.15757058556,
+        "ema21": 78235.71429082262,
+        "macdBull": false,
         "emaBull": false,
         "volumeRatio": 0.88,
-        "score": 35
+        "score": 11
       },
-      "newsScore": -7,
+      "newsScore": -20,
       "newsCount": 5,
       "news": [
+        {
+          "title": "Here’s what happened in crypto today",
+          "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Fri, 30 Oct 2026 06:00:00 +0000",
+          "source": "Cointelegraph",
+          "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+        },
+        {
+          "title": "Strategy eyes more Bitcoin buys as Saylor touts $30B credit capacity",
+          "link": "https://cointelegraph.com/news/strategy-30-billion-digital-credit-capacity-bitcoin-buys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Fri, 30 Oct 2026 05:53:07 +0000",
+          "source": "Cointelegraph",
+          "text": "Strategy eyes more Bitcoin buys as Saylor touts $30B credit capacity Michael Saylor says Strategy could create up to $30 billion in digital credit without new common-stock fundraising or further Bitcoin price gains, as the company plans more BTC purchases."
+        },
         {
           "title": "Binance hack rattles markets as BNB falls 8%, Bitcoin nears $77K",
           "link": "https://cointelegraph.com/markets/binance-hack-rattles-crypto-markets-bnb-bitcoin-slide?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "published": "Thu, 29 Oct 2026 23:24:21 +0000",
           "source": "Cointelegraph",
           "text": "Binance hack rattles markets as BNB falls 8%, Bitcoin nears $77K Bitcoin, Ether and the broader crypto market took a dive as Binance suffered a multibillion-dollar hack."
-        },
-        {
-          "title": "Here’s what happened in crypto today",
-          "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Thu, 29 Oct 2026 19:58:57 +0000",
-          "source": "Cointelegraph",
-          "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
         },
         {
           "title": "Bitcoin price jumps to $81.5K as US GDP data beats expectations",
@@ -54,36 +61,29 @@
           "published": "Thu, 29 Oct 2026 13:30:00 +0000",
           "source": "Cointelegraph",
           "text": "Private, fast USDT is coming to Bitcoin. Can it compete with Ethereum and Tron? USDT is coming home to Bitcoin, offering privacy and Lightning-fast payments. But can Bitcoin’s revamped version of Tether compete with stablecoins on ETH and TRON?"
-        },
-        {
-          "title": "Bitcoin lending and yield could drive next wave of institutional demand, Rootstock says",
-          "link": "https://cointelegraph.com/news/bitcoin-lending-and-yield-could-drive-next-wave-of-institutional-demand-rootstock-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Thu, 29 Oct 2026 12:00:00 +0000",
-          "source": "Cointelegraph",
-          "text": "Bitcoin lending and yield could drive next wave of institutional demand, Rootstock says A new report argues that putting institutional Bitcoin holdings to work through lending, collateral and financing could create demand beyond its store-of-value role."
         }
       ],
-      "marketSentiment": -16,
-      "combinedScore": 40,
-      "signal": "WAIT",
-      "reason": "Technical 35/100; News -7; Market sentiment -16."
+      "marketSentiment": -21,
+      "combinedScore": 25,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News -20; Market sentiment -21."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2210.0,
-      "change24h": -4.188,
-      "volume24h": 1151205069.995038,
+      "price": 2228.82,
+      "change24h": -3.847,
+      "volume24h": 1288311364.484762,
       "technical": {
-        "rsi": 35.7,
-        "ema9": 2216.3926203705932,
-        "ema21": 2238.0107869763024,
-        "macdBull": true,
+        "rsi": 42.3,
+        "ema9": 2234.2135945371283,
+        "ema21": 2237.8856036938864,
+        "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.29,
-        "score": 35
+        "volumeRatio": 0.7,
+        "score": 11
       },
-      "newsScore": -13,
+      "newsScore": -44,
       "newsCount": 5,
       "news": [
         {
@@ -101,11 +101,18 @@
           "text": "Private, fast USDT is coming to Bitcoin. Can it compete with Ethereum and Tron? USDT is coming home to Bitcoin, offering privacy and Lightning-fast payments. But can Bitcoin’s revamped version of Tether compete with stablecoins on ETH and TRON?"
         },
         {
-          "title": "Your fridge could one day stake Ether, launch memecoins: CFTC chair",
-          "link": "https://cointelegraph.com/news/a-fridge-that-launches-memecoins-cftc-floats-ai-crypto-future?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Thu, 29 Oct 2026 04:39:49 +0000",
-          "source": "Cointelegraph",
-          "text": "Your fridge could one day stake Ether, launch memecoins: CFTC chair CFTC chair Mike Selig says autonomous AI agents could challenge financial rules built around human traders, and regulators need to adapt."
+          "title": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
+          "link": "https://www.coindesk.com/markets/2026/10/30/bitcoin-ether-and-xrp-selloff-wipes-out-usd1-5-billion-in-leveraged-crypto-bets",
+          "published": "Fri, 30 Oct 2026 06:22:00 +0000",
+          "source": "CoinDesk",
+          "text": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets Bets on rising prices accounted for nearly 84% of forced closures, with Binance handling almost half the total. A rebound has since started catching short sellers."
+        },
+        {
+          "title": "$6 billion Binance hack sends bitcoin, ether tumbling; Standard Chartered expects more pain",
+          "link": "https://www.coindesk.com/markets/2026/10/30/usd6-billion-binance-hack-sends-bitcoin-ether-tumbling-standard-chartered-sees-more-losses-ahead",
+          "published": "Fri, 30 Oct 2026 04:00:43 +0000",
+          "source": "CoinDesk",
+          "text": "$6 billion Binance hack sends bitcoin, ether tumbling; Standard Chartered expects more pain Bitcoin and ether slid after a suspected $6.3 billion Binance security breach and a Polymarket exploit. Standard Chartered says crypto prices may remain under pressure before finding a base."
         },
         {
           "title": "Binance hack drained wallets backing customer assets, reserve data shows",
@@ -113,34 +120,27 @@
           "published": "Fri, 30 Oct 2026 00:17:10 +0000",
           "source": "CoinDesk",
           "text": "Binance hack drained wallets backing customer assets, reserve data shows Binance’s own reserve data lists the drained wallets as backing customer balances, leaving its ether backing an estimated 6% short until the exchange replaces what was stolen."
-        },
-        {
-          "title": "Why Switzerland’s first genuine spot bitcoin ETF could soon attract overseas banks and brokers",
-          "link": "https://www.coindesk.com/business/2026/10/29/switzerland-s-first-bitcoin-etf-gets-rare-exemption-will-open-to-overseas-brokers",
-          "published": "Thu, 29 Oct 2026 14:15:46 +0000",
-          "source": "CoinDesk",
-          "text": "Why Switzerland’s first genuine spot bitcoin ETF could soon attract overseas banks and brokers SIX Swiss Exchange confirms international access, while FINMA explains why it approved the fund and whether ether and solana ETFs could follow."
         }
       ],
-      "marketSentiment": -16,
-      "combinedScore": 39,
-      "signal": "WAIT",
-      "reason": "Technical 35/100; News -13; Market sentiment -16."
+      "marketSentiment": -21,
+      "combinedScore": 22,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News -44; Market sentiment -21."
     },
     {
       "symbol": "BNBUSDT",
       "coin": "BNB",
-      "price": 711.43,
-      "change24h": -4.874,
-      "volume24h": 480405526.76036,
+      "price": 705.32,
+      "change24h": -6.356,
+      "volume24h": 488950137.37635,
       "technical": {
-        "rsi": 54.1,
-        "ema9": 706.0535664809333,
-        "ema21": 707.1366235177275,
-        "macdBull": true,
+        "rsi": 37.4,
+        "ema9": 708.9064819364655,
+        "ema21": 711.2417943581262,
+        "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.68,
-        "score": 47
+        "volumeRatio": 0.81,
+        "score": 11
       },
       "newsScore": -100,
       "newsCount": 1,
@@ -153,28 +153,28 @@
           "text": "Binance hack rattles markets as BNB falls 8%, Bitcoin nears $77K Bitcoin, Ether and the broader crypto market took a dive as Binance suffered a multibillion-dollar hack."
         }
       ],
-      "marketSentiment": -16,
-      "combinedScore": 32,
-      "signal": "WAIT",
-      "reason": "Technical 47/100; News -100; Market sentiment -16."
+      "marketSentiment": -21,
+      "combinedScore": 13,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News -100; Market sentiment -21."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 95.2,
-      "change24h": -4.733,
-      "volume24h": 432233856.27213,
+      "price": 97.36,
+      "change24h": -2.922,
+      "volume24h": 461069430.0421,
       "technical": {
-        "rsi": 44.8,
-        "ema9": 94.87503525732927,
-        "ema21": 95.69492656870096,
-        "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.22,
-        "score": 35
+        "rsi": 51.1,
+        "ema9": 97.46401046597283,
+        "ema21": 97.3754456370047,
+        "macdBull": false,
+        "emaBull": true,
+        "volumeRatio": 0.53,
+        "score": 53
       },
-      "newsScore": 8,
-      "newsCount": 4,
+      "newsScore": 11,
+      "newsCount": 3,
       "news": [
         {
           "title": "Polygon expands Open Money Stack to Solana, after Tron rollout",
@@ -196,157 +196,157 @@
           "published": "Thu, 29 Oct 2026 14:15:46 +0000",
           "source": "CoinDesk",
           "text": "Why Switzerland’s first genuine spot bitcoin ETF could soon attract overseas banks and brokers SIX Swiss Exchange confirms international access, while FINMA explains why it approved the fund and whether ether and solana ETFs could follow."
-        },
-        {
-          "title": "Solana wallet Solflare pledges to pay missed rewards on staked $160 million after validator goes offline",
-          "link": "https://www.coindesk.com/markets/2026/10/29/solana-wallet-solflare-pledges-to-pay-missed-rewards-on-staked-usd160-million-after-validator-goes-offline",
-          "published": "Thu, 29 Oct 2026 10:44:48 +0000",
-          "source": "CoinDesk",
-          "text": "Solana wallet Solflare pledges to pay missed rewards on staked $160 million after validator goes offline About 1.56 million SOL sat on a validator that stopped earning, and the wallet still hasn’t named the firm that held its keys."
         }
       ],
-      "marketSentiment": -16,
-      "combinedScore": 42,
+      "marketSentiment": -21,
+      "combinedScore": 51,
       "signal": "WAIT",
-      "reason": "Technical 35/100; News +8; Market sentiment -16."
+      "reason": "Technical 53/100; News +11; Market sentiment -21."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 1263.2,
-      "change24h": 1.595,
-      "volume24h": 320465875.11542,
+      "price": 1245.05,
+      "change24h": -0.139,
+      "volume24h": 322183844.63703,
       "technical": {
-        "rsi": 54.3,
-        "ema9": 1246.2755566871483,
-        "ema21": 1249.371851976441,
-        "macdBull": true,
+        "rsi": 41.8,
+        "ema9": 1254.1499301161086,
+        "ema21": 1259.971569596526,
+        "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.45,
-        "score": 47
+        "volumeRatio": 1.15,
+        "score": 11
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -16,
-      "combinedScore": 47,
-      "signal": "WAIT",
-      "reason": "Technical 47/100; News +0; Market sentiment -16."
-    },
-    {
-      "symbol": "XRPUSDT",
-      "coin": "XRP",
-      "price": 1.2198,
-      "change24h": -5.756,
-      "volume24h": 245010335.06581,
-      "technical": {
-        "rsi": 41.1,
-        "ema9": 1.2211171975658728,
-        "ema21": 1.2319382451746743,
-        "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.42,
-        "score": 35
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -16,
-      "combinedScore": 41,
-      "signal": "WAIT",
-      "reason": "Technical 35/100; News +0; Market sentiment -16."
-    },
-    {
-      "symbol": "PEPEUSDT",
-      "coin": "PEPE",
-      "price": 4.73e-06,
-      "change24h": -4.829,
-      "volume24h": 237897833.150318,
-      "technical": {
-        "rsi": 53.3,
-        "ema9": 4.684337076415237e-06,
-        "ema21": 4.707539966564172e-06,
-        "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.32,
-        "score": 47
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -16,
-      "combinedScore": 47,
-      "signal": "WAIT",
-      "reason": "Technical 47/100; News +0; Market sentiment -16."
-    },
-    {
-      "symbol": "USD1USDT",
-      "coin": "USD1",
-      "price": 0.99937,
-      "change24h": -0.056,
-      "volume24h": 235494478.93777,
-      "technical": {
-        "rsi": 40.8,
-        "ema9": 0.9991233282524925,
-        "ema21": 0.999264389350689,
-        "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.26,
-        "score": 35
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -16,
-      "combinedScore": 41,
-      "signal": "WAIT",
-      "reason": "Technical 35/100; News +0; Market sentiment -16."
+      "marketSentiment": -21,
+      "combinedScore": 28,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment -21."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 4.073,
-      "change24h": -8.451,
-      "volume24h": 230140153.7209,
+      "price": 4.361,
+      "change24h": 0.23,
+      "volume24h": 263628438.4837,
       "technical": {
-        "rsi": 45.6,
-        "ema9": 4.046935083676702,
-        "ema21": 4.091689678145381,
+        "rsi": 62.6,
+        "ema9": 4.312688982374503,
+        "ema21": 4.265591970880563,
         "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 1.01,
-        "score": 47
+        "emaBull": true,
+        "volumeRatio": 0.83,
+        "score": 89
       },
       "newsScore": 0,
-      "newsCount": 1,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -21,
+      "combinedScore": 67,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment -21."
+    },
+    {
+      "symbol": "XRPUSDT",
+      "coin": "XRP",
+      "price": 1.2614,
+      "change24h": -2.346,
+      "volume24h": 256288775.76957,
+      "technical": {
+        "rsi": 54.1,
+        "ema9": 1.2558282250565571,
+        "ema21": 1.2536883296158685,
+        "macdBull": false,
+        "emaBull": true,
+        "volumeRatio": 0.69,
+        "score": 53
+      },
+      "newsScore": 0,
+      "newsCount": 2,
       "news": [
         {
-          "title": "As $10 billion in bitcoin options near expiry, the tell is in the pricing",
-          "link": "https://www.coindesk.com/daybook-us/2026/10/29/as-usd10-billion-in-bitcoin-options-near-expiry-the-tell-is-in-the-pricing",
-          "published": "Thu, 29 Oct 2026 12:04:50 +0000",
+          "title": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
+          "link": "https://www.coindesk.com/markets/2026/10/30/bitcoin-ether-and-xrp-selloff-wipes-out-usd1-5-billion-in-leveraged-crypto-bets",
+          "published": "Fri, 30 Oct 2026 06:22:00 +0000",
           "source": "CoinDesk",
-          "text": "As $10 billion in bitcoin options near expiry, the tell is in the pricing Your day-ahead look for Oct. 29, 2026"
+          "text": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets Bets on rising prices accounted for nearly 84% of forced closures, with Binance handling almost half the total. A rebound has since started catching short sellers."
+        },
+        {
+          "title": "XRP Ledger developers tighten the rules for who can hold 'restricted' tokens",
+          "link": "https://www.coindesk.com/tech/2026/10/30/xrp-ledger-developers-tighten-the-rules-for-who-can-hold-restricted-tokens",
+          "published": "Fri, 30 Oct 2026 05:45:27 +0000",
+          "source": "CoinDesk",
+          "text": "XRP Ledger developers tighten the rules for who can hold 'restricted' tokens A set of fixes would tighten who can hold permissioned tokens on the network. The XRP Ledger Foundation says no users were affected."
         }
       ],
-      "marketSentiment": -16,
-      "combinedScore": 47,
+      "marketSentiment": -21,
+      "combinedScore": 49,
       "signal": "WAIT",
-      "reason": "Technical 47/100; News +0; Market sentiment -16."
+      "reason": "Technical 53/100; News +0; Market sentiment -21."
+    },
+    {
+      "symbol": "PEPEUSDT",
+      "coin": "PEPE",
+      "price": 4.94e-06,
+      "change24h": -1.002,
+      "volume24h": 254508618.24607322,
+      "technical": {
+        "rsi": 55.5,
+        "ema9": 4.948875510580956e-06,
+        "ema21": 4.928614985714882e-06,
+        "macdBull": false,
+        "emaBull": true,
+        "volumeRatio": 0.78,
+        "score": 65
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -21,
+      "combinedScore": 55,
+      "signal": "WAIT",
+      "reason": "Technical 65/100; News +0; Market sentiment -21."
+    },
+    {
+      "symbol": "USD1USDT",
+      "coin": "USD1",
+      "price": 0.99966,
+      "change24h": -0.039,
+      "volume24h": 224521651.57622,
+      "technical": {
+        "rsi": 55.0,
+        "ema9": 0.999693268001558,
+        "ema21": 0.999625644694293,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.45,
+        "score": 77
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -21,
+      "combinedScore": 61,
+      "signal": "WAIT",
+      "reason": "Technical 77/100; News +0; Market sentiment -21."
     },
     {
       "symbol": "HYPEUSDT",
       "coin": "HYPE",
-      "price": 90.85,
-      "change24h": 15.615,
-      "volume24h": 183601858.64308,
+      "price": 91.79,
+      "change24h": 16.014,
+      "volume24h": 205506417.40385,
       "technical": {
-        "rsi": 51.1,
-        "ema9": 90.58374468299151,
-        "ema21": 90.99463255092232,
-        "macdBull": true,
+        "rsi": 47.2,
+        "ema9": 92.01493238210654,
+        "ema21": 92.20122980214717,
+        "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 2.34,
-        "score": 52
+        "volumeRatio": 1.2,
+        "score": 23
       },
       "newsScore": 0,
       "newsCount": 2,
@@ -366,13 +366,48 @@
           "text": "Stanley Druckenmiller's first X post backs Hyperliquid venture after $23 million indirect investment The billionaire investor disclosed an investment in Trade[XYZ] as the platform teams up with the NYSE's parent company. His family office previously reported owning shares in a HYPE-focused treasury company."
         }
       ],
-      "marketSentiment": -16,
-      "combinedScore": 49,
-      "signal": "WAIT",
-      "reason": "Technical 52/100; News +0; Market sentiment -16."
+      "marketSentiment": -21,
+      "combinedScore": 34,
+      "signal": "SELL",
+      "reason": "Technical 23/100; News +0; Market sentiment -21."
     }
   ],
   "news": [
+    {
+      "title": "Live updates: Binance $6.3B hack linked to North Korea’s TraderTraitor",
+      "link": "https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 30 Oct 2026 08:00:39 +0000",
+      "source": "Cointelegraph",
+      "text": "Live updates: Binance $6.3B hack linked to North Korea’s TraderTraitor Follow live updates as Binance says $6.3 billion in assets have been stolen in a major hack. Around $3 billion in stolen funds have been frozen."
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 30 Oct 2026 06:00:00 +0000",
+      "source": "Cointelegraph",
+      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "title": "Strategy eyes more Bitcoin buys as Saylor touts $30B credit capacity",
+      "link": "https://cointelegraph.com/news/strategy-30-billion-digital-credit-capacity-bitcoin-buys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 30 Oct 2026 05:53:07 +0000",
+      "source": "Cointelegraph",
+      "text": "Strategy eyes more Bitcoin buys as Saylor touts $30B credit capacity Michael Saylor says Strategy could create up to $30 billion in digital credit without new common-stock fundraising or further Bitcoin price gains, as the company plans more BTC purchases."
+    },
+    {
+      "title": "North Korea’s TraderTraitor linked to $6.3B Binance hack",
+      "link": "https://cointelegraph.com/news/north-korea-linked-to-63b-binance-hack-by-crypto-investigators?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 30 Oct 2026 05:51:41 +0000",
+      "source": "Cointelegraph",
+      "text": "North Korea’s TraderTraitor linked to $6.3B Binance hack TRM Labs says it has high confidence in the attribution, while ZachXBT identified stolen funds from the Binance and Bitget hacks converging at the same address."
+    },
+    {
+      "title": "Binance hack could accelerate shift to DEXs: Standard Chartered",
+      "link": "https://cointelegraph.com/news/binance-hack-could-accelerate-shift-to-dexs-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 30 Oct 2026 03:47:01 +0000",
+      "source": "Cointelegraph",
+      "text": "Binance hack could accelerate shift to DEXs: Standard Chartered Standard Chartered’s Geoffrey Kendrick says the breach could accelerate a shift toward decentralized trading and strengthen his case for Uniswap’s UNI token reaching $100 by 2030."
+    },
     {
       "title": "Binance points to engineer’s hacked laptop in $6.3B breach",
       "link": "https://cointelegraph.com/news/binance-hack-may-involve-private-key-misuse-not-theft-blockaid-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -395,18 +430,11 @@
       "text": "Tampered Ledger reported in Singapore a month before news broke: Asia Express Singapore police say tampered Ledgers started showing up there on September 10. South Korean lawmakers look set to delay the crypto tax law for a fourth time."
     },
     {
-      "title": "Live updates: Binance says $3B in crypto frozen in connection to hack",
+      "title": "Binance investigates multibillion-dollar security breach",
       "link": "https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 29 Oct 2026 21:24:36 +0000",
       "source": "Cointelegraph",
-      "text": "Live updates: Binance says $3B in crypto frozen in connection to hack Follow live updates as Binance says $3 billion in assets has been frozen after a multibillion-dollar hack, with further freezes possible as investigators trace funds."
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 29 Oct 2026 19:58:57 +0000",
-      "source": "Cointelegraph",
-      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+      "text": "Binance investigates multibillion-dollar security breach Binance is investigating a potential multibillion-dollar security breach that is estimated to have impacted $6.3 billion in funds."
     },
     {
       "title": "Public companies double share of blockchain revenue since 2022: Report",
@@ -484,34 +512,6 @@
       "published": "Thu, 29 Oct 2026 13:30:00 +0000",
       "source": "Cointelegraph",
       "text": "Brazil’s Halloween eve crypto deadline brings more tricks than treats Brazil’s crypto exchanges face an application deadline on Friday, with costly requirements and unanswered regulatory questions complicating compliance."
-    },
-    {
-      "title": "Private, fast USDT is coming to Bitcoin. Can it compete with Ethereum and Tron?",
-      "link": "https://cointelegraph.com/magazine/private-fast-usdt-is-coming-to-bitcoin-can-it-compete-with-ethereum-and-tron?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 29 Oct 2026 13:30:00 +0000",
-      "source": "Cointelegraph",
-      "text": "Private, fast USDT is coming to Bitcoin. Can it compete with Ethereum and Tron? USDT is coming home to Bitcoin, offering privacy and Lightning-fast payments. But can Bitcoin’s revamped version of Tether compete with stablecoins on ETH and TRON?"
-    },
-    {
-      "title": "Polygon expands Open Money Stack to Solana, after Tron rollout",
-      "link": "https://cointelegraph.com/news/polygon-brings-open-money-stack-payments-services-to-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 29 Oct 2026 13:00:00 +0000",
-      "source": "Cointelegraph",
-      "text": "Polygon expands Open Money Stack to Solana, after Tron rollout The move follows the addition of Tron support and Polygon’s acquisition of Coinme."
-    },
-    {
-      "title": "Chainalysis traces North Korean crypto cash-outs through Garantex",
-      "link": "https://cointelegraph.com/news/chainalysis-dprk-crypto-cash-out-network-ofac-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 29 Oct 2026 12:38:03 +0000",
-      "source": "Cointelegraph",
-      "text": "Chainalysis traces North Korean crypto cash-outs through Garantex The analysis followed US sanctions against 10 people and one entity accused of helping North Korean IT worker schemes fund weapons programs."
-    },
-    {
-      "title": "Unlimit founder backs Phase blockchain with $45M as mainnet launches",
-      "link": "https://cointelegraph.com/news/unlimit-founder-phase-blockchain-mainnet-launches?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 29 Oct 2026 12:30:00 +0000",
-      "source": "Cointelegraph",
-      "text": "Unlimit founder backs Phase blockchain with $45M as mainnet launches Phase’s new network lets smartphone owners earn tokens for validating transactions and sharing internet connections with AI agents."
     }
   ],
   "paper": {
@@ -683,6 +683,26 @@
         "stopLoss": 92.4056,
         "takeProfit": 88.3088,
         "entryTime": "2026-10-29T23:29:48.238528+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "ETHUSDT",
+        "side": "SELL",
+        "entry": 2228.82,
+        "stopLoss": 2262.2523,
+        "takeProfit": 2161.9554,
+        "entryTime": "2026-10-30T09:05:22.124334+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "NEARUSDT",
+        "side": "BUY",
+        "entry": 4.361,
+        "stopLoss": 4.295585,
+        "takeProfit": 4.49183,
+        "entryTime": "2026-10-30T09:05:22.124334+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       }

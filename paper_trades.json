@@ -169,6 +169,26 @@
       "entryTime": "2026-10-29T23:29:48.238528+00:00",
       "status": "OPEN",
       "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "ETHUSDT",
+      "side": "SELL",
+      "entry": 2228.82,
+      "stopLoss": 2262.2523,
+      "takeProfit": 2161.9554,
+      "entryTime": "2026-10-30T09:05:22.124334+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "NEARUSDT",
+      "side": "BUY",
+      "entry": 4.361,
+      "stopLoss": 4.295585,
+      "takeProfit": 4.49183,
+      "entryTime": "2026-10-30T09:05:22.124334+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
     }
   ],
   "closed": [
