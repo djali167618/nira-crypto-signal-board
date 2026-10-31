@@ -141,16 +141,6 @@
       "mode": "PAPER ONLY"
     },
     {
-      "symbol": "ZECUSDT",
-      "side": "SELL",
-      "entry": 1247.04,
-      "stopLoss": 1265.7456,
-      "takeProfit": 1209.6288,
-      "entryTime": "2026-10-29T23:29:48.238528+00:00",
-      "status": "OPEN",
-      "mode": "PAPER ONLY"
-    },
-    {
       "symbol": "XRPUSDT",
       "side": "SELL",
       "entry": 1.2447,
@@ -991,6 +981,19 @@
       "exitPrice": 1.2447,
       "exitTime": "2026-10-29T23:29:48.238528+00:00",
       "pnlPercent": 3.008
+    },
+    {
+      "symbol": "ZECUSDT",
+      "side": "SELL",
+      "entry": 1247.04,
+      "stopLoss": 1265.7456,
+      "takeProfit": 1209.6288,
+      "entryTime": "2026-10-29T23:29:48.238528+00:00",
+      "status": "STOP_LOSS",
+      "mode": "PAPER ONLY",
+      "exitPrice": 1276.8,
+      "exitTime": "2026-10-31T02:45:04.941637+00:00",
+      "pnlPercent": -2.386
     }
   ]
 }
