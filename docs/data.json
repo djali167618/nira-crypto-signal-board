@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-31 14:57:07 UTC",
+  "generatedAt": "2026-10-31 19:06:19 UTC",
   "interval": "15m candles",
-  "marketSentiment": -34,
-  "overallNewsScore": -23,
+  "marketSentiment": -38,
+  "overallNewsScore": -33,
   "fearGreed": {
     "value": 30,
     "label": "Fear",
@@ -12,21 +12,35 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 77484.89,
-      "change24h": 0.392,
-      "volume24h": 700103889.0370299,
+      "price": 77662.01,
+      "change24h": 1.556,
+      "volume24h": 585898389.3777692,
       "technical": {
-        "rsi": 54.8,
-        "ema9": 77525.3815771388,
-        "ema21": 77504.57357715872,
-        "macdBull": false,
+        "rsi": 53.4,
+        "ema9": 77670.30352383264,
+        "ema21": 77622.11908499918,
+        "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.53,
-        "score": 53
+        "volumeRatio": 0.59,
+        "score": 77
       },
       "newsScore": -40,
       "newsCount": 5,
       "news": [
+        {
+          "title": "Bitcoin held up better than expected after Binance hack, Strive CEO says",
+          "link": "https://cointelegraph.com/markets/bitcoin-binance-hack-strive-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Sat, 31 Oct 2026 15:26:46 +0000",
+          "source": "Cointelegraph",
+          "text": "Bitcoin held up better than expected after Binance hack, Strive CEO says Strive CEO Matt Cole says the Binance hack has not changed his long-term case for Bitcoin, but cautions it is too early to call a market bottom."
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Sat, 31 Oct 2026 15:09:55 +0000",
+          "source": "Cointelegraph",
+          "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+        },
         {
           "title": "Bitcoin turns 18: Has the original rebel grown up?",
           "link": "https://cointelegraph.com/magazine/bitcoin-turns-18-has-the-original-rebel-grown-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -47,43 +61,29 @@
           "published": "Fri, 30 Oct 2026 17:09:31 +0000",
           "source": "Cointelegraph",
           "text": "Crypto Biz: Bitcoin’s quantum threat is becoming an economic problem Bitcoin faces mounting quantum security concerns as Ripple secures a US banking charter, USDC gains ground in Europe and VanEck adds BTC to a new ETF."
-        },
-        {
-          "title": "Bitcoin risks worst October in 12 years as tech sell-off spreads to gold",
-          "link": "https://cointelegraph.com/markets/bitcoin-risks-worst-october-in-12-years-as-tech-sell-off-spreads-to-gold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Fri, 30 Oct 2026 16:06:28 +0000",
-          "source": "Cointelegraph",
-          "text": "Bitcoin risks worst October in 12 years as tech sell-off spreads to gold Bitcoin circled $77,000 as crypto markets navigated US stock-market downside, while the gold price fell to its lowest in a year."
-        },
-        {
-          "title": "Here’s what happened in crypto today",
-          "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Fri, 30 Oct 2026 14:07:42 +0000",
-          "source": "Cointelegraph",
-          "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
         }
       ],
-      "marketSentiment": -34,
-      "combinedScore": 42,
+      "marketSentiment": -38,
+      "combinedScore": 54,
       "signal": "WAIT",
-      "reason": "Technical 53/100; News -40; Market sentiment -34."
+      "reason": "Technical 77/100; News -40; Market sentiment -38."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2248.83,
-      "change24h": 0.584,
-      "volume24h": 390489294.481319,
+      "price": 2256.87,
+      "change24h": 1.204,
+      "volume24h": 173593888.098929,
       "technical": {
-        "rsi": 61.1,
-        "ema9": 2250.748260112004,
-        "ema21": 2249.0211554257894,
+        "rsi": 59.1,
+        "ema9": 2255.131770322817,
+        "ema21": 2252.9773013577733,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.81,
+        "volumeRatio": 0.59,
         "score": 89
       },
-      "newsScore": -67,
+      "newsScore": -56,
       "newsCount": 5,
       "news": [
         {
@@ -122,71 +122,71 @@
           "text": "Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower Bitcoin traded near $77,350 after $6.3 billion Binance hack, with crypto futures liquidations jumping to $1.57 billion."
         }
       ],
-      "marketSentiment": -34,
-      "combinedScore": 56,
+      "marketSentiment": -38,
+      "combinedScore": 57,
       "signal": "WAIT",
-      "reason": "Technical 89/100; News -67; Market sentiment -34."
+      "reason": "Technical 89/100; News -56; Market sentiment -38."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 95.84,
-      "change24h": 1.386,
-      "volume24h": 131379231.1928,
+      "price": 96.07,
+      "change24h": 1.931,
+      "volume24h": 97006256.60564,
       "technical": {
-        "rsi": 49.5,
-        "ema9": 95.83808319217653,
-        "ema21": 95.84164106720871,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.78,
-        "score": 23
+        "rsi": 52.4,
+        "ema9": 96.07763704521317,
+        "ema21": 96.01124193360955,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.9,
+        "score": 77
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -34,
-      "combinedScore": 33,
-      "signal": "SELL",
-      "reason": "Technical 23/100; News +0; Market sentiment -34."
+      "marketSentiment": -38,
+      "combinedScore": 60,
+      "signal": "WAIT",
+      "reason": "Technical 77/100; News +0; Market sentiment -38."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 1278.71,
-      "change24h": 3.2,
-      "volume24h": 105349636.67064,
+      "price": 1281.0,
+      "change24h": 5.294,
+      "volume24h": 81768816.24094,
       "technical": {
-        "rsi": 54.2,
-        "ema9": 1282.594313386649,
-        "ema21": 1279.7150941043565,
+        "rsi": 46.6,
+        "ema9": 1282.325717384102,
+        "ema21": 1281.9050629997926,
         "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 0.66,
+        "volumeRatio": 0.84,
         "score": 53
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -34,
+      "marketSentiment": -38,
       "combinedScore": 48,
       "signal": "WAIT",
-      "reason": "Technical 53/100; News +0; Market sentiment -34."
+      "reason": "Technical 53/100; News +0; Market sentiment -38."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 4.436,
-      "change24h": 2.165,
-      "volume24h": 80257488.4908,
+      "price": 4.499,
+      "change24h": 4.921,
+      "volume24h": 77140722.4963,
       "technical": {
-        "rsi": 67.6,
-        "ema9": 4.421804506667183,
-        "ema21": 4.391580775711505,
-        "macdBull": true,
+        "rsi": 59.3,
+        "ema9": 4.516865047744602,
+        "ema21": 4.487083947954925,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 1.24,
-        "score": 89
+        "volumeRatio": 0.92,
+        "score": 65
       },
       "newsScore": -100,
       "newsCount": 1,
@@ -199,48 +199,25 @@
           "text": "Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower Bitcoin traded near $77,350 after $6.3 billion Binance hack, with crypto futures liquidations jumping to $1.57 billion."
         }
       ],
-      "marketSentiment": -34,
-      "combinedScore": 51,
+      "marketSentiment": -38,
+      "combinedScore": 39,
       "signal": "WAIT",
-      "reason": "Technical 89/100; News -100; Market sentiment -34."
-    },
-    {
-      "symbol": "PEPEUSDT",
-      "coin": "PEPE",
-      "price": 5.04e-06,
-      "change24h": -2.89,
-      "volume24h": 74250183.94576143,
-      "technical": {
-        "rsi": 49.4,
-        "ema9": 5.016538190418597e-06,
-        "ema21": 5.024709538504427e-06,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.47,
-        "score": 23
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -34,
-      "combinedScore": 33,
-      "signal": "SELL",
-      "reason": "Technical 23/100; News +0; Market sentiment -34."
+      "reason": "Technical 65/100; News -100; Market sentiment -38."
     },
     {
       "symbol": "BNBUSDT",
       "coin": "BNB",
-      "price": 708.05,
-      "change24h": 1.402,
-      "volume24h": 74075514.57402,
+      "price": 708.32,
+      "change24h": 1.642,
+      "volume24h": 59549245.46112,
       "technical": {
-        "rsi": 53.9,
-        "ema9": 704.5710816876305,
-        "ema21": 704.3766051562143,
-        "macdBull": false,
+        "rsi": 59.0,
+        "ema9": 706.9585228132687,
+        "ema21": 706.2591466509149,
+        "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 1.21,
-        "score": 53
+        "volumeRatio": 0.46,
+        "score": 89
       },
       "newsScore": -100,
       "newsCount": 1,
@@ -253,25 +230,71 @@
           "text": "Binance hack rattles markets as BNB falls 8%, Bitcoin nears $77K Bitcoin, Ether and the broader crypto market took a dive as Binance suffered a multibillion-dollar hack."
         }
       ],
-      "marketSentiment": -34,
-      "combinedScore": 33,
+      "marketSentiment": -38,
+      "combinedScore": 51,
       "signal": "WAIT",
-      "reason": "Technical 53/100; News -100; Market sentiment -34."
+      "reason": "Technical 89/100; News -100; Market sentiment -38."
+    },
+    {
+      "symbol": "PEPEUSDT",
+      "coin": "PEPE",
+      "price": 5.08e-06,
+      "change24h": 0.594,
+      "volume24h": 49542106.36903382,
+      "technical": {
+        "rsi": 61.8,
+        "ema9": 5.051718945787762e-06,
+        "ema21": 5.034186581050841e-06,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 2.46,
+        "score": 84
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -38,
+      "combinedScore": 63,
+      "signal": "WAIT",
+      "reason": "Technical 84/100; News +0; Market sentiment -38."
+    },
+    {
+      "symbol": "TRXUSDT",
+      "coin": "TRX",
+      "price": 0.3074,
+      "change24h": -6.707,
+      "volume24h": 46286429.58647,
+      "technical": {
+        "rsi": 32.5,
+        "ema9": 0.3092021860681857,
+        "ema21": 0.3113421438996264,
+        "macdBull": true,
+        "emaBull": false,
+        "volumeRatio": 2.1,
+        "score": 30
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -38,
+      "combinedScore": 36,
+      "signal": "WAIT",
+      "reason": "Technical 30/100; News +0; Market sentiment -38."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 1.2501,
-      "change24h": 0.725,
-      "volume24h": 47024101.16579,
+      "price": 1.2564,
+      "change24h": 1.282,
+      "volume24h": 34962609.156,
       "technical": {
-        "rsi": 52.6,
-        "ema9": 1.2486514388020065,
-        "ema21": 1.2486718245450634,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 1.18,
-        "score": 23
+        "rsi": 63.3,
+        "ema9": 1.2548009747015099,
+        "ema21": 1.253278742681657,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 2.87,
+        "score": 94
       },
       "newsScore": -33,
       "newsCount": 3,
@@ -298,24 +321,24 @@
           "text": "XRP Ledger developers tighten the rules for who can hold 'restricted' tokens A set of fixes would tighten who can hold permissioned tokens on the network. The XRP Ledger Foundation says no users were affected."
         }
       ],
-      "marketSentiment": -34,
-      "combinedScore": 28,
-      "signal": "SELL",
-      "reason": "Technical 23/100; News -33; Market sentiment -34."
+      "marketSentiment": -38,
+      "combinedScore": 63,
+      "signal": "WAIT",
+      "reason": "Technical 94/100; News -33; Market sentiment -38."
     },
     {
       "symbol": "UNIUSDT",
       "coin": "UNI",
-      "price": 7.014,
-      "change24h": 0.732,
-      "volume24h": 41697104.07763,
+      "price": 7.142,
+      "change24h": 3.492,
+      "volume24h": 34391556.58542,
       "technical": {
-        "rsi": 55.5,
-        "ema9": 6.992564517823248,
-        "ema21": 6.988462842466745,
+        "rsi": 68.3,
+        "ema9": 7.110456381157207,
+        "ema21": 7.069245652077567,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.95,
+        "volumeRatio": 0.48,
         "score": 89
       },
       "newsScore": -100,
@@ -329,36 +352,34 @@
           "text": "Binance hack could accelerate shift to DEXs: Standard Chartered Standard Chartered’s Geoffrey Kendrick said the breach could accelerate a shift toward decentralized trading and strengthen his case for Uniswap’s UNI token reaching $100 by 2030."
         }
       ],
-      "marketSentiment": -34,
+      "marketSentiment": -38,
       "combinedScore": 51,
       "signal": "WAIT",
-      "reason": "Technical 89/100; News -100; Market sentiment -34."
-    },
-    {
-      "symbol": "TRXUSDT",
-      "coin": "TRX",
-      "price": 0.3158,
-      "change24h": -5.421,
-      "volume24h": 38554491.66989,
-      "technical": {
-        "rsi": 33.6,
-        "ema9": 0.3170783083693835,
-        "ema21": 0.31800418554746296,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.84,
-        "score": 11
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -34,
-      "combinedScore": 27,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment -34."
+      "reason": "Technical 89/100; News -100; Market sentiment -38."
     }
   ],
   "news": [
+    {
+      "title": "Binance says 90% of stolen assets replenished, targets Sunday withdrawals",
+      "link": "https://cointelegraph.com/news/binance-hack-90-percent-replenished?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sat, 31 Oct 2026 15:36:01 +0000",
+      "source": "Cointelegraph",
+      "text": "Binance says 90% of stolen assets replenished, targets Sunday withdrawals Less-liquid tokens make up the remaining shortfall as Binance continues buying replacement assets through market and over-the-counter trades."
+    },
+    {
+      "title": "Bitcoin held up better than expected after Binance hack, Strive CEO says",
+      "link": "https://cointelegraph.com/markets/bitcoin-binance-hack-strive-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sat, 31 Oct 2026 15:26:46 +0000",
+      "source": "Cointelegraph",
+      "text": "Bitcoin held up better than expected after Binance hack, Strive CEO says Strive CEO Matt Cole says the Binance hack has not changed his long-term case for Bitcoin, but cautions it is too early to call a market bottom."
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sat, 31 Oct 2026 15:09:55 +0000",
+      "source": "Cointelegraph",
+      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
     {
       "title": "Bitcoin turns 18: Has the original rebel grown up?",
       "link": "https://cointelegraph.com/magazine/bitcoin-turns-18-has-the-original-rebel-grown-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -437,13 +458,6 @@
       "text": "Bitcoin risks worst October in 12 years as tech sell-off spreads to gold Bitcoin circled $77,000 as crypto markets navigated US stock-market downside, while the gold price fell to its lowest in a year."
     },
     {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 30 Oct 2026 14:07:42 +0000",
-      "source": "Cointelegraph",
-      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-    },
-    {
       "title": "Will gold’s ‘infinite mint bug’ make Bitcoin more valuable?",
       "link": "https://cointelegraph.com/magazine/will-golds-infinite-mint-bug-make-bitcoin-more-valuable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 30 Oct 2026 13:30:00 +0000",
@@ -484,20 +498,6 @@
       "published": "Fri, 30 Oct 2026 11:00:10 +0000",
       "source": "Cointelegraph",
       "text": "EIP-7702 didn’t cause Binance hack, but may have amplified losses Security experts said attackers could have drained Binance’s wallets without EIP-7702, but the Ethereum upgrade may have helped bypass withdrawal safeguards."
-    },
-    {
-      "title": "Binance hacker’s Bitcoin haul tops Coinbase’s corporate treasury",
-      "link": "https://cointelegraph.com/news/binance-hacker-bitcoin-holdings-exceed-coinbase-btc-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 30 Oct 2026 10:54:30 +0000",
-      "source": "Cointelegraph",
-      "text": "Binance hacker’s Bitcoin haul tops Coinbase’s corporate treasury The attackers held 18,270 BTC early Friday, topping Coinbase’s reported corporate holdings, and an Ether stash exceeding 500,000 ETH."
-    },
-    {
-      "title": "THORChain’s RUNE jumps 13% after Binance’s record $6.3B hack",
-      "link": "https://cointelegraph.com/markets/rune-token-surges-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 30 Oct 2026 09:52:29 +0000",
-      "source": "Cointelegraph",
-      "text": "THORChain’s RUNE jumps 13% after Binance’s record $6.3B hack North Korean hackers previously used THORChain to move funds stolen from Bybit and Bitget, prompting calls for the protocol to intervene."
     }
   ],
   "paper": {
@@ -673,42 +673,12 @@
         "mode": "PAPER ONLY"
       },
       {
-        "symbol": "NEARUSDT",
-        "side": "BUY",
-        "entry": 4.361,
-        "stopLoss": 4.295585,
-        "takeProfit": 4.49183,
-        "entryTime": "2026-10-30T09:05:22.124334+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
         "symbol": "PEPEUSDT",
         "side": "SELL",
         "entry": 5.02e-06,
         "stopLoss": 5.0953e-06,
         "takeProfit": 4.8694e-06,
         "entryTime": "2026-10-30T20:12:05.401422+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
-        "symbol": "TRXUSDT",
-        "side": "SELL",
-        "entry": 0.318,
-        "stopLoss": 0.32277,
-        "takeProfit": 0.30846,
-        "entryTime": "2026-10-31T08:55:34.706127+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
-        "symbol": "UNIUSDT",
-        "side": "SELL",
-        "entry": 6.966,
-        "stopLoss": 7.07049,
-        "takeProfit": 6.75702,
-        "entryTime": "2026-10-31T08:55:34.706127+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       }
@@ -1519,6 +1489,45 @@
         "exitPrice": 0.318,
         "exitTime": "2026-10-31T08:55:34.706127+00:00",
         "pnlPercent": 3.986
+      },
+      {
+        "symbol": "NEARUSDT",
+        "side": "BUY",
+        "entry": 4.361,
+        "stopLoss": 4.295585,
+        "takeProfit": 4.49183,
+        "entryTime": "2026-10-30T09:05:22.124334+00:00",
+        "status": "TAKE_PROFIT",
+        "mode": "PAPER ONLY",
+        "exitPrice": 4.499,
+        "exitTime": "2026-10-31T19:06:19.625078+00:00",
+        "pnlPercent": 3.164
+      },
+      {
+        "symbol": "TRXUSDT",
+        "side": "SELL",
+        "entry": 0.318,
+        "stopLoss": 0.32277,
+        "takeProfit": 0.30846,
+        "entryTime": "2026-10-31T08:55:34.706127+00:00",
+        "status": "TAKE_PROFIT",
+        "mode": "PAPER ONLY",
+        "exitPrice": 0.3074,
+        "exitTime": "2026-10-31T19:06:19.625078+00:00",
+        "pnlPercent": 3.333
+      },
+      {
+        "symbol": "UNIUSDT",
+        "side": "SELL",
+        "entry": 6.966,
+        "stopLoss": 7.07049,
+        "takeProfit": 6.75702,
+        "entryTime": "2026-10-31T08:55:34.706127+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 7.142,
+        "exitTime": "2026-10-31T19:06:19.625078+00:00",
+        "pnlPercent": -2.527
       }
     ]
   },

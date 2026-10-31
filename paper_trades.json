@@ -171,42 +171,12 @@
       "mode": "PAPER ONLY"
     },
     {
-      "symbol": "NEARUSDT",
-      "side": "BUY",
-      "entry": 4.361,
-      "stopLoss": 4.295585,
-      "takeProfit": 4.49183,
-      "entryTime": "2026-10-30T09:05:22.124334+00:00",
-      "status": "OPEN",
-      "mode": "PAPER ONLY"
-    },
-    {
       "symbol": "PEPEUSDT",
       "side": "SELL",
       "entry": 5.02e-06,
       "stopLoss": 5.0953e-06,
       "takeProfit": 4.8694e-06,
       "entryTime": "2026-10-30T20:12:05.401422+00:00",
-      "status": "OPEN",
-      "mode": "PAPER ONLY"
-    },
-    {
-      "symbol": "TRXUSDT",
-      "side": "SELL",
-      "entry": 0.318,
-      "stopLoss": 0.32277,
-      "takeProfit": 0.30846,
-      "entryTime": "2026-10-31T08:55:34.706127+00:00",
-      "status": "OPEN",
-      "mode": "PAPER ONLY"
-    },
-    {
-      "symbol": "UNIUSDT",
-      "side": "SELL",
-      "entry": 6.966,
-      "stopLoss": 7.07049,
-      "takeProfit": 6.75702,
-      "entryTime": "2026-10-31T08:55:34.706127+00:00",
       "status": "OPEN",
       "mode": "PAPER ONLY"
     }
@@ -1017,6 +987,45 @@
       "exitPrice": 0.318,
       "exitTime": "2026-10-31T08:55:34.706127+00:00",
       "pnlPercent": 3.986
+    },
+    {
+      "symbol": "NEARUSDT",
+      "side": "BUY",
+      "entry": 4.361,
+      "stopLoss": 4.295585,
+      "takeProfit": 4.49183,
+      "entryTime": "2026-10-30T09:05:22.124334+00:00",
+      "status": "TAKE_PROFIT",
+      "mode": "PAPER ONLY",
+      "exitPrice": 4.499,
+      "exitTime": "2026-10-31T19:06:19.625078+00:00",
+      "pnlPercent": 3.164
+    },
+    {
+      "symbol": "TRXUSDT",
+      "side": "SELL",
+      "entry": 0.318,
+      "stopLoss": 0.32277,
+      "takeProfit": 0.30846,
+      "entryTime": "2026-10-31T08:55:34.706127+00:00",
+      "status": "TAKE_PROFIT",
+      "mode": "PAPER ONLY",
+      "exitPrice": 0.3074,
+      "exitTime": "2026-10-31T19:06:19.625078+00:00",
+      "pnlPercent": 3.333
+    },
+    {
+      "symbol": "UNIUSDT",
+      "side": "SELL",
+      "entry": 6.966,
+      "stopLoss": 7.07049,
+      "takeProfit": 6.75702,
+      "entryTime": "2026-10-31T08:55:34.706127+00:00",
+      "status": "STOP_LOSS",
+      "mode": "PAPER ONLY",
+      "exitPrice": 7.142,
+      "exitTime": "2026-10-31T19:06:19.625078+00:00",
+      "pnlPercent": -2.527
     }
   ]
 }
