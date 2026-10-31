@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-31 08:55:34 UTC",
+  "generatedAt": "2026-10-31 14:57:07 UTC",
   "interval": "15m candles",
-  "marketSentiment": -28,
-  "overallNewsScore": -7,
+  "marketSentiment": -34,
+  "overallNewsScore": -23,
   "fearGreed": {
     "value": 30,
     "label": "Fear",
@@ -12,21 +12,28 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 77358.0,
-      "change24h": -0.932,
-      "volume24h": 1016943823.9605864,
+      "price": 77484.89,
+      "change24h": 0.392,
+      "volume24h": 700103889.0370299,
       "technical": {
-        "rsi": 48.5,
-        "ema9": 77355.96708897146,
-        "ema21": 77333.00851843419,
+        "rsi": 54.8,
+        "ema9": 77525.3815771388,
+        "ema21": 77504.57357715872,
         "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 0.71,
+        "volumeRatio": 0.53,
         "score": 53
       },
       "newsScore": -40,
       "newsCount": 5,
       "news": [
+        {
+          "title": "Bitcoin turns 18: Has the original rebel grown up?",
+          "link": "https://cointelegraph.com/magazine/bitcoin-turns-18-has-the-original-rebel-grown-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Sat, 31 Oct 2026 14:27:52 +0000",
+          "source": "Cointelegraph",
+          "text": "Bitcoin turns 18: Has the original rebel grown up? In typical Bitcoin style, the number one cryptocurrency turns 18 today, amid AI-driven security threats, quantum fears and the biggest exchange hack in crypto history."
+        },
         {
           "title": "Tether’s excess reserves nearly double to $8B as Q3 profit hits $1.5B",
           "link": "https://cointelegraph.com/news/tethers-excess-reserves-nearly-double-to-8b-as-q3-profit-hits-15b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -54,34 +61,27 @@
           "published": "Fri, 30 Oct 2026 14:07:42 +0000",
           "source": "Cointelegraph",
           "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-        },
-        {
-          "title": "Will gold’s ‘infinite mint bug’ make Bitcoin more valuable?",
-          "link": "https://cointelegraph.com/magazine/will-golds-infinite-mint-bug-make-bitcoin-more-valuable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Fri, 30 Oct 2026 13:30:00 +0000",
-          "source": "Cointelegraph",
-          "text": "Will gold’s ‘infinite mint bug’ make Bitcoin more valuable? A US fusion startup says it has turned mercury into gold. Could a potential increase in the gold supply strengthen Bitcoin’s claim to be a better form of digital gold?"
         }
       ],
-      "marketSentiment": -28,
-      "combinedScore": 43,
+      "marketSentiment": -34,
+      "combinedScore": 42,
       "signal": "WAIT",
-      "reason": "Technical 53/100; News -40; Market sentiment -28."
+      "reason": "Technical 53/100; News -40; Market sentiment -34."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2241.29,
-      "change24h": 0.487,
-      "volume24h": 564997576.537553,
+      "price": 2248.83,
+      "change24h": 0.584,
+      "volume24h": 390489294.481319,
       "technical": {
-        "rsi": 42.4,
-        "ema9": 2243.0821711158665,
-        "ema21": 2243.2657533733186,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 1.74,
-        "score": 6
+        "rsi": 61.1,
+        "ema9": 2250.748260112004,
+        "ema21": 2249.0211554257894,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.81,
+        "score": 89
       },
       "newsScore": -67,
       "newsCount": 5,
@@ -122,133 +122,71 @@
           "text": "Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower Bitcoin traded near $77,350 after $6.3 billion Binance hack, with crypto futures liquidations jumping to $1.57 billion."
         }
       ],
-      "marketSentiment": -28,
-      "combinedScore": 15,
-      "signal": "SELL",
-      "reason": "Technical 6/100; News -67; Market sentiment -28."
+      "marketSentiment": -34,
+      "combinedScore": 56,
+      "signal": "WAIT",
+      "reason": "Technical 89/100; News -67; Market sentiment -34."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 95.41,
-      "change24h": -2.154,
-      "volume24h": 175849652.79314,
+      "price": 95.84,
+      "change24h": 1.386,
+      "volume24h": 131379231.1928,
       "technical": {
-        "rsi": 34.3,
-        "ema9": 95.68454242717627,
-        "ema21": 95.90041666197388,
+        "rsi": 49.5,
+        "ema9": 95.83808319217653,
+        "ema21": 95.84164106720871,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.9,
-        "score": 11
-      },
-      "newsScore": -100,
-      "newsCount": 1,
-      "news": [
-        {
-          "title": "From rivals to partners: Polygon and Solana team to bring stablecoin payments to banks",
-          "link": "https://www.coindesk.com/business/2026/10/29/from-rivals-to-partners-polygon-and-solana-team-to-bring-stablecoin-payments-to-banks",
-          "published": "Thu, 29 Oct 2026 16:35:43 +0000",
-          "source": "CoinDesk",
-          "text": "From rivals to partners: Polygon and Solana team to bring stablecoin payments to banks The two networks are setting aside their rivalry to connect Solana's stablecoin activity with Polygon's banking, wallet and payment infrastructure."
-        }
-      ],
-      "marketSentiment": -28,
-      "combinedScore": 13,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News -100; Market sentiment -28."
-    },
-    {
-      "symbol": "PEPEUSDT",
-      "coin": "PEPE",
-      "price": 5.09e-06,
-      "change24h": 2.004,
-      "volume24h": 140414132.12301454,
-      "technical": {
-        "rsi": 61.3,
-        "ema9": 5.050864593999246e-06,
-        "ema21": 5.008564417777771e-06,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.98,
-        "score": 89
+        "volumeRatio": 0.78,
+        "score": 23
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -28,
-      "combinedScore": 67,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment -28."
+      "marketSentiment": -34,
+      "combinedScore": 33,
+      "signal": "SELL",
+      "reason": "Technical 23/100; News +0; Market sentiment -34."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 1265.89,
-      "change24h": 1.307,
-      "volume24h": 119923622.59956,
+      "price": 1278.71,
+      "change24h": 3.2,
+      "volume24h": 105349636.67064,
       "technical": {
-        "rsi": 46.9,
-        "ema9": 1267.6297830712322,
-        "ema21": 1266.8318895726982,
+        "rsi": 54.2,
+        "ema9": 1282.594313386649,
+        "ema21": 1279.7150941043565,
         "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 1.91,
-        "score": 48
+        "volumeRatio": 0.66,
+        "score": 53
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -28,
-      "combinedScore": 46,
+      "marketSentiment": -34,
+      "combinedScore": 48,
       "signal": "WAIT",
-      "reason": "Technical 48/100; News +0; Market sentiment -28."
-    },
-    {
-      "symbol": "BNBUSDT",
-      "coin": "BNB",
-      "price": 700.91,
-      "change24h": -0.689,
-      "volume24h": 116944299.39003,
-      "technical": {
-        "rsi": 36.6,
-        "ema9": 701.0346933346609,
-        "ema21": 702.1527319341528,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.87,
-        "score": 11
-      },
-      "newsScore": -100,
-      "newsCount": 1,
-      "news": [
-        {
-          "title": "Binance hack rattles markets as BNB falls 8%, Bitcoin nears $77K",
-          "link": "https://cointelegraph.com/markets/binance-hack-rattles-crypto-markets-bnb-bitcoin-slide?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Thu, 29 Oct 2026 23:24:21 +0000",
-          "source": "Cointelegraph",
-          "text": "Binance hack rattles markets as BNB falls 8%, Bitcoin nears $77K Bitcoin, Ether and the broader crypto market took a dive as Binance suffered a multibillion-dollar hack."
-        }
-      ],
-      "marketSentiment": -28,
-      "combinedScore": 13,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News -100; Market sentiment -28."
+      "reason": "Technical 53/100; News +0; Market sentiment -34."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 4.338,
-      "change24h": -1.027,
-      "volume24h": 92757558.7835,
+      "price": 4.436,
+      "change24h": 2.165,
+      "volume24h": 80257488.4908,
       "technical": {
-        "rsi": 52.8,
-        "ema9": 4.332408612012906,
-        "ema21": 4.329625120992215,
+        "rsi": 67.6,
+        "ema9": 4.421804506667183,
+        "ema21": 4.391580775711505,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.6,
-        "score": 77
+        "volumeRatio": 1.24,
+        "score": 89
       },
       "newsScore": -100,
       "newsCount": 1,
@@ -261,25 +199,79 @@
           "text": "Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower Bitcoin traded near $77,350 after $6.3 billion Binance hack, with crypto futures liquidations jumping to $1.57 billion."
         }
       ],
-      "marketSentiment": -28,
-      "combinedScore": 46,
+      "marketSentiment": -34,
+      "combinedScore": 51,
       "signal": "WAIT",
-      "reason": "Technical 77/100; News -100; Market sentiment -28."
+      "reason": "Technical 89/100; News -100; Market sentiment -34."
+    },
+    {
+      "symbol": "PEPEUSDT",
+      "coin": "PEPE",
+      "price": 5.04e-06,
+      "change24h": -2.89,
+      "volume24h": 74250183.94576143,
+      "technical": {
+        "rsi": 49.4,
+        "ema9": 5.016538190418597e-06,
+        "ema21": 5.024709538504427e-06,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.47,
+        "score": 23
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -34,
+      "combinedScore": 33,
+      "signal": "SELL",
+      "reason": "Technical 23/100; News +0; Market sentiment -34."
+    },
+    {
+      "symbol": "BNBUSDT",
+      "coin": "BNB",
+      "price": 708.05,
+      "change24h": 1.402,
+      "volume24h": 74075514.57402,
+      "technical": {
+        "rsi": 53.9,
+        "ema9": 704.5710816876305,
+        "ema21": 704.3766051562143,
+        "macdBull": false,
+        "emaBull": true,
+        "volumeRatio": 1.21,
+        "score": 53
+      },
+      "newsScore": -100,
+      "newsCount": 1,
+      "news": [
+        {
+          "title": "Binance hack rattles markets as BNB falls 8%, Bitcoin nears $77K",
+          "link": "https://cointelegraph.com/markets/binance-hack-rattles-crypto-markets-bnb-bitcoin-slide?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Thu, 29 Oct 2026 23:24:21 +0000",
+          "source": "Cointelegraph",
+          "text": "Binance hack rattles markets as BNB falls 8%, Bitcoin nears $77K Bitcoin, Ether and the broader crypto market took a dive as Binance suffered a multibillion-dollar hack."
+        }
+      ],
+      "marketSentiment": -34,
+      "combinedScore": 33,
+      "signal": "WAIT",
+      "reason": "Technical 53/100; News -100; Market sentiment -34."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 1.2459,
-      "change24h": -0.717,
-      "volume24h": 68464271.06009,
+      "price": 1.2501,
+      "change24h": 0.725,
+      "volume24h": 47024101.16579,
       "technical": {
-        "rsi": 37.4,
-        "ema9": 1.2463080223649066,
-        "ema21": 1.2478246683367364,
+        "rsi": 52.6,
+        "ema9": 1.2486514388020065,
+        "ema21": 1.2486718245450634,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.43,
-        "score": 11
+        "volumeRatio": 1.18,
+        "score": 23
       },
       "newsScore": -33,
       "newsCount": 3,
@@ -306,48 +298,25 @@
           "text": "XRP Ledger developers tighten the rules for who can hold 'restricted' tokens A set of fixes would tighten who can hold permissioned tokens on the network. The XRP Ledger Foundation says no users were affected."
         }
       ],
-      "marketSentiment": -28,
-      "combinedScore": 23,
+      "marketSentiment": -34,
+      "combinedScore": 28,
       "signal": "SELL",
-      "reason": "Technical 11/100; News -33; Market sentiment -28."
-    },
-    {
-      "symbol": "TRXUSDT",
-      "coin": "TRX",
-      "price": 0.318,
-      "change24h": -3.607,
-      "volume24h": 63676053.8398,
-      "technical": {
-        "rsi": 26.4,
-        "ema9": 0.3212593160173036,
-        "ema21": 0.32267958532248037,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 1.59,
-        "score": 23
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -28,
-      "combinedScore": 34,
-      "signal": "SELL",
-      "reason": "Technical 23/100; News +0; Market sentiment -28."
+      "reason": "Technical 23/100; News -33; Market sentiment -34."
     },
     {
       "symbol": "UNIUSDT",
       "coin": "UNI",
-      "price": 6.966,
-      "change24h": 3.307,
-      "volume24h": 60957195.25103,
+      "price": 7.014,
+      "change24h": 0.732,
+      "volume24h": 41697104.07763,
       "technical": {
-        "rsi": 39.3,
-        "ema9": 6.978484550118785,
-        "ema21": 6.992109210479737,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.92,
-        "score": 11
+        "rsi": 55.5,
+        "ema9": 6.992564517823248,
+        "ema21": 6.988462842466745,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.95,
+        "score": 89
       },
       "newsScore": -100,
       "newsCount": 1,
@@ -360,13 +329,64 @@
           "text": "Binance hack could accelerate shift to DEXs: Standard Chartered Standard Chartered’s Geoffrey Kendrick said the breach could accelerate a shift toward decentralized trading and strengthen his case for Uniswap’s UNI token reaching $100 by 2030."
         }
       ],
-      "marketSentiment": -28,
-      "combinedScore": 13,
+      "marketSentiment": -34,
+      "combinedScore": 51,
+      "signal": "WAIT",
+      "reason": "Technical 89/100; News -100; Market sentiment -34."
+    },
+    {
+      "symbol": "TRXUSDT",
+      "coin": "TRX",
+      "price": 0.3158,
+      "change24h": -5.421,
+      "volume24h": 38554491.66989,
+      "technical": {
+        "rsi": 33.6,
+        "ema9": 0.3170783083693835,
+        "ema21": 0.31800418554746296,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.84,
+        "score": 11
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -34,
+      "combinedScore": 27,
       "signal": "SELL",
-      "reason": "Technical 11/100; News -100; Market sentiment -28."
+      "reason": "Technical 11/100; News +0; Market sentiment -34."
     }
   ],
   "news": [
+    {
+      "title": "Bitcoin turns 18: Has the original rebel grown up?",
+      "link": "https://cointelegraph.com/magazine/bitcoin-turns-18-has-the-original-rebel-grown-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sat, 31 Oct 2026 14:27:52 +0000",
+      "source": "Cointelegraph",
+      "text": "Bitcoin turns 18: Has the original rebel grown up? In typical Bitcoin style, the number one cryptocurrency turns 18 today, amid AI-driven security threats, quantum fears and the biggest exchange hack in crypto history."
+    },
+    {
+      "title": "Texas brothers sentenced to 15 years in prison for armed crypto robbery, kidnapping",
+      "link": "https://cointelegraph.com/news/texas-brothers-sentenced-to-15-years-in-prison-for-armed-crypto-robbery-kidnapping?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sat, 31 Oct 2026 13:37:49 +0000",
+      "source": "Cointelegraph",
+      "text": "Texas brothers sentenced to 15 years in prison for armed crypto robbery, kidnapping Home invasions became the most common form of crypto wrench attacks worldwide during the first half of 2026, rising to 20 incidents from one."
+    },
+    {
+      "title": "Blockchain investigator Chainalysis hit by cybersecurity incident",
+      "link": "https://cointelegraph.com/news/blockchain-investigator-chainalysis-hit-by-cybersecurity-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sat, 31 Oct 2026 11:22:49 +0000",
+      "source": "Cointelegraph",
+      "text": "Blockchain investigator Chainalysis hit by cybersecurity incident The company said some non-sensitive customer data was exposed, including user IDs, names and email addresses."
+    },
+    {
+      "title": "Binance $6.3B record hack sparks pre-election political clashes",
+      "link": "https://cointelegraph.com/news/binance-63b-record-hack-sparks-pre-election-political-chatter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sat, 31 Oct 2026 09:58:50 +0000",
+      "source": "Cointelegraph",
+      "text": "Binance $6.3B record hack sparks pre-election political clashes Some political and administration figures tried to make hay of the biggest-ever crypto heist."
+    },
     {
       "title": "Binance hackers raced to move billions before it could be frozen",
       "link": "https://cointelegraph.com/magazine/binance-hackers-raced-to-move-billions-before-could-be-frozen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -478,34 +498,6 @@
       "published": "Fri, 30 Oct 2026 09:52:29 +0000",
       "source": "Cointelegraph",
       "text": "THORChain’s RUNE jumps 13% after Binance’s record $6.3B hack North Korean hackers previously used THORChain to move funds stolen from Bybit and Bitget, prompting calls for the protocol to intervene."
-    },
-    {
-      "title": "Trezor warns CryptoBilis buyers to move funds over suspected implant",
-      "link": "https://cointelegraph.com/news/trezor-cryptobilis-wallet-implant-funds-warning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 30 Oct 2026 09:26:45 +0000",
-      "source": "Cointelegraph",
-      "text": "Trezor warns CryptoBilis buyers to move funds over suspected implant Trezor urged customers who bought devices from CryptoBilis since March to move their funds after a report of a suspected hardware implant."
-    },
-    {
-      "title": "Strategy eyes more Bitcoin buys as Saylor touts $30B credit capacity",
-      "link": "https://cointelegraph.com/news/strategy-30-billion-digital-credit-capacity-bitcoin-buys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 30 Oct 2026 05:53:07 +0000",
-      "source": "Cointelegraph",
-      "text": "Strategy eyes more Bitcoin buys as Saylor touts $30B credit capacity Michael Saylor says Strategy could create up to $30 billion in digital credit without new common-stock fundraising or further Bitcoin price gains, as the company plans more BTC purchases."
-    },
-    {
-      "title": "North Korea’s TraderTraitor linked to $6.3B Binance hack",
-      "link": "https://cointelegraph.com/news/north-korea-linked-to-63b-binance-hack-by-crypto-investigators?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 30 Oct 2026 05:51:41 +0000",
-      "source": "Cointelegraph",
-      "text": "North Korea’s TraderTraitor linked to $6.3B Binance hack TRM Labs said it has high confidence in the attribution, while ZachXBT identified stolen funds from the Binance and Bitget hacks converging at the same address."
-    },
-    {
-      "title": "Binance hack could accelerate shift to DEXs: Standard Chartered",
-      "link": "https://cointelegraph.com/news/binance-hack-could-accelerate-shift-to-dexs-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 30 Oct 2026 03:47:01 +0000",
-      "source": "Cointelegraph",
-      "text": "Binance hack could accelerate shift to DEXs: Standard Chartered Standard Chartered’s Geoffrey Kendrick said the breach could accelerate a shift toward decentralized trading and strengthen his case for Uniswap’s UNI token reaching $100 by 2030."
     }
   ],
   "paper": {
