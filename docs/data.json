@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31 02:45:04 UTC",
+  "generatedAt": "2026-10-31 08:55:34 UTC",
   "interval": "15m candles",
   "marketSentiment": -28,
   "overallNewsScore": -7,
@@ -12,17 +12,17 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 77458.01,
-      "change24h": -0.129,
-      "volume24h": 1389595531.5292547,
+      "price": 77358.0,
+      "change24h": -0.932,
+      "volume24h": 1016943823.9605864,
       "technical": {
-        "rsi": 56.9,
-        "ema9": 77398.94944062766,
-        "ema21": 77287.01589929263,
-        "macdBull": true,
+        "rsi": 48.5,
+        "ema9": 77355.96708897146,
+        "ema21": 77333.00851843419,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 0.78,
-        "score": 89
+        "volumeRatio": 0.71,
+        "score": 53
       },
       "newsScore": -40,
       "newsCount": 5,
@@ -64,24 +64,24 @@
         }
       ],
       "marketSentiment": -28,
-      "combinedScore": 61,
+      "combinedScore": 43,
       "signal": "WAIT",
-      "reason": "Technical 89/100; News -40; Market sentiment -28."
+      "reason": "Technical 53/100; News -40; Market sentiment -28."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2246.43,
-      "change24h": 1.327,
-      "volume24h": 766020516.403712,
+      "price": 2241.29,
+      "change24h": 0.487,
+      "volume24h": 564997576.537553,
       "technical": {
-        "rsi": 53.5,
-        "ema9": 2245.9358658826814,
-        "ema21": 2244.2082848919604,
+        "rsi": 42.4,
+        "ema9": 2243.0821711158665,
+        "ema21": 2243.2657533733186,
         "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.36,
-        "score": 53
+        "emaBull": false,
+        "volumeRatio": 1.74,
+        "score": 6
       },
       "newsScore": -67,
       "newsCount": 5,
@@ -123,24 +123,24 @@
         }
       ],
       "marketSentiment": -28,
-      "combinedScore": 39,
-      "signal": "WAIT",
-      "reason": "Technical 53/100; News -67; Market sentiment -28."
+      "combinedScore": 15,
+      "signal": "SELL",
+      "reason": "Technical 6/100; News -67; Market sentiment -28."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 96.98,
-      "change24h": 1.55,
-      "volume24h": 221176665.45719,
+      "price": 95.41,
+      "change24h": -2.154,
+      "volume24h": 175849652.79314,
       "technical": {
-        "rsi": 67.6,
-        "ema9": 96.65626233577035,
-        "ema21": 96.27549665500152,
-        "macdBull": true,
-        "emaBull": true,
+        "rsi": 34.3,
+        "ema9": 95.68454242717627,
+        "ema21": 95.90041666197388,
+        "macdBull": false,
+        "emaBull": false,
         "volumeRatio": 0.9,
-        "score": 89
+        "score": 11
       },
       "newsScore": -100,
       "newsCount": 1,
@@ -154,24 +154,70 @@
         }
       ],
       "marketSentiment": -28,
-      "combinedScore": 52,
+      "combinedScore": 13,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News -100; Market sentiment -28."
+    },
+    {
+      "symbol": "PEPEUSDT",
+      "coin": "PEPE",
+      "price": 5.09e-06,
+      "change24h": 2.004,
+      "volume24h": 140414132.12301454,
+      "technical": {
+        "rsi": 61.3,
+        "ema9": 5.050864593999246e-06,
+        "ema21": 5.008564417777771e-06,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.98,
+        "score": 89
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -28,
+      "combinedScore": 67,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment -28."
+    },
+    {
+      "symbol": "ZECUSDT",
+      "coin": "ZEC",
+      "price": 1265.89,
+      "change24h": 1.307,
+      "volume24h": 119923622.59956,
+      "technical": {
+        "rsi": 46.9,
+        "ema9": 1267.6297830712322,
+        "ema21": 1266.8318895726982,
+        "macdBull": false,
+        "emaBull": true,
+        "volumeRatio": 1.91,
+        "score": 48
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -28,
+      "combinedScore": 46,
       "signal": "WAIT",
-      "reason": "Technical 89/100; News -100; Market sentiment -28."
+      "reason": "Technical 48/100; News +0; Market sentiment -28."
     },
     {
       "symbol": "BNBUSDT",
       "coin": "BNB",
-      "price": 704.66,
-      "change24h": -1.406,
-      "volume24h": 173714902.29502,
+      "price": 700.91,
+      "change24h": -0.689,
+      "volume24h": 116944299.39003,
       "technical": {
-        "rsi": 51.0,
-        "ema9": 705.9800343532181,
-        "ema21": 704.6525810154566,
+        "rsi": 36.6,
+        "ema9": 701.0346933346609,
+        "ema21": 702.1527319341528,
         "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.51,
-        "score": 53
+        "emaBull": false,
+        "volumeRatio": 0.87,
+        "score": 11
       },
       "newsScore": -100,
       "newsCount": 1,
@@ -185,47 +231,24 @@
         }
       ],
       "marketSentiment": -28,
-      "combinedScore": 34,
-      "signal": "WAIT",
-      "reason": "Technical 53/100; News -100; Market sentiment -28."
-    },
-    {
-      "symbol": "PEPEUSDT",
-      "coin": "PEPE",
-      "price": 4.98e-06,
-      "change24h": 4.184,
-      "volume24h": 167923963.9266158,
-      "technical": {
-        "rsi": 44.1,
-        "ema9": 4.968098529747362e-06,
-        "ema21": 4.9857993737431875e-06,
-        "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.64,
-        "score": 35
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -28,
-      "combinedScore": 40,
-      "signal": "WAIT",
-      "reason": "Technical 35/100; News +0; Market sentiment -28."
+      "combinedScore": 13,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News -100; Market sentiment -28."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 4.359,
-      "change24h": 6.525,
-      "volume24h": 161400939.9423,
+      "price": 4.338,
+      "change24h": -1.027,
+      "volume24h": 92757558.7835,
       "technical": {
-        "rsi": 57.7,
-        "ema9": 4.354296969361304,
-        "ema21": 4.338053049695508,
+        "rsi": 52.8,
+        "ema9": 4.332408612012906,
+        "ema21": 4.329625120992215,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.89,
-        "score": 89
+        "volumeRatio": 0.6,
+        "score": 77
       },
       "newsScore": -100,
       "newsCount": 1,
@@ -239,70 +262,24 @@
         }
       ],
       "marketSentiment": -28,
-      "combinedScore": 52,
+      "combinedScore": 46,
       "signal": "WAIT",
-      "reason": "Technical 89/100; News -100; Market sentiment -28."
-    },
-    {
-      "symbol": "ZECUSDT",
-      "coin": "ZEC",
-      "price": 1276.8,
-      "change24h": 0.773,
-      "volume24h": 140309946.12313,
-      "technical": {
-        "rsi": 59.5,
-        "ema9": 1277.5143924883039,
-        "ema21": 1267.594665708341,
-        "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.54,
-        "score": 65
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -28,
-      "combinedScore": 55,
-      "signal": "WAIT",
-      "reason": "Technical 65/100; News +0; Market sentiment -28."
-    },
-    {
-      "symbol": "TRXUSDT",
-      "coin": "TRX",
-      "price": 0.3231,
-      "change24h": -9.088,
-      "volume24h": 123383959.28124,
-      "technical": {
-        "rsi": 37.2,
-        "ema9": 0.32396034025428255,
-        "ema21": 0.32552660475531286,
-        "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 1.07,
-        "score": 35
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -28,
-      "combinedScore": 40,
-      "signal": "WAIT",
-      "reason": "Technical 35/100; News +0; Market sentiment -28."
+      "reason": "Technical 77/100; News -100; Market sentiment -28."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 1.2569,
-      "change24h": 2.612,
-      "volume24h": 95093090.44995,
+      "price": 1.2459,
+      "change24h": -0.717,
+      "volume24h": 68464271.06009,
       "technical": {
-        "rsi": 56.3,
-        "ema9": 1.2567437871170744,
-        "ema21": 1.2554318015257007,
+        "rsi": 37.4,
+        "ema9": 1.2463080223649066,
+        "ema21": 1.2478246683367364,
         "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.6,
-        "score": 65
+        "emaBull": false,
+        "volumeRatio": 0.43,
+        "score": 11
       },
       "newsScore": -33,
       "newsCount": 3,
@@ -330,24 +307,47 @@
         }
       ],
       "marketSentiment": -28,
-      "combinedScore": 50,
-      "signal": "WAIT",
-      "reason": "Technical 65/100; News -33; Market sentiment -28."
+      "combinedScore": 23,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News -33; Market sentiment -28."
+    },
+    {
+      "symbol": "TRXUSDT",
+      "coin": "TRX",
+      "price": 0.318,
+      "change24h": -3.607,
+      "volume24h": 63676053.8398,
+      "technical": {
+        "rsi": 26.4,
+        "ema9": 0.3212593160173036,
+        "ema21": 0.32267958532248037,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 1.59,
+        "score": 23
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -28,
+      "combinedScore": 34,
+      "signal": "SELL",
+      "reason": "Technical 23/100; News +0; Market sentiment -28."
     },
     {
       "symbol": "UNIUSDT",
       "coin": "UNI",
-      "price": 7.052,
-      "change24h": 5.727,
-      "volume24h": 69390350.79255,
+      "price": 6.966,
+      "change24h": 3.307,
+      "volume24h": 60957195.25103,
       "technical": {
-        "rsi": 49.4,
-        "ema9": 7.07817065392654,
-        "ema21": 7.070317419543396,
+        "rsi": 39.3,
+        "ema9": 6.978484550118785,
+        "ema21": 6.992109210479737,
         "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.77,
-        "score": 53
+        "emaBull": false,
+        "volumeRatio": 0.92,
+        "score": 11
       },
       "newsScore": -100,
       "newsCount": 1,
@@ -361,9 +361,9 @@
         }
       ],
       "marketSentiment": -28,
-      "combinedScore": 34,
-      "signal": "WAIT",
-      "reason": "Technical 53/100; News -100; Market sentiment -28."
+      "combinedScore": 13,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News -100; Market sentiment -28."
     }
   ],
   "news": [
@@ -703,10 +703,20 @@
       {
         "symbol": "TRXUSDT",
         "side": "SELL",
-        "entry": 0.3312,
-        "stopLoss": 0.336168,
-        "takeProfit": 0.321264,
-        "entryTime": "2026-10-30T20:12:05.401422+00:00",
+        "entry": 0.318,
+        "stopLoss": 0.32277,
+        "takeProfit": 0.30846,
+        "entryTime": "2026-10-31T08:55:34.706127+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "UNIUSDT",
+        "side": "SELL",
+        "entry": 6.966,
+        "stopLoss": 7.07049,
+        "takeProfit": 6.75702,
+        "entryTime": "2026-10-31T08:55:34.706127+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       }
@@ -1504,6 +1514,19 @@
         "exitPrice": 1276.8,
         "exitTime": "2026-10-31T02:45:04.941637+00:00",
         "pnlPercent": -2.386
+      },
+      {
+        "symbol": "TRXUSDT",
+        "side": "SELL",
+        "entry": 0.3312,
+        "stopLoss": 0.336168,
+        "takeProfit": 0.321264,
+        "entryTime": "2026-10-30T20:12:05.401422+00:00",
+        "status": "TAKE_PROFIT",
+        "mode": "PAPER ONLY",
+        "exitPrice": 0.318,
+        "exitTime": "2026-10-31T08:55:34.706127+00:00",
+        "pnlPercent": 3.986
       }
     ]
   },

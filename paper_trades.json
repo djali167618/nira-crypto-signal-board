@@ -193,10 +193,20 @@
     {
       "symbol": "TRXUSDT",
       "side": "SELL",
-      "entry": 0.3312,
-      "stopLoss": 0.336168,
-      "takeProfit": 0.321264,
-      "entryTime": "2026-10-30T20:12:05.401422+00:00",
+      "entry": 0.318,
+      "stopLoss": 0.32277,
+      "takeProfit": 0.30846,
+      "entryTime": "2026-10-31T08:55:34.706127+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "UNIUSDT",
+      "side": "SELL",
+      "entry": 6.966,
+      "stopLoss": 7.07049,
+      "takeProfit": 6.75702,
+      "entryTime": "2026-10-31T08:55:34.706127+00:00",
       "status": "OPEN",
       "mode": "PAPER ONLY"
     }
@@ -994,6 +1004,19 @@
       "exitPrice": 1276.8,
       "exitTime": "2026-10-31T02:45:04.941637+00:00",
       "pnlPercent": -2.386
+    },
+    {
+      "symbol": "TRXUSDT",
+      "side": "SELL",
+      "entry": 0.3312,
+      "stopLoss": 0.336168,
+      "takeProfit": 0.321264,
+      "entryTime": "2026-10-30T20:12:05.401422+00:00",
+      "status": "TAKE_PROFIT",
+      "mode": "PAPER ONLY",
+      "exitPrice": 0.318,
+      "exitTime": "2026-10-31T08:55:34.706127+00:00",
+      "pnlPercent": 3.986
     }
   ]
 }
