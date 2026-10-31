@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31 19:06:19 UTC",
+  "generatedAt": "2026-10-31 22:26:02 UTC",
   "interval": "15m candles",
   "marketSentiment": -38,
   "overallNewsScore": -33,
@@ -12,17 +12,17 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 77662.01,
-      "change24h": 1.556,
-      "volume24h": 585898389.3777692,
+      "price": 77623.62,
+      "change24h": 1.036,
+      "volume24h": 514538244.1127115,
       "technical": {
-        "rsi": 53.4,
-        "ema9": 77670.30352383264,
-        "ema21": 77622.11908499918,
-        "macdBull": true,
+        "rsi": 55.6,
+        "ema9": 77603.53929069365,
+        "ema21": 77602.70578410762,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 0.59,
-        "score": 77
+        "volumeRatio": 0.97,
+        "score": 65
       },
       "newsScore": -40,
       "newsCount": 5,
@@ -64,24 +64,24 @@
         }
       ],
       "marketSentiment": -38,
-      "combinedScore": 54,
+      "combinedScore": 48,
       "signal": "WAIT",
-      "reason": "Technical 77/100; News -40; Market sentiment -38."
+      "reason": "Technical 65/100; News -40; Market sentiment -38."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2256.87,
-      "change24h": 1.204,
-      "volume24h": 173593888.098929,
+      "price": 2260.01,
+      "change24h": 1.101,
+      "volume24h": 135226691.749017,
       "technical": {
-        "rsi": 59.1,
-        "ema9": 2255.131770322817,
-        "ema21": 2252.9773013577733,
+        "rsi": 69.8,
+        "ema9": 2255.9269786218915,
+        "ema21": 2254.6847859785157,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.59,
-        "score": 89
+        "volumeRatio": 6.36,
+        "score": 94
       },
       "newsScore": -56,
       "newsCount": 5,
@@ -123,70 +123,70 @@
         }
       ],
       "marketSentiment": -38,
-      "combinedScore": 57,
-      "signal": "WAIT",
-      "reason": "Technical 89/100; News -56; Market sentiment -38."
-    },
-    {
-      "symbol": "SOLUSDT",
-      "coin": "SOL",
-      "price": 96.07,
-      "change24h": 1.931,
-      "volume24h": 97006256.60564,
-      "technical": {
-        "rsi": 52.4,
-        "ema9": 96.07763704521317,
-        "ema21": 96.01124193360955,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.9,
-        "score": 77
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -38,
       "combinedScore": 60,
       "signal": "WAIT",
-      "reason": "Technical 77/100; News +0; Market sentiment -38."
+      "reason": "Technical 94/100; News -56; Market sentiment -38."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 1281.0,
-      "change24h": 5.294,
-      "volume24h": 81768816.24094,
+      "price": 1276.6,
+      "change24h": 3.307,
+      "volume24h": 77851311.18205,
       "technical": {
-        "rsi": 46.6,
-        "ema9": 1282.325717384102,
-        "ema21": 1281.9050629997926,
-        "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.84,
-        "score": 53
+        "rsi": 53.7,
+        "ema9": 1274.242865247329,
+        "ema21": 1276.0384898800237,
+        "macdBull": true,
+        "emaBull": false,
+        "volumeRatio": 2.13,
+        "score": 52
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": -38,
-      "combinedScore": 48,
+      "combinedScore": 47,
       "signal": "WAIT",
-      "reason": "Technical 53/100; News +0; Market sentiment -38."
+      "reason": "Technical 52/100; News +0; Market sentiment -38."
+    },
+    {
+      "symbol": "SOLUSDT",
+      "coin": "SOL",
+      "price": 95.93,
+      "change24h": 0.324,
+      "volume24h": 76632755.76751,
+      "technical": {
+        "rsi": 56.3,
+        "ema9": 95.89019738051424,
+        "ema21": 95.9071734306376,
+        "macdBull": true,
+        "emaBull": false,
+        "volumeRatio": 3.18,
+        "score": 64
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -38,
+      "combinedScore": 53,
+      "signal": "WAIT",
+      "reason": "Technical 64/100; News +0; Market sentiment -38."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 4.499,
-      "change24h": 4.921,
-      "volume24h": 77140722.4963,
+      "price": 4.448,
+      "change24h": 3.202,
+      "volume24h": 76269460.0817,
       "technical": {
-        "rsi": 59.3,
-        "ema9": 4.516865047744602,
-        "ema21": 4.487083947954925,
+        "rsi": 48.6,
+        "ema9": 4.447933594774358,
+        "ema21": 4.455874271770967,
         "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.92,
-        "score": 65
+        "emaBull": false,
+        "volumeRatio": 0.63,
+        "score": 23
       },
       "newsScore": -100,
       "newsCount": 1,
@@ -200,24 +200,47 @@
         }
       ],
       "marketSentiment": -38,
-      "combinedScore": 39,
+      "combinedScore": 18,
+      "signal": "SELL",
+      "reason": "Technical 23/100; News -100; Market sentiment -38."
+    },
+    {
+      "symbol": "TRXUSDT",
+      "coin": "TRX",
+      "price": 0.3022,
+      "change24h": -7.95,
+      "volume24h": 59283098.30962,
+      "technical": {
+        "rsi": 26.7,
+        "ema9": 0.30494976904294563,
+        "ema21": 0.306957710487143,
+        "macdBull": true,
+        "emaBull": false,
+        "volumeRatio": 0.7,
+        "score": 52
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -38,
+      "combinedScore": 47,
       "signal": "WAIT",
-      "reason": "Technical 65/100; News -100; Market sentiment -38."
+      "reason": "Technical 52/100; News +0; Market sentiment -38."
     },
     {
       "symbol": "BNBUSDT",
       "coin": "BNB",
-      "price": 708.32,
-      "change24h": 1.642,
-      "volume24h": 59549245.46112,
+      "price": 703.59,
+      "change24h": 0.723,
+      "volume24h": 55107765.74175,
       "technical": {
-        "rsi": 59.0,
-        "ema9": 706.9585228132687,
-        "ema21": 706.2591466509149,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.46,
-        "score": 89
+        "rsi": 41.2,
+        "ema9": 703.9512718588327,
+        "ema21": 704.8833224068967,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 1.22,
+        "score": 11
       },
       "newsScore": -100,
       "newsCount": 1,
@@ -231,70 +254,78 @@
         }
       ],
       "marketSentiment": -38,
-      "combinedScore": 51,
-      "signal": "WAIT",
-      "reason": "Technical 89/100; News -100; Market sentiment -38."
+      "combinedScore": 12,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News -100; Market sentiment -38."
     },
     {
       "symbol": "PEPEUSDT",
       "coin": "PEPE",
-      "price": 5.08e-06,
-      "change24h": 0.594,
-      "volume24h": 49542106.36903382,
+      "price": 5.04e-06,
+      "change24h": 2.439,
+      "volume24h": 47495858.30656043,
       "technical": {
-        "rsi": 61.8,
-        "ema9": 5.051718945787762e-06,
-        "ema21": 5.034186581050841e-06,
-        "macdBull": true,
+        "rsi": 51.0,
+        "ema9": 5.040140707547431e-06,
+        "ema21": 5.037460178163459e-06,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 2.46,
-        "score": 84
+        "volumeRatio": 0.81,
+        "score": 53
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": -38,
-      "combinedScore": 63,
+      "combinedScore": 48,
       "signal": "WAIT",
-      "reason": "Technical 84/100; News +0; Market sentiment -38."
+      "reason": "Technical 53/100; News +0; Market sentiment -38."
     },
     {
-      "symbol": "TRXUSDT",
-      "coin": "TRX",
-      "price": 0.3074,
-      "change24h": -6.707,
-      "volume24h": 46286429.58647,
+      "symbol": "UNIUSDT",
+      "coin": "UNI",
+      "price": 7.153,
+      "change24h": 2.361,
+      "volume24h": 32887728.58923,
       "technical": {
-        "rsi": 32.5,
-        "ema9": 0.3092021860681857,
-        "ema21": 0.3113421438996264,
-        "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 2.1,
-        "score": 30
+        "rsi": 60.4,
+        "ema9": 7.12984761858822,
+        "ema21": 7.113161602649481,
+        "macdBull": false,
+        "emaBull": true,
+        "volumeRatio": 0.98,
+        "score": 65
       },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
+      "newsScore": -100,
+      "newsCount": 1,
+      "news": [
+        {
+          "title": "Binance hack could accelerate shift to DEXs: Standard Chartered",
+          "link": "https://cointelegraph.com/news/binance-hack-could-accelerate-shift-to-dexs-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Fri, 30 Oct 2026 03:47:01 +0000",
+          "source": "Cointelegraph",
+          "text": "Binance hack could accelerate shift to DEXs: Standard Chartered Standard Chartered’s Geoffrey Kendrick said the breach could accelerate a shift toward decentralized trading and strengthen his case for Uniswap’s UNI token reaching $100 by 2030."
+        }
+      ],
       "marketSentiment": -38,
-      "combinedScore": 36,
+      "combinedScore": 39,
       "signal": "WAIT",
-      "reason": "Technical 30/100; News +0; Market sentiment -38."
+      "reason": "Technical 65/100; News -100; Market sentiment -38."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 1.2564,
-      "change24h": 1.282,
-      "volume24h": 34962609.156,
+      "price": 1.2544,
+      "change24h": 0.312,
+      "volume24h": 29222354.36826,
       "technical": {
-        "rsi": 63.3,
-        "ema9": 1.2548009747015099,
-        "ema21": 1.253278742681657,
-        "macdBull": true,
+        "rsi": 58.0,
+        "ema9": 1.2530269158268925,
+        "ema21": 1.2529725563900471,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 2.87,
-        "score": 94
+        "volumeRatio": 1.84,
+        "score": 70
       },
       "newsScore": -33,
       "newsCount": 3,
@@ -322,40 +353,9 @@
         }
       ],
       "marketSentiment": -38,
-      "combinedScore": 63,
-      "signal": "WAIT",
-      "reason": "Technical 94/100; News -33; Market sentiment -38."
-    },
-    {
-      "symbol": "UNIUSDT",
-      "coin": "UNI",
-      "price": 7.142,
-      "change24h": 3.492,
-      "volume24h": 34391556.58542,
-      "technical": {
-        "rsi": 68.3,
-        "ema9": 7.110456381157207,
-        "ema21": 7.069245652077567,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.48,
-        "score": 89
-      },
-      "newsScore": -100,
-      "newsCount": 1,
-      "news": [
-        {
-          "title": "Binance hack could accelerate shift to DEXs: Standard Chartered",
-          "link": "https://cointelegraph.com/news/binance-hack-could-accelerate-shift-to-dexs-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Fri, 30 Oct 2026 03:47:01 +0000",
-          "source": "Cointelegraph",
-          "text": "Binance hack could accelerate shift to DEXs: Standard Chartered Standard Chartered’s Geoffrey Kendrick said the breach could accelerate a shift toward decentralized trading and strengthen his case for Uniswap’s UNI token reaching $100 by 2030."
-        }
-      ],
-      "marketSentiment": -38,
       "combinedScore": 51,
       "signal": "WAIT",
-      "reason": "Technical 89/100; News -100; Market sentiment -38."
+      "reason": "Technical 70/100; News -33; Market sentiment -38."
     }
   ],
   "news": [
@@ -679,6 +679,16 @@
         "stopLoss": 5.0953e-06,
         "takeProfit": 4.8694e-06,
         "entryTime": "2026-10-30T20:12:05.401422+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "NEARUSDT",
+        "side": "SELL",
+        "entry": 4.448,
+        "stopLoss": 4.51472,
+        "takeProfit": 4.31456,
+        "entryTime": "2026-10-31T22:26:02.315056+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       }

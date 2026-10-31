@@ -179,6 +179,16 @@
       "entryTime": "2026-10-30T20:12:05.401422+00:00",
       "status": "OPEN",
       "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "NEARUSDT",
+      "side": "SELL",
+      "entry": 4.448,
+      "stopLoss": 4.51472,
+      "takeProfit": 4.31456,
+      "entryTime": "2026-10-31T22:26:02.315056+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
     }
   ],
   "closed": [
