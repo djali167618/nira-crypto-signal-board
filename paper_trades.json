@@ -199,16 +199,6 @@
       "entryTime": "2026-11-01T01:20:32.931963+00:00",
       "status": "OPEN",
       "mode": "PAPER ONLY"
-    },
-    {
-      "symbol": "UNIUSDT",
-      "side": "SELL",
-      "entry": 7.129,
-      "stopLoss": 7.235935,
-      "takeProfit": 6.91513,
-      "entryTime": "2026-11-01T01:20:32.931963+00:00",
-      "status": "OPEN",
-      "mode": "PAPER ONLY"
     }
   ],
   "closed": [
@@ -1069,6 +1059,19 @@
       "exitPrice": 2265.88,
       "exitTime": "2026-11-01T01:20:32.931963+00:00",
       "pnlPercent": -1.663
+    },
+    {
+      "symbol": "UNIUSDT",
+      "side": "SELL",
+      "entry": 7.129,
+      "stopLoss": 7.235935,
+      "takeProfit": 6.91513,
+      "entryTime": "2026-11-01T01:20:32.931963+00:00",
+      "status": "STOP_LOSS",
+      "mode": "PAPER ONLY",
+      "exitPrice": 7.318,
+      "exitTime": "2026-11-01T07:40:02.520265+00:00",
+      "pnlPercent": -2.651
     }
   ]
 }

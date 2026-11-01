@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01 01:20:32 UTC",
+  "generatedAt": "2026-11-01 07:40:02 UTC",
   "interval": "15m candles",
   "marketSentiment": -32,
   "overallNewsScore": -33,
@@ -12,17 +12,17 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 77711.83,
-      "change24h": 0.229,
-      "volume24h": 453338659.1210776,
+      "price": 77910.41,
+      "change24h": 0.707,
+      "volume24h": 453889555.3782225,
       "technical": {
-        "rsi": 59.5,
-        "ema9": 77630.51066113201,
-        "ema21": 77611.47013431319,
+        "rsi": 55.5,
+        "ema9": 77928.79084267307,
+        "ema21": 77864.65545671208,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 1.08,
-        "score": 89
+        "volumeRatio": 2.08,
+        "score": 84
       },
       "newsScore": -40,
       "newsCount": 5,
@@ -64,24 +64,24 @@
         }
       ],
       "marketSentiment": -32,
-      "combinedScore": 60,
+      "combinedScore": 58,
       "signal": "WAIT",
-      "reason": "Technical 89/100; News -40; Market sentiment -32."
+      "reason": "Technical 84/100; News -40; Market sentiment -32."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2265.88,
-      "change24h": 0.854,
-      "volume24h": 126869012.545976,
+      "price": 2267.43,
+      "change24h": 1.079,
+      "volume24h": 141210839.250294,
       "technical": {
-        "rsi": 70.2,
-        "ema9": 2259.3865972769163,
-        "ema21": 2257.32255997327,
-        "macdBull": true,
+        "rsi": 52.0,
+        "ema9": 2268.613897344149,
+        "ema21": 2267.544783727225,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 0.93,
-        "score": 89
+        "volumeRatio": 1.37,
+        "score": 53
       },
       "newsScore": -52,
       "newsCount": 5,
@@ -123,70 +123,70 @@
         }
       ],
       "marketSentiment": -32,
-      "combinedScore": 58,
+      "combinedScore": 40,
       "signal": "WAIT",
-      "reason": "Technical 89/100; News -52; Market sentiment -32."
+      "reason": "Technical 53/100; News -52; Market sentiment -32."
     },
     {
       "symbol": "TRXUSDT",
       "coin": "TRX",
-      "price": 0.3095,
-      "change24h": -4.209,
-      "volume24h": 78030442.33884,
+      "price": 0.3102,
+      "change24h": -3.425,
+      "volume24h": 88727401.94162,
       "technical": {
-        "rsi": 63.8,
-        "ema9": 0.3072222189557537,
-        "ema21": 0.3064527871137978,
-        "macdBull": true,
+        "rsi": 55.2,
+        "ema9": 0.3104555824358435,
+        "ema21": 0.30990697342110196,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 2.16,
-        "score": 94
+        "volumeRatio": 0.62,
+        "score": 65
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": -32,
-      "combinedScore": 69,
-      "signal": "BUY",
-      "reason": "Technical 94/100; News +0; Market sentiment -32."
+      "combinedScore": 54,
+      "signal": "WAIT",
+      "reason": "Technical 65/100; News +0; Market sentiment -32."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 1261.84,
-      "change24h": -1.619,
-      "volume24h": 76764208.34844,
+      "price": 1243.39,
+      "change24h": -2.054,
+      "volume24h": 77524101.7756,
       "technical": {
-        "rsi": 41.8,
-        "ema9": 1256.8223362048946,
-        "ema21": 1262.342295485261,
-        "macdBull": false,
+        "rsi": 41.3,
+        "ema9": 1245.680503644644,
+        "ema21": 1248.0511382489203,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 1.56,
-        "score": 16
+        "volumeRatio": 0.7,
+        "score": 35
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": -32,
-      "combinedScore": 30,
-      "signal": "SELL",
-      "reason": "Technical 16/100; News +0; Market sentiment -32."
+      "combinedScore": 39,
+      "signal": "WAIT",
+      "reason": "Technical 35/100; News +0; Market sentiment -32."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 4.439,
-      "change24h": 1.765,
-      "volume24h": 67386923.7701,
+      "price": 4.368,
+      "change24h": 1.44,
+      "volume24h": 67966658.571,
       "technical": {
-        "rsi": 47.4,
-        "ema9": 4.433909470007827,
-        "ema21": 4.440634394687878,
+        "rsi": 38.6,
+        "ema9": 4.384106089950019,
+        "ema21": 4.400602346735323,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.57,
-        "score": 23
+        "volumeRatio": 0.77,
+        "score": 11
       },
       "newsScore": -100,
       "newsCount": 1,
@@ -200,55 +200,24 @@
         }
       ],
       "marketSentiment": -32,
-      "combinedScore": 18,
+      "combinedScore": 12,
       "signal": "SELL",
-      "reason": "Technical 23/100; News -100; Market sentiment -32."
-    },
-    {
-      "symbol": "SOLUSDT",
-      "coin": "SOL",
-      "price": 95.84,
-      "change24h": -1.033,
-      "volume24h": 61402347.33421,
-      "technical": {
-        "rsi": 52.1,
-        "ema9": 95.67276984272341,
-        "ema21": 95.72188596550919,
-        "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.64,
-        "score": 47
-      },
-      "newsScore": -33,
-      "newsCount": 1,
-      "news": [
-        {
-          "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
-          "link": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
-          "published": "Sun, 01 Nov 2026 01:10:05 +0000",
-          "source": "CoinDesk",
-          "text": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses While the FBI listed hundreds of addresses in its notice, Chainalysis said the Binance attackers have already used \"thousands addresses,\" and expects this number to continue growing."
-        }
-      ],
-      "marketSentiment": -32,
-      "combinedScore": 40,
-      "signal": "WAIT",
-      "reason": "Technical 47/100; News -33; Market sentiment -32."
+      "reason": "Technical 11/100; News -100; Market sentiment -32."
     },
     {
       "symbol": "BNBUSDT",
       "coin": "BNB",
-      "price": 704.43,
-      "change24h": -0.503,
-      "volume24h": 47996824.80186,
+      "price": 705.48,
+      "change24h": 0.781,
+      "volume24h": 47533248.39805,
       "technical": {
-        "rsi": 54.9,
-        "ema9": 704.3172761762344,
-        "ema21": 704.331502141987,
+        "rsi": 48.8,
+        "ema9": 705.4903716773089,
+        "ema21": 705.1037894055141,
         "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 1.31,
-        "score": 47
+        "emaBull": true,
+        "volumeRatio": 1.13,
+        "score": 77
       },
       "newsScore": -100,
       "newsCount": 1,
@@ -262,47 +231,78 @@
         }
       ],
       "marketSentiment": -32,
-      "combinedScore": 30,
+      "combinedScore": 45,
       "signal": "WAIT",
-      "reason": "Technical 47/100; News -100; Market sentiment -32."
+      "reason": "Technical 77/100; News -100; Market sentiment -32."
+    },
+    {
+      "symbol": "SOLUSDT",
+      "coin": "SOL",
+      "price": 95.5,
+      "change24h": -0.178,
+      "volume24h": 46026572.14603,
+      "technical": {
+        "rsi": 44.9,
+        "ema9": 95.62244716551349,
+        "ema21": 95.64681497185336,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 1.17,
+        "score": 11
+      },
+      "newsScore": -33,
+      "newsCount": 1,
+      "news": [
+        {
+          "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
+          "link": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
+          "published": "Sun, 01 Nov 2026 01:10:05 +0000",
+          "source": "CoinDesk",
+          "text": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses While the FBI listed hundreds of addresses in its notice, Chainalysis said the Binance attackers have already used \"thousands addresses,\" and expects this number to continue growing."
+        }
+      ],
+      "marketSentiment": -32,
+      "combinedScore": 22,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News -33; Market sentiment -32."
     },
     {
       "symbol": "PEPEUSDT",
       "coin": "PEPE",
-      "price": 5.08e-06,
-      "change24h": 1.195,
-      "volume24h": 45823737.1964629,
+      "price": 4.99e-06,
+      "change24h": -1.188,
+      "volume24h": 43709937.11555498,
       "technical": {
-        "rsi": 59.5,
-        "ema9": 5.038662704466478e-06,
-        "ema21": 5.03201477382418e-06,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.63,
-        "score": 89
+        "rsi": 39.0,
+        "ema9": 4.988933560654754e-06,
+        "ema21": 5.007817661877651e-06,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 1.95,
+        "score": 16
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": -32,
-      "combinedScore": 66,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment -32."
+      "combinedScore": 30,
+      "signal": "SELL",
+      "reason": "Technical 16/100; News +0; Market sentiment -32."
     },
     {
       "symbol": "UNIUSDT",
       "coin": "UNI",
-      "price": 7.129,
-      "change24h": 1.164,
-      "volume24h": 28719227.86727,
+      "price": 7.318,
+      "change24h": 4.483,
+      "volume24h": 30134943.2798,
       "technical": {
-        "rsi": 51.0,
-        "ema9": 7.103990586076481,
-        "ema21": 7.107452749790399,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.67,
-        "score": 23
+        "rsi": 62.8,
+        "ema9": 7.259901902701937,
+        "ema21": 7.209381874741391,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.76,
+        "score": 89
       },
       "newsScore": -100,
       "newsCount": 1,
@@ -316,24 +316,24 @@
         }
       ],
       "marketSentiment": -32,
-      "combinedScore": 18,
-      "signal": "SELL",
-      "reason": "Technical 23/100; News -100; Market sentiment -32."
+      "combinedScore": 51,
+      "signal": "WAIT",
+      "reason": "Technical 89/100; News -100; Market sentiment -32."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 1.2552,
-      "change24h": -0.246,
-      "volume24h": 27038648.00361,
+      "price": 1.2535,
+      "change24h": 0.764,
+      "volume24h": 24608072.15893,
       "technical": {
-        "rsi": 59.9,
-        "ema9": 1.2541001807777097,
-        "ema21": 1.253458297785785,
+        "rsi": 49.0,
+        "ema9": 1.2533354386617817,
+        "ema21": 1.252898756504858,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.85,
-        "score": 89
+        "volumeRatio": 0.78,
+        "score": 77
       },
       "newsScore": -33,
       "newsCount": 3,
@@ -361,9 +361,9 @@
         }
       ],
       "marketSentiment": -32,
-      "combinedScore": 61,
+      "combinedScore": 55,
       "signal": "WAIT",
-      "reason": "Technical 89/100; News -33; Market sentiment -32."
+      "reason": "Technical 77/100; News -33; Market sentiment -32."
     }
   ],
   "news": [
@@ -706,16 +706,6 @@
         "entry": 1261.84,
         "stopLoss": 1280.7676,
         "takeProfit": 1223.9848,
-        "entryTime": "2026-11-01T01:20:32.931963+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
-        "symbol": "UNIUSDT",
-        "side": "SELL",
-        "entry": 7.129,
-        "stopLoss": 7.235935,
-        "takeProfit": 6.91513,
         "entryTime": "2026-11-01T01:20:32.931963+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
@@ -1579,6 +1569,19 @@
         "exitPrice": 2265.88,
         "exitTime": "2026-11-01T01:20:32.931963+00:00",
         "pnlPercent": -1.663
+      },
+      {
+        "symbol": "UNIUSDT",
+        "side": "SELL",
+        "entry": 7.129,
+        "stopLoss": 7.235935,
+        "takeProfit": 6.91513,
+        "entryTime": "2026-11-01T01:20:32.931963+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 7.318,
+        "exitTime": "2026-11-01T07:40:02.520265+00:00",
+        "pnlPercent": -2.651
       }
     ]
   },
