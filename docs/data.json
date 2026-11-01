@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01 14:30:18 UTC",
+  "generatedAt": "2026-11-01 19:06:10 UTC",
   "interval": "15m candles",
   "marketSentiment": -32,
   "overallNewsScore": -33,
@@ -12,17 +12,17 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 78028.01,
-      "change24h": 0.721,
-      "volume24h": 516737627.7863718,
+      "price": 77902.0,
+      "change24h": 0.309,
+      "volume24h": 454617872.5033776,
       "technical": {
-        "rsi": 53.2,
-        "ema9": 78001.56574755712,
-        "ema21": 77994.57964961133,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 1.27,
-        "score": 77
+        "rsi": 38.3,
+        "ema9": 77991.57409584441,
+        "ema21": 78018.5202651776,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.78,
+        "score": 11
       },
       "newsScore": -40,
       "newsCount": 5,
@@ -64,27 +64,27 @@
         }
       ],
       "marketSentiment": -32,
-      "combinedScore": 54,
-      "signal": "WAIT",
-      "reason": "Technical 77/100; News -40; Market sentiment -32."
+      "combinedScore": 21,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News -40; Market sentiment -32."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2269.12,
-      "change24h": 0.852,
-      "volume24h": 177026493.867393,
+      "price": 2263.69,
+      "change24h": 0.31,
+      "volume24h": 190474808.787133,
       "technical": {
-        "rsi": 52.3,
-        "ema9": 2267.5794451842235,
-        "ema21": 2267.934318500709,
-        "macdBull": true,
+        "rsi": 39.6,
+        "ema9": 2266.318376241107,
+        "ema21": 2267.557517915978,
+        "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 1.04,
-        "score": 47
+        "volumeRatio": 1.1,
+        "score": 11
       },
-      "newsScore": -53,
-      "newsCount": 5,
+      "newsScore": -42,
+      "newsCount": 4,
       "news": [
         {
           "title": "EIP-7702 didn’t cause Binance hack, but may have amplified losses",
@@ -113,103 +113,96 @@
           "published": "Fri, 30 Oct 2026 11:35:16 +0000",
           "source": "CoinDesk",
           "text": "Here’s how an Ethereum upgrade helped drain part of Binance’s $6 billion loss On Ethereum, the attacker used a 2025 upgrade built to make ordinary wallets smarter, armed with 50 signatures from Binance's own wallet."
-        },
-        {
-          "title": "Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower",
-          "link": "https://www.coindesk.com/markets/2026/10/30/crypto-liquidations-jump-to-usd1-57-billion-as-binance-hack-sends-bitcoin-ether-lower",
-          "published": "Fri, 30 Oct 2026 11:09:24 +0000",
-          "source": "CoinDesk",
-          "text": "Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower Bitcoin traded near $77,350 after $6.3 billion Binance hack, with crypto futures liquidations jumping to $1.57 billion."
         }
       ],
       "marketSentiment": -32,
-      "combinedScore": 37,
-      "signal": "WAIT",
-      "reason": "Technical 47/100; News -53; Market sentiment -32."
+      "combinedScore": 21,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News -42; Market sentiment -32."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 1243.19,
-      "change24h": -2.873,
-      "volume24h": 91697072.85027,
+      "price": 1228.02,
+      "change24h": -4.117,
+      "volume24h": 89052436.72294,
       "technical": {
-        "rsi": 49.4,
-        "ema9": 1241.4079471289494,
-        "ema21": 1242.550896175201,
-        "macdBull": true,
+        "rsi": 34.1,
+        "ema9": 1231.1808563464092,
+        "ema21": 1234.8380667388342,
+        "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.53,
-        "score": 47
+        "volumeRatio": 1.21,
+        "score": 11
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": -32,
-      "combinedScore": 45,
-      "signal": "WAIT",
-      "reason": "Technical 47/100; News +0; Market sentiment -32."
+      "combinedScore": 27,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment -32."
     },
     {
       "symbol": "TRXUSDT",
       "coin": "TRX",
-      "price": 0.3111,
-      "change24h": -1.644,
-      "volume24h": 90953319.02782,
+      "price": 0.3134,
+      "change24h": 1.952,
+      "volume24h": 81240798.83361,
       "technical": {
-        "rsi": 58.6,
-        "ema9": 0.31080388623487737,
-        "ema21": 0.31065534247801696,
-        "macdBull": false,
+        "rsi": 71.6,
+        "ema9": 0.313422299459072,
+        "ema21": 0.3127890858504915,
+        "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.83,
-        "score": 65
+        "volumeRatio": 0.44,
+        "score": 89
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": -32,
-      "combinedScore": 54,
-      "signal": "WAIT",
-      "reason": "Technical 65/100; News +0; Market sentiment -32."
+      "combinedScore": 66,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment -32."
     },
     {
       "symbol": "BNBUSDT",
       "coin": "BNB",
-      "price": 715.66,
-      "change24h": 1.73,
-      "volume24h": 65211380.68024,
+      "price": 709.84,
+      "change24h": 0.219,
+      "volume24h": 67967243.81286,
       "technical": {
-        "rsi": 65.6,
-        "ema9": 714.7131183306566,
-        "ema21": 713.3583817155679,
+        "rsi": 36.9,
+        "ema9": 711.1021503223119,
+        "ema21": 712.0913268768304,
         "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.63,
-        "score": 65
+        "emaBull": false,
+        "volumeRatio": 0.95,
+        "score": 11
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": -32,
-      "combinedScore": 54,
-      "signal": "WAIT",
-      "reason": "Technical 65/100; News +0; Market sentiment -32."
+      "combinedScore": 27,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment -32."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 95.09,
-      "change24h": -0.617,
-      "volume24h": 57312288.81574,
+      "price": 94.3,
+      "change24h": -1.832,
+      "volume24h": 61518813.91777,
       "technical": {
-        "rsi": 45.1,
-        "ema9": 95.06359486577577,
-        "ema21": 95.19378688953296,
-        "macdBull": true,
+        "rsi": 29.8,
+        "ema9": 94.61723831693043,
+        "ema21": 94.7903114999057,
+        "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 1.16,
-        "score": 47
+        "volumeRatio": 1.12,
+        "score": 11
       },
       "newsScore": -33,
       "newsCount": 1,
@@ -223,101 +216,70 @@
         }
       ],
       "marketSentiment": -32,
-      "combinedScore": 40,
-      "signal": "WAIT",
-      "reason": "Technical 47/100; News -33; Market sentiment -32."
-    },
-    {
-      "symbol": "NEARUSDT",
-      "coin": "NEAR",
-      "price": 4.387,
-      "change24h": -1.327,
-      "volume24h": 56067213.2258,
-      "technical": {
-        "rsi": 46.9,
-        "ema9": 4.3901947936023324,
-        "ema21": 4.390459461788215,
-        "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.96,
-        "score": 47
-      },
-      "newsScore": -100,
-      "newsCount": 1,
-      "news": [
-        {
-          "title": "Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower",
-          "link": "https://www.coindesk.com/markets/2026/10/30/crypto-liquidations-jump-to-usd1-57-billion-as-binance-hack-sends-bitcoin-ether-lower",
-          "published": "Fri, 30 Oct 2026 11:09:24 +0000",
-          "source": "CoinDesk",
-          "text": "Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower Bitcoin traded near $77,350 after $6.3 billion Binance hack, with crypto futures liquidations jumping to $1.57 billion."
-        }
-      ],
-      "marketSentiment": -32,
-      "combinedScore": 30,
-      "signal": "WAIT",
-      "reason": "Technical 47/100; News -100; Market sentiment -32."
-    },
-    {
-      "symbol": "PEPEUSDT",
-      "coin": "PEPE",
-      "price": 4.91e-06,
-      "change24h": -1.603,
-      "volume24h": 44711488.40727318,
-      "technical": {
-        "rsi": 43.0,
-        "ema9": 4.917826325911906e-06,
-        "ema21": 4.933001962156589e-06,
-        "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.63,
-        "score": 35
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -32,
-      "combinedScore": 39,
-      "signal": "WAIT",
-      "reason": "Technical 35/100; News +0; Market sentiment -32."
+      "combinedScore": 22,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News -33; Market sentiment -32."
     },
     {
       "symbol": "USD1USDT",
       "coin": "USD1",
-      "price": 0.99889,
-      "change24h": -0.019,
-      "volume24h": 41877499.82228,
+      "price": 0.99913,
+      "change24h": 0.0,
+      "volume24h": 50170221.22096,
       "technical": {
-        "rsi": 44.0,
-        "ema9": 0.9989089389809283,
-        "ema21": 0.9989240837907989,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.35,
-        "score": 11
+        "rsi": 58.6,
+        "ema9": 0.9990706480217776,
+        "ema21": 0.9990086405569045,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.57,
+        "score": 89
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": -32,
-      "combinedScore": 27,
+      "combinedScore": 66,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment -32."
+    },
+    {
+      "symbol": "NEARUSDT",
+      "coin": "NEAR",
+      "price": 4.271,
+      "change24h": -5.068,
+      "volume24h": 45306601.2891,
+      "technical": {
+        "rsi": 16.8,
+        "ema9": 4.297064960264904,
+        "ema21": 4.32425573874445,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 1.57,
+        "score": 23
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -32,
+      "combinedScore": 33,
       "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment -32."
+      "reason": "Technical 23/100; News +0; Market sentiment -32."
     },
     {
       "symbol": "UNIUSDT",
       "coin": "UNI",
-      "price": 7.305,
-      "change24h": 4.536,
-      "volume24h": 39596489.55435,
+      "price": 7.114,
+      "change24h": -0.392,
+      "volume24h": 42624817.92241,
       "technical": {
-        "rsi": 54.0,
-        "ema9": 7.305656591839469,
-        "ema21": 7.279177586715635,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 2.03,
-        "score": 72
+        "rsi": 31.3,
+        "ema9": 7.153305464514295,
+        "ema21": 7.199487257899587,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.27,
+        "score": 11
       },
       "newsScore": -100,
       "newsCount": 1,
@@ -331,9 +293,32 @@
         }
       ],
       "marketSentiment": -32,
-      "combinedScore": 43,
+      "combinedScore": 12,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News -100; Market sentiment -32."
+    },
+    {
+      "symbol": "PEPEUSDT",
+      "coin": "PEPE",
+      "price": 4.9e-06,
+      "change24h": -3.543,
+      "volume24h": 42356034.11189153,
+      "technical": {
+        "rsi": 48.6,
+        "ema9": 4.887347179003738e-06,
+        "ema21": 4.890314173792039e-06,
+        "macdBull": true,
+        "emaBull": false,
+        "volumeRatio": 0.27,
+        "score": 47
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -32,
+      "combinedScore": 45,
       "signal": "WAIT",
-      "reason": "Technical 72/100; News -100; Market sentiment -32."
+      "reason": "Technical 47/100; News +0; Market sentiment -32."
     }
   ],
   "news": [
@@ -651,16 +636,6 @@
         "mode": "PAPER ONLY"
       },
       {
-        "symbol": "NEARUSDT",
-        "side": "SELL",
-        "entry": 4.448,
-        "stopLoss": 4.51472,
-        "takeProfit": 4.31456,
-        "entryTime": "2026-10-31T22:26:02.315056+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
         "symbol": "TRXUSDT",
         "side": "BUY",
         "entry": 0.3095,
@@ -677,6 +652,36 @@
         "stopLoss": 1280.7676,
         "takeProfit": 1223.9848,
         "entryTime": "2026-11-01T01:20:32.931963+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "ETHUSDT",
+        "side": "SELL",
+        "entry": 2263.69,
+        "stopLoss": 2297.64535,
+        "takeProfit": 2195.7793,
+        "entryTime": "2026-11-01T19:06:10.805019+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "NEARUSDT",
+        "side": "SELL",
+        "entry": 4.271,
+        "stopLoss": 4.335065,
+        "takeProfit": 4.14287,
+        "entryTime": "2026-11-01T19:06:10.805019+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "UNIUSDT",
+        "side": "SELL",
+        "entry": 7.114,
+        "stopLoss": 7.22071,
+        "takeProfit": 6.90058,
+        "entryTime": "2026-11-01T19:06:10.805019+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       }
@@ -1552,6 +1557,19 @@
         "exitPrice": 7.318,
         "exitTime": "2026-11-01T07:40:02.520265+00:00",
         "pnlPercent": -2.651
+      },
+      {
+        "symbol": "NEARUSDT",
+        "side": "SELL",
+        "entry": 4.448,
+        "stopLoss": 4.51472,
+        "takeProfit": 4.31456,
+        "entryTime": "2026-10-31T22:26:02.315056+00:00",
+        "status": "TAKE_PROFIT",
+        "mode": "PAPER ONLY",
+        "exitPrice": 4.271,
+        "exitTime": "2026-11-01T19:06:10.805019+00:00",
+        "pnlPercent": 3.979
       }
     ]
   },

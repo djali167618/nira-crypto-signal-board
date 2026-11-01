@@ -171,16 +171,6 @@
       "mode": "PAPER ONLY"
     },
     {
-      "symbol": "NEARUSDT",
-      "side": "SELL",
-      "entry": 4.448,
-      "stopLoss": 4.51472,
-      "takeProfit": 4.31456,
-      "entryTime": "2026-10-31T22:26:02.315056+00:00",
-      "status": "OPEN",
-      "mode": "PAPER ONLY"
-    },
-    {
       "symbol": "TRXUSDT",
       "side": "BUY",
       "entry": 0.3095,
@@ -197,6 +187,36 @@
       "stopLoss": 1280.7676,
       "takeProfit": 1223.9848,
       "entryTime": "2026-11-01T01:20:32.931963+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "ETHUSDT",
+      "side": "SELL",
+      "entry": 2263.69,
+      "stopLoss": 2297.64535,
+      "takeProfit": 2195.7793,
+      "entryTime": "2026-11-01T19:06:10.805019+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "NEARUSDT",
+      "side": "SELL",
+      "entry": 4.271,
+      "stopLoss": 4.335065,
+      "takeProfit": 4.14287,
+      "entryTime": "2026-11-01T19:06:10.805019+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "UNIUSDT",
+      "side": "SELL",
+      "entry": 7.114,
+      "stopLoss": 7.22071,
+      "takeProfit": 6.90058,
+      "entryTime": "2026-11-01T19:06:10.805019+00:00",
       "status": "OPEN",
       "mode": "PAPER ONLY"
     }
@@ -1072,6 +1092,19 @@
       "exitPrice": 7.318,
       "exitTime": "2026-11-01T07:40:02.520265+00:00",
       "pnlPercent": -2.651
+    },
+    {
+      "symbol": "NEARUSDT",
+      "side": "SELL",
+      "entry": 4.448,
+      "stopLoss": 4.51472,
+      "takeProfit": 4.31456,
+      "entryTime": "2026-10-31T22:26:02.315056+00:00",
+      "status": "TAKE_PROFIT",
+      "mode": "PAPER ONLY",
+      "exitPrice": 4.271,
+      "exitTime": "2026-11-01T19:06:10.805019+00:00",
+      "pnlPercent": 3.979
     }
   ]
 }
