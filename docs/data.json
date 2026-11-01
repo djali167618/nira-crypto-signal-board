@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-31 22:26:02 UTC",
+  "generatedAt": "2026-11-01 01:20:32 UTC",
   "interval": "15m candles",
-  "marketSentiment": -38,
+  "marketSentiment": -32,
   "overallNewsScore": -33,
   "fearGreed": {
-    "value": 30,
+    "value": 34,
     "label": "Fear",
     "source": "Alternative.me"
   },
@@ -12,17 +12,17 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 77623.62,
-      "change24h": 1.036,
-      "volume24h": 514538244.1127115,
+      "price": 77711.83,
+      "change24h": 0.229,
+      "volume24h": 453338659.1210776,
       "technical": {
-        "rsi": 55.6,
-        "ema9": 77603.53929069365,
-        "ema21": 77602.70578410762,
-        "macdBull": false,
+        "rsi": 59.5,
+        "ema9": 77630.51066113201,
+        "ema21": 77611.47013431319,
+        "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.97,
-        "score": 65
+        "volumeRatio": 1.08,
+        "score": 89
       },
       "newsScore": -40,
       "newsCount": 5,
@@ -63,27 +63,27 @@
           "text": "Crypto Biz: Bitcoin’s quantum threat is becoming an economic problem Bitcoin faces mounting quantum security concerns as Ripple secures a US banking charter, USDC gains ground in Europe and VanEck adds BTC to a new ETF."
         }
       ],
-      "marketSentiment": -38,
-      "combinedScore": 48,
+      "marketSentiment": -32,
+      "combinedScore": 60,
       "signal": "WAIT",
-      "reason": "Technical 65/100; News -40; Market sentiment -38."
+      "reason": "Technical 89/100; News -40; Market sentiment -32."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2260.01,
-      "change24h": 1.101,
-      "volume24h": 135226691.749017,
+      "price": 2265.88,
+      "change24h": 0.854,
+      "volume24h": 126869012.545976,
       "technical": {
-        "rsi": 69.8,
-        "ema9": 2255.9269786218915,
-        "ema21": 2254.6847859785157,
+        "rsi": 70.2,
+        "ema9": 2259.3865972769163,
+        "ema21": 2257.32255997327,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 6.36,
-        "score": 94
+        "volumeRatio": 0.93,
+        "score": 89
       },
-      "newsScore": -56,
+      "newsScore": -52,
       "newsCount": 5,
       "news": [
         {
@@ -108,84 +108,84 @@
           "text": "Binance hack rattles markets as BNB falls 8%, Bitcoin nears $77K Bitcoin, Ether and the broader crypto market took a dive as Binance suffered a multibillion-dollar hack."
         },
         {
+          "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
+          "link": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
+          "published": "Sun, 01 Nov 2026 01:10:05 +0000",
+          "source": "CoinDesk",
+          "text": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses While the FBI listed hundreds of addresses in its notice, Chainalysis said the Binance attackers have already used \"thousands addresses,\" and expects this number to continue growing."
+        },
+        {
           "title": "Here’s how an Ethereum upgrade helped drain part of Binance’s $6 billion loss",
           "link": "https://www.coindesk.com/tech/2026/10/30/here-s-how-one-ethereum-permission-let-an-attacker-drain-usd2-5-billion-from-binance",
           "published": "Fri, 30 Oct 2026 11:35:16 +0000",
           "source": "CoinDesk",
           "text": "Here’s how an Ethereum upgrade helped drain part of Binance’s $6 billion loss On Ethereum, the attacker used a 2025 upgrade built to make ordinary wallets smarter, armed with 50 signatures from Binance's own wallet."
-        },
-        {
-          "title": "Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower",
-          "link": "https://www.coindesk.com/markets/2026/10/30/crypto-liquidations-jump-to-usd1-57-billion-as-binance-hack-sends-bitcoin-ether-lower",
-          "published": "Fri, 30 Oct 2026 11:09:24 +0000",
-          "source": "CoinDesk",
-          "text": "Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower Bitcoin traded near $77,350 after $6.3 billion Binance hack, with crypto futures liquidations jumping to $1.57 billion."
         }
       ],
-      "marketSentiment": -38,
-      "combinedScore": 60,
+      "marketSentiment": -32,
+      "combinedScore": 58,
       "signal": "WAIT",
-      "reason": "Technical 94/100; News -56; Market sentiment -38."
+      "reason": "Technical 89/100; News -52; Market sentiment -32."
+    },
+    {
+      "symbol": "TRXUSDT",
+      "coin": "TRX",
+      "price": 0.3095,
+      "change24h": -4.209,
+      "volume24h": 78030442.33884,
+      "technical": {
+        "rsi": 63.8,
+        "ema9": 0.3072222189557537,
+        "ema21": 0.3064527871137978,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 2.16,
+        "score": 94
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -32,
+      "combinedScore": 69,
+      "signal": "BUY",
+      "reason": "Technical 94/100; News +0; Market sentiment -32."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 1276.6,
-      "change24h": 3.307,
-      "volume24h": 77851311.18205,
+      "price": 1261.84,
+      "change24h": -1.619,
+      "volume24h": 76764208.34844,
       "technical": {
-        "rsi": 53.7,
-        "ema9": 1274.242865247329,
-        "ema21": 1276.0384898800237,
-        "macdBull": true,
+        "rsi": 41.8,
+        "ema9": 1256.8223362048946,
+        "ema21": 1262.342295485261,
+        "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 2.13,
-        "score": 52
+        "volumeRatio": 1.56,
+        "score": 16
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -38,
-      "combinedScore": 47,
-      "signal": "WAIT",
-      "reason": "Technical 52/100; News +0; Market sentiment -38."
-    },
-    {
-      "symbol": "SOLUSDT",
-      "coin": "SOL",
-      "price": 95.93,
-      "change24h": 0.324,
-      "volume24h": 76632755.76751,
-      "technical": {
-        "rsi": 56.3,
-        "ema9": 95.89019738051424,
-        "ema21": 95.9071734306376,
-        "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 3.18,
-        "score": 64
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -38,
-      "combinedScore": 53,
-      "signal": "WAIT",
-      "reason": "Technical 64/100; News +0; Market sentiment -38."
+      "marketSentiment": -32,
+      "combinedScore": 30,
+      "signal": "SELL",
+      "reason": "Technical 16/100; News +0; Market sentiment -32."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 4.448,
-      "change24h": 3.202,
-      "volume24h": 76269460.0817,
+      "price": 4.439,
+      "change24h": 1.765,
+      "volume24h": 67386923.7701,
       "technical": {
-        "rsi": 48.6,
-        "ema9": 4.447933594774358,
-        "ema21": 4.455874271770967,
+        "rsi": 47.4,
+        "ema9": 4.433909470007827,
+        "ema21": 4.440634394687878,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.63,
+        "volumeRatio": 0.57,
         "score": 23
       },
       "newsScore": -100,
@@ -199,48 +199,56 @@
           "text": "Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower Bitcoin traded near $77,350 after $6.3 billion Binance hack, with crypto futures liquidations jumping to $1.57 billion."
         }
       ],
-      "marketSentiment": -38,
+      "marketSentiment": -32,
       "combinedScore": 18,
       "signal": "SELL",
-      "reason": "Technical 23/100; News -100; Market sentiment -38."
+      "reason": "Technical 23/100; News -100; Market sentiment -32."
     },
     {
-      "symbol": "TRXUSDT",
-      "coin": "TRX",
-      "price": 0.3022,
-      "change24h": -7.95,
-      "volume24h": 59283098.30962,
+      "symbol": "SOLUSDT",
+      "coin": "SOL",
+      "price": 95.84,
+      "change24h": -1.033,
+      "volume24h": 61402347.33421,
       "technical": {
-        "rsi": 26.7,
-        "ema9": 0.30494976904294563,
-        "ema21": 0.306957710487143,
+        "rsi": 52.1,
+        "ema9": 95.67276984272341,
+        "ema21": 95.72188596550919,
         "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.7,
-        "score": 52
+        "volumeRatio": 0.64,
+        "score": 47
       },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -38,
-      "combinedScore": 47,
+      "newsScore": -33,
+      "newsCount": 1,
+      "news": [
+        {
+          "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
+          "link": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
+          "published": "Sun, 01 Nov 2026 01:10:05 +0000",
+          "source": "CoinDesk",
+          "text": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses While the FBI listed hundreds of addresses in its notice, Chainalysis said the Binance attackers have already used \"thousands addresses,\" and expects this number to continue growing."
+        }
+      ],
+      "marketSentiment": -32,
+      "combinedScore": 40,
       "signal": "WAIT",
-      "reason": "Technical 52/100; News +0; Market sentiment -38."
+      "reason": "Technical 47/100; News -33; Market sentiment -32."
     },
     {
       "symbol": "BNBUSDT",
       "coin": "BNB",
-      "price": 703.59,
-      "change24h": 0.723,
-      "volume24h": 55107765.74175,
+      "price": 704.43,
+      "change24h": -0.503,
+      "volume24h": 47996824.80186,
       "technical": {
-        "rsi": 41.2,
-        "ema9": 703.9512718588327,
-        "ema21": 704.8833224068967,
-        "macdBull": false,
+        "rsi": 54.9,
+        "ema9": 704.3172761762344,
+        "ema21": 704.331502141987,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 1.22,
-        "score": 11
+        "volumeRatio": 1.31,
+        "score": 47
       },
       "newsScore": -100,
       "newsCount": 1,
@@ -253,48 +261,48 @@
           "text": "Binance hack rattles markets as BNB falls 8%, Bitcoin nears $77K Bitcoin, Ether and the broader crypto market took a dive as Binance suffered a multibillion-dollar hack."
         }
       ],
-      "marketSentiment": -38,
-      "combinedScore": 12,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News -100; Market sentiment -38."
+      "marketSentiment": -32,
+      "combinedScore": 30,
+      "signal": "WAIT",
+      "reason": "Technical 47/100; News -100; Market sentiment -32."
     },
     {
       "symbol": "PEPEUSDT",
       "coin": "PEPE",
-      "price": 5.04e-06,
-      "change24h": 2.439,
-      "volume24h": 47495858.30656043,
+      "price": 5.08e-06,
+      "change24h": 1.195,
+      "volume24h": 45823737.1964629,
       "technical": {
-        "rsi": 51.0,
-        "ema9": 5.040140707547431e-06,
-        "ema21": 5.037460178163459e-06,
-        "macdBull": false,
+        "rsi": 59.5,
+        "ema9": 5.038662704466478e-06,
+        "ema21": 5.03201477382418e-06,
+        "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.81,
-        "score": 53
+        "volumeRatio": 0.63,
+        "score": 89
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -38,
-      "combinedScore": 48,
-      "signal": "WAIT",
-      "reason": "Technical 53/100; News +0; Market sentiment -38."
+      "marketSentiment": -32,
+      "combinedScore": 66,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment -32."
     },
     {
       "symbol": "UNIUSDT",
       "coin": "UNI",
-      "price": 7.153,
-      "change24h": 2.361,
-      "volume24h": 32887728.58923,
+      "price": 7.129,
+      "change24h": 1.164,
+      "volume24h": 28719227.86727,
       "technical": {
-        "rsi": 60.4,
-        "ema9": 7.12984761858822,
-        "ema21": 7.113161602649481,
+        "rsi": 51.0,
+        "ema9": 7.103990586076481,
+        "ema21": 7.107452749790399,
         "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.98,
-        "score": 65
+        "emaBull": false,
+        "volumeRatio": 0.67,
+        "score": 23
       },
       "newsScore": -100,
       "newsCount": 1,
@@ -307,25 +315,25 @@
           "text": "Binance hack could accelerate shift to DEXs: Standard Chartered Standard Chartered’s Geoffrey Kendrick said the breach could accelerate a shift toward decentralized trading and strengthen his case for Uniswap’s UNI token reaching $100 by 2030."
         }
       ],
-      "marketSentiment": -38,
-      "combinedScore": 39,
-      "signal": "WAIT",
-      "reason": "Technical 65/100; News -100; Market sentiment -38."
+      "marketSentiment": -32,
+      "combinedScore": 18,
+      "signal": "SELL",
+      "reason": "Technical 23/100; News -100; Market sentiment -32."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 1.2544,
-      "change24h": 0.312,
-      "volume24h": 29222354.36826,
+      "price": 1.2552,
+      "change24h": -0.246,
+      "volume24h": 27038648.00361,
       "technical": {
-        "rsi": 58.0,
-        "ema9": 1.2530269158268925,
-        "ema21": 1.2529725563900471,
-        "macdBull": false,
+        "rsi": 59.9,
+        "ema9": 1.2541001807777097,
+        "ema21": 1.253458297785785,
+        "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 1.84,
-        "score": 70
+        "volumeRatio": 0.85,
+        "score": 89
       },
       "newsScore": -33,
       "newsCount": 3,
@@ -352,10 +360,10 @@
           "text": "XRP Ledger developers tighten the rules for who can hold 'restricted' tokens A set of fixes would tighten who can hold permissioned tokens on the network. The XRP Ledger Foundation says no users were affected."
         }
       ],
-      "marketSentiment": -38,
-      "combinedScore": 51,
+      "marketSentiment": -32,
+      "combinedScore": 61,
       "signal": "WAIT",
-      "reason": "Technical 70/100; News -33; Market sentiment -38."
+      "reason": "Technical 89/100; News -33; Market sentiment -32."
     }
   ],
   "news": [
@@ -663,16 +671,6 @@
         "mode": "PAPER ONLY"
       },
       {
-        "symbol": "ETHUSDT",
-        "side": "SELL",
-        "entry": 2228.82,
-        "stopLoss": 2262.2523,
-        "takeProfit": 2161.9554,
-        "entryTime": "2026-10-30T09:05:22.124334+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
         "symbol": "PEPEUSDT",
         "side": "SELL",
         "entry": 5.02e-06,
@@ -689,6 +687,36 @@
         "stopLoss": 4.51472,
         "takeProfit": 4.31456,
         "entryTime": "2026-10-31T22:26:02.315056+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "TRXUSDT",
+        "side": "BUY",
+        "entry": 0.3095,
+        "stopLoss": 0.3048575,
+        "takeProfit": 0.318785,
+        "entryTime": "2026-11-01T01:20:32.931963+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "ZECUSDT",
+        "side": "SELL",
+        "entry": 1261.84,
+        "stopLoss": 1280.7676,
+        "takeProfit": 1223.9848,
+        "entryTime": "2026-11-01T01:20:32.931963+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "UNIUSDT",
+        "side": "SELL",
+        "entry": 7.129,
+        "stopLoss": 7.235935,
+        "takeProfit": 6.91513,
+        "entryTime": "2026-11-01T01:20:32.931963+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       }
@@ -1538,6 +1566,19 @@
         "exitPrice": 7.142,
         "exitTime": "2026-10-31T19:06:19.625078+00:00",
         "pnlPercent": -2.527
+      },
+      {
+        "symbol": "ETHUSDT",
+        "side": "SELL",
+        "entry": 2228.82,
+        "stopLoss": 2262.2523,
+        "takeProfit": 2161.9554,
+        "entryTime": "2026-10-30T09:05:22.124334+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 2265.88,
+        "exitTime": "2026-11-01T01:20:32.931963+00:00",
+        "pnlPercent": -1.663
       }
     ]
   },
