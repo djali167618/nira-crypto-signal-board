@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-01 22:45:00 UTC",
+  "generatedAt": "2026-11-02 01:51:37 UTC",
   "interval": "15m candles",
-  "marketSentiment": -32,
-  "overallNewsScore": -33,
+  "marketSentiment": -25,
+  "overallNewsScore": -23,
   "fearGreed": {
-    "value": 34,
+    "value": 37,
     "label": "Fear",
     "source": "Alternative.me"
   },
@@ -12,17 +12,17 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 77802.0,
-      "change24h": 0.173,
-      "volume24h": 486466947.5043604,
+      "price": 78538.83,
+      "change24h": 1.043,
+      "volume24h": 541824711.8541231,
       "technical": {
-        "rsi": 34.1,
-        "ema9": 77840.3867870262,
-        "ema21": 77886.072692993,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 1.43,
-        "score": 11
+        "rsi": 69.8,
+        "ema9": 78322.68402323034,
+        "ema21": 78163.27154357274,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.94,
+        "score": 89
       },
       "newsScore": -40,
       "newsCount": 5,
@@ -63,25 +63,25 @@
           "text": "Crypto Biz: Bitcoin’s quantum threat is becoming an economic problem Bitcoin faces mounting quantum security concerns as Ripple secures a US banking charter, USDC gains ground in Europe and VanEck adds BTC to a new ETF."
         }
       ],
-      "marketSentiment": -32,
-      "combinedScore": 21,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News -40; Market sentiment -32."
+      "marketSentiment": -25,
+      "combinedScore": 61,
+      "signal": "WAIT",
+      "reason": "Technical 89/100; News -40; Market sentiment -25."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2259.76,
-      "change24h": 0.043,
-      "volume24h": 185836657.317506,
+      "price": 2294.01,
+      "change24h": 1.148,
+      "volume24h": 259978820.232365,
       "technical": {
-        "rsi": 34.4,
-        "ema9": 2261.715306698339,
-        "ema21": 2263.130634076549,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 4.02,
-        "score": 6
+        "rsi": 72.5,
+        "ema9": 2281.8827657319152,
+        "ema21": 2274.3072475758872,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 2.16,
+        "score": 77
       },
       "newsScore": -55,
       "newsCount": 3,
@@ -108,48 +108,48 @@
           "text": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses While the FBI listed hundreds of addresses in its notice, Chainalysis said the Binance attackers have already used \"thousands addresses,\" and expects this number to continue growing."
         }
       ],
-      "marketSentiment": -32,
-      "combinedScore": 17,
-      "signal": "SELL",
-      "reason": "Technical 6/100; News -55; Market sentiment -32."
+      "marketSentiment": -25,
+      "combinedScore": 53,
+      "signal": "WAIT",
+      "reason": "Technical 77/100; News -55; Market sentiment -25."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 1221.1,
-      "change24h": -3.989,
-      "volume24h": 91963998.47062,
+      "price": 1252.76,
+      "change24h": -0.147,
+      "volume24h": 99469152.99112,
       "technical": {
-        "rsi": 41.7,
-        "ema9": 1226.2972158899684,
-        "ema21": 1227.4940216377672,
+        "rsi": 66.8,
+        "ema9": 1240.794986222039,
+        "ema21": 1234.8748669571078,
         "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 1.88,
-        "score": 30
+        "emaBull": true,
+        "volumeRatio": 1.42,
+        "score": 89
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -32,
-      "combinedScore": 37,
-      "signal": "WAIT",
-      "reason": "Technical 30/100; News +0; Market sentiment -32."
+      "marketSentiment": -25,
+      "combinedScore": 67,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment -25."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 93.86,
-      "change24h": -1.974,
-      "volume24h": 72820885.86554,
+      "price": 95.11,
+      "change24h": -0.679,
+      "volume24h": 86139132.20276,
       "technical": {
-        "rsi": 30.0,
-        "ema9": 94.12823482310043,
-        "ema21": 94.30343373970379,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 4.78,
-        "score": 6
+        "rsi": 62.2,
+        "ema9": 94.67278028608344,
+        "ema21": 94.47222770053656,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 1.18,
+        "score": 89
       },
       "newsScore": -33,
       "newsCount": 1,
@@ -162,159 +162,173 @@
           "text": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses While the FBI listed hundreds of addresses in its notice, Chainalysis said the Binance attackers have already used \"thousands addresses,\" and expects this number to continue growing."
         }
       ],
-      "marketSentiment": -32,
-      "combinedScore": 20,
-      "signal": "SELL",
-      "reason": "Technical 6/100; News -33; Market sentiment -32."
+      "marketSentiment": -25,
+      "combinedScore": 62,
+      "signal": "WAIT",
+      "reason": "Technical 89/100; News -33; Market sentiment -25."
     },
     {
       "symbol": "BNBUSDT",
       "coin": "BNB",
-      "price": 706.29,
-      "change24h": 0.374,
-      "volume24h": 67873392.01985,
+      "price": 714.5,
+      "change24h": 1.575,
+      "volume24h": 70667295.96655,
       "technical": {
-        "rsi": 29.2,
-        "ema9": 707.7094443128627,
-        "ema21": 709.0111221015792,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 1.41,
-        "score": 11
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -32,
-      "combinedScore": 27,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment -32."
-    },
-    {
-      "symbol": "TRXUSDT",
-      "coin": "TRX",
-      "price": 0.313,
-      "change24h": 3.574,
-      "volume24h": 67545499.71754,
-      "technical": {
-        "rsi": 57.8,
-        "ema9": 0.31308847567629283,
-        "ema21": 0.3129663836363015,
-        "macdBull": false,
+        "rsi": 66.2,
+        "ema9": 712.5100382166947,
+        "ema21": 711.1034567468529,
+        "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 1.41,
-        "score": 65
+        "volumeRatio": 0.9,
+        "score": 89
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -32,
-      "combinedScore": 54,
-      "signal": "WAIT",
-      "reason": "Technical 65/100; News +0; Market sentiment -32."
+      "marketSentiment": -25,
+      "combinedScore": 67,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment -25."
     },
     {
       "symbol": "USD1USDT",
       "coin": "USD1",
-      "price": 0.99908,
-      "change24h": -0.005,
-      "volume24h": 51663042.57056,
+      "price": 0.999,
+      "change24h": -0.003,
+      "volume24h": 52854187.94771,
       "technical": {
-        "rsi": 53.2,
-        "ema9": 0.9990847152787425,
-        "ema21": 0.9990664068672552,
+        "rsi": 46.0,
+        "ema9": 0.999035515887036,
+        "ema21": 0.9990470824189834,
         "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.54,
-        "score": 53
+        "emaBull": false,
+        "volumeRatio": 1.19,
+        "score": 23
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -32,
-      "combinedScore": 48,
-      "signal": "WAIT",
-      "reason": "Technical 53/100; News +0; Market sentiment -32."
+      "marketSentiment": -25,
+      "combinedScore": 34,
+      "signal": "SELL",
+      "reason": "Technical 23/100; News +0; Market sentiment -25."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 4.258,
-      "change24h": -4.056,
-      "volume24h": 43307633.4587,
+      "price": 4.319,
+      "change24h": -3.443,
+      "volume24h": 45141250.9682,
       "technical": {
-        "rsi": 37.9,
-        "ema9": 4.27492830343241,
-        "ema21": 4.285657472355019,
+        "rsi": 58.1,
+        "ema9": 4.297988714382559,
+        "ema21": 4.2890670451748205,
         "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 1.46,
-        "score": 35
+        "emaBull": true,
+        "volumeRatio": 1.05,
+        "score": 89
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -32,
-      "combinedScore": 39,
-      "signal": "WAIT",
-      "reason": "Technical 35/100; News +0; Market sentiment -32."
+      "marketSentiment": -25,
+      "combinedScore": 67,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment -25."
     },
     {
-      "symbol": "UNIUSDT",
-      "coin": "UNI",
-      "price": 7.151,
-      "change24h": 0.309,
-      "volume24h": 41895661.21142,
+      "symbol": "XRPUSDT",
+      "coin": "XRP",
+      "price": 1.2587,
+      "change24h": 0.415,
+      "volume24h": 43294526.28674,
       "technical": {
-        "rsi": 41.4,
-        "ema9": 7.153691503391445,
-        "ema21": 7.162537862335847,
+        "rsi": 65.8,
+        "ema9": 1.2530584595785739,
+        "ema21": 1.2510099718236067,
         "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 1.04,
-        "score": 35
+        "emaBull": true,
+        "volumeRatio": 0.75,
+        "score": 89
       },
       "newsScore": -100,
       "newsCount": 1,
       "news": [
         {
-          "title": "Binance hack could accelerate shift to DEXs: Standard Chartered",
-          "link": "https://cointelegraph.com/news/binance-hack-could-accelerate-shift-to-dexs-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Fri, 30 Oct 2026 03:47:01 +0000",
+          "title": "Crypto Biz: Bitcoin’s quantum threat is becoming an economic problem",
+          "link": "https://cointelegraph.com/news/bitcoin-quantum-threat-ripple-bank-usdc-vaneck-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Fri, 30 Oct 2026 17:09:31 +0000",
           "source": "Cointelegraph",
-          "text": "Binance hack could accelerate shift to DEXs: Standard Chartered Standard Chartered’s Geoffrey Kendrick said the breach could accelerate a shift toward decentralized trading and strengthen his case for Uniswap’s UNI token reaching $100 by 2030."
+          "text": "Crypto Biz: Bitcoin’s quantum threat is becoming an economic problem Bitcoin faces mounting quantum security concerns as Ripple secures a US banking charter, USDC gains ground in Europe and VanEck adds BTC to a new ETF."
         }
       ],
-      "marketSentiment": -32,
-      "combinedScore": 24,
-      "signal": "SELL",
-      "reason": "Technical 35/100; News -100; Market sentiment -32."
+      "marketSentiment": -25,
+      "combinedScore": 52,
+      "signal": "WAIT",
+      "reason": "Technical 89/100; News -100; Market sentiment -25."
     },
     {
-      "symbol": "PEPEUSDT",
-      "coin": "PEPE",
-      "price": 4.85e-06,
-      "change24h": -3.386,
-      "volume24h": 41080352.83036687,
+      "symbol": "UNIUSDT",
+      "coin": "UNI",
+      "price": 7.265,
+      "change24h": 1.979,
+      "volume24h": 43065045.84153,
       "technical": {
-        "rsi": 40.7,
-        "ema9": 4.880145553071173e-06,
-        "ema21": 4.888922080489658e-06,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.75,
-        "score": 11
+        "rsi": 60.9,
+        "ema9": 7.222294721543836,
+        "ema21": 7.2014618750978565,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 6.63,
+        "score": 94
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -32,
-      "combinedScore": 27,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment -32."
+      "marketSentiment": -25,
+      "combinedScore": 70,
+      "signal": "BUY",
+      "reason": "Technical 94/100; News +0; Market sentiment -25."
+    },
+    {
+      "symbol": "TRXUSDT",
+      "coin": "TRX",
+      "price": 0.3136,
+      "change24h": 1.161,
+      "volume24h": 40152022.35648,
+      "technical": {
+        "rsi": 60.3,
+        "ema9": 0.31323317512660154,
+        "ema21": 0.3131221560317662,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 1.64,
+        "score": 94
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -25,
+      "combinedScore": 70,
+      "signal": "BUY",
+      "reason": "Technical 94/100; News +0; Market sentiment -25."
     }
   ],
   "news": [
+    {
+      "title": "Binance net outflows surge to $5.8B as withdrawals resume after record hack",
+      "link": "https://cointelegraph.com/news/binance-net-outflows-surge-to-58b-as-withdrawals-resume-after-record-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sun, 01 Nov 2026 23:59:27 +0000",
+      "source": "Cointelegraph",
+      "text": "Binance net outflows surge to $5.8B as withdrawals resume after record hack The exchange says withdrawals surged after some services resumed but have since slowed, with the outflows representing a fraction of its roughly $171 billion in customer assets."
+    },
+    {
+      "title": "Billions flee Binance on reopen, THORChain founder opposes coin freeze: Hodler’s Digest",
+      "link": "https://cointelegraph.com/magazine/36b-flees-binance-on-reopen-thorchain-co-founder-opposes-coin-freeze-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sun, 01 Nov 2026 23:09:13 +0000",
+      "source": "Cointelegraph",
+      "text": "Billions flee Binance on reopen, THORChain founder opposes coin freeze: Hodler’s Digest Binance has reopened withdrawals following the world’s biggest ever hack, and THORChain co-founder argues it should not halt the protocol to comply with FBI demands."
+    },
     {
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -440,20 +454,6 @@
       "published": "Fri, 30 Oct 2026 13:30:00 +0000",
       "source": "Cointelegraph",
       "text": "Will gold’s ‘infinite mint bug’ make Bitcoin more valuable? A US fusion startup says it has turned mercury into gold. Could a potential increase in the gold supply strengthen Bitcoin’s claim to be a better form of digital gold?"
-    },
-    {
-      "title": "FBI and Secret Service join response to Binance’s $6.3B hack",
-      "link": "https://cointelegraph.com/news/binance-fbi-recover-assets-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 30 Oct 2026 13:11:10 +0000",
-      "source": "Cointelegraph",
-      "text": "FBI and Secret Service join response to Binance’s $6.3B hack US agencies are investigating the theft and helping trace stolen assets, while Binance says about $3 billion has been frozen."
-    },
-    {
-      "title": "Binance says it holds $5B in matching tokens to cover hack losses",
-      "link": "https://cointelegraph.com/news/binance-5-billion-replacement-crypto-in-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 30 Oct 2026 12:41:43 +0000",
-      "source": "Cointelegraph",
-      "text": "Binance says it holds $5B in matching tokens to cover hack losses The exchange said it set aside more than $6.34 billion to cover losses and would include the assets in its next proof-of-reserves report."
     }
   ],
   "paper": {
@@ -649,22 +649,32 @@
         "mode": "PAPER ONLY"
       },
       {
-        "symbol": "UNIUSDT",
-        "side": "SELL",
-        "entry": 7.114,
-        "stopLoss": 7.22071,
-        "takeProfit": 6.90058,
-        "entryTime": "2026-11-01T19:06:10.805019+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
         "symbol": "PEPEUSDT",
         "side": "SELL",
         "entry": 4.85e-06,
         "stopLoss": 4.9227e-06,
         "takeProfit": 4.7045e-06,
         "entryTime": "2026-11-01T22:45:00.792911+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "ZECUSDT",
+        "side": "BUY",
+        "entry": 1252.76,
+        "stopLoss": 1233.9686,
+        "takeProfit": 1290.3428,
+        "entryTime": "2026-11-02T01:51:37.753747+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "UNIUSDT",
+        "side": "BUY",
+        "entry": 7.265,
+        "stopLoss": 7.156025,
+        "takeProfit": 7.48295,
+        "entryTime": "2026-11-02T01:51:37.753747+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       }
@@ -1579,6 +1589,19 @@
         "exitPrice": 1221.1,
         "exitTime": "2026-11-01T22:45:00.792911+00:00",
         "pnlPercent": 3.229
+      },
+      {
+        "symbol": "UNIUSDT",
+        "side": "SELL",
+        "entry": 7.114,
+        "stopLoss": 7.22071,
+        "takeProfit": 6.90058,
+        "entryTime": "2026-11-01T19:06:10.805019+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 7.265,
+        "exitTime": "2026-11-02T01:51:37.753747+00:00",
+        "pnlPercent": -2.123
       }
     ]
   },

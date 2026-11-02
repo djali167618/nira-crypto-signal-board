@@ -191,22 +191,32 @@
       "mode": "PAPER ONLY"
     },
     {
-      "symbol": "UNIUSDT",
-      "side": "SELL",
-      "entry": 7.114,
-      "stopLoss": 7.22071,
-      "takeProfit": 6.90058,
-      "entryTime": "2026-11-01T19:06:10.805019+00:00",
-      "status": "OPEN",
-      "mode": "PAPER ONLY"
-    },
-    {
       "symbol": "PEPEUSDT",
       "side": "SELL",
       "entry": 4.85e-06,
       "stopLoss": 4.9227e-06,
       "takeProfit": 4.7045e-06,
       "entryTime": "2026-11-01T22:45:00.792911+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "ZECUSDT",
+      "side": "BUY",
+      "entry": 1252.76,
+      "stopLoss": 1233.9686,
+      "takeProfit": 1290.3428,
+      "entryTime": "2026-11-02T01:51:37.753747+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "UNIUSDT",
+      "side": "BUY",
+      "entry": 7.265,
+      "stopLoss": 7.156025,
+      "takeProfit": 7.48295,
+      "entryTime": "2026-11-02T01:51:37.753747+00:00",
       "status": "OPEN",
       "mode": "PAPER ONLY"
     }
@@ -1121,6 +1131,19 @@
       "exitPrice": 1221.1,
       "exitTime": "2026-11-01T22:45:00.792911+00:00",
       "pnlPercent": 3.229
+    },
+    {
+      "symbol": "UNIUSDT",
+      "side": "SELL",
+      "entry": 7.114,
+      "stopLoss": 7.22071,
+      "takeProfit": 6.90058,
+      "entryTime": "2026-11-01T19:06:10.805019+00:00",
+      "status": "STOP_LOSS",
+      "mode": "PAPER ONLY",
+      "exitPrice": 7.265,
+      "exitTime": "2026-11-02T01:51:37.753747+00:00",
+      "pnlPercent": -2.123
     }
   ]
 }
