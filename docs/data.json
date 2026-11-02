@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02 01:51:37 UTC",
+  "generatedAt": "2026-11-02 08:26:16 UTC",
   "interval": "15m candles",
   "marketSentiment": -25,
   "overallNewsScore": -23,
@@ -12,21 +12,35 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 78538.83,
-      "change24h": 1.043,
-      "volume24h": 541824711.8541231,
+      "price": 78133.97,
+      "change24h": 0.155,
+      "volume24h": 596358537.6531715,
       "technical": {
-        "rsi": 69.8,
-        "ema9": 78322.68402323034,
-        "ema21": 78163.27154357274,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.94,
-        "score": 89
+        "rsi": 42.6,
+        "ema9": 78175.60216738006,
+        "ema21": 78261.45172382735,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.84,
+        "score": 11
       },
-      "newsScore": -40,
+      "newsScore": -50,
       "newsCount": 5,
       "news": [
+        {
+          "title": "Bitcoin ETFs sink into October outflows with $643M exit after Binance hack",
+          "link": "https://cointelegraph.com/markets/bitcoin-etfs-october-red-binance-hack-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Mon, 02 Nov 2026 07:50:36 +0000",
+          "source": "Cointelegraph",
+          "text": "Bitcoin ETFs sink into October outflows with $643M exit after Binance hack US spot Bitcoin ETFs ended October with $515 million in net withdrawals, while Ether funds posted a record $1.61 billion in monthly outflows."
+        },
+        {
+          "title": "THORChain halts swaps after block reorg bug, slowing Binance hackers",
+          "link": "https://cointelegraph.com/news/thorchain-halts-swaps-after-block-reorg-bug-slowing-binance-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Mon, 02 Nov 2026 01:51:48 +0000",
+          "source": "Cointelegraph",
+          "text": "THORChain halts swaps after block reorg bug, slowing Binance hackers THORChain node operators paused swaps involving assets on 10 networks, including Bitcoin, Ethereum, Solana and Tron."
+        },
         {
           "title": "Here’s what happened in crypto today",
           "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -47,45 +61,45 @@
           "published": "Sat, 31 Oct 2026 14:27:52 +0000",
           "source": "Cointelegraph",
           "text": "Bitcoin turns 18: Has the original rebel grown up? In typical Bitcoin style, the number one cryptocurrency turns 18 today, amid AI-driven security threats, quantum fears and the biggest exchange hack in crypto history."
-        },
-        {
-          "title": "Tether’s excess reserves nearly double to $8B as Q3 profit hits $1.5B",
-          "link": "https://cointelegraph.com/news/tethers-excess-reserves-nearly-double-to-8b-as-q3-profit-hits-15b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Fri, 30 Oct 2026 19:01:58 +0000",
-          "source": "Cointelegraph",
-          "text": "Tether’s excess reserves nearly double to $8B as Q3 profit hits $1.5B The stablecoin issuer’s US Treasury holdings are comparable to those of major foreign holders, while its Bitcoin reserves were valued at $8.37 billion at the end of September."
-        },
-        {
-          "title": "Crypto Biz: Bitcoin’s quantum threat is becoming an economic problem",
-          "link": "https://cointelegraph.com/news/bitcoin-quantum-threat-ripple-bank-usdc-vaneck-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Fri, 30 Oct 2026 17:09:31 +0000",
-          "source": "Cointelegraph",
-          "text": "Crypto Biz: Bitcoin’s quantum threat is becoming an economic problem Bitcoin faces mounting quantum security concerns as Ripple secures a US banking charter, USDC gains ground in Europe and VanEck adds BTC to a new ETF."
         }
       ],
       "marketSentiment": -25,
-      "combinedScore": 61,
-      "signal": "WAIT",
-      "reason": "Technical 89/100; News -40; Market sentiment -25."
+      "combinedScore": 20,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News -50; Market sentiment -25."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2294.01,
-      "change24h": 1.148,
-      "volume24h": 259978820.232365,
+      "price": 2288.88,
+      "change24h": 0.83,
+      "volume24h": 389197443.081578,
       "technical": {
-        "rsi": 72.5,
-        "ema9": 2281.8827657319152,
-        "ema21": 2274.3072475758872,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 2.16,
-        "score": 77
+        "rsi": 50.9,
+        "ema9": 2286.51020000798,
+        "ema21": 2288.511746319339,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.64,
+        "score": 23
       },
-      "newsScore": -55,
-      "newsCount": 3,
+      "newsScore": -53,
+      "newsCount": 5,
       "news": [
+        {
+          "title": "Bitcoin ETFs sink into October outflows with $643M exit after Binance hack",
+          "link": "https://cointelegraph.com/markets/bitcoin-etfs-october-red-binance-hack-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Mon, 02 Nov 2026 07:50:36 +0000",
+          "source": "Cointelegraph",
+          "text": "Bitcoin ETFs sink into October outflows with $643M exit after Binance hack US spot Bitcoin ETFs ended October with $515 million in net withdrawals, while Ether funds posted a record $1.61 billion in monthly outflows."
+        },
+        {
+          "title": "THORChain halts swaps after block reorg bug, slowing Binance hackers",
+          "link": "https://cointelegraph.com/news/thorchain-halts-swaps-after-block-reorg-bug-slowing-binance-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Mon, 02 Nov 2026 01:51:48 +0000",
+          "source": "Cointelegraph",
+          "text": "THORChain halts swaps after block reorg bug, slowing Binance hackers THORChain node operators paused swaps involving assets on 10 networks, including Bitcoin, Ethereum, Solana and Tron."
+        },
         {
           "title": "EIP-7702 didn’t cause Binance hack, but may have amplified losses",
           "link": "https://cointelegraph.com/news/binance-hack-security-ethereum-eip-7702-role?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -109,51 +123,66 @@
         }
       ],
       "marketSentiment": -25,
-      "combinedScore": 53,
-      "signal": "WAIT",
-      "reason": "Technical 77/100; News -55; Market sentiment -25."
+      "combinedScore": 26,
+      "signal": "SELL",
+      "reason": "Technical 23/100; News -53; Market sentiment -25."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 1252.76,
-      "change24h": -0.147,
-      "volume24h": 99469152.99112,
+      "price": 1256.59,
+      "change24h": 0.86,
+      "volume24h": 111769323.96693,
       "technical": {
-        "rsi": 66.8,
-        "ema9": 1240.794986222039,
-        "ema21": 1234.8748669571078,
-        "macdBull": true,
+        "rsi": 49.7,
+        "ema9": 1265.9617465485085,
+        "ema21": 1265.3112442712832,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 1.42,
-        "score": 89
+        "volumeRatio": 0.57,
+        "score": 53
       },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
+      "newsScore": -100,
+      "newsCount": 1,
+      "news": [
+        {
+          "title": "Bitcoin claws back toward $79,000 as markets shake off crypto's biggest hack",
+          "link": "https://www.coindesk.com/markets/2026/11/02/bitcoin-claws-back-toward-usd79-000-as-markets-shake-off-crypto-s-biggest-hack",
+          "published": "Mon, 02 Nov 2026 04:42:22 +0000",
+          "source": "CoinDesk",
+          "text": "Bitcoin claws back toward $79,000 as markets shake off crypto's biggest hack ZEC led the majors and oil slid on a report that Trump wants to give Iran diplomacy more time, with U.S. midterm elections on Tuesday."
+        }
+      ],
       "marketSentiment": -25,
-      "combinedScore": 67,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment -25."
+      "combinedScore": 34,
+      "signal": "WAIT",
+      "reason": "Technical 53/100; News -100; Market sentiment -25."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 95.11,
-      "change24h": -0.679,
-      "volume24h": 86139132.20276,
+      "price": 94.33,
+      "change24h": -1.153,
+      "volume24h": 108592438.54631,
       "technical": {
-        "rsi": 62.2,
-        "ema9": 94.67278028608344,
-        "ema21": 94.47222770053656,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 1.18,
-        "score": 89
+        "rsi": 41.1,
+        "ema9": 94.4161993046083,
+        "ema21": 94.62179490026517,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.83,
+        "score": 11
       },
-      "newsScore": -33,
-      "newsCount": 1,
+      "newsScore": -66,
+      "newsCount": 2,
       "news": [
+        {
+          "title": "THORChain halts swaps after block reorg bug, slowing Binance hackers",
+          "link": "https://cointelegraph.com/news/thorchain-halts-swaps-after-block-reorg-bug-slowing-binance-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Mon, 02 Nov 2026 01:51:48 +0000",
+          "source": "Cointelegraph",
+          "text": "THORChain halts swaps after block reorg bug, slowing Binance hackers THORChain node operators paused swaps involving assets on 10 networks, including Bitcoin, Ethereum, Solana and Tron."
+        },
         {
           "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
           "link": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
@@ -163,46 +192,46 @@
         }
       ],
       "marketSentiment": -25,
-      "combinedScore": 62,
-      "signal": "WAIT",
-      "reason": "Technical 89/100; News -33; Market sentiment -25."
+      "combinedScore": 18,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News -66; Market sentiment -25."
     },
     {
       "symbol": "BNBUSDT",
       "coin": "BNB",
-      "price": 714.5,
-      "change24h": 1.575,
-      "volume24h": 70667295.96655,
+      "price": 709.0,
+      "change24h": 0.211,
+      "volume24h": 75895184.99076,
       "technical": {
-        "rsi": 66.2,
-        "ema9": 712.5100382166947,
-        "ema21": 711.1034567468529,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.9,
-        "score": 89
+        "rsi": 43.5,
+        "ema9": 708.640141397377,
+        "ema21": 709.9276788927434,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.85,
+        "score": 11
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": -25,
-      "combinedScore": 67,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment -25."
+      "combinedScore": 28,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment -25."
     },
     {
-      "symbol": "USD1USDT",
-      "coin": "USD1",
-      "price": 0.999,
-      "change24h": -0.003,
-      "volume24h": 52854187.94771,
+      "symbol": "NEARUSDT",
+      "coin": "NEAR",
+      "price": 4.101,
+      "change24h": -6.22,
+      "volume24h": 62796266.8838,
       "technical": {
-        "rsi": 46.0,
-        "ema9": 0.999035515887036,
-        "ema21": 0.9990470824189834,
+        "rsi": 24.6,
+        "ema9": 4.1308428972229025,
+        "ema21": 4.186876444420911,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 1.19,
+        "volumeRatio": 1.86,
         "score": 23
       },
       "newsScore": 0,
@@ -214,42 +243,19 @@
       "reason": "Technical 23/100; News +0; Market sentiment -25."
     },
     {
-      "symbol": "NEARUSDT",
-      "coin": "NEAR",
-      "price": 4.319,
-      "change24h": -3.443,
-      "volume24h": 45141250.9682,
-      "technical": {
-        "rsi": 58.1,
-        "ema9": 4.297988714382559,
-        "ema21": 4.2890670451748205,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 1.05,
-        "score": 89
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -25,
-      "combinedScore": 67,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment -25."
-    },
-    {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 1.2587,
-      "change24h": 0.415,
-      "volume24h": 43294526.28674,
+      "price": 1.2501,
+      "change24h": -0.247,
+      "volume24h": 57737642.19901,
       "technical": {
-        "rsi": 65.8,
-        "ema9": 1.2530584595785739,
-        "ema21": 1.2510099718236067,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.75,
-        "score": 89
+        "rsi": 45.1,
+        "ema9": 1.251037266828141,
+        "ema21": 1.252398986478359,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.44,
+        "score": 23
       },
       "newsScore": -100,
       "newsCount": 1,
@@ -263,58 +269,109 @@
         }
       ],
       "marketSentiment": -25,
-      "combinedScore": 52,
-      "signal": "WAIT",
-      "reason": "Technical 89/100; News -100; Market sentiment -25."
+      "combinedScore": 19,
+      "signal": "SELL",
+      "reason": "Technical 23/100; News -100; Market sentiment -25."
+    },
+    {
+      "symbol": "USD1USDT",
+      "coin": "USD1",
+      "price": 0.99913,
+      "change24h": -0.027,
+      "volume24h": 47115748.75955,
+      "technical": {
+        "rsi": 44.6,
+        "ema9": 0.9991883641260542,
+        "ema21": 0.9991923581979425,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.7,
+        "score": 11
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -25,
+      "combinedScore": 28,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment -25."
     },
     {
       "symbol": "UNIUSDT",
       "coin": "UNI",
-      "price": 7.265,
-      "change24h": 1.979,
-      "volume24h": 43065045.84153,
+      "price": 7.185,
+      "change24h": -0.801,
+      "volume24h": 40813003.12427,
       "technical": {
-        "rsi": 60.9,
-        "ema9": 7.222294721543836,
-        "ema21": 7.2014618750978565,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 6.63,
-        "score": 94
+        "rsi": 44.6,
+        "ema9": 7.191386391580958,
+        "ema21": 7.211132612295213,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 1.14,
+        "score": 11
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": -25,
-      "combinedScore": 70,
-      "signal": "BUY",
-      "reason": "Technical 94/100; News +0; Market sentiment -25."
+      "combinedScore": 28,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment -25."
     },
     {
-      "symbol": "TRXUSDT",
-      "coin": "TRX",
-      "price": 0.3136,
-      "change24h": 1.161,
-      "volume24h": 40152022.35648,
+      "symbol": "PEPEUSDT",
+      "coin": "PEPE",
+      "price": 4.85e-06,
+      "change24h": -2.218,
+      "volume24h": 36353685.09794113,
       "technical": {
-        "rsi": 60.3,
-        "ema9": 0.31323317512660154,
-        "ema21": 0.3131221560317662,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 1.64,
-        "score": 94
+        "rsi": 43.5,
+        "ema9": 4.841434534831989e-06,
+        "ema21": 4.866331790083848e-06,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.72,
+        "score": 11
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": -25,
-      "combinedScore": 70,
-      "signal": "BUY",
-      "reason": "Technical 94/100; News +0; Market sentiment -25."
+      "combinedScore": 28,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment -25."
     }
   ],
   "news": [
+    {
+      "title": "Bitcoin ETFs sink into October outflows with $643M exit after Binance hack",
+      "link": "https://cointelegraph.com/markets/bitcoin-etfs-october-red-binance-hack-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 02 Nov 2026 07:50:36 +0000",
+      "source": "Cointelegraph",
+      "text": "Bitcoin ETFs sink into October outflows with $643M exit after Binance hack US spot Bitcoin ETFs ended October with $515 million in net withdrawals, while Ether funds posted a record $1.61 billion in monthly outflows."
+    },
+    {
+      "title": "BTCPay Server warns of hot wallet thefts running on outdated software",
+      "link": "https://cointelegraph.com/news/btcpay-server-hot-wallet-thefts-older-versions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 02 Nov 2026 05:34:02 +0000",
+      "source": "Cointelegraph",
+      "text": "BTCPay Server warns of hot wallet thefts running on outdated software BTCPay Server urged operators to shut down their servers after receiving reports of unauthorized attackers draining funds from hot wallets."
+    },
+    {
+      "title": "Bank of Korea probes financial firms’ exposure to crypto risks",
+      "link": "https://cointelegraph.com/news/bank-of-korea-probes-financial-firms-exposure-to-crypto-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 02 Nov 2026 03:55:50 +0000",
+      "source": "Cointelegraph",
+      "text": "Bank of Korea probes financial firms’ exposure to crypto risks The central bank is surveying 31 financial institutions on how a major exchange shutdown, prolonged crypto downturn or losses at another firm could affect their operations."
+    },
+    {
+      "title": "THORChain halts swaps after block reorg bug, slowing Binance hackers",
+      "link": "https://cointelegraph.com/news/thorchain-halts-swaps-after-block-reorg-bug-slowing-binance-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 02 Nov 2026 01:51:48 +0000",
+      "source": "Cointelegraph",
+      "text": "THORChain halts swaps after block reorg bug, slowing Binance hackers THORChain node operators paused swaps involving assets on 10 networks, including Bitcoin, Ethereum, Solana and Tron."
+    },
     {
       "title": "Binance net outflows surge to $5.8B as withdrawals resume after record hack",
       "link": "https://cointelegraph.com/news/binance-net-outflows-surge-to-58b-as-withdrawals-resume-after-record-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -323,11 +380,11 @@
       "text": "Binance net outflows surge to $5.8B as withdrawals resume after record hack The exchange says withdrawals surged after some services resumed but have since slowed, with the outflows representing a fraction of its roughly $171 billion in customer assets."
     },
     {
-      "title": "Billions flee Binance on reopen, THORChain founder opposes coin freeze: Hodler’s Digest",
+      "title": "THORChain founder rejects freeze request, CZ thanks Secret Service: Hodler’s Digest",
       "link": "https://cointelegraph.com/magazine/36b-flees-binance-on-reopen-thorchain-co-founder-opposes-coin-freeze-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sun, 01 Nov 2026 23:09:13 +0000",
       "source": "Cointelegraph",
-      "text": "Billions flee Binance on reopen, THORChain founder opposes coin freeze: Hodler’s Digest Binance has reopened withdrawals following the world’s biggest ever hack, and THORChain co-founder argues it should not halt the protocol to comply with FBI demands."
+      "text": "THORChain founder rejects freeze request, CZ thanks Secret Service: Hodler’s Digest Binance has reopened withdrawals following the world’s biggest ever hack, and THORChain co-founder argues it should not halt the protocol to comply with FBI demands."
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -426,34 +483,6 @@
       "published": "Fri, 30 Oct 2026 17:09:31 +0000",
       "source": "Cointelegraph",
       "text": "Crypto Biz: Bitcoin’s quantum threat is becoming an economic problem Bitcoin faces mounting quantum security concerns as Ripple secures a US banking charter, USDC gains ground in Europe and VanEck adds BTC to a new ETF."
-    },
-    {
-      "title": "Recap: How Binance’s record $6.3B hack unfolded",
-      "link": "https://cointelegraph.com/news/recap-binances-record-63b-hack-unfolded?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 30 Oct 2026 16:53:46 +0000",
-      "source": "Cointelegraph",
-      "text": "Recap: How Binance’s record $6.3B hack unfolded A recap of Cointelegraph’s live coverage of the Binance hack, including early breach reports and the exchange’s full reimbursement pledge."
-    },
-    {
-      "title": "As it happened: Binance’s record $6.3B crypto hack",
-      "link": "https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 30 Oct 2026 16:49:50 +0000",
-      "source": "Cointelegraph",
-      "text": "As it happened: Binance’s record $6.3B crypto hack How Binance’s $6.3 billion hack unfolded, from the first onchain alerts to $3 billion in frozen funds and a widening security investigation."
-    },
-    {
-      "title": "Bitcoin risks worst October in 12 years as tech sell-off spreads to gold",
-      "link": "https://cointelegraph.com/markets/bitcoin-risks-worst-october-in-12-years-as-tech-sell-off-spreads-to-gold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 30 Oct 2026 16:06:28 +0000",
-      "source": "Cointelegraph",
-      "text": "Bitcoin risks worst October in 12 years as tech sell-off spreads to gold Bitcoin circled $77,000 as crypto markets navigated US stock-market downside, while the gold price fell to its lowest in a year."
-    },
-    {
-      "title": "Will gold’s ‘infinite mint bug’ make Bitcoin more valuable?",
-      "link": "https://cointelegraph.com/magazine/will-golds-infinite-mint-bug-make-bitcoin-more-valuable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 30 Oct 2026 13:30:00 +0000",
-      "source": "Cointelegraph",
-      "text": "Will gold’s ‘infinite mint bug’ make Bitcoin more valuable? A US fusion startup says it has turned mercury into gold. Could a potential increase in the gold supply strengthen Bitcoin’s claim to be a better form of digital gold?"
     }
   ],
   "paper": {
@@ -639,16 +668,6 @@
         "mode": "PAPER ONLY"
       },
       {
-        "symbol": "NEARUSDT",
-        "side": "SELL",
-        "entry": 4.271,
-        "stopLoss": 4.335065,
-        "takeProfit": 4.14287,
-        "entryTime": "2026-11-01T19:06:10.805019+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
         "symbol": "PEPEUSDT",
         "side": "SELL",
         "entry": 4.85e-06,
@@ -675,6 +694,16 @@
         "stopLoss": 7.156025,
         "takeProfit": 7.48295,
         "entryTime": "2026-11-02T01:51:37.753747+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "NEARUSDT",
+        "side": "SELL",
+        "entry": 4.101,
+        "stopLoss": 4.162515,
+        "takeProfit": 3.97797,
+        "entryTime": "2026-11-02T08:26:16.020054+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       }
@@ -1602,6 +1631,19 @@
         "exitPrice": 7.265,
         "exitTime": "2026-11-02T01:51:37.753747+00:00",
         "pnlPercent": -2.123
+      },
+      {
+        "symbol": "NEARUSDT",
+        "side": "SELL",
+        "entry": 4.271,
+        "stopLoss": 4.335065,
+        "takeProfit": 4.14287,
+        "entryTime": "2026-11-01T19:06:10.805019+00:00",
+        "status": "TAKE_PROFIT",
+        "mode": "PAPER ONLY",
+        "exitPrice": 4.101,
+        "exitTime": "2026-11-02T08:26:16.020054+00:00",
+        "pnlPercent": 3.98
       }
     ]
   },

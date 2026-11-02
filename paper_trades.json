@@ -181,16 +181,6 @@
       "mode": "PAPER ONLY"
     },
     {
-      "symbol": "NEARUSDT",
-      "side": "SELL",
-      "entry": 4.271,
-      "stopLoss": 4.335065,
-      "takeProfit": 4.14287,
-      "entryTime": "2026-11-01T19:06:10.805019+00:00",
-      "status": "OPEN",
-      "mode": "PAPER ONLY"
-    },
-    {
       "symbol": "PEPEUSDT",
       "side": "SELL",
       "entry": 4.85e-06,
@@ -217,6 +207,16 @@
       "stopLoss": 7.156025,
       "takeProfit": 7.48295,
       "entryTime": "2026-11-02T01:51:37.753747+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "NEARUSDT",
+      "side": "SELL",
+      "entry": 4.101,
+      "stopLoss": 4.162515,
+      "takeProfit": 3.97797,
+      "entryTime": "2026-11-02T08:26:16.020054+00:00",
       "status": "OPEN",
       "mode": "PAPER ONLY"
     }
@@ -1144,6 +1144,19 @@
       "exitPrice": 7.265,
       "exitTime": "2026-11-02T01:51:37.753747+00:00",
       "pnlPercent": -2.123
+    },
+    {
+      "symbol": "NEARUSDT",
+      "side": "SELL",
+      "entry": 4.271,
+      "stopLoss": 4.335065,
+      "takeProfit": 4.14287,
+      "entryTime": "2026-11-01T19:06:10.805019+00:00",
+      "status": "TAKE_PROFIT",
+      "mode": "PAPER ONLY",
+      "exitPrice": 4.101,
+      "exitTime": "2026-11-02T08:26:16.020054+00:00",
+      "pnlPercent": 3.98
     }
   ]
 }
