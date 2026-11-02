@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-02 08:26:16 UTC",
+  "generatedAt": "2026-11-02 18:39:45 UTC",
   "interval": "15m candles",
-  "marketSentiment": -25,
-  "overallNewsScore": -23,
+  "marketSentiment": -24,
+  "overallNewsScore": -20,
   "fearGreed": {
     "value": 37,
     "label": "Fear",
@@ -12,79 +12,79 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 78133.97,
-      "change24h": 0.155,
-      "volume24h": 596358537.6531715,
+      "price": 77087.07,
+      "change24h": -1.123,
+      "volume24h": 921787455.5155816,
       "technical": {
-        "rsi": 42.6,
-        "ema9": 78175.60216738006,
-        "ema21": 78261.45172382735,
+        "rsi": 32.3,
+        "ema9": 77259.12655876084,
+        "ema21": 77497.60155092739,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.84,
+        "volumeRatio": 0.79,
         "score": 11
       },
       "newsScore": -50,
       "newsCount": 5,
       "news": [
         {
-          "title": "Bitcoin ETFs sink into October outflows with $643M exit after Binance hack",
-          "link": "https://cointelegraph.com/markets/bitcoin-etfs-october-red-binance-hack-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Mon, 02 Nov 2026 07:50:36 +0000",
+          "title": "Strategy spends triple its weekly Bitcoin outlay on STRC buybacks",
+          "link": "https://cointelegraph.com/news/strategy-repurchases-208m-strc-65m-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Mon, 02 Nov 2026 13:48:28 +0000",
           "source": "Cointelegraph",
-          "text": "Bitcoin ETFs sink into October outflows with $643M exit after Binance hack US spot Bitcoin ETFs ended October with $515 million in net withdrawals, while Ether funds posted a record $1.61 billion in monthly outflows."
-        },
-        {
-          "title": "THORChain halts swaps after block reorg bug, slowing Binance hackers",
-          "link": "https://cointelegraph.com/news/thorchain-halts-swaps-after-block-reorg-bug-slowing-binance-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Mon, 02 Nov 2026 01:51:48 +0000",
-          "source": "Cointelegraph",
-          "text": "THORChain halts swaps after block reorg bug, slowing Binance hackers THORChain node operators paused swaps involving assets on 10 networks, including Bitcoin, Ethereum, Solana and Tron."
+          "text": "Strategy spends triple its weekly Bitcoin outlay on STRC buybacks Strategy spent $208.2 million buying back STRC preferred shares and $65.5 million on Bitcoin, while allocating $98.5 million to its USD Cash balance."
         },
         {
           "title": "Here’s what happened in crypto today",
           "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Sun, 01 Nov 2026 14:17:00 +0000",
+          "published": "Mon, 02 Nov 2026 13:29:29 +0000",
           "source": "Cointelegraph",
           "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
         },
         {
-          "title": "Bitcoin held up better than expected after Binance hack, Strive CEO says",
-          "link": "https://cointelegraph.com/markets/bitcoin-binance-hack-strive-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Sat, 31 Oct 2026 15:26:46 +0000",
+          "title": "Binance taps half its SAFU Bitcoin holdings, releases reserve proof",
+          "link": "https://cointelegraph.com/news/binance-safu-btc-balance-halves-recovery-unclear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Mon, 02 Nov 2026 13:21:47 +0000",
           "source": "Cointelegraph",
-          "text": "Bitcoin held up better than expected after Binance hack, Strive CEO says Strive CEO Matt Cole says the Binance hack has not changed his long-term case for Bitcoin, but cautions it is too early to call a market bottom."
+          "text": "Binance taps half its SAFU Bitcoin holdings, releases reserve proof Binance’s SAFU Bitcoin wallet now holds about 7,500 BTC after a 7,499 BTC transfer linked to the hack, with no timeline for restoring the $1 billion fund."
         },
         {
-          "title": "Bitcoin turns 18: Has the original rebel grown up?",
-          "link": "https://cointelegraph.com/magazine/bitcoin-turns-18-has-the-original-rebel-grown-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Sat, 31 Oct 2026 14:27:52 +0000",
+          "title": "Binance hackers begin swapping stolen Solana tokens for Bitcoin: Chainalysis",
+          "link": "https://cointelegraph.com/news/binance-hackers-solana-new-phase-laundering-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Mon, 02 Nov 2026 12:40:45 +0000",
           "source": "Cointelegraph",
-          "text": "Bitcoin turns 18: Has the original rebel grown up? In typical Bitcoin style, the number one cryptocurrency turns 18 today, amid AI-driven security threats, quantum fears and the biggest exchange hack in crypto history."
+          "text": "Binance hackers begin swapping stolen Solana tokens for Bitcoin: Chainalysis Crypto exchange Gate said it froze two linked accounts as US investigators urged platforms to block transactions tied to the $6.3 billion theft."
+        },
+        {
+          "title": "From Uptober to Hacktober: Are Bitcoin’s seasonal patterns becoming obsolete?",
+          "link": "https://cointelegraph.com/markets/uptober-hacktober-bitcoin-seasonal-pattern?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Mon, 02 Nov 2026 11:19:18 +0000",
+          "source": "Cointelegraph",
+          "text": "From Uptober to Hacktober: Are Bitcoin’s seasonal patterns becoming obsolete? Bitcoin lost 7.3% in October 2026 after another decline the previous year, despite the month’s historically strong returns, as analysts reassess seasonal signals."
         }
       ],
-      "marketSentiment": -25,
-      "combinedScore": 20,
+      "marketSentiment": -24,
+      "combinedScore": 21,
       "signal": "SELL",
-      "reason": "Technical 11/100; News -50; Market sentiment -25."
+      "reason": "Technical 11/100; News -50; Market sentiment -24."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2288.88,
-      "change24h": 0.83,
-      "volume24h": 389197443.081578,
+      "price": 2254.89,
+      "change24h": -0.488,
+      "volume24h": 569135565.067544,
       "technical": {
-        "rsi": 50.9,
-        "ema9": 2286.51020000798,
-        "ema21": 2288.511746319339,
+        "rsi": 30.5,
+        "ema9": 2262.4547935785004,
+        "ema21": 2271.724712308908,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.64,
-        "score": 23
+        "volumeRatio": 0.68,
+        "score": 11
       },
-      "newsScore": -53,
-      "newsCount": 5,
+      "newsScore": -33,
+      "newsCount": 3,
       "news": [
         {
           "title": "Bitcoin ETFs sink into October outflows with $643M exit after Binance hack",
@@ -101,46 +101,32 @@
           "text": "THORChain halts swaps after block reorg bug, slowing Binance hackers THORChain node operators paused swaps involving assets on 10 networks, including Bitcoin, Ethereum, Solana and Tron."
         },
         {
-          "title": "EIP-7702 didn’t cause Binance hack, but may have amplified losses",
-          "link": "https://cointelegraph.com/news/binance-hack-security-ethereum-eip-7702-role?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Fri, 30 Oct 2026 11:00:10 +0000",
-          "source": "Cointelegraph",
-          "text": "EIP-7702 didn’t cause Binance hack, but may have amplified losses Security experts said attackers could have drained Binance’s wallets without EIP-7702, but the Ethereum upgrade may have helped bypass withdrawal safeguards."
-        },
-        {
-          "title": "Binance hacker’s Bitcoin haul tops Coinbase’s corporate treasury",
-          "link": "https://cointelegraph.com/news/binance-hacker-bitcoin-holdings-exceed-coinbase-btc-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Fri, 30 Oct 2026 10:54:30 +0000",
-          "source": "Cointelegraph",
-          "text": "Binance hacker’s Bitcoin haul tops Coinbase’s corporate treasury The attackers held 18,270 BTC early Friday, topping Coinbase’s reported corporate holdings, and an Ether stash exceeding 500,000 ETH."
-        },
-        {
-          "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
-          "link": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
-          "published": "Sun, 01 Nov 2026 01:10:05 +0000",
+          "title": "EU entity suspected of losing $106 million from crypto exchange accounts, ZachXBT says",
+          "link": "https://www.coindesk.com/tech/2026/11/02/eu-entity-suspected-of-losing-usd106-million-from-crypto-exchange-accounts-zachxbt-says",
+          "published": "Mon, 02 Nov 2026 17:21:04 +0000",
           "source": "CoinDesk",
-          "text": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses While the FBI listed hundreds of addresses in its notice, Chainalysis said the Binance attackers have already used \"thousands addresses,\" and expects this number to continue growing."
+          "text": "EU entity suspected of losing $106 million from crypto exchange accounts, ZachXBT says The unidentified attacker moved funds through ether, instant exchanges and Monero, but the victim and affected exchanges remain unknown."
         }
       ],
-      "marketSentiment": -25,
-      "combinedScore": 26,
+      "marketSentiment": -24,
+      "combinedScore": 23,
       "signal": "SELL",
-      "reason": "Technical 23/100; News -53; Market sentiment -25."
+      "reason": "Technical 11/100; News -33; Market sentiment -24."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 1256.59,
-      "change24h": 0.86,
-      "volume24h": 111769323.96693,
+      "price": 1169.0,
+      "change24h": -5.006,
+      "volume24h": 168523859.68291,
       "technical": {
-        "rsi": 49.7,
-        "ema9": 1265.9617465485085,
-        "ema21": 1265.3112442712832,
+        "rsi": 20.1,
+        "ema9": 1198.5462915929597,
+        "ema21": 1222.686022834536,
         "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.57,
-        "score": 53
+        "emaBull": false,
+        "volumeRatio": 3.9,
+        "score": 23
       },
       "newsScore": -100,
       "newsCount": 1,
@@ -153,29 +139,36 @@
           "text": "Bitcoin claws back toward $79,000 as markets shake off crypto's biggest hack ZEC led the majors and oil slid on a report that Trump wants to give Iran diplomacy more time, with U.S. midterm elections on Tuesday."
         }
       ],
-      "marketSentiment": -25,
-      "combinedScore": 34,
-      "signal": "WAIT",
-      "reason": "Technical 53/100; News -100; Market sentiment -25."
+      "marketSentiment": -24,
+      "combinedScore": 19,
+      "signal": "SELL",
+      "reason": "Technical 23/100; News -100; Market sentiment -24."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 94.33,
-      "change24h": -1.153,
-      "volume24h": 108592438.54631,
+      "price": 92.11,
+      "change24h": -2.622,
+      "volume24h": 160465480.84305,
       "technical": {
-        "rsi": 41.1,
-        "ema9": 94.4161993046083,
-        "ema21": 94.62179490026517,
+        "rsi": 26.5,
+        "ema9": 92.73354435216031,
+        "ema21": 93.30989510916328,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.83,
-        "score": 11
+        "volumeRatio": 0.8,
+        "score": 28
       },
-      "newsScore": -66,
-      "newsCount": 2,
+      "newsScore": -100,
+      "newsCount": 3,
       "news": [
+        {
+          "title": "Binance hackers begin swapping stolen Solana tokens for Bitcoin: Chainalysis",
+          "link": "https://cointelegraph.com/news/binance-hackers-solana-new-phase-laundering-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Mon, 02 Nov 2026 12:40:45 +0000",
+          "source": "Cointelegraph",
+          "text": "Binance hackers begin swapping stolen Solana tokens for Bitcoin: Chainalysis Crypto exchange Gate said it froze two linked accounts as US investigators urged platforms to block transactions tied to the $6.3 billion theft."
+        },
         {
           "title": "THORChain halts swaps after block reorg bug, slowing Binance hackers",
           "link": "https://cointelegraph.com/news/thorchain-halts-swaps-after-block-reorg-bug-slowing-binance-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -184,166 +177,265 @@
           "text": "THORChain halts swaps after block reorg bug, slowing Binance hackers THORChain node operators paused swaps involving assets on 10 networks, including Bitcoin, Ethereum, Solana and Tron."
         },
         {
-          "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
-          "link": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
-          "published": "Sun, 01 Nov 2026 01:10:05 +0000",
+          "title": "Crypto's Washington playbook is working. Don't abandon it now.",
+          "link": "https://www.coindesk.com/opinion/2026/11/02/crypto-s-washington-playbook-is-working-don-t-abandon-it-now",
+          "published": "Mon, 02 Nov 2026 15:00:09 +0000",
           "source": "CoinDesk",
-          "text": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses While the FBI listed hundreds of addresses in its notice, Chainalysis said the Binance attackers have already used \"thousands addresses,\" and expects this number to continue growing."
+          "text": "Crypto's Washington playbook is working. Don't abandon it now. Regardless of how the midterm elections unfold or which party secures the presidency in 2028, our industry must adhere to its established playbook, writes Solana Policy Institute’s Colin McLaren."
         }
       ],
-      "marketSentiment": -25,
-      "combinedScore": 18,
+      "marketSentiment": -24,
+      "combinedScore": 22,
       "signal": "SELL",
-      "reason": "Technical 11/100; News -66; Market sentiment -25."
-    },
-    {
-      "symbol": "BNBUSDT",
-      "coin": "BNB",
-      "price": 709.0,
-      "change24h": 0.211,
-      "volume24h": 75895184.99076,
-      "technical": {
-        "rsi": 43.5,
-        "ema9": 708.640141397377,
-        "ema21": 709.9276788927434,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.85,
-        "score": 11
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -25,
-      "combinedScore": 28,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment -25."
+      "reason": "Technical 28/100; News -100; Market sentiment -24."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 4.101,
-      "change24h": -6.22,
-      "volume24h": 62796266.8838,
+      "price": 3.9,
+      "change24h": -9.027,
+      "volume24h": 92546023.3517,
       "technical": {
-        "rsi": 24.6,
-        "ema9": 4.1308428972229025,
-        "ema21": 4.186876444420911,
+        "rsi": 22.3,
+        "ema9": 3.9532469252105997,
+        "ema21": 4.003205166774362,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 1.86,
-        "score": 23
+        "volumeRatio": 1.03,
+        "score": 28
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -25,
-      "combinedScore": 34,
-      "signal": "SELL",
-      "reason": "Technical 23/100; News +0; Market sentiment -25."
+      "marketSentiment": -24,
+      "combinedScore": 37,
+      "signal": "WAIT",
+      "reason": "Technical 28/100; News +0; Market sentiment -24."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 1.2501,
-      "change24h": -0.247,
-      "volume24h": 57737642.19901,
+      "price": 1.2404,
+      "change24h": -0.839,
+      "volume24h": 81033607.94302,
       "technical": {
-        "rsi": 45.1,
-        "ema9": 1.251037266828141,
-        "ema21": 1.252398986478359,
+        "rsi": 32.2,
+        "ema9": 1.244815979405359,
+        "ema21": 1.2480156905811535,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.44,
-        "score": 23
+        "volumeRatio": 0.96,
+        "score": 11
       },
-      "newsScore": -100,
+      "newsScore": 100,
       "newsCount": 1,
       "news": [
         {
-          "title": "Crypto Biz: Bitcoin’s quantum threat is becoming an economic problem",
-          "link": "https://cointelegraph.com/news/bitcoin-quantum-threat-ripple-bank-usdc-vaneck-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Fri, 30 Oct 2026 17:09:31 +0000",
-          "source": "Cointelegraph",
-          "text": "Crypto Biz: Bitcoin’s quantum threat is becoming an economic problem Bitcoin faces mounting quantum security concerns as Ripple secures a US banking charter, USDC gains ground in Europe and VanEck adds BTC to a new ETF."
+          "title": "XRP Ledger set to fix flaw that could have let stablecoin partners print new tokens",
+          "link": "https://www.coindesk.com/tech/2026/11/02/xrp-ledger-set-to-fix-flaw-that-could-let-stablecoin-partners-print-new-tokens",
+          "published": "Mon, 02 Nov 2026 12:37:24 +0000",
+          "source": "CoinDesk",
+          "text": "XRP Ledger set to fix flaw that could have let stablecoin partners print new tokens The fix is on track for Wednesday after validator support briefly dipped and restarted the two-week activation clock. XRP itself is unaffected."
         }
       ],
-      "marketSentiment": -25,
-      "combinedScore": 19,
+      "marketSentiment": -24,
+      "combinedScore": 43,
+      "signal": "WAIT",
+      "reason": "Technical 11/100; News +100; Market sentiment -24."
+    },
+    {
+      "symbol": "BNBUSDT",
+      "coin": "BNB",
+      "price": 699.1,
+      "change24h": -1.611,
+      "volume24h": 77027570.18966,
+      "technical": {
+        "rsi": 29.8,
+        "ema9": 700.6218775485278,
+        "ema21": 702.4299651553284,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.5,
+        "score": 11
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -24,
+      "combinedScore": 28,
       "signal": "SELL",
-      "reason": "Technical 23/100; News -100; Market sentiment -25."
+      "reason": "Technical 11/100; News +0; Market sentiment -24."
     },
     {
       "symbol": "USD1USDT",
       "coin": "USD1",
-      "price": 0.99913,
-      "change24h": -0.027,
-      "volume24h": 47115748.75955,
+      "price": 0.99788,
+      "change24h": -0.136,
+      "volume24h": 76286243.66436,
       "technical": {
-        "rsi": 44.6,
-        "ema9": 0.9991883641260542,
-        "ema21": 0.9991923581979425,
+        "rsi": 25.8,
+        "ema9": 0.9980789379097943,
+        "ema21": 0.9982634910412727,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.7,
-        "score": 11
+        "volumeRatio": 0.43,
+        "score": 28
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -25,
-      "combinedScore": 28,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment -25."
+      "marketSentiment": -24,
+      "combinedScore": 37,
+      "signal": "WAIT",
+      "reason": "Technical 28/100; News +0; Market sentiment -24."
     },
     {
-      "symbol": "UNIUSDT",
-      "coin": "UNI",
-      "price": 7.185,
-      "change24h": -0.801,
-      "volume24h": 40813003.12427,
+      "symbol": "UUSDT",
+      "coin": "U",
+      "price": 0.9996,
+      "change24h": -0.05,
+      "volume24h": 60939027.1064,
       "technical": {
-        "rsi": 44.6,
-        "ema9": 7.191386391580958,
-        "ema21": 7.211132612295213,
-        "macdBull": false,
+        "rsi": 44.5,
+        "ema9": 0.9996142891558623,
+        "ema21": 0.9996665188649088,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 1.14,
-        "score": 11
+        "volumeRatio": 0.53,
+        "score": 35
       },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -25,
-      "combinedScore": 28,
+      "newsScore": -100,
+      "newsCount": 2,
+      "news": [
+        {
+          "title": "Binance hack fallout, U.S. midterms and jobs report: Crypto Week Ahead",
+          "link": "https://www.coindesk.com/markets/2026/11/02/binance-hack-fallout-u-s-midterms-and-jobs-report-crypto-week-ahead",
+          "published": "Mon, 02 Nov 2026 09:04:49 +0000",
+          "source": "CoinDesk",
+          "text": "Binance hack fallout, U.S. midterms and jobs report: Crypto Week Ahead Your look at what’s coming in the week starting Nov. 2."
+        },
+        {
+          "title": "Bitcoin claws back toward $79,000 as markets shake off crypto's biggest hack",
+          "link": "https://www.coindesk.com/markets/2026/11/02/bitcoin-claws-back-toward-usd79-000-as-markets-shake-off-crypto-s-biggest-hack",
+          "published": "Mon, 02 Nov 2026 04:42:22 +0000",
+          "source": "CoinDesk",
+          "text": "Bitcoin claws back toward $79,000 as markets shake off crypto's biggest hack ZEC led the majors and oil slid on a report that Trump wants to give Iran diplomacy more time, with U.S. midterm elections on Tuesday."
+        }
+      ],
+      "marketSentiment": -24,
+      "combinedScore": 25,
       "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment -25."
+      "reason": "Technical 35/100; News -100; Market sentiment -24."
     },
     {
-      "symbol": "PEPEUSDT",
-      "coin": "PEPE",
-      "price": 4.85e-06,
-      "change24h": -2.218,
-      "volume24h": 36353685.09794113,
+      "symbol": "SNDKBUSDT",
+      "coin": "SNDKB",
+      "price": 1114.24,
+      "change24h": -4.242,
+      "volume24h": 46347285.558826,
       "technical": {
-        "rsi": 43.5,
-        "ema9": 4.841434534831989e-06,
-        "ema21": 4.866331790083848e-06,
+        "rsi": 28.5,
+        "ema9": 1119.9605339231548,
+        "ema21": 1132.8586265326169,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.72,
+        "volumeRatio": 0.18,
         "score": 11
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -25,
+      "marketSentiment": -24,
       "combinedScore": 28,
       "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment -25."
+      "reason": "Technical 11/100; News +0; Market sentiment -24."
     }
   ],
   "news": [
+    {
+      "title": "Animoca Brands clears final hurdle for Abu Dhabi fund management",
+      "link": "https://cointelegraph.com/news/animoca-brands-expands-asset-management-business-with-abu-dhabi-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 02 Nov 2026 18:00:16 +0000",
+      "source": "Cointelegraph",
+      "text": "Animoca Brands clears final hurdle for Abu Dhabi fund management The former mobile games company is building out its fund management business in Abu Dhabi as it targets institutional demand for stablecoins and tokenized assets."
+    },
+    {
+      "title": "Strategy spends triple its weekly Bitcoin outlay on STRC buybacks",
+      "link": "https://cointelegraph.com/news/strategy-repurchases-208m-strc-65m-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 02 Nov 2026 13:48:28 +0000",
+      "source": "Cointelegraph",
+      "text": "Strategy spends triple its weekly Bitcoin outlay on STRC buybacks Strategy spent $208.2 million buying back STRC preferred shares and $65.5 million on Bitcoin, while allocating $98.5 million to its USD Cash balance."
+    },
+    {
+      "title": "AI agent disputes head to ‘Internet Court’ — and a jury of AI agents",
+      "link": "https://cointelegraph.com/magazine/ai-agent-disputes-sent-to-internet-court-and-a-jury-of-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 02 Nov 2026 13:30:00 +0000",
+      "source": "Cointelegraph",
+      "text": "AI agent disputes head to ‘Internet Court’ — and a jury of AI agents Who better to judge a dispute between AI agents than a jury of different AI models? That’s the idea behind GenLayer, which is already issuing thousands of judgements each day."
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 02 Nov 2026 13:29:29 +0000",
+      "source": "Cointelegraph",
+      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "title": "Binance taps half its SAFU Bitcoin holdings, releases reserve proof",
+      "link": "https://cointelegraph.com/news/binance-safu-btc-balance-halves-recovery-unclear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 02 Nov 2026 13:21:47 +0000",
+      "source": "Cointelegraph",
+      "text": "Binance taps half its SAFU Bitcoin holdings, releases reserve proof Binance’s SAFU Bitcoin wallet now holds about 7,500 BTC after a 7,499 BTC transfer linked to the hack, with no timeline for restoring the $1 billion fund."
+    },
+    {
+      "title": "FATF targets crypto hubs in review of money laundering controls",
+      "link": "https://cointelegraph.com/news/fatf-targeted-crypto-compliance-jurisdiction-reviews?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 02 Nov 2026 12:56:07 +0000",
+      "source": "Cointelegraph",
+      "text": "FATF targets crypto hubs in review of money laundering controls The watchdog has not named the jurisdictions under review. Initial findings on compliance with its crypto standards are due in June 2027."
+    },
+    {
+      "title": "Binance hackers begin swapping stolen Solana tokens for Bitcoin: Chainalysis",
+      "link": "https://cointelegraph.com/news/binance-hackers-solana-new-phase-laundering-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 02 Nov 2026 12:40:45 +0000",
+      "source": "Cointelegraph",
+      "text": "Binance hackers begin swapping stolen Solana tokens for Bitcoin: Chainalysis Crypto exchange Gate said it froze two linked accounts as US investigators urged platforms to block transactions tied to the $6.3 billion theft."
+    },
+    {
+      "title": "From Uptober to Hacktober: Are Bitcoin’s seasonal patterns becoming obsolete?",
+      "link": "https://cointelegraph.com/markets/uptober-hacktober-bitcoin-seasonal-pattern?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 02 Nov 2026 11:19:18 +0000",
+      "source": "Cointelegraph",
+      "text": "From Uptober to Hacktober: Are Bitcoin’s seasonal patterns becoming obsolete? Bitcoin lost 7.3% in October 2026 after another decline the previous year, despite the month’s historically strong returns, as analysts reassess seasonal signals."
+    },
+    {
+      "title": "Trezor lifts password ceiling after Coldcard’s $100M wallet thefts",
+      "link": "https://cointelegraph.com/news/trezor-wallet-passphrase-limit-128-characters-coldcard-attacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 02 Nov 2026 10:46:59 +0000",
+      "source": "Cointelegraph",
+      "text": "Trezor lifts password ceiling after Coldcard’s $100M wallet thefts Trezor cited July’s Coldcard attacks, in which strong passphrases helped protect some users whose wallet recovery information was compromised."
+    },
+    {
+      "title": "Hong Kong takes tokenized settlement to 24/7, plans stablecoin trials",
+      "link": "https://cointelegraph.com/news/hong-kong-24-7-tokenized-settlements-stablecoin-trials?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 02 Nov 2026 10:14:55 +0000",
+      "source": "Cointelegraph",
+      "text": "Hong Kong takes tokenized settlement to 24/7, plans stablecoin trials The HKMA plans to bring regulated stablecoins into tokenized government debt trials, while HSBC says its RedCoin stablecoin has reached 50,000 users."
+    },
+    {
+      "title": "BTC heads into US midterm showdown: Three things to know in Bitcoin this week",
+      "link": "https://cointelegraph.com/markets/btc-price-script-midterms-three-things-bitcoin-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 02 Nov 2026 09:41:36 +0000",
+      "source": "Cointelegraph",
+      "text": "BTC heads into US midterm showdown: Three things to know in Bitcoin this week Bitcoin price action held its 100-day moving average into the monthly close as crypto markets braced for US midterm election and tech earnings volatility."
+    },
+    {
+      "title": "OKX draws $445M in net inflows as Binance outflows exceed $7B",
+      "link": "https://cointelegraph.com/news/okx-leads-crypto-exchanges-445m-inflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 02 Nov 2026 08:56:03 +0000",
+      "source": "Cointelegraph",
+      "text": "OKX draws $445M in net inflows as Binance outflows exceed $7B OKX led cryptocurrency exchanges with $445 million in daily inflows, while Binance processed about $7 billion in net outflows."
+    },
     {
       "title": "Bitcoin ETFs sink into October outflows with $643M exit after Binance hack",
       "link": "https://cointelegraph.com/markets/bitcoin-etfs-october-red-binance-hack-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -387,13 +479,6 @@
       "text": "THORChain founder rejects freeze request, CZ thanks Secret Service: Hodler’s Digest Binance has reopened withdrawals following the world’s biggest ever hack, and THORChain co-founder argues it should not halt the protocol to comply with FBI demands."
     },
     {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 01 Nov 2026 14:17:00 +0000",
-      "source": "Cointelegraph",
-      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-    },
-    {
       "title": "DeepSeek developing AI agent requiring less human input: Report",
       "link": "https://cointelegraph.com/news/deepseek-developing-ai-agent-requiring-less-human-input-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sun, 01 Nov 2026 13:40:33 +0000",
@@ -406,83 +491,6 @@
       "published": "Sun, 01 Nov 2026 09:38:18 +0000",
       "source": "Cointelegraph",
       "text": "Binance says phase one of withdrawals opens after $6.3B hack The crypto exchange said it has begun phased withdrawals after the record hack the FBI has blamed on North Korea."
-    },
-    {
-      "title": "FBI blames North Korea for record $6.3B Binance hack",
-      "link": "https://cointelegraph.com/news/fbi-blames-north-korea-for-record-63b-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 01 Nov 2026 07:44:38 +0000",
-      "source": "Cointelegraph",
-      "text": "FBI blames North Korea for record $6.3B Binance hack US agency seeks private-sector help to block further money-laundering of stolen digital assets."
-    },
-    {
-      "title": "Binance says 90% of stolen assets replenished, targets Sunday withdrawals",
-      "link": "https://cointelegraph.com/news/binance-hack-90-percent-replenished?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 31 Oct 2026 15:36:01 +0000",
-      "source": "Cointelegraph",
-      "text": "Binance says 90% of stolen assets replenished, targets Sunday withdrawals Less-liquid tokens make up the remaining shortfall as Binance continues buying replacement assets through market and over-the-counter trades."
-    },
-    {
-      "title": "Bitcoin held up better than expected after Binance hack, Strive CEO says",
-      "link": "https://cointelegraph.com/markets/bitcoin-binance-hack-strive-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 31 Oct 2026 15:26:46 +0000",
-      "source": "Cointelegraph",
-      "text": "Bitcoin held up better than expected after Binance hack, Strive CEO says Strive CEO Matt Cole says the Binance hack has not changed his long-term case for Bitcoin, but cautions it is too early to call a market bottom."
-    },
-    {
-      "title": "Bitcoin turns 18: Has the original rebel grown up?",
-      "link": "https://cointelegraph.com/magazine/bitcoin-turns-18-has-the-original-rebel-grown-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 31 Oct 2026 14:27:52 +0000",
-      "source": "Cointelegraph",
-      "text": "Bitcoin turns 18: Has the original rebel grown up? In typical Bitcoin style, the number one cryptocurrency turns 18 today, amid AI-driven security threats, quantum fears and the biggest exchange hack in crypto history."
-    },
-    {
-      "title": "Texas brothers sentenced to 15 years in prison for armed crypto robbery, kidnapping",
-      "link": "https://cointelegraph.com/news/texas-brothers-sentenced-to-15-years-in-prison-for-armed-crypto-robbery-kidnapping?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 31 Oct 2026 13:37:49 +0000",
-      "source": "Cointelegraph",
-      "text": "Texas brothers sentenced to 15 years in prison for armed crypto robbery, kidnapping Home invasions became the most common form of crypto wrench attacks worldwide during the first half of 2026, rising to 20 incidents from one."
-    },
-    {
-      "title": "Blockchain investigator Chainalysis hit by cybersecurity incident",
-      "link": "https://cointelegraph.com/news/blockchain-investigator-chainalysis-hit-by-cybersecurity-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 31 Oct 2026 11:22:49 +0000",
-      "source": "Cointelegraph",
-      "text": "Blockchain investigator Chainalysis hit by cybersecurity incident The company said some non-sensitive customer data was exposed, including user IDs, names and email addresses."
-    },
-    {
-      "title": "Binance $6.3B record hack sparks pre-election political clashes",
-      "link": "https://cointelegraph.com/news/binance-63b-record-hack-sparks-pre-election-political-chatter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 31 Oct 2026 09:58:50 +0000",
-      "source": "Cointelegraph",
-      "text": "Binance $6.3B record hack sparks pre-election political clashes Some political and administration figures tried to make hay of the biggest-ever crypto heist."
-    },
-    {
-      "title": "Binance hackers raced to move billions before it could be frozen",
-      "link": "https://cointelegraph.com/magazine/binance-hackers-raced-to-move-billions-before-could-be-frozen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 30 Oct 2026 22:00:00 +0000",
-      "source": "Cointelegraph",
-      "text": "Binance hackers raced to move billions before it could be frozen Attackers raced to convert stolen stablecoins into crypto that issuers could not freeze as industry players like Tether and Circle moved to immobilize billions of dollars in assets."
-    },
-    {
-      "title": "Tether’s excess reserves nearly double to $8B as Q3 profit hits $1.5B",
-      "link": "https://cointelegraph.com/news/tethers-excess-reserves-nearly-double-to-8b-as-q3-profit-hits-15b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 30 Oct 2026 19:01:58 +0000",
-      "source": "Cointelegraph",
-      "text": "Tether’s excess reserves nearly double to $8B as Q3 profit hits $1.5B The stablecoin issuer’s US Treasury holdings are comparable to those of major foreign holders, while its Bitcoin reserves were valued at $8.37 billion at the end of September."
-    },
-    {
-      "title": "Coinbase leads crypto stock selloff following $6.3B Binance hack",
-      "link": "https://cointelegraph.com/markets/coinbase-leads-crypto-stock-selloff-shares-tumble?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 30 Oct 2026 17:48:27 +0000",
-      "source": "Cointelegraph",
-      "text": "Coinbase leads crypto stock selloff following $6.3B Binance hack Circle, Strategy and other crypto-linked stocks fell sharply Friday, a day after Binance disclosed a $6.3 billion security breach."
-    },
-    {
-      "title": "Crypto Biz: Bitcoin’s quantum threat is becoming an economic problem",
-      "link": "https://cointelegraph.com/news/bitcoin-quantum-threat-ripple-bank-usdc-vaneck-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 30 Oct 2026 17:09:31 +0000",
-      "source": "Cointelegraph",
-      "text": "Crypto Biz: Bitcoin’s quantum threat is becoming an economic problem Bitcoin faces mounting quantum security concerns as Ripple secures a US banking charter, USDC gains ground in Europe and VanEck adds BTC to a new ETF."
     }
   ],
   "paper": {
@@ -513,16 +521,6 @@
         "entry": 0.99986,
         "stopLoss": 0.9848621,
         "takeProfit": 1.0298558,
-        "entryTime": "2026-10-19T23:02:38.643180+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
-        "symbol": "SNDKBUSDT",
-        "side": "BUY",
-        "entry": 1385.76,
-        "stopLoss": 1364.9736,
-        "takeProfit": 1427.3328,
         "entryTime": "2026-10-19T23:02:38.643180+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
@@ -618,16 +616,6 @@
         "mode": "PAPER ONLY"
       },
       {
-        "symbol": "SOLUSDT",
-        "side": "SELL",
-        "entry": 96.63,
-        "stopLoss": 98.07945,
-        "takeProfit": 93.7311,
-        "entryTime": "2026-10-29T23:29:48.238528+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
         "symbol": "XRPUSDT",
         "side": "SELL",
         "entry": 1.2447,
@@ -678,16 +666,6 @@
         "mode": "PAPER ONLY"
       },
       {
-        "symbol": "ZECUSDT",
-        "side": "BUY",
-        "entry": 1252.76,
-        "stopLoss": 1233.9686,
-        "takeProfit": 1290.3428,
-        "entryTime": "2026-11-02T01:51:37.753747+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
         "symbol": "UNIUSDT",
         "side": "BUY",
         "entry": 7.265,
@@ -698,12 +676,42 @@
         "mode": "PAPER ONLY"
       },
       {
-        "symbol": "NEARUSDT",
+        "symbol": "ZECUSDT",
         "side": "SELL",
-        "entry": 4.101,
-        "stopLoss": 4.162515,
-        "takeProfit": 3.97797,
-        "entryTime": "2026-11-02T08:26:16.020054+00:00",
+        "entry": 1169.0,
+        "stopLoss": 1186.535,
+        "takeProfit": 1133.93,
+        "entryTime": "2026-11-02T18:39:45.811968+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "SOLUSDT",
+        "side": "SELL",
+        "entry": 92.11,
+        "stopLoss": 93.49165,
+        "takeProfit": 89.3467,
+        "entryTime": "2026-11-02T18:39:45.811968+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "UUSDT",
+        "side": "SELL",
+        "entry": 0.9996,
+        "stopLoss": 1.014594,
+        "takeProfit": 0.969612,
+        "entryTime": "2026-11-02T18:39:45.811968+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "SNDKBUSDT",
+        "side": "SELL",
+        "entry": 1114.24,
+        "stopLoss": 1130.9536,
+        "takeProfit": 1080.8128,
+        "entryTime": "2026-11-02T18:39:45.811968+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       }
@@ -1644,6 +1652,58 @@
         "exitPrice": 4.101,
         "exitTime": "2026-11-02T08:26:16.020054+00:00",
         "pnlPercent": 3.98
+      },
+      {
+        "symbol": "SNDKBUSDT",
+        "side": "BUY",
+        "entry": 1385.76,
+        "stopLoss": 1364.9736,
+        "takeProfit": 1427.3328,
+        "entryTime": "2026-10-19T23:02:38.643180+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 1114.24,
+        "exitTime": "2026-11-02T18:39:45.811968+00:00",
+        "pnlPercent": -19.594
+      },
+      {
+        "symbol": "SOLUSDT",
+        "side": "SELL",
+        "entry": 96.63,
+        "stopLoss": 98.07945,
+        "takeProfit": 93.7311,
+        "entryTime": "2026-10-29T23:29:48.238528+00:00",
+        "status": "TAKE_PROFIT",
+        "mode": "PAPER ONLY",
+        "exitPrice": 92.11,
+        "exitTime": "2026-11-02T18:39:45.811968+00:00",
+        "pnlPercent": 4.678
+      },
+      {
+        "symbol": "ZECUSDT",
+        "side": "BUY",
+        "entry": 1252.76,
+        "stopLoss": 1233.9686,
+        "takeProfit": 1290.3428,
+        "entryTime": "2026-11-02T01:51:37.753747+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 1169.0,
+        "exitTime": "2026-11-02T18:39:45.811968+00:00",
+        "pnlPercent": -6.686
+      },
+      {
+        "symbol": "NEARUSDT",
+        "side": "SELL",
+        "entry": 4.101,
+        "stopLoss": 4.162515,
+        "takeProfit": 3.97797,
+        "entryTime": "2026-11-02T08:26:16.020054+00:00",
+        "status": "TAKE_PROFIT",
+        "mode": "PAPER ONLY",
+        "exitPrice": 3.9,
+        "exitTime": "2026-11-02T18:39:45.811968+00:00",
+        "pnlPercent": 4.901
       }
     ]
   },
