@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03 01:16:30 UTC",
+  "generatedAt": "2026-11-03 07:58:20 UTC",
   "interval": "15m candles",
   "marketSentiment": -41,
   "overallNewsScore": -27,
@@ -12,17 +12,17 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 77202.58,
-      "change24h": -1.497,
-      "volume24h": 987290656.5506626,
+      "price": 76851.4,
+      "change24h": -1.682,
+      "volume24h": 1139382703.3725424,
       "technical": {
-        "rsi": 58.5,
-        "ema9": 77011.0069495677,
-        "ema21": 76991.04598083794,
+        "rsi": 50.9,
+        "ema9": 76742.59400956584,
+        "ema21": 76794.4018980491,
         "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 1.42,
-        "score": 89
+        "emaBull": false,
+        "volumeRatio": 0.48,
+        "score": 47
       },
       "newsScore": -33,
       "newsCount": 5,
@@ -30,7 +30,7 @@
         {
           "title": "Here’s what happened in crypto today",
           "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Mon, 02 Nov 2026 22:36:09 +0000",
+          "published": "Tue, 03 Nov 2026 06:00:00 +0000",
           "source": "Cointelegraph",
           "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
         },
@@ -64,24 +64,24 @@
         }
       ],
       "marketSentiment": -41,
-      "combinedScore": 60,
+      "combinedScore": 39,
       "signal": "WAIT",
-      "reason": "Technical 89/100; News -33; Market sentiment -41."
+      "reason": "Technical 47/100; News -33; Market sentiment -41."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2260.07,
-      "change24h": -1.198,
-      "volume24h": 547976867.354507,
+      "price": 2258.61,
+      "change24h": -1.258,
+      "volume24h": 451064877.572371,
       "technical": {
-        "rsi": 53.0,
-        "ema9": 2256.348165732044,
-        "ema21": 2256.1967700161895,
+        "rsi": 53.4,
+        "ema9": 2252.1746296768342,
+        "ema21": 2252.672748679491,
         "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 1.17,
-        "score": 77
+        "emaBull": false,
+        "volumeRatio": 2.78,
+        "score": 42
       },
       "newsScore": -33,
       "newsCount": 3,
@@ -109,55 +109,55 @@
         }
       ],
       "marketSentiment": -41,
-      "combinedScore": 54,
+      "combinedScore": 37,
       "signal": "WAIT",
-      "reason": "Technical 77/100; News -33; Market sentiment -41."
+      "reason": "Technical 42/100; News -33; Market sentiment -41."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 1155.26,
-      "change24h": -7.328,
-      "volume24h": 197022842.46008,
+      "price": 1139.62,
+      "change24h": -10.003,
+      "volume24h": 178900749.15832,
       "technical": {
-        "rsi": 47.4,
-        "ema9": 1149.5510714939676,
-        "ema21": 1154.675367410989,
+        "rsi": 47.9,
+        "ema9": 1134.9143302309703,
+        "ema21": 1137.1846616605885,
         "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.33,
+        "volumeRatio": 0.92,
         "score": 47
       },
-      "newsScore": -100,
+      "newsScore": 0,
       "newsCount": 1,
       "news": [
         {
-          "title": "Bitcoin claws back toward $79,000 as markets shake off crypto's biggest hack",
-          "link": "https://www.coindesk.com/markets/2026/11/02/bitcoin-claws-back-toward-usd79-000-as-markets-shake-off-crypto-s-biggest-hack",
-          "published": "Mon, 02 Nov 2026 04:42:22 +0000",
+          "title": "Bitcoin drops below $77,000 as chip rout deepens ahead of U.S. midterm vote",
+          "link": "https://www.coindesk.com/markets/2026/11/03/bitcoin-drops-below-usd77-000-as-chip-rout-deepens-ahead-of-u-s-midterm-vote",
+          "published": "Tue, 03 Nov 2026 04:48:17 +0000",
           "source": "CoinDesk",
-          "text": "Bitcoin claws back toward $79,000 as markets shake off crypto's biggest hack ZEC led the majors and oil slid on a report that Trump wants to give Iran diplomacy more time, with U.S. midterm elections on Tuesday."
+          "text": "Bitcoin drops below $77,000 as chip rout deepens ahead of U.S. midterm vote ZEC tumbled nearly 10% and BNB fell under $700 as the Nasdaq 100 slid into a correction, dragging Asian stocks lower."
         }
       ],
       "marketSentiment": -41,
-      "combinedScore": 29,
+      "combinedScore": 44,
       "signal": "WAIT",
-      "reason": "Technical 47/100; News -100; Market sentiment -41."
+      "reason": "Technical 47/100; News +0; Market sentiment -41."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 92.55,
-      "change24h": -2.61,
-      "volume24h": 173605596.61353,
+      "price": 92.17,
+      "change24h": -2.362,
+      "volume24h": 161538232.05101,
       "technical": {
-        "rsi": 54.6,
-        "ema9": 92.25767533642306,
-        "ema21": 92.19824682947687,
+        "rsi": 51.6,
+        "ema9": 91.93213270143313,
+        "ema21": 91.98308652606244,
         "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.71,
-        "score": 77
+        "emaBull": false,
+        "volumeRatio": 0.93,
+        "score": 47
       },
       "newsScore": -75,
       "newsCount": 4,
@@ -192,46 +192,69 @@
         }
       ],
       "marketSentiment": -41,
-      "combinedScore": 48,
+      "combinedScore": 33,
       "signal": "WAIT",
-      "reason": "Technical 77/100; News -75; Market sentiment -41."
+      "reason": "Technical 47/100; News -75; Market sentiment -41."
     },
     {
-      "symbol": "NEARUSDT",
-      "coin": "NEAR",
-      "price": 3.879,
-      "change24h": -9.979,
-      "volume24h": 100408728.8073,
+      "symbol": "USD1USDT",
+      "coin": "USD1",
+      "price": 0.99916,
+      "change24h": -0.001,
+      "volume24h": 123408855.6746,
       "technical": {
-        "rsi": 41.8,
-        "ema9": 3.8761047229548042,
-        "ema21": 3.8880505020335523,
+        "rsi": 70.2,
+        "ema9": 0.9990953811941325,
+        "ema21": 0.998877913413248,
         "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.83,
-        "score": 35
+        "emaBull": true,
+        "volumeRatio": 0.74,
+        "score": 89
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": -41,
-      "combinedScore": 38,
+      "combinedScore": 65,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment -41."
+    },
+    {
+      "symbol": "NEARUSDT",
+      "coin": "NEAR",
+      "price": 3.796,
+      "change24h": -7.662,
+      "volume24h": 89894880.4672,
+      "technical": {
+        "rsi": 45.2,
+        "ema9": 3.787985545841944,
+        "ema21": 3.805025960450462,
+        "macdBull": true,
+        "emaBull": false,
+        "volumeRatio": 0.52,
+        "score": 47
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -41,
+      "combinedScore": 44,
       "signal": "WAIT",
-      "reason": "Technical 35/100; News +0; Market sentiment -41."
+      "reason": "Technical 47/100; News +0; Market sentiment -41."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 1.2498,
-      "change24h": -0.502,
-      "volume24h": 91544718.52998,
+      "price": 1.2542,
+      "change24h": 0.184,
+      "volume24h": 89772282.50327,
       "technical": {
-        "rsi": 50.3,
-        "ema9": 1.2504511994611756,
-        "ema21": 1.249874565847371,
+        "rsi": 53.7,
+        "ema9": 1.252057386757117,
+        "ema21": 1.2515162271646723,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.85,
+        "volumeRatio": 0.57,
         "score": 77
       },
       "newsScore": 100,
@@ -251,102 +274,87 @@
       "reason": "Technical 77/100; News +100; Market sentiment -41."
     },
     {
-      "symbol": "USD1USDT",
-      "coin": "USD1",
-      "price": 0.99809,
-      "change24h": -0.095,
-      "volume24h": 87027004.32618,
-      "technical": {
-        "rsi": 43.4,
-        "ema9": 0.9982157727159835,
-        "ema21": 0.9982270578081571,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 1.12,
-        "score": 11
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -41,
-      "combinedScore": 26,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment -41."
-    },
-    {
       "symbol": "BNBUSDT",
       "coin": "BNB",
-      "price": 700.46,
-      "change24h": -1.949,
-      "volume24h": 80999990.21846,
+      "price": 695.34,
+      "change24h": -1.853,
+      "volume24h": 78752004.97905,
       "technical": {
-        "rsi": 52.2,
-        "ema9": 699.7452464238356,
-        "ema21": 699.3907490788616,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.78,
-        "score": 77
+        "rsi": 43.7,
+        "ema9": 694.2687849136697,
+        "ema21": 695.4650552376879,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 5.63,
+        "score": 16
       },
       "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
+      "newsCount": 1,
+      "news": [
+        {
+          "title": "Bitcoin drops below $77,000 as chip rout deepens ahead of U.S. midterm vote",
+          "link": "https://www.coindesk.com/markets/2026/11/03/bitcoin-drops-below-usd77-000-as-chip-rout-deepens-ahead-of-u-s-midterm-vote",
+          "published": "Tue, 03 Nov 2026 04:48:17 +0000",
+          "source": "CoinDesk",
+          "text": "Bitcoin drops below $77,000 as chip rout deepens ahead of U.S. midterm vote ZEC tumbled nearly 10% and BNB fell under $700 as the Nasdaq 100 slid into a correction, dragging Asian stocks lower."
+        }
+      ],
       "marketSentiment": -41,
-      "combinedScore": 59,
-      "signal": "WAIT",
-      "reason": "Technical 77/100; News +0; Market sentiment -41."
+      "combinedScore": 29,
+      "signal": "SELL",
+      "reason": "Technical 16/100; News +0; Market sentiment -41."
     },
     {
       "symbol": "UUSDT",
       "coin": "U",
-      "price": 0.9997,
-      "change24h": -0.04,
-      "volume24h": 67179972.3362,
+      "price": 0.9999,
+      "change24h": -0.03,
+      "volume24h": 72915424.2325,
       "technical": {
-        "rsi": 44.6,
-        "ema9": 0.9997467281619564,
-        "ema21": 0.9997652640227052,
+        "rsi": 48.0,
+        "ema9": 0.9998433363226435,
+        "ema21": 0.9998324786664993,
         "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.81,
-        "score": 11
+        "emaBull": true,
+        "volumeRatio": 1.28,
+        "score": 53
       },
-      "newsScore": -100,
+      "newsScore": -50,
       "newsCount": 2,
       "news": [
+        {
+          "title": "Bitcoin drops below $77,000 as chip rout deepens ahead of U.S. midterm vote",
+          "link": "https://www.coindesk.com/markets/2026/11/03/bitcoin-drops-below-usd77-000-as-chip-rout-deepens-ahead-of-u-s-midterm-vote",
+          "published": "Tue, 03 Nov 2026 04:48:17 +0000",
+          "source": "CoinDesk",
+          "text": "Bitcoin drops below $77,000 as chip rout deepens ahead of U.S. midterm vote ZEC tumbled nearly 10% and BNB fell under $700 as the Nasdaq 100 slid into a correction, dragging Asian stocks lower."
+        },
         {
           "title": "Binance hack fallout, U.S. midterms and jobs report: Crypto Week Ahead",
           "link": "https://www.coindesk.com/markets/2026/11/02/binance-hack-fallout-u-s-midterms-and-jobs-report-crypto-week-ahead",
           "published": "Mon, 02 Nov 2026 09:04:49 +0000",
           "source": "CoinDesk",
           "text": "Binance hack fallout, U.S. midterms and jobs report: Crypto Week Ahead Your look at what’s coming in the week starting Nov. 2."
-        },
-        {
-          "title": "Bitcoin claws back toward $79,000 as markets shake off crypto's biggest hack",
-          "link": "https://www.coindesk.com/markets/2026/11/02/bitcoin-claws-back-toward-usd79-000-as-markets-shake-off-crypto-s-biggest-hack",
-          "published": "Mon, 02 Nov 2026 04:42:22 +0000",
-          "source": "CoinDesk",
-          "text": "Bitcoin claws back toward $79,000 as markets shake off crypto's biggest hack ZEC led the majors and oil slid on a report that Trump wants to give Iran diplomacy more time, with U.S. midterm elections on Tuesday."
         }
       ],
       "marketSentiment": -41,
-      "combinedScore": 11,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News -100; Market sentiment -41."
+      "combinedScore": 40,
+      "signal": "WAIT",
+      "reason": "Technical 53/100; News -50; Market sentiment -41."
     },
     {
       "symbol": "SNDKBUSDT",
       "coin": "SNDKB",
-      "price": 1096.54,
+      "price": 1090.92,
       "change24h": -7.692,
-      "volume24h": 53440760.416749,
+      "volume24h": 51608339.279538,
       "technical": {
-        "rsi": 46.9,
-        "ema9": 1093.6006953638791,
-        "ema21": 1095.2390701301915,
+        "rsi": 50.8,
+        "ema9": 1083.8013321433623,
+        "ema21": 1085.4451695281916,
         "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.43,
+        "volumeRatio": 0.63,
         "score": 47
       },
       "newsScore": 0,
@@ -360,18 +368,53 @@
   ],
   "news": [
     {
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 03 Nov 2026 06:00:00 +0000",
+      "source": "Cointelegraph",
+      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "title": "Crypto.com to withdraw Hong Kong consumer app citing regulatory changes",
+      "link": "https://cointelegraph.com/news/crypto-com-hong-kong-app-shutdown-license-pending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 03 Nov 2026 05:10:19 +0000",
+      "source": "Cointelegraph",
+      "text": "Crypto.com to withdraw Hong Kong consumer app citing regulatory changes Crypto.com will discontinue its consumer app services in Hong Kong in February next year."
+    },
+    {
+      "title": "Australia lifts rates to 18-year high as AI boom, energy costs fuel inflation",
+      "link": "https://cointelegraph.com/markets/australia-lifts-rates-as-ai-boom-energy-costs-fuel-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 03 Nov 2026 04:14:32 +0000",
+      "source": "Cointelegraph",
+      "text": "Australia lifts rates to 18-year high as AI boom, energy costs fuel inflation The Reserve Bank of Australia raised its benchmark rate to 4.85% on rising technology costs from AI investment and higher energy prices."
+    },
+    {
+      "title": "UK warns AI ransomware attack on infrastructure ‘highly likely’ by 2028",
+      "link": "https://cointelegraph.com/news/uk-warns-ai-ransomware-attack-on-infrastructure-highly-likely-by-2028?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 03 Nov 2026 03:58:45 +0000",
+      "source": "Cointelegraph",
+      "text": "UK warns AI ransomware attack on infrastructure ‘highly likely’ by 2028 The warning comes as UK cyber officials also flag growing threats from state-backed hackers targeting government officials and politicians."
+    },
+    {
+      "title": "Binance begins second withdrawal phase, exchange outflows slow",
+      "link": "https://cointelegraph.com/news/binance-begins-second-withdrawal-phase-following-record-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 03 Nov 2026 03:03:44 +0000",
+      "source": "Cointelegraph",
+      "text": "Binance begins second withdrawal phase, exchange outflows slow The exchange says additional assets will become available for withdrawal from 04:00 UTC on Tuesday as security checks are completed, following an initial reopening on Sunday."
+    },
+    {
+      "title": "South Korea urges exchanges to boost cold storage after Binance hack",
+      "link": "https://cointelegraph.com/news/south-korea-urges-exchanges-to-boost-cold-storage-after-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 03 Nov 2026 01:32:39 +0000",
+      "source": "Cointelegraph",
+      "text": "South Korea urges exchanges to boost cold storage after Binance hack South Korean crypto exchanges are already required to hold at least 80% of customer crypto in cold wallets, but the regulator is urging more."
+    },
+    {
       "title": "North Korea denies role in $6.3B Binance hack, points finger at US",
       "link": "https://cointelegraph.com/news/north-korea-denies-role-in-63b-binance-hack-points-finger-at-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 02 Nov 2026 23:07:07 +0000",
       "source": "Cointelegraph",
       "text": "North Korea denies role in $6.3B Binance hack, points finger at US Pyongyang has pushed back against the FBI’s attribution of the Binance attack, with Kim Yo Jong calling the US allegations politically motivated."
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 02 Nov 2026 22:36:09 +0000",
-      "source": "Cointelegraph",
-      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
       "title": "New Jersey drops Coinbase staking order ahead of crypto’s midterm test",
@@ -463,41 +506,6 @@
       "published": "Mon, 02 Nov 2026 11:19:18 +0000",
       "source": "Cointelegraph",
       "text": "From Uptober to Hacktober: Are Bitcoin’s seasonal patterns becoming obsolete? Bitcoin lost 7.3% in October 2026 after another decline the previous year, despite the month’s historically strong returns, as analysts reassess seasonal signals."
-    },
-    {
-      "title": "Trezor lifts password ceiling after Coldcard’s $100M wallet thefts",
-      "link": "https://cointelegraph.com/news/trezor-wallet-passphrase-limit-128-characters-coldcard-attacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 02 Nov 2026 10:46:59 +0000",
-      "source": "Cointelegraph",
-      "text": "Trezor lifts password ceiling after Coldcard’s $100M wallet thefts Trezor cited July’s Coldcard attacks, in which strong passphrases helped protect some users whose wallet recovery information was compromised."
-    },
-    {
-      "title": "Hong Kong takes tokenized settlement to 24/7, plans stablecoin trials",
-      "link": "https://cointelegraph.com/news/hong-kong-24-7-tokenized-settlements-stablecoin-trials?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 02 Nov 2026 10:14:55 +0000",
-      "source": "Cointelegraph",
-      "text": "Hong Kong takes tokenized settlement to 24/7, plans stablecoin trials The HKMA plans to bring regulated stablecoins into tokenized government debt trials, while HSBC says its RedCoin stablecoin has reached 50,000 users."
-    },
-    {
-      "title": "BTC heads into US midterm showdown: Three things to know in Bitcoin this week",
-      "link": "https://cointelegraph.com/markets/btc-price-script-midterms-three-things-bitcoin-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 02 Nov 2026 09:41:36 +0000",
-      "source": "Cointelegraph",
-      "text": "BTC heads into US midterm showdown: Three things to know in Bitcoin this week Bitcoin price action held its 100-day moving average into the monthly close as crypto markets braced for US midterm election and tech earnings volatility."
-    },
-    {
-      "title": "OKX draws $445M in net inflows as Binance outflows exceed $7B",
-      "link": "https://cointelegraph.com/news/okx-leads-crypto-exchanges-445m-inflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 02 Nov 2026 08:56:03 +0000",
-      "source": "Cointelegraph",
-      "text": "OKX draws $445M in net inflows as Binance outflows exceed $7B OKX led cryptocurrency exchanges with $445 million in daily inflows, while Binance processed about $7 billion in net outflows."
-    },
-    {
-      "title": "Bitcoin ETFs sink into October outflows with $643M exit after Binance hack",
-      "link": "https://cointelegraph.com/markets/bitcoin-etfs-october-red-binance-hack-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 02 Nov 2026 07:50:36 +0000",
-      "source": "Cointelegraph",
-      "text": "Bitcoin ETFs sink into October outflows with $643M exit after Binance hack US spot Bitcoin ETFs ended October with $515 million in net withdrawals, while Ether funds posted a record $1.61 billion in monthly outflows."
     }
   ],
   "paper": {
