@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-03 15:54:44 UTC",
+  "generatedAt": "2026-11-03 21:22:41 UTC",
   "interval": "15m candles",
-  "marketSentiment": -37,
-  "overallNewsScore": -17,
+  "marketSentiment": -39,
+  "overallNewsScore": -23,
   "fearGreed": {
     "value": 26,
     "label": "Fear",
@@ -12,21 +12,28 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 77726.01,
-      "change24h": -0.008,
-      "volume24h": 1106090784.820233,
+      "price": 77906.0,
+      "change24h": 1.337,
+      "volume24h": 995734593.3364878,
       "technical": {
-        "rsi": 62.4,
-        "ema9": 77413.23676404849,
-        "ema21": 77306.82753165196,
-        "macdBull": false,
+        "rsi": 65.7,
+        "ema9": 77747.5313502867,
+        "ema21": 77654.40643077115,
+        "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.86,
-        "score": 65
+        "volumeRatio": 1.19,
+        "score": 89
       },
       "newsScore": 7,
       "newsCount": 5,
       "news": [
+        {
+          "title": "Wall Street killed Bitcoin’s wild rallies: 10x’s Markus Thielen",
+          "link": "https://cointelegraph.com/magazine/wall-street-killed-bitcoins-wild-rallies-markus-thielen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Tue, 03 Nov 2026 16:47:01 +0000",
+          "source": "Cointelegraph",
+          "text": "Wall Street killed Bitcoin’s wild rallies: 10x’s Markus Thielen Markus Thielen sees Bitcoin reaching $90,000 by year-end, questions institutional ETF demand and says Ethereum must do more for holders."
+        },
         {
           "title": "Bitcoin price defends $76K lows as analysts see stocks pricing in ‘political gridlock’",
           "link": "https://cointelegraph.com/markets/bitcoin-price-defends-76k-lows-as-analysis-sees-stocks-pricing-in-political-gridlock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -54,38 +61,38 @@
           "published": "Tue, 03 Nov 2026 10:04:05 +0000",
           "source": "Cointelegraph",
           "text": "Bitcoin price threatens $77.7K support loss with recent buyers underwater Bitcoin fell below the realized price of the one-to-three-month-old buyer cohort in a move that risked flipping it to new resistance."
-        },
-        {
-          "title": "BlackRock’s IBIT sees biggest Bitcoin ETF outflows since June",
-          "link": "https://cointelegraph.com/markets/blackrocks-ibit-biggest-bitcoin-etf-outflow-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Tue, 03 Nov 2026 07:49:51 +0000",
-          "source": "Cointelegraph",
-          "text": "BlackRock’s IBIT sees biggest Bitcoin ETF outflows since June BlackRock’s Bitcoin ETF shed $405.3 million on Monday as US spot Bitcoin funds opened November with nearly $399 million in net outflows."
         }
       ],
-      "marketSentiment": -37,
-      "combinedScore": 55,
-      "signal": "WAIT",
-      "reason": "Technical 65/100; News +7; Market sentiment -37."
+      "marketSentiment": -39,
+      "combinedScore": 67,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +7; Market sentiment -39."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2299.98,
-      "change24h": 0.733,
-      "volume24h": 378210873.946574,
+      "price": 2296.08,
+      "change24h": 1.951,
+      "volume24h": 334506729.369597,
       "technical": {
-        "rsi": 65.0,
-        "ema9": 2288.406664315539,
-        "ema21": 2281.9135549165853,
-        "macdBull": true,
+        "rsi": 56.5,
+        "ema9": 2290.441545580047,
+        "ema21": 2290.2817029224134,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 0.72,
-        "score": 89
+        "volumeRatio": 1.27,
+        "score": 65
       },
       "newsScore": 0,
       "newsCount": 4,
       "news": [
+        {
+          "title": "Wall Street killed Bitcoin’s wild rallies: 10x’s Markus Thielen",
+          "link": "https://cointelegraph.com/magazine/wall-street-killed-bitcoins-wild-rallies-markus-thielen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Tue, 03 Nov 2026 16:47:01 +0000",
+          "source": "Cointelegraph",
+          "text": "Wall Street killed Bitcoin’s wild rallies: 10x’s Markus Thielen Markus Thielen sees Bitcoin reaching $90,000 by year-end, questions institutional ETF demand and says Ethereum must do more for holders."
+        },
         {
           "title": "Moscow Exchange to launch Bitcoin, Ether and USDT trading in December",
           "link": "https://cointelegraph.com/news/moscow-exchange-bitcoin-ether-usdt-trading-december?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -94,46 +101,39 @@
           "text": "Moscow Exchange to launch Bitcoin, Ether and USDT trading in December Moscow Exchange plans to launch crypto trading on Dec. 1 under Russia’s new law, with annual purchase limits for non-qualified investors."
         },
         {
-          "title": "Binance's $6.3 billion hack began with a fake job interview, exchange says",
+          "title": "Binance's $6.3 billion hack began with a fake job interview, and a campaign 'built over many months'",
           "link": "https://www.coindesk.com/business/2026/11/03/binance-s-usd6-3-billion-hack-began-with-a-fake-job-interview-exchange-says",
           "published": "Tue, 03 Nov 2026 14:53:19 +0000",
           "source": "CoinDesk",
-          "text": "Binance's $6.3 billion hack began with a fake job interview, exchange says North Korea-linked attackers spent months compromising Binance employees and internal systems before exploiting its hot-wallet signing infrastructure through Ethereum's EIP-7702 mechanism."
+          "text": "Binance's $6.3 billion hack began with a fake job interview, and a campaign 'built over many months' North Korea-linked attackers spent months compromising Binance employees and internal systems before exploiting its hot-wallet signing infrastructure through Ethereum's EIP-7702 mechanism."
         },
         {
-          "title": "ETHGas wants to bring Wall Street to public Ethereum by selling advance block reservations",
+          "title": "ETHGas wants to bring Wall Street to public Ethereum with institutional controls",
           "link": "https://www.coindesk.com/business/2026/11/03/ethgas-courts-wall-street-with-ethereum-blockspace-but-compensation-for-missed-trades-is-zero",
           "published": "Tue, 03 Nov 2026 12:01:05 +0000",
           "source": "CoinDesk",
-          "text": "ETHGas wants to bring Wall Street to public Ethereum by selling advance block reservations But there’s a catch: validators that fail to deliver on their commitments currently face no financial compensation requirement under the service."
-        },
-        {
-          "title": "EU entity suspected of losing $106 million from crypto exchange accounts, ZachXBT says",
-          "link": "https://www.coindesk.com/tech/2026/11/02/eu-entity-suspected-of-losing-usd106-million-from-crypto-exchange-accounts-zachxbt-says",
-          "published": "Mon, 02 Nov 2026 17:21:04 +0000",
-          "source": "CoinDesk",
-          "text": "EU entity suspected of losing $106 million from crypto exchange accounts, ZachXBT says The unidentified attacker moved funds through ether, instant exchanges and Monero, but the victim and affected exchanges remain unknown."
+          "text": "ETHGas wants to bring Wall Street to public Ethereum with institutional controls The proposed service would offer sanctions screening and qualified validators, but current compensation for failed commitments is set at zero."
         }
       ],
-      "marketSentiment": -37,
-      "combinedScore": 66,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment -37."
+      "marketSentiment": -39,
+      "combinedScore": 54,
+      "signal": "WAIT",
+      "reason": "Technical 65/100; News +0; Market sentiment -39."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 1205.34,
-      "change24h": -4.009,
-      "volume24h": 224065631.27956,
+      "price": 1241.3,
+      "change24h": 8.236,
+      "volume24h": 166756192.96124,
       "technical": {
-        "rsi": 65.3,
-        "ema9": 1196.7825161358312,
-        "ema21": 1187.6220081652684,
+        "rsi": 67.4,
+        "ema9": 1216.4308813270407,
+        "ema21": 1210.9808096751085,
         "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 0.58,
-        "score": 65
+        "volumeRatio": 2.57,
+        "score": 70
       },
       "newsScore": 0,
       "newsCount": 1,
@@ -146,28 +146,51 @@
           "text": "Bitcoin drops below $77,000 as chip rout deepens ahead of U.S. midterm vote ZEC tumbled nearly 10% and BNB fell under $700 as the Nasdaq 100 slid into a correction, dragging Asian stocks lower."
         }
       ],
-      "marketSentiment": -37,
-      "combinedScore": 54,
+      "marketSentiment": -39,
+      "combinedScore": 56,
       "signal": "WAIT",
-      "reason": "Technical 65/100; News +0; Market sentiment -37."
+      "reason": "Technical 70/100; News +0; Market sentiment -39."
+    },
+    {
+      "symbol": "USD1USDT",
+      "coin": "USD1",
+      "price": 0.99945,
+      "change24h": 0.124,
+      "volume24h": 152044747.17657,
+      "technical": {
+        "rsi": 50.1,
+        "ema9": 0.9994883557940133,
+        "ema21": 0.9994801455806387,
+        "macdBull": false,
+        "emaBull": true,
+        "volumeRatio": 0.57,
+        "score": 53
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -39,
+      "combinedScore": 48,
+      "signal": "WAIT",
+      "reason": "Technical 53/100; News +0; Market sentiment -39."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 93.71,
-      "change24h": -0.096,
-      "volume24h": 156455190.18033,
+      "price": 93.78,
+      "change24h": 2.279,
+      "volume24h": 111489989.55902,
       "technical": {
-        "rsi": 65.2,
-        "ema9": 93.291719534593,
-        "ema21": 93.02639460612221,
+        "rsi": 60.5,
+        "ema9": 93.47709620884751,
+        "ema21": 93.39047768460142,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.83,
+        "volumeRatio": 1.09,
         "score": 89
       },
-      "newsScore": -50,
-      "newsCount": 2,
+      "newsScore": 0,
+      "newsCount": 1,
       "news": [
         {
           "title": "Crypto investigators flag suspected $106M theft, $786K Solana bot drain",
@@ -175,80 +198,50 @@
           "published": "Mon, 02 Nov 2026 21:16:24 +0000",
           "source": "Cointelegraph",
           "text": "Crypto investigators flag suspected $106M theft, $786K Solana bot drain A European entity may have lost $106 million from exchange accounts, while a wallet associated with a Solana arbitrage bot may have lost another $786,000."
-        },
-        {
-          "title": "Binance hackers begin swapping stolen Solana tokens for Bitcoin: Chainalysis",
-          "link": "https://cointelegraph.com/news/binance-hackers-solana-new-phase-laundering-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Mon, 02 Nov 2026 12:40:45 +0000",
-          "source": "Cointelegraph",
-          "text": "Binance hackers begin swapping stolen Solana tokens for Bitcoin: Chainalysis Crypto exchange Gate said it froze two linked accounts as US investigators urged platforms to block transactions tied to the $6.3 billion theft."
         }
       ],
-      "marketSentiment": -37,
-      "combinedScore": 58,
-      "signal": "WAIT",
-      "reason": "Technical 89/100; News -50; Market sentiment -37."
-    },
-    {
-      "symbol": "USD1USDT",
-      "coin": "USD1",
-      "price": 0.99949,
-      "change24h": 0.119,
-      "volume24h": 142698516.5105,
-      "technical": {
-        "rsi": 55.5,
-        "ema9": 0.9993497381224477,
-        "ema21": 0.9993501529841384,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.57,
-        "score": 35
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -37,
-      "combinedScore": 39,
-      "signal": "WAIT",
-      "reason": "Technical 35/100; News +0; Market sentiment -37."
+      "marketSentiment": -39,
+      "combinedScore": 66,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment -39."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 1.2811,
-      "change24h": 2.513,
-      "volume24h": 110710600.93499,
+      "price": 1.2862,
+      "change24h": 2.921,
+      "volume24h": 89904993.85799,
       "technical": {
-        "rsi": 60.8,
-        "ema9": 1.2774885641827027,
-        "ema21": 1.273271093600741,
+        "rsi": 56.9,
+        "ema9": 1.278973471119621,
+        "ema21": 1.2785744892481608,
         "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 0.57,
+        "volumeRatio": 1.47,
         "score": 65
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -37,
+      "marketSentiment": -39,
       "combinedScore": 54,
       "signal": "WAIT",
-      "reason": "Technical 65/100; News +0; Market sentiment -37."
+      "reason": "Technical 65/100; News +0; Market sentiment -39."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 3.848,
-      "change24h": -4.516,
-      "volume24h": 92991362.9382,
+      "price": 3.862,
+      "change24h": -0.541,
+      "volume24h": 74768741.5088,
       "technical": {
-        "rsi": 48.1,
-        "ema9": 3.861953768936938,
-        "ema21": 3.860041511744175,
-        "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.77,
-        "score": 53
+        "rsi": 52.0,
+        "ema9": 3.833590928486522,
+        "ema21": 3.8347091422942814,
+        "macdBull": true,
+        "emaBull": false,
+        "volumeRatio": 0.56,
+        "score": 47
       },
       "newsScore": -50,
       "newsCount": 2,
@@ -268,25 +261,25 @@
           "text": "Mercado Bitcoin pledges to cover all user losses after near $40 million hack Partners like Tether, Circle, and Chainalysis helped freeze $11M of the stolen assets."
         }
       ],
-      "marketSentiment": -37,
-      "combinedScore": 40,
+      "marketSentiment": -39,
+      "combinedScore": 37,
       "signal": "WAIT",
-      "reason": "Technical 53/100; News -50; Market sentiment -37."
+      "reason": "Technical 47/100; News -50; Market sentiment -39."
     },
     {
       "symbol": "BNBUSDT",
       "coin": "BNB",
-      "price": 701.76,
-      "change24h": -0.247,
-      "volume24h": 71230667.70172,
+      "price": 700.29,
+      "change24h": 0.472,
+      "volume24h": 63875430.03819,
       "technical": {
-        "rsi": 58.7,
-        "ema9": 699.311812039287,
-        "ema21": 698.7905590402846,
-        "macdBull": false,
+        "rsi": 59.4,
+        "ema9": 698.6750454033078,
+        "ema21": 698.2844669344892,
+        "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.63,
-        "score": 65
+        "volumeRatio": 0.56,
+        "score": 89
       },
       "newsScore": 0,
       "newsCount": 1,
@@ -299,59 +292,87 @@
           "text": "Bitcoin drops below $77,000 as chip rout deepens ahead of U.S. midterm vote ZEC tumbled nearly 10% and BNB fell under $700 as the Nasdaq 100 slid into a correction, dragging Asian stocks lower."
         }
       ],
-      "marketSentiment": -37,
-      "combinedScore": 54,
-      "signal": "WAIT",
-      "reason": "Technical 65/100; News +0; Market sentiment -37."
+      "marketSentiment": -39,
+      "combinedScore": 66,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment -39."
     },
     {
       "symbol": "PEPEUSDT",
       "coin": "PEPE",
-      "price": 4.91e-06,
-      "change24h": 4.468,
-      "volume24h": 53913680.59261761,
+      "price": 4.9e-06,
+      "change24h": 3.158,
+      "volume24h": 46199268.11141032,
       "technical": {
-        "rsi": 59.3,
-        "ema9": 4.873971271297159e-06,
-        "ema21": 4.8399829375585315e-06,
-        "macdBull": true,
+        "rsi": 54.6,
+        "ema9": 4.855420330738475e-06,
+        "ema21": 4.853968487268671e-06,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 0.5,
-        "score": 89
+        "volumeRatio": 0.37,
+        "score": 53
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -37,
-      "combinedScore": 66,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment -37."
+      "marketSentiment": -39,
+      "combinedScore": 48,
+      "signal": "WAIT",
+      "reason": "Technical 53/100; News +0; Market sentiment -39."
     },
     {
       "symbol": "UNIUSDT",
       "coin": "UNI",
-      "price": 7.352,
-      "change24h": 1.547,
-      "volume24h": 46052246.95325,
+      "price": 7.205,
+      "change24h": 2.475,
+      "volume24h": 41868852.15217,
       "technical": {
-        "rsi": 65.2,
-        "ema9": 7.333142942829282,
-        "ema21": 7.2784901618133855,
+        "rsi": 43.7,
+        "ema9": 7.227830435399774,
+        "ema21": 7.246515868405458,
         "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.81,
-        "score": 65
+        "emaBull": false,
+        "volumeRatio": 0.9,
+        "score": 11
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -37,
-      "combinedScore": 54,
-      "signal": "WAIT",
-      "reason": "Technical 65/100; News +0; Market sentiment -37."
+      "marketSentiment": -39,
+      "combinedScore": 27,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment -39."
     }
   ],
   "news": [
+    {
+      "title": "CFTC clears stock perpetual futures for trading on US exchanges",
+      "link": "https://cointelegraph.com/news/cftc-equity-perpetual-futures-trading-us-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 03 Nov 2026 20:24:55 +0000",
+      "source": "Cointelegraph",
+      "text": "CFTC clears stock perpetual futures for trading on US exchanges US regulators are opening the door to stock-based perpetual futures, extending a popular crypto trading product into traditional markets amid ongoing legal disputes."
+    },
+    {
+      "title": "US midterms: Prediction markets favor Democrats in key crypto races",
+      "link": "https://cointelegraph.com/news/us-midterm-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 03 Nov 2026 19:38:19 +0000",
+      "source": "Cointelegraph",
+      "text": "US midterms: Prediction markets favor Democrats in key crypto races Kalshi and Polymarket price a 75% chance of a Democratic sweep, days after markets misjudged Brazil’s runoff."
+    },
+    {
+      "title": "Wall Street killed Bitcoin’s wild rallies: 10x’s Markus Thielen",
+      "link": "https://cointelegraph.com/magazine/wall-street-killed-bitcoins-wild-rallies-markus-thielen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 03 Nov 2026 16:47:01 +0000",
+      "source": "Cointelegraph",
+      "text": "Wall Street killed Bitcoin’s wild rallies: 10x’s Markus Thielen Markus Thielen sees Bitcoin reaching $90,000 by year-end, questions institutional ETF demand and says Ethereum must do more for holders."
+    },
+    {
+      "title": "Binance traces $6.3B hack to fake job interviews, compromised AI tool",
+      "link": "https://cointelegraph.com/news/binance-fake-job-interviews-compromised-ai-tool-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 03 Nov 2026 16:44:06 +0000",
+      "source": "Cointelegraph",
+      "text": "Binance traces $6.3B hack to fake job interviews, compromised AI tool Hackers exploited compromised employee computers and stolen credentials to breach Binance’s wallet infrastructure, according to the exchange’s investigation."
+    },
     {
       "title": "Bitcoin price defends $76K lows as analysts see stocks pricing in ‘political gridlock’",
       "link": "https://cointelegraph.com/markets/bitcoin-price-defends-76k-lows-as-analysis-sees-stocks-pricing-in-political-gridlock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -416,11 +437,11 @@
       "text": "ARK buys $17M in Coinbase, Circle shares while trimming Bullish ARK Invest added Coinbase and Circle shares across two trading sessions while selling about $8 million in Bullish as crypto stocks declined."
     },
     {
-      "title": "Kraken restricts accounts amid suspected $133M EU crypto theft",
+      "title": "Kraken restricts accounts linked to suspected $133M EU crypto theft",
       "link": "https://cointelegraph.com/news/zachxbt-eu-crypto-theft-133m-alleged-cover-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 03 Nov 2026 08:18:22 +0000",
       "source": "Cointelegraph",
-      "text": "Kraken restricts accounts amid suspected $133M EU crypto theft Crypto.com also took steps to block funds tied to the suspected theft, while Kraken said its systems and customer accounts were not compromised."
+      "text": "Kraken restricts accounts linked to suspected $133M EU crypto theft Crypto.com also took steps to block funds tied to the suspected theft, while Kraken said its systems and customer accounts were not compromised."
     },
     {
       "title": "BlackRock’s IBIT sees biggest Bitcoin ETF outflows since June",
@@ -463,34 +484,6 @@
       "published": "Tue, 03 Nov 2026 01:32:39 +0000",
       "source": "Cointelegraph",
       "text": "South Korea urges exchanges to boost cold storage after Binance hack South Korean crypto exchanges are already required to hold at least 80% of customer crypto in cold wallets, but the regulator is urging more."
-    },
-    {
-      "title": "North Korea denies role in $6.3B Binance hack, points finger at US",
-      "link": "https://cointelegraph.com/news/north-korea-denies-role-in-63b-binance-hack-points-finger-at-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 02 Nov 2026 23:07:07 +0000",
-      "source": "Cointelegraph",
-      "text": "North Korea denies role in $6.3B Binance hack, points finger at US Pyongyang has pushed back against the FBI’s attribution of the Binance attack, with Kim Yo Jong calling the US allegations politically motivated."
-    },
-    {
-      "title": "New Jersey drops Coinbase staking order ahead of crypto’s midterm test",
-      "link": "https://cointelegraph.com/news/new-jersey-coinbase-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 02 Nov 2026 22:22:30 +0000",
-      "source": "Cointelegraph",
-      "text": "New Jersey drops Coinbase staking order ahead of crypto’s midterm test New Jersey lifted its staking ban and dropped a $5 million penalty, clearing the way for Coinbase to restore staking access for users in the US state."
-    },
-    {
-      "title": "AI poses greater threat to Bitcoin than quantum computing, Swan founder says",
-      "link": "https://cointelegraph.com/news/ai-hackers-threat-bitcoin-quantum-computing-swan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 02 Nov 2026 21:54:41 +0000",
-      "source": "Cointelegraph",
-      "text": "AI poses greater threat to Bitcoin than quantum computing, Swan founder says The Swan Bitcoin founder warned that hackers are using large language models to exploit security flaws with just a few prompts."
-    },
-    {
-      "title": "Crypto investigators flag suspected $106M theft, $786K Solana bot drain",
-      "link": "https://cointelegraph.com/news/zachxbt-flags-suspected-106m-crypto-theft-as-solana-bot-faces-possible-786k-drain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 02 Nov 2026 21:16:24 +0000",
-      "source": "Cointelegraph",
-      "text": "Crypto investigators flag suspected $106M theft, $786K Solana bot drain A European entity may have lost $106 million from exchange accounts, while a wallet associated with a Solana arbitrage bot may have lost another $786,000."
     }
   ],
   "paper": {
@@ -682,6 +675,16 @@
         "stopLoss": 2265.4803,
         "takeProfit": 2368.9794,
         "entryTime": "2026-11-03T15:54:44.772350+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "SOLUSDT",
+        "side": "BUY",
+        "entry": 93.78,
+        "stopLoss": 92.3733,
+        "takeProfit": 96.5934,
+        "entryTime": "2026-11-03T21:22:41.151447+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       }

@@ -189,6 +189,16 @@
       "entryTime": "2026-11-03T15:54:44.772350+00:00",
       "status": "OPEN",
       "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "SOLUSDT",
+      "side": "BUY",
+      "entry": 93.78,
+      "stopLoss": 92.3733,
+      "takeProfit": 96.5934,
+      "entryTime": "2026-11-03T21:22:41.151447+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
     }
   ],
   "closed": [
