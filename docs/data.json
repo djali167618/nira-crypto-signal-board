@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-04 15:53:59 UTC",
+  "generatedAt": "2026-11-04 21:37:05 UTC",
   "interval": "15m candles",
-  "marketSentiment": -27,
-  "overallNewsScore": -18,
+  "marketSentiment": -30,
+  "overallNewsScore": -25,
   "fearGreed": {
     "value": 34,
     "label": "Fear",
@@ -12,21 +12,35 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 80425.25,
-      "change24h": 3.515,
-      "volume24h": 1481928497.7686808,
+      "price": 80184.01,
+      "change24h": 2.884,
+      "volume24h": 1706933354.410537,
       "technical": {
-        "rsi": 71.0,
-        "ema9": 79614.64489961695,
-        "ema21": 79027.70269917407,
-        "macdBull": true,
+        "rsi": 52.7,
+        "ema9": 80193.88311558517,
+        "ema21": 80124.92394071582,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 1.43,
-        "score": 89
+        "volumeRatio": 0.42,
+        "score": 53
       },
-      "newsScore": 0,
+      "newsScore": 10,
       "newsCount": 5,
       "news": [
+        {
+          "title": "Trump-linked tokens lead crypto losses after Democrats sweep in the US midterms",
+          "link": "https://cointelegraph.com/news/trump-linked-tokens-lead-crypto-losses-after-democrats-sweep-in-the-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Wed, 04 Nov 2026 19:15:39 +0000",
+          "source": "Cointelegraph",
+          "text": "Trump-linked tokens lead crypto losses after Democrats sweep in the US midterms The official Trump and World Liberty Financial tokens were the two biggest losers among the top 100 cryptocurrencies on Wednesday, even as Bitcoin and Ether rallied."
+        },
+        {
+          "title": "Riot shares surge on $28B AI lease as Hut 8 sinks on revenue miss",
+          "link": "https://cointelegraph.com/news/riots-28b-ai-deal-lifts-shares-as-hut-8-faces-transition-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Wed, 04 Nov 2026 18:47:56 +0000",
+          "source": "Cointelegraph",
+          "text": "Riot shares surge on $28B AI lease as Hut 8 sinks on revenue miss Bitcoin miner Riot sold BTC to finance its AI expansion, while Hut 8 reported falling revenue and rising costs before its major data center leases generate income."
+        },
         {
           "title": "Bitcoin hits $80.5K as US stocks rally on midterm election results",
           "link": "https://cointelegraph.com/markets/bitcoin-price-us-stocks-rally-midterm-election-result?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -47,45 +61,38 @@
           "published": "Wed, 04 Nov 2026 09:38:07 +0000",
           "source": "Cointelegraph",
           "text": "Bitcoin ETFs lose $1.16B as Bitwise calls selling ‘short-term’ Bitwise’s André Dragosch attributed Bitcoin ETF outflows to weaker market sentiment, saying institutions have largely maintained their exposure."
-        },
-        {
-          "title": "Bitcoin bounces from 7-week low under $76K as Democrats sweep Congress",
-          "link": "https://cointelegraph.com/markets/bitcoin-bounces-from-7-week-low-under-76k-as-democrats-eye-congress-sweep?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Wed, 04 Nov 2026 07:25:47 +0000",
-          "source": "Cointelegraph",
-          "text": "Bitcoin bounces from 7-week low under $76K as Democrats sweep Congress Bitcoin price downside reached a seven-week-low of $75,618 as 24-hour crypto long liquidations neared $300 million."
-        },
-        {
-          "title": "RUNE rallies 15% as THORChain restarts most swaps after halt",
-          "link": "https://cointelegraph.com/markets/rune-rallies-15-as-thorchain-restarts-most-swaps-after-outage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Tue, 03 Nov 2026 23:56:09 +0000",
-          "source": "Cointelegraph",
-          "text": "RUNE rallies 15% as THORChain restarts most swaps after halt THORChain has restored trading on Bitcoin, Ethereum and several other networks following a refund bug, while three chains remain paused."
         }
       ],
-      "marketSentiment": -27,
-      "combinedScore": 67,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment -27."
+      "marketSentiment": -30,
+      "combinedScore": 50,
+      "signal": "WAIT",
+      "reason": "Technical 53/100; News +10; Market sentiment -30."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2424.02,
-      "change24h": 5.412,
-      "volume24h": 681954382.199195,
+      "price": 2421.13,
+      "change24h": 5.382,
+      "volume24h": 783627123.513131,
       "technical": {
-        "rsi": 79.0,
-        "ema9": 2383.7614128021814,
-        "ema21": 2353.290252936374,
-        "macdBull": true,
+        "rsi": 57.5,
+        "ema9": 2420.014651740877,
+        "ema21": 2414.234353141509,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 0.95,
-        "score": 72
+        "volumeRatio": 0.58,
+        "score": 65
       },
-      "newsScore": 20,
+      "newsScore": 17,
       "newsCount": 5,
       "news": [
+        {
+          "title": "Trump-linked tokens lead crypto losses after Democrats sweep in the US midterms",
+          "link": "https://cointelegraph.com/news/trump-linked-tokens-lead-crypto-losses-after-democrats-sweep-in-the-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Wed, 04 Nov 2026 19:15:39 +0000",
+          "source": "Cointelegraph",
+          "text": "Trump-linked tokens lead crypto losses after Democrats sweep in the US midterms The official Trump and World Liberty Financial tokens were the two biggest losers among the top 100 cryptocurrencies on Wednesday, even as Bitcoin and Ether rallied."
+        },
         {
           "title": "Ethereum dev targets 2028 for quantum resistance, a year early",
           "link": "https://cointelegraph.com/news/ethereum-post-quantum-transition-2028-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -113,65 +120,27 @@
           "published": "Tue, 03 Nov 2026 13:15:47 +0000",
           "source": "Cointelegraph",
           "text": "Moscow Exchange to launch Bitcoin, Ether and USDT trading in December Moscow Exchange plans to launch crypto trading on Dec. 1 under Russia’s new law, with annual purchase limits for non-qualified investors."
-        },
-        {
-          "title": "THORChain's RUNE jumps 10% as North Korean hackers resume laundering Binance loot",
-          "link": "https://www.coindesk.com/markets/2026/11/04/thorchain-s-rune-jumps-10-as-north-korean-hackers-resume-laundering-binance-loot",
-          "published": "Wed, 04 Nov 2026 12:49:56 +0000",
-          "source": "CoinDesk",
-          "text": "THORChain's RUNE jumps 10% as North Korean hackers resume laundering Binance loot North Korea’s TraderTraitor is routing Binance hack proceeds through THORChain, swapping ether for bitcoin after an earlier wave of conversions from Tron."
         }
       ],
-      "marketSentiment": -27,
-      "combinedScore": 61,
+      "marketSentiment": -30,
+      "combinedScore": 57,
       "signal": "WAIT",
-      "reason": "Technical 72/100; News +20; Market sentiment -27."
-    },
-    {
-      "symbol": "ZECUSDT",
-      "coin": "ZEC",
-      "price": 1304.93,
-      "change24h": 8.376,
-      "volume24h": 247590574.29434,
-      "technical": {
-        "rsi": 53.8,
-        "ema9": 1310.446876951307,
-        "ema21": 1300.3418437463408,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 1.03,
-        "score": 77
-      },
-      "newsScore": 100,
-      "newsCount": 1,
-      "news": [
-        {
-          "title": "Zcash grants committee drops plan to redirect 98,000 ZEC to future mining rewards",
-          "link": "https://www.coindesk.com/markets/2026/11/04/zcash-grants-committee-drops-plan-to-redirect-98-000-zec-to-future-mining-rewards",
-          "published": "Wed, 04 Nov 2026 08:04:04 +0000",
-          "source": "CoinDesk",
-          "text": "Zcash grants committee drops plan to redirect 98,000 ZEC to future mining rewards The committee withdrew its proposal after community backlash, leaving competing plans to cut off its funding or preserve the existing grants system."
-        }
-      ],
-      "marketSentiment": -27,
-      "combinedScore": 76,
-      "signal": "BUY",
-      "reason": "Technical 77/100; News +100; Market sentiment -27."
+      "reason": "Technical 65/100; News +17; Market sentiment -30."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 96.64,
-      "change24h": 3.226,
-      "volume24h": 242482855.36361,
+      "price": 94.63,
+      "change24h": 0.906,
+      "volume24h": 286917965.99981,
       "technical": {
-        "rsi": 69.4,
-        "ema9": 95.2646027655834,
-        "ema21": 94.26403427546872,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 2.92,
-        "score": 84
+        "rsi": 44.6,
+        "ema9": 94.94723810304036,
+        "ema21": 95.11835575632958,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.46,
+        "score": 11
       },
       "newsScore": 25,
       "newsCount": 2,
@@ -191,48 +160,102 @@
           "text": "Global asset manager Schroders brings emerging market bond fund to Solana The global asset manager, which oversees $1.1 trillion in assets, is bringing an actively managed bond strategy onchain through tokenization specialist Centrifuge."
         }
       ],
-      "marketSentiment": -27,
-      "combinedScore": 68,
-      "signal": "BUY",
-      "reason": "Technical 84/100; News +25; Market sentiment -27."
+      "marketSentiment": -30,
+      "combinedScore": 31,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +25; Market sentiment -30."
+    },
+    {
+      "symbol": "ZECUSDT",
+      "coin": "ZEC",
+      "price": 1289.15,
+      "change24h": 4.319,
+      "volume24h": 260977922.61635,
+      "technical": {
+        "rsi": 45.6,
+        "ema9": 1290.2532150196214,
+        "ema21": 1294.0679244775201,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.32,
+        "score": 23
+      },
+      "newsScore": 100,
+      "newsCount": 1,
+      "news": [
+        {
+          "title": "Zcash grants committee drops plan to redirect 98,000 ZEC to future mining rewards",
+          "link": "https://www.coindesk.com/markets/2026/11/04/zcash-grants-committee-drops-plan-to-redirect-98-000-zec-to-future-mining-rewards",
+          "published": "Wed, 04 Nov 2026 08:04:04 +0000",
+          "source": "CoinDesk",
+          "text": "Zcash grants committee drops plan to redirect 98,000 ZEC to future mining rewards The committee withdrew its proposal after community backlash, leaving competing plans to cut off its funding or preserve the existing grants system."
+        }
+      ],
+      "marketSentiment": -30,
+      "combinedScore": 48,
+      "signal": "WAIT",
+      "reason": "Technical 23/100; News +100; Market sentiment -30."
     },
     {
       "symbol": "USD1USDT",
       "coin": "USD1",
-      "price": 0.99941,
-      "change24h": -0.007,
-      "volume24h": 162917807.3875,
+      "price": 0.99956,
+      "change24h": 0.007,
+      "volume24h": 158376651.82717,
       "technical": {
-        "rsi": 34.2,
-        "ema9": 0.9995076439379074,
-        "ema21": 0.999577434936696,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 1.21,
-        "score": 11
+        "rsi": 58.2,
+        "ema9": 0.9995057128491083,
+        "ema21": 0.999453060945685,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.5,
+        "score": 89
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -27,
-      "combinedScore": 28,
+      "marketSentiment": -30,
+      "combinedScore": 66,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment -30."
+    },
+    {
+      "symbol": "XRPUSDT",
+      "coin": "XRP",
+      "price": 1.3041,
+      "change24h": 1.415,
+      "volume24h": 145511828.8791,
+      "technical": {
+        "rsi": 48.3,
+        "ema9": 1.3043046545151444,
+        "ema21": 1.3051393330317154,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.57,
+        "score": 23
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -30,
+      "combinedScore": 34,
       "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment -27."
+      "reason": "Technical 23/100; News +0; Market sentiment -30."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 4.153,
-      "change24h": 7.954,
-      "volume24h": 125640011.8819,
+      "price": 4.022,
+      "change24h": 3.767,
+      "volume24h": 136399112.7659,
       "technical": {
-        "rsi": 59.0,
-        "ema9": 4.121876551293338,
-        "ema21": 4.079065862412434,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.97,
-        "score": 89
+        "rsi": 44.1,
+        "ema9": 4.027515793801008,
+        "ema21": 4.048573687995098,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.21,
+        "score": 11
       },
       "newsScore": 0,
       "newsCount": 1,
@@ -245,105 +268,103 @@
           "text": "NEAR token sinks 7% as proposal to cut annual token issuance passes The proposed issuance cut would prevent 11.8 million NEAR from entering circulation over two years, worth about $45 million at today’s price."
         }
       ],
-      "marketSentiment": -27,
-      "combinedScore": 67,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment -27."
+      "marketSentiment": -30,
+      "combinedScore": 28,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment -30."
     },
     {
       "symbol": "BNBUSDT",
       "coin": "BNB",
-      "price": 716.68,
-      "change24h": 2.151,
-      "volume24h": 124375403.23185,
+      "price": 717.18,
+      "change24h": 2.259,
+      "volume24h": 131364239.34088,
       "technical": {
-        "rsi": 71.5,
-        "ema9": 710.2901816492127,
-        "ema21": 706.0455319176618,
-        "macdBull": true,
+        "rsi": 56.5,
+        "ema9": 716.5051753310471,
+        "ema21": 715.4647923065478,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 2.05,
-        "score": 84
+        "volumeRatio": 0.47,
+        "score": 65
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -27,
-      "combinedScore": 64,
+      "marketSentiment": -30,
+      "combinedScore": 54,
       "signal": "WAIT",
-      "reason": "Technical 84/100; News +0; Market sentiment -27."
-    },
-    {
-      "symbol": "XRPUSDT",
-      "coin": "XRP",
-      "price": 1.32,
-      "change24h": 3.069,
-      "volume24h": 122344292.63373,
-      "technical": {
-        "rsi": 66.5,
-        "ema9": 1.3089770281082256,
-        "ema21": 1.2971200359495603,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 1.06,
-        "score": 89
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -27,
-      "combinedScore": 67,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment -27."
+      "reason": "Technical 65/100; News +0; Market sentiment -30."
     },
     {
       "symbol": "PEPEUSDT",
       "coin": "PEPE",
-      "price": 5.19e-06,
-      "change24h": 6.135,
-      "volume24h": 64779660.8577613,
+      "price": 4.93e-06,
+      "change24h": 0.203,
+      "volume24h": 71662416.88357805,
       "technical": {
-        "rsi": 64.3,
-        "ema9": 5.100308870439596e-06,
-        "ema21": 5.054529418179713e-06,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 2.5,
-        "score": 84
+        "rsi": 39.1,
+        "ema9": 4.96786875128802e-06,
+        "ema21": 4.999244796375812e-06,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.23,
+        "score": 11
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -27,
-      "combinedScore": 64,
-      "signal": "WAIT",
-      "reason": "Technical 84/100; News +0; Market sentiment -27."
+      "marketSentiment": -30,
+      "combinedScore": 28,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment -30."
     },
     {
       "symbol": "UNIUSDT",
       "coin": "UNI",
-      "price": 7.668,
-      "change24h": 4.341,
-      "volume24h": 60315748.88304,
+      "price": 7.589,
+      "change24h": 5.564,
+      "volume24h": 64586265.51763,
       "technical": {
-        "rsi": 64.0,
-        "ema9": 7.519706984725713,
-        "ema21": 7.45882140035563,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.83,
-        "score": 89
+        "rsi": 47.7,
+        "ema9": 7.595206193925925,
+        "ema21": 7.595370645486751,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.52,
+        "score": 23
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -27,
-      "combinedScore": 67,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment -27."
+      "marketSentiment": -30,
+      "combinedScore": 34,
+      "signal": "SELL",
+      "reason": "Technical 23/100; News +0; Market sentiment -30."
     }
   ],
   "news": [
+    {
+      "title": "Trump-linked tokens lead crypto losses after Democrats sweep in the US midterms",
+      "link": "https://cointelegraph.com/news/trump-linked-tokens-lead-crypto-losses-after-democrats-sweep-in-the-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 04 Nov 2026 19:15:39 +0000",
+      "source": "Cointelegraph",
+      "text": "Trump-linked tokens lead crypto losses after Democrats sweep in the US midterms The official Trump and World Liberty Financial tokens were the two biggest losers among the top 100 cryptocurrencies on Wednesday, even as Bitcoin and Ether rallied."
+    },
+    {
+      "title": "Riot shares surge on $28B AI lease as Hut 8 sinks on revenue miss",
+      "link": "https://cointelegraph.com/news/riots-28b-ai-deal-lifts-shares-as-hut-8-faces-transition-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 04 Nov 2026 18:47:56 +0000",
+      "source": "Cointelegraph",
+      "text": "Riot shares surge on $28B AI lease as Hut 8 sinks on revenue miss Bitcoin miner Riot sold BTC to finance its AI expansion, while Hut 8 reported falling revenue and rising costs before its major data center leases generate income."
+    },
+    {
+      "title": "Circle’s ARC token sale lifts earnings as lower yields weigh on USDC income",
+      "link": "https://cointelegraph.com/news/circles-arc-token-sale-earnings-yields-usdc-income?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 04 Nov 2026 18:02:42 +0000",
+      "source": "Cointelegraph",
+      "text": "Circle’s ARC token sale lifts earnings as lower yields weigh on USDC income Circle is looking to payments fees and future staking rewards to diversify revenue as its core stablecoin business faces pressure from lower yields and growing competition."
+    },
     {
       "title": "Bitcoin hits $80.5K as US stocks rally on midterm election results",
       "link": "https://cointelegraph.com/markets/bitcoin-price-us-stocks-rally-midterm-election-result?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -462,27 +483,6 @@
       "published": "Tue, 03 Nov 2026 21:47:20 +0000",
       "source": "Cointelegraph",
       "text": "SpaceX blocks tokenized stock listing on OKXICE despite offshore trading boom SpaceX joined several other issuers objecting to OKXICE tokenized trading, months after crypto platforms offered tokens tied to its shares."
-    },
-    {
-      "title": "CFTC clears stock perpetual futures for trading on US exchanges",
-      "link": "https://cointelegraph.com/news/cftc-equity-perpetual-futures-trading-us-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 03 Nov 2026 20:24:55 +0000",
-      "source": "Cointelegraph",
-      "text": "CFTC clears stock perpetual futures for trading on US exchanges US regulators are opening the door to stock-based perpetual futures, extending a popular crypto trading product into traditional markets amid ongoing legal disputes."
-    },
-    {
-      "title": "US midterms: Prediction markets favor Democrats in key crypto races",
-      "link": "https://cointelegraph.com/news/us-midterm-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 03 Nov 2026 19:38:19 +0000",
-      "source": "Cointelegraph",
-      "text": "US midterms: Prediction markets favor Democrats in key crypto races Kalshi and Polymarket price a 75% chance of a Democratic sweep, days after markets misjudged Brazil’s runoff."
-    },
-    {
-      "title": "Wall Street killed Bitcoin’s wild rallies: 10x’s Markus Thielen",
-      "link": "https://cointelegraph.com/magazine/wall-street-killed-bitcoins-wild-rallies-markus-thielen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 03 Nov 2026 16:47:01 +0000",
-      "source": "Cointelegraph",
-      "text": "Wall Street killed Bitcoin’s wild rallies: 10x’s Markus Thielen Markus Thielen sees Bitcoin reaching $90,000 by year-end, questions institutional ETF demand and says Ethereum must do more for holders."
     }
   ],
   "paper": {
@@ -588,16 +588,6 @@
         "mode": "PAPER ONLY"
       },
       {
-        "symbol": "BNBUSDT",
-        "side": "SELL",
-        "entry": 706.52,
-        "stopLoss": 717.1178,
-        "takeProfit": 685.3244,
-        "entryTime": "2026-10-29T23:29:48.238528+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
         "symbol": "HYPEUSDT",
         "side": "SELL",
         "entry": 91.04,
@@ -658,26 +648,6 @@
         "mode": "PAPER ONLY"
       },
       {
-        "symbol": "SOLUSDT",
-        "side": "BUY",
-        "entry": 96.64,
-        "stopLoss": 95.1904,
-        "takeProfit": 99.5392,
-        "entryTime": "2026-11-04T15:53:59.618367+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
-        "symbol": "NEARUSDT",
-        "side": "BUY",
-        "entry": 4.153,
-        "stopLoss": 4.090705,
-        "takeProfit": 4.27759,
-        "entryTime": "2026-11-04T15:53:59.618367+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
         "symbol": "XRPUSDT",
         "side": "BUY",
         "entry": 1.32,
@@ -694,6 +664,36 @@
         "stopLoss": 7.55298,
         "takeProfit": 7.89804,
         "entryTime": "2026-11-04T15:53:59.618367+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "SOLUSDT",
+        "side": "SELL",
+        "entry": 94.63,
+        "stopLoss": 96.04945,
+        "takeProfit": 91.7911,
+        "entryTime": "2026-11-04T21:37:05.666963+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "NEARUSDT",
+        "side": "SELL",
+        "entry": 4.022,
+        "stopLoss": 4.08233,
+        "takeProfit": 3.90134,
+        "entryTime": "2026-11-04T21:37:05.666963+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "PEPEUSDT",
+        "side": "SELL",
+        "entry": 4.93e-06,
+        "stopLoss": 5.0039e-06,
+        "takeProfit": 4.7821e-06,
+        "entryTime": "2026-11-04T21:37:05.666963+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       }
@@ -1907,6 +1907,45 @@
         "exitPrice": 5.19e-06,
         "exitTime": "2026-11-04T15:53:59.618367+00:00",
         "pnlPercent": 4.008
+      },
+      {
+        "symbol": "BNBUSDT",
+        "side": "SELL",
+        "entry": 706.52,
+        "stopLoss": 717.1178,
+        "takeProfit": 685.3244,
+        "entryTime": "2026-10-29T23:29:48.238528+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 717.18,
+        "exitTime": "2026-11-04T21:37:05.666963+00:00",
+        "pnlPercent": -1.509
+      },
+      {
+        "symbol": "SOLUSDT",
+        "side": "BUY",
+        "entry": 96.64,
+        "stopLoss": 95.1904,
+        "takeProfit": 99.5392,
+        "entryTime": "2026-11-04T15:53:59.618367+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 94.63,
+        "exitTime": "2026-11-04T21:37:05.666963+00:00",
+        "pnlPercent": -2.08
+      },
+      {
+        "symbol": "NEARUSDT",
+        "side": "BUY",
+        "entry": 4.153,
+        "stopLoss": 4.090705,
+        "takeProfit": 4.27759,
+        "entryTime": "2026-11-04T15:53:59.618367+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 4.022,
+        "exitTime": "2026-11-04T21:37:05.666963+00:00",
+        "pnlPercent": -3.154
       }
     ]
   },
