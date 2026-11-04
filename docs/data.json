@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-04 01:30:10 UTC",
+  "generatedAt": "2026-11-04 07:55:31 UTC",
   "interval": "15m candles",
-  "marketSentiment": -26,
-  "overallNewsScore": -14,
+  "marketSentiment": -28,
+  "overallNewsScore": -20,
   "fearGreed": {
     "value": 34,
     "label": "Fear",
@@ -12,34 +12,41 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 76967.24,
-      "change24h": -0.42,
-      "volume24h": 996949661.7157826,
+      "price": 78034.27,
+      "change24h": 1.517,
+      "volume24h": 1115170217.0368147,
       "technical": {
-        "rsi": 34.6,
-        "ema9": 77242.26922433451,
-        "ema21": 77459.87495342437,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 1.48,
-        "score": 11
+        "rsi": 66.8,
+        "ema9": 77936.14145135079,
+        "ema21": 77589.90829175654,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.59,
+        "score": 89
       },
-      "newsScore": 20,
+      "newsScore": 10,
       "newsCount": 5,
       "news": [
+        {
+          "title": "Bitcoin bounces from 7-week low under $76K as Democrats sweep Congress",
+          "link": "https://cointelegraph.com/markets/bitcoin-bounces-from-7-week-low-under-76k-as-democrats-eye-congress-sweep?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Wed, 04 Nov 2026 07:25:47 +0000",
+          "source": "Cointelegraph",
+          "text": "Bitcoin bounces from 7-week low under $76K as Democrats sweep Congress Bitcoin price downside reached a seven-week-low of $75,618 as 24-hour crypto long liquidations neared $300 million."
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Wed, 04 Nov 2026 06:03:33 +0000",
+          "source": "Cointelegraph",
+          "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+        },
         {
           "title": "RUNE rallies 15% as THORChain restarts most swaps after halt",
           "link": "https://cointelegraph.com/markets/rune-rallies-15-as-thorchain-restarts-most-swaps-after-outage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "published": "Tue, 03 Nov 2026 23:56:09 +0000",
           "source": "Cointelegraph",
           "text": "RUNE rallies 15% as THORChain restarts most swaps after halt THORChain has restored trading on Bitcoin, Ethereum and several other networks following a refund bug, while three chains remain paused."
-        },
-        {
-          "title": "Here’s what happened in crypto today",
-          "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Tue, 03 Nov 2026 22:39:18 +0000",
-          "source": "Cointelegraph",
-          "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
         },
         {
           "title": "Wall Street killed Bitcoin’s wild rallies: 10x’s Markus Thielen",
@@ -54,38 +61,38 @@
           "published": "Tue, 03 Nov 2026 15:44:42 +0000",
           "source": "Cointelegraph",
           "text": "Bitcoin price defends $76K lows as analysts see stocks pricing in ‘political gridlock’ Bitcoin made modest gains at the start of Wall Street trading on Tuesday as markets awaited cues from the US midterm elections."
-        },
-        {
-          "title": "Moscow Exchange to launch Bitcoin, Ether and USDT trading in December",
-          "link": "https://cointelegraph.com/news/moscow-exchange-bitcoin-ether-usdt-trading-december?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Tue, 03 Nov 2026 13:15:47 +0000",
-          "source": "Cointelegraph",
-          "text": "Moscow Exchange to launch Bitcoin, Ether and USDT trading in December Moscow Exchange plans to launch crypto trading on Dec. 1 under Russia’s new law, with annual purchase limits for non-qualified investors."
         }
       ],
-      "marketSentiment": -26,
-      "combinedScore": 31,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +20; Market sentiment -26."
+      "marketSentiment": -28,
+      "combinedScore": 68,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +10; Market sentiment -28."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2262.7,
-      "change24h": -0.024,
-      "volume24h": 350878238.394039,
+      "price": 2302.79,
+      "change24h": 1.906,
+      "volume24h": 421916841.569899,
       "technical": {
-        "rsi": 33.0,
-        "ema9": 2272.1377719722923,
-        "ema21": 2279.864258399069,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 1.61,
-        "score": 6
+        "rsi": 66.3,
+        "ema9": 2295.6275550103383,
+        "ema21": 2285.128808112361,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.47,
+        "score": 89
       },
-      "newsScore": 20,
+      "newsScore": 17,
       "newsCount": 5,
       "news": [
+        {
+          "title": "Ethereum dev targets 2028 for quantum resistance, a year early",
+          "link": "https://cointelegraph.com/news/ethereum-post-quantum-transition-2028-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Wed, 04 Nov 2026 05:46:33 +0000",
+          "source": "Cointelegraph",
+          "text": "Ethereum dev targets 2028 for quantum resistance, a year early Ethereum researcher Justin Drake said it is their “hope” that Ethereum will achieve its post-quantum and post-AI transition by December 2028."
+        },
         {
           "title": "RUNE rallies 15% as THORChain restarts most swaps after halt",
           "link": "https://cointelegraph.com/markets/rune-rallies-15-as-thorchain-restarts-most-swaps-after-outage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -113,137 +120,122 @@
           "published": "Tue, 03 Nov 2026 14:53:19 +0000",
           "source": "CoinDesk",
           "text": "Binance's $6.3 billion hack began with a fake job interview, and a campaign 'built over many months' North Korea-linked attackers spent months compromising Binance employees and internal systems before exploiting its hot-wallet signing infrastructure through Ethereum's EIP-7702 mechanism."
-        },
-        {
-          "title": "ETHGas wants to bring Wall Street to public Ethereum with institutional controls",
-          "link": "https://www.coindesk.com/business/2026/11/03/ethgas-courts-wall-street-with-ethereum-blockspace-but-compensation-for-missed-trades-is-zero",
-          "published": "Tue, 03 Nov 2026 12:01:05 +0000",
-          "source": "CoinDesk",
-          "text": "ETHGas wants to bring Wall Street to public Ethereum with institutional controls The proposed service would offer sanctions screening and qualified validators, but current compensation for failed commitments is set at zero."
         }
       ],
-      "marketSentiment": -26,
-      "combinedScore": 28,
-      "signal": "SELL",
-      "reason": "Technical 6/100; News +20; Market sentiment -26."
+      "marketSentiment": -28,
+      "combinedScore": 69,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +17; Market sentiment -28."
+    },
+    {
+      "symbol": "ZECUSDT",
+      "coin": "ZEC",
+      "price": 1278.92,
+      "change24h": 11.99,
+      "volume24h": 207218176.26875,
+      "technical": {
+        "rsi": 72.2,
+        "ema9": 1264.1776077232137,
+        "ema21": 1241.857732085129,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.54,
+        "score": 72
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -28,
+      "combinedScore": 58,
+      "signal": "WAIT",
+      "reason": "Technical 72/100; News +0; Market sentiment -28."
+    },
+    {
+      "symbol": "SOLUSDT",
+      "coin": "SOL",
+      "price": 92.97,
+      "change24h": 0.868,
+      "volume24h": 162907024.56588,
+      "technical": {
+        "rsi": 60.1,
+        "ema9": 92.9086983605507,
+        "ema21": 92.56093644089178,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.28,
+        "score": 89
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -28,
+      "combinedScore": 67,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment -28."
     },
     {
       "symbol": "USD1USDT",
       "coin": "USD1",
       "price": 0.99957,
-      "change24h": 0.139,
-      "volume24h": 160592456.6953,
+      "change24h": 0.039,
+      "volume24h": 158766271.89704,
       "technical": {
-        "rsi": 53.2,
-        "ema9": 0.9994715916304386,
-        "ema21": 0.9995027297844556,
+        "rsi": 52.4,
+        "ema9": 0.9995727097447782,
+        "ema21": 0.9995638040591129,
         "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 1.62,
-        "score": 28
+        "emaBull": true,
+        "volumeRatio": 0.35,
+        "score": 53
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -26,
-      "combinedScore": 36,
+      "marketSentiment": -28,
+      "combinedScore": 49,
       "signal": "WAIT",
-      "reason": "Technical 28/100; News +0; Market sentiment -26."
-    },
-    {
-      "symbol": "ZECUSDT",
-      "coin": "ZEC",
-      "price": 1199.52,
-      "change24h": 3.563,
-      "volume24h": 156512772.50737,
-      "technical": {
-        "rsi": 40.2,
-        "ema9": 1211.6871889068434,
-        "ema21": 1215.877241253059,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 2.2,
-        "score": 6
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -26,
-      "combinedScore": 25,
-      "signal": "SELL",
-      "reason": "Technical 6/100; News +0; Market sentiment -26."
-    },
-    {
-      "symbol": "SOLUSDT",
-      "coin": "SOL",
-      "price": 91.9,
-      "change24h": -0.67,
-      "volume24h": 120044145.05814,
-      "technical": {
-        "rsi": 32.6,
-        "ema9": 92.42210905564507,
-        "ema21": 92.85305852011842,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 2.49,
-        "score": 16
-      },
-      "newsScore": 0,
-      "newsCount": 1,
-      "news": [
-        {
-          "title": "Crypto investigators flag suspected $106M theft, $786K Solana bot drain",
-          "link": "https://cointelegraph.com/news/zachxbt-flags-suspected-106m-crypto-theft-as-solana-bot-faces-possible-786k-drain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Mon, 02 Nov 2026 21:16:24 +0000",
-          "source": "Cointelegraph",
-          "text": "Crypto investigators flag suspected $106M theft, $786K Solana bot drain A European entity may have lost $106 million from exchange accounts, while a wallet associated with a Solana arbitrage bot may have lost another $786,000."
-        }
-      ],
-      "marketSentiment": -26,
-      "combinedScore": 30,
-      "signal": "SELL",
-      "reason": "Technical 16/100; News +0; Market sentiment -26."
+      "reason": "Technical 53/100; News +0; Market sentiment -28."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 1.2511,
-      "change24h": -0.048,
-      "volume24h": 95989394.56897,
+      "price": 1.2742,
+      "change24h": 1.562,
+      "volume24h": 105815818.21807,
       "technical": {
-        "rsi": 26.2,
-        "ema9": 1.263759889970423,
-        "ema21": 1.27098435203562,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 1.46,
-        "score": 28
+        "rsi": 58.2,
+        "ema9": 1.274506525171909,
+        "ema21": 1.2709948747615951,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.31,
+        "score": 89
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -26,
-      "combinedScore": 36,
-      "signal": "WAIT",
-      "reason": "Technical 28/100; News +0; Market sentiment -26."
+      "marketSentiment": -28,
+      "combinedScore": 67,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment -28."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 3.776,
-      "change24h": -2.731,
-      "volume24h": 77937544.0884,
+      "price": 4.006,
+      "change24h": 5.504,
+      "volume24h": 96791628.7469,
       "technical": {
-        "rsi": 37.6,
-        "ema9": 3.8117191646814357,
-        "ema21": 3.828494334756121,
-        "macdBull": false,
-        "emaBull": false,
+        "rsi": 75.0,
+        "ema9": 3.9419090797331,
+        "ema21": 3.8833616108142452,
+        "macdBull": true,
+        "emaBull": true,
         "volumeRatio": 1.37,
-        "score": 11
+        "score": 72
       },
-      "newsScore": -50,
-      "newsCount": 2,
+      "newsScore": 0,
+      "newsCount": 1,
       "news": [
         {
           "title": "NEAR token sinks 7% as proposal to cut annual token issuance passes",
@@ -251,97 +243,125 @@
           "published": "Tue, 03 Nov 2026 12:30:13 +0000",
           "source": "Cointelegraph",
           "text": "NEAR token sinks 7% as proposal to cut annual token issuance passes The proposed issuance cut would prevent 11.8 million NEAR from entering circulation over two years, worth about $45 million at today’s price."
-        },
-        {
-          "title": "Mercado Bitcoin pledges to cover all user losses after near $40 million hack",
-          "link": "https://www.coindesk.com/business/2026/11/03/mercado-bitcoin-pledges-to-cover-all-user-losses-after-near-usd40-million-hack",
-          "published": "Tue, 03 Nov 2026 08:56:48 +0000",
-          "source": "CoinDesk",
-          "text": "Mercado Bitcoin pledges to cover all user losses after near $40 million hack Partners like Tether, Circle, and Chainalysis helped freeze $11M of the stolen assets."
         }
       ],
-      "marketSentiment": -26,
-      "combinedScore": 20,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News -50; Market sentiment -26."
+      "marketSentiment": -28,
+      "combinedScore": 58,
+      "signal": "WAIT",
+      "reason": "Technical 72/100; News +0; Market sentiment -28."
     },
     {
       "symbol": "BNBUSDT",
       "coin": "BNB",
-      "price": 694.26,
-      "change24h": -0.855,
-      "volume24h": 68257596.06334,
+      "price": 702.57,
+      "change24h": 0.982,
+      "volume24h": 92041640.66305,
       "technical": {
-        "rsi": 37.3,
-        "ema9": 696.2399072262136,
-        "ema21": 697.668089485029,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 1.56,
-        "score": 16
+        "rsi": 66.9,
+        "ema9": 700.1490266070983,
+        "ema21": 697.2931229143172,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.53,
+        "score": 89
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -26,
-      "combinedScore": 30,
-      "signal": "SELL",
-      "reason": "Technical 16/100; News +0; Market sentiment -26."
+      "marketSentiment": -28,
+      "combinedScore": 67,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment -28."
     },
     {
       "symbol": "PEPEUSDT",
       "coin": "PEPE",
-      "price": 4.81e-06,
-      "change24h": -0.414,
-      "volume24h": 45715186.3433775,
+      "price": 4.99e-06,
+      "change24h": 6.397,
+      "volume24h": 50728724.38262593,
       "technical": {
-        "rsi": 39.8,
-        "ema9": 4.847063273339653e-06,
-        "ema21": 4.86273624191949e-06,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 4.44,
-        "score": 6
+        "rsi": 65.3,
+        "ema9": 4.958804130869821e-06,
+        "ema21": 4.919113215113206e-06,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.71,
+        "score": 89
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -26,
-      "combinedScore": 25,
-      "signal": "SELL",
-      "reason": "Technical 6/100; News +0; Market sentiment -26."
+      "marketSentiment": -28,
+      "combinedScore": 67,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment -28."
     },
     {
       "symbol": "UNIUSDT",
       "coin": "UNI",
-      "price": 7.097,
-      "change24h": 0.425,
-      "volume24h": 42612285.67299,
+      "price": 7.471,
+      "change24h": 5.822,
+      "volume24h": 49637605.2851,
       "technical": {
-        "rsi": 36.0,
-        "ema9": 7.159250429744173,
-        "ema21": 7.18972123581619,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 1.87,
-        "score": 6
+        "rsi": 77.6,
+        "ema9": 7.378238479633751,
+        "ema21": 7.28461021690894,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 2.17,
+        "score": 77
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -26,
-      "combinedScore": 25,
-      "signal": "SELL",
-      "reason": "Technical 6/100; News +0; Market sentiment -26."
+      "marketSentiment": -28,
+      "combinedScore": 61,
+      "signal": "WAIT",
+      "reason": "Technical 77/100; News +0; Market sentiment -28."
     }
   ],
   "news": [
     {
-      "title": "US midterms election 2026 live: Democratic Senate odds climb above 90%",
-      "link": "https://cointelegraph.com/news/us-midterms-2026-live-results-and-what-they-mean-for-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 04 Nov 2026 01:20:56 +0000",
+      "title": "Bitcoin bounces from 7-week low under $76K as Democrats sweep Congress",
+      "link": "https://cointelegraph.com/markets/bitcoin-bounces-from-7-week-low-under-76k-as-democrats-eye-congress-sweep?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 04 Nov 2026 07:25:47 +0000",
       "source": "Cointelegraph",
-      "text": "US midterms election 2026 live: Democratic Senate odds climb above 90% Follow live coverage of the 2026 US midterm elections, including key congressional races, crypto-backed candidates and what the results could mean for digital asset regulation."
+      "text": "Bitcoin bounces from 7-week low under $76K as Democrats sweep Congress Bitcoin price downside reached a seven-week-low of $75,618 as 24-hour crypto long liquidations neared $300 million."
+    },
+    {
+      "title": "US midterm election 2026 live: Democrats sweep Congress, flipping House and Senate",
+      "link": "https://cointelegraph.com/news/us-midterms-2026-live-results-and-what-they-mean-for-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 04 Nov 2026 06:40:13 +0000",
+      "source": "Cointelegraph",
+      "text": "US midterm election 2026 live: Democrats sweep Congress, flipping House and Senate Follow live coverage of the 2026 US midterm elections, including key congressional races, crypto-backed candidates and what the results could mean for digital asset regulation."
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 04 Nov 2026 06:03:33 +0000",
+      "source": "Cointelegraph",
+      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "title": "Ethereum dev targets 2028 for quantum resistance, a year early",
+      "link": "https://cointelegraph.com/news/ethereum-post-quantum-transition-2028-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 04 Nov 2026 05:46:33 +0000",
+      "source": "Cointelegraph",
+      "text": "Ethereum dev targets 2028 for quantum resistance, a year early Ethereum researcher Justin Drake said it is their “hope” that Ethereum will achieve its post-quantum and post-AI transition by December 2028."
+    },
+    {
+      "title": "Democrats claim control of the US Senate",
+      "link": "https://cointelegraph.com/news/democrats-flip-us-senate-as-crypto-industry-faces-policy-reset?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 04 Nov 2026 04:40:44 +0000",
+      "source": "Cointelegraph",
+      "text": "Democrats claim control of the US Senate The shift in Senate control could change the path for the CLARITY Act, reshape committee leadership and bring closer scrutiny of Trump’s crypto businesses."
+    },
+    {
+      "title": "ZachXBT identifies French bank as alleged victim of $133M crypto theft",
+      "link": "https://cointelegraph.com/news/zachxbt-french-bank-credit-mutuel-arkea-133m-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 04 Nov 2026 03:35:30 +0000",
+      "source": "Cointelegraph",
+      "text": "ZachXBT identifies French bank as alleged victim of $133M crypto theft The French bank has not confirmed its alleged involvement in the crypto theft, which ZachXBT said could have resulted in losses exceeding $133 million."
     },
     {
       "title": "1inch lawyer sees agencies driving US crypto regulation as midterms unfold",
@@ -356,13 +376,6 @@
       "published": "Tue, 03 Nov 2026 23:56:09 +0000",
       "source": "Cointelegraph",
       "text": "RUNE rallies 15% as THORChain restarts most swaps after halt THORChain has restored trading on Bitcoin, Ethereum and several other networks following a refund bug, while three chains remain paused."
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 03 Nov 2026 22:39:18 +0000",
-      "source": "Cointelegraph",
-      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
       "title": "SpaceX blocks tokenized stock listing on OKXICE despite offshore trading boom",
@@ -447,34 +460,6 @@
       "published": "Tue, 03 Nov 2026 10:04:05 +0000",
       "source": "Cointelegraph",
       "text": "Bitcoin price threatens $77.7K support loss with recent buyers underwater Bitcoin fell below the realized price of the one-to-three-month-old buyer cohort in a move that risked flipping it to new resistance."
-    },
-    {
-      "title": "ARK buys $17M in Coinbase, Circle shares while trimming Bullish",
-      "link": "https://cointelegraph.com/news/ark-buys-coinbase-circle-trims-bullish?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 03 Nov 2026 08:35:13 +0000",
-      "source": "Cointelegraph",
-      "text": "ARK buys $17M in Coinbase, Circle shares while trimming Bullish ARK Invest added Coinbase and Circle shares across two trading sessions while selling about $8 million in Bullish as crypto stocks declined."
-    },
-    {
-      "title": "Kraken restricts accounts linked to suspected $133M EU crypto theft",
-      "link": "https://cointelegraph.com/news/zachxbt-eu-crypto-theft-133m-alleged-cover-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 03 Nov 2026 08:18:22 +0000",
-      "source": "Cointelegraph",
-      "text": "Kraken restricts accounts linked to suspected $133M EU crypto theft Crypto.com also took steps to block funds tied to the suspected theft, while Kraken said its systems and customer accounts were not compromised."
-    },
-    {
-      "title": "BlackRock’s IBIT sees biggest Bitcoin ETF outflows since June",
-      "link": "https://cointelegraph.com/markets/blackrocks-ibit-biggest-bitcoin-etf-outflow-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 03 Nov 2026 07:49:51 +0000",
-      "source": "Cointelegraph",
-      "text": "BlackRock’s IBIT sees biggest Bitcoin ETF outflows since June BlackRock’s Bitcoin ETF shed $405.3 million on Monday as US spot Bitcoin funds opened November with nearly $399 million in net outflows."
-    },
-    {
-      "title": "Crypto.com to withdraw Hong Kong consumer app citing regulatory changes",
-      "link": "https://cointelegraph.com/news/crypto-com-hong-kong-app-shutdown-license-pending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 03 Nov 2026 05:10:19 +0000",
-      "source": "Cointelegraph",
-      "text": "Crypto.com to withdraw Hong Kong consumer app citing regulatory changes Crypto.com will discontinue its consumer app services in Hong Kong in February next year."
     }
   ],
   "paper": {
@@ -620,16 +605,6 @@
         "mode": "PAPER ONLY"
       },
       {
-        "symbol": "PEPEUSDT",
-        "side": "SELL",
-        "entry": 4.85e-06,
-        "stopLoss": 4.9227e-06,
-        "takeProfit": 4.7045e-06,
-        "entryTime": "2026-11-01T22:45:00.792911+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
         "symbol": "UUSDT",
         "side": "SELL",
         "entry": 0.9996,
@@ -650,26 +625,6 @@
         "mode": "PAPER ONLY"
       },
       {
-        "symbol": "ETHUSDT",
-        "side": "SELL",
-        "entry": 2262.7,
-        "stopLoss": 2296.6405,
-        "takeProfit": 2194.819,
-        "entryTime": "2026-11-04T01:30:10.630474+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
-        "symbol": "ZECUSDT",
-        "side": "SELL",
-        "entry": 1199.52,
-        "stopLoss": 1217.5128,
-        "takeProfit": 1163.5344,
-        "entryTime": "2026-11-04T01:30:10.630474+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
         "symbol": "SOLUSDT",
         "side": "SELL",
         "entry": 91.9,
@@ -680,22 +635,32 @@
         "mode": "PAPER ONLY"
       },
       {
-        "symbol": "NEARUSDT",
-        "side": "SELL",
-        "entry": 3.776,
-        "stopLoss": 3.83264,
-        "takeProfit": 3.66272,
-        "entryTime": "2026-11-04T01:30:10.630474+00:00",
+        "symbol": "ETHUSDT",
+        "side": "BUY",
+        "entry": 2302.79,
+        "stopLoss": 2268.24815,
+        "takeProfit": 2371.8737,
+        "entryTime": "2026-11-04T07:55:31.091636+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       },
       {
-        "symbol": "UNIUSDT",
-        "side": "SELL",
-        "entry": 7.097,
-        "stopLoss": 7.203455,
-        "takeProfit": 6.88409,
-        "entryTime": "2026-11-04T01:30:10.630474+00:00",
+        "symbol": "XRPUSDT",
+        "side": "BUY",
+        "entry": 1.2742,
+        "stopLoss": 1.255087,
+        "takeProfit": 1.312426,
+        "entryTime": "2026-11-04T07:55:31.091636+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "PEPEUSDT",
+        "side": "BUY",
+        "entry": 4.99e-06,
+        "stopLoss": 4.9151e-06,
+        "takeProfit": 5.1397e-06,
+        "entryTime": "2026-11-04T07:55:31.091636+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       }
@@ -1779,6 +1744,71 @@
         "exitPrice": 91.9,
         "exitTime": "2026-11-04T01:30:10.630474+00:00",
         "pnlPercent": -2.005
+      },
+      {
+        "symbol": "PEPEUSDT",
+        "side": "SELL",
+        "entry": 4.85e-06,
+        "stopLoss": 4.9227e-06,
+        "takeProfit": 4.7045e-06,
+        "entryTime": "2026-11-01T22:45:00.792911+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 4.99e-06,
+        "exitTime": "2026-11-04T07:55:31.091636+00:00",
+        "pnlPercent": -2.887
+      },
+      {
+        "symbol": "ETHUSDT",
+        "side": "SELL",
+        "entry": 2262.7,
+        "stopLoss": 2296.6405,
+        "takeProfit": 2194.819,
+        "entryTime": "2026-11-04T01:30:10.630474+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 2302.79,
+        "exitTime": "2026-11-04T07:55:31.091636+00:00",
+        "pnlPercent": -1.772
+      },
+      {
+        "symbol": "ZECUSDT",
+        "side": "SELL",
+        "entry": 1199.52,
+        "stopLoss": 1217.5128,
+        "takeProfit": 1163.5344,
+        "entryTime": "2026-11-04T01:30:10.630474+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 1278.92,
+        "exitTime": "2026-11-04T07:55:31.091636+00:00",
+        "pnlPercent": -6.619
+      },
+      {
+        "symbol": "NEARUSDT",
+        "side": "SELL",
+        "entry": 3.776,
+        "stopLoss": 3.83264,
+        "takeProfit": 3.66272,
+        "entryTime": "2026-11-04T01:30:10.630474+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 4.006,
+        "exitTime": "2026-11-04T07:55:31.091636+00:00",
+        "pnlPercent": -6.091
+      },
+      {
+        "symbol": "UNIUSDT",
+        "side": "SELL",
+        "entry": 7.097,
+        "stopLoss": 7.203455,
+        "takeProfit": 6.88409,
+        "entryTime": "2026-11-04T01:30:10.630474+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 7.471,
+        "exitTime": "2026-11-04T07:55:31.091636+00:00",
+        "pnlPercent": -5.27
       }
     ]
   },
