@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05 16:44:57 UTC",
+  "generatedAt": "2026-11-05 22:21:31 UTC",
   "interval": "15m candles",
   "marketSentiment": -8,
   "overallNewsScore": -23,
@@ -12,21 +12,28 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 76462.1,
-      "change24h": -5.221,
-      "volume24h": 1850478312.2047079,
+      "price": 76124.03,
+      "change24h": -5.559,
+      "volume24h": 1934572985.9608345,
       "technical": {
-        "rsi": 25.9,
-        "ema9": 77235.01207368347,
-        "ema21": 78319.03176568387,
-        "macdBull": false,
+        "rsi": 39.2,
+        "ema9": 76066.74153455753,
+        "ema21": 76350.15142154087,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 1.79,
-        "score": 33
+        "volumeRatio": 0.61,
+        "score": 35
       },
-      "newsScore": -17,
+      "newsScore": 3,
       "newsCount": 5,
       "news": [
+        {
+          "title": "Bitcoin crashes 6% to 7-week low as US stocks erase election gains",
+          "link": "https://cointelegraph.com/markets/bitcoin-price-crashes-7-week-low-stocks-election-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Thu, 05 Nov 2026 16:48:41 +0000",
+          "source": "Cointelegraph",
+          "text": "Bitcoin crashes 6% to 7-week low as US stocks erase election gains Bitcoin saw sudden downside at the Wall Street open as stocks witnessed a snap sell-off, reversing post-election gains."
+        },
         {
           "title": "Here’s what happened in crypto today",
           "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -54,38 +61,38 @@
           "published": "Wed, 04 Nov 2026 23:20:17 +0000",
           "source": "Cointelegraph",
           "text": "Mercado Bitcoin says phased reopening to begin Monday, will cover losses Customers will initially be able to view their holdings, while withdrawals and trading remain suspended pending security checks."
-        },
-        {
-          "title": "BitMart founder says security team ‘severely understaffed’ after new hack",
-          "link": "https://cointelegraph.com/news/bitmart-hack-security-staffing-crypto-exchange-restructuring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Wed, 04 Nov 2026 22:31:58 +0000",
-          "source": "Cointelegraph",
-          "text": "BitMart founder says security team ‘severely understaffed’ after new hack The crypto exchange’s founder warned of security staffing shortages amid restructuring as analysts flagged suspicious transfers potentially linked to the Mercado Bitcoin hack."
         }
       ],
       "marketSentiment": -8,
-      "combinedScore": 38,
+      "combinedScore": 42,
       "signal": "WAIT",
-      "reason": "Technical 33/100; News -17; Market sentiment -8."
+      "reason": "Technical 35/100; News +3; Market sentiment -8."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2268.04,
-      "change24h": -6.955,
-      "volume24h": 748574045.541654,
+      "price": 2243.2,
+      "change24h": -7.796,
+      "volume24h": 812094588.895036,
       "technical": {
-        "rsi": 23.9,
-        "ema9": 2298.6470633118824,
-        "ema21": 2340.4939105925364,
-        "macdBull": false,
+        "rsi": 35.3,
+        "ema9": 2242.1950291594976,
+        "ema21": 2257.3729900553126,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 1.3,
-        "score": 28
+        "volumeRatio": 0.88,
+        "score": 35
       },
-      "newsScore": 11,
-      "newsCount": 3,
+      "newsScore": 47,
+      "newsCount": 5,
       "news": [
+        {
+          "title": "Europe’s largest asset manager Amundi tokenizes equity index fund on Ethereum",
+          "link": "https://cointelegraph.com/news/amundi-tokenizes-european-equity-index-fund-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Thu, 05 Nov 2026 18:09:38 +0000",
+          "source": "Cointelegraph",
+          "text": "Europe’s largest asset manager Amundi tokenizes equity index fund on Ethereum The new share class offers blockchain-based exposure to an index tracking 600 companies across European markets."
+        },
         {
           "title": "Bitcoin, Ether ETFs draw $128M as crypto rebounds after midterms",
           "link": "https://cointelegraph.com/markets/bitcoin-ether-etfs-turn-green-post-election-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -101,6 +108,13 @@
           "text": "Trump-linked tokens lead crypto losses after Democrats sweep in the US midterms The official Trump and World Liberty Financial tokens were the two biggest losers among the top 100 cryptocurrencies on Wednesday, even as Bitcoin and Ether rallied."
         },
         {
+          "title": "Standard Chartered and SBI back crypto insurer Soter as funding reaches $23.5 million",
+          "link": "https://www.coindesk.com/business/2026/11/05/soter-raises-usd23-5m-plus-btc-and-eth-as-banks-demand-theft-protection",
+          "published": "Thu, 05 Nov 2026 16:49:08 +0000",
+          "source": "CoinDesk",
+          "text": "Standard Chartered and SBI back crypto insurer Soter as funding reaches $23.5 million Soter also received backing of 500 BTC and 2000 ETH, worth another $43 million at current prices."
+        },
+        {
           "title": "Bitcoin holds above $80,000 as Zcash jumps 12% in post-election crypto rebound",
           "link": "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-as-zcash-jumps-12-in-post-election-crypto-rebound",
           "published": "Thu, 05 Nov 2026 05:13:45 +0000",
@@ -109,55 +123,70 @@
         }
       ],
       "marketSentiment": -8,
-      "combinedScore": 40,
+      "combinedScore": 49,
       "signal": "WAIT",
-      "reason": "Technical 28/100; News +11; Market sentiment -8."
+      "reason": "Technical 35/100; News +47; Market sentiment -8."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 90.58,
-      "change24h": -6.59,
-      "volume24h": 235243951.74497,
+      "price": 90.21,
+      "change24h": -5.48,
+      "volume24h": 234142227.32819,
       "technical": {
-        "rsi": 26.5,
-        "ema9": 91.8487180647523,
-        "ema21": 93.40911762760942,
-        "macdBull": false,
+        "rsi": 43.7,
+        "ema9": 90.01239104793159,
+        "ema21": 90.31591392761298,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 1.53,
-        "score": 33
+        "volumeRatio": 0.65,
+        "score": 35
       },
-      "newsScore": -50,
-      "newsCount": 1,
-      "news": [
-        {
-          "title": "Binance hackers move 81% of stolen Solana, route funds via THORChain",
-          "link": "https://cointelegraph.com/news/binance-hackers-move-81-stolen-solana-route-thorchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Wed, 04 Nov 2026 09:15:55 +0000",
-          "source": "Cointelegraph",
-          "text": "Binance hackers move 81% of stolen Solana, route funds via THORChain The Binance attackers moved most of the stolen SOL and continued laundering funds through THORChain after the protocol resumed swaps."
-        }
-      ],
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
       "marketSentiment": -8,
-      "combinedScore": 33,
-      "signal": "SELL",
-      "reason": "Technical 33/100; News -50; Market sentiment -8."
+      "combinedScore": 42,
+      "signal": "WAIT",
+      "reason": "Technical 35/100; News +0; Market sentiment -8."
+    },
+    {
+      "symbol": "USD1USDT",
+      "coin": "USD1",
+      "price": 0.99968,
+      "change24h": 0.016,
+      "volume24h": 223126033.4431,
+      "technical": {
+        "rsi": 58.6,
+        "ema9": 0.9996171558610185,
+        "ema21": 0.9994101219209405,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.26,
+        "score": 89
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -8,
+      "combinedScore": 69,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment -8."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 1250.39,
-      "change24h": -5.288,
-      "volume24h": 184199446.83901,
+      "price": 1278.24,
+      "change24h": -2.134,
+      "volume24h": 212732436.88422,
       "technical": {
-        "rsi": 48.1,
-        "ema9": 1267.488204221131,
-        "ema21": 1282.9092067909937,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 2.36,
-        "score": 28
+        "rsi": 54.4,
+        "ema9": 1256.167519821115,
+        "ema21": 1255.4996257060677,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.44,
+        "score": 77
       },
       "newsScore": 100,
       "newsCount": 1,
@@ -171,47 +200,24 @@
         }
       ],
       "marketSentiment": -8,
-      "combinedScore": 53,
-      "signal": "WAIT",
-      "reason": "Technical 28/100; News +100; Market sentiment -8."
-    },
-    {
-      "symbol": "USD1USDT",
-      "coin": "USD1",
-      "price": 0.9984,
-      "change24h": -0.099,
-      "volume24h": 167599109.41375,
-      "technical": {
-        "rsi": 34.8,
-        "ema9": 0.9989784577253122,
-        "ema21": 0.9990846285404665,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.63,
-        "score": 11
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -8,
-      "combinedScore": 30,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment -8."
+      "combinedScore": 78,
+      "signal": "BUY",
+      "reason": "Technical 77/100; News +100; Market sentiment -8."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 1.2482,
-      "change24h": -4.971,
-      "volume24h": 126307328.9242,
+      "price": 1.226,
+      "change24h": -6.569,
+      "volume24h": 130985097.95286,
       "technical": {
-        "rsi": 27.9,
-        "ema9": 1.2651527545665617,
-        "ema21": 1.2830718536655192,
-        "macdBull": false,
+        "rsi": 32.4,
+        "ema9": 1.2292738471766433,
+        "ema21": 1.2381482880516934,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.98,
-        "score": 28
+        "volumeRatio": 0.67,
+        "score": 35
       },
       "newsScore": 100,
       "newsCount": 1,
@@ -225,104 +231,146 @@
         }
       ],
       "marketSentiment": -8,
-      "combinedScore": 53,
+      "combinedScore": 57,
       "signal": "WAIT",
-      "reason": "Technical 28/100; News +100; Market sentiment -8."
+      "reason": "Technical 35/100; News +100; Market sentiment -8."
     },
     {
       "symbol": "BNBUSDT",
       "coin": "BNB",
-      "price": 692.8,
-      "change24h": -3.838,
-      "volume24h": 113586847.57626,
+      "price": 691.14,
+      "change24h": -4.075,
+      "volume24h": 123193704.83436,
       "technical": {
-        "rsi": 31.5,
-        "ema9": 697.251790072391,
-        "ema21": 703.3580808629351,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 1.61,
-        "score": 16
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -8,
-      "combinedScore": 32,
-      "signal": "SELL",
-      "reason": "Technical 16/100; News +0; Market sentiment -8."
-    },
-    {
-      "symbol": "RLUSDUSDT",
-      "coin": "RLUSD",
-      "price": 1.0012,
-      "change24h": 0.04,
-      "volume24h": 93954621.264,
-      "technical": {
-        "rsi": 60.4,
-        "ema9": 1.001086798344762,
-        "ema21": 1.001027941614914,
+        "rsi": 40.0,
+        "ema9": 690.7934362788864,
+        "ema21": 692.7883144420564,
         "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 2.06,
-        "score": 94
+        "emaBull": false,
+        "volumeRatio": 0.78,
+        "score": 35
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": -8,
-      "combinedScore": 71,
-      "signal": "BUY",
-      "reason": "Technical 94/100; News +0; Market sentiment -8."
+      "combinedScore": 42,
+      "signal": "WAIT",
+      "reason": "Technical 35/100; News +0; Market sentiment -8."
     },
     {
       "symbol": "UNIUSDT",
       "coin": "UNI",
-      "price": 6.851,
-      "change24h": -11.325,
-      "volume24h": 93263996.43498,
+      "price": 6.826,
+      "change24h": -11.569,
+      "volume24h": 100459081.74623,
       "technical": {
-        "rsi": 30.7,
-        "ema9": 6.999509028283483,
-        "ema21": 7.162373342453724,
-        "macdBull": false,
+        "rsi": 37.0,
+        "ema9": 6.840060499141311,
+        "ema21": 6.879597756266463,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 1.07,
-        "score": 11
+        "volumeRatio": 0.49,
+        "score": 35
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": -8,
-      "combinedScore": 30,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment -8."
+      "combinedScore": 42,
+      "signal": "WAIT",
+      "reason": "Technical 35/100; News +0; Market sentiment -8."
     },
     {
-      "symbol": "NEARUSDT",
-      "coin": "NEAR",
-      "price": 3.758,
-      "change24h": -9.227,
-      "volume24h": 82758427.7482,
+      "symbol": "RLUSDUSDT",
+      "coin": "RLUSD",
+      "price": 1.0016,
+      "change24h": 0.07,
+      "volume24h": 100446552.4856,
       "technical": {
-        "rsi": 34.2,
-        "ema9": 3.8011018276995236,
-        "ema21": 3.8706712358760615,
+        "rsi": 70.5,
+        "ema9": 1.0016697264096364,
+        "ema21": 1.0015456117662767,
         "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 1.79,
-        "score": 16
+        "emaBull": true,
+        "volumeRatio": 1.52,
+        "score": 70
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": -8,
-      "combinedScore": 32,
-      "signal": "SELL",
-      "reason": "Technical 16/100; News +0; Market sentiment -8."
+      "combinedScore": 59,
+      "signal": "WAIT",
+      "reason": "Technical 70/100; News +0; Market sentiment -8."
+    },
+    {
+      "symbol": "SOXLBUSDT",
+      "coin": "SOXLB",
+      "price": 41.65,
+      "change24h": -37.91,
+      "volume24h": 95807208.28894,
+      "technical": {
+        "rsi": 33.2,
+        "ema9": 42.79175134361356,
+        "ema21": 44.87945582125273,
+        "macdBull": true,
+        "emaBull": false,
+        "volumeRatio": 2.09,
+        "score": 30
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -8,
+      "combinedScore": 39,
+      "signal": "WAIT",
+      "reason": "Technical 30/100; News +0; Market sentiment -8."
     }
   ],
   "news": [
+    {
+      "title": "Crypto ally French Hill wins reelection but set to lose House chair",
+      "link": "https://cointelegraph.com/news/crypto-ally-french-hill-wins-reelection-arkansas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 05 Nov 2026 21:39:19 +0000",
+      "source": "Cointelegraph",
+      "text": "Crypto ally French Hill wins reelection but set to lose House chair Republican French Hill secured another term in Congress but will lose his leadership of the House Financial Services Committee when Democrats take control in January."
+    },
+    {
+      "title": "Binance, Deribit revoke SignalPlus API keys after fake Teams invite attack",
+      "link": "https://cointelegraph.com/news/binance-deribit-revoke-signalplus-api-fake-teams-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 05 Nov 2026 19:02:19 +0000",
+      "source": "Cointelegraph",
+      "text": "Binance, Deribit revoke SignalPlus API keys after fake Teams invite attack SignalPlus said attackers compromised an engineer’s computer in a breach that resulted in losses of less than $82,000, which the crypto trading platform pledged to reimburse in full."
+    },
+    {
+      "title": "Fed, OCC check US banks after Binance hack as experts flag security risks",
+      "link": "https://cointelegraph.com/news/fed-occ-check-us-banks-binance-hack-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 05 Nov 2026 18:32:45 +0000",
+      "source": "Cointelegraph",
+      "text": "Fed, OCC check US banks after Binance hack as experts flag security risks US regulators reportedly contacted banks following last week’s $6.3 billion Binance security hack, while experts raised concerns about transaction security and crypto risks."
+    },
+    {
+      "title": "Europe’s largest asset manager Amundi tokenizes equity index fund on Ethereum",
+      "link": "https://cointelegraph.com/news/amundi-tokenizes-european-equity-index-fund-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 05 Nov 2026 18:09:38 +0000",
+      "source": "Cointelegraph",
+      "text": "Europe’s largest asset manager Amundi tokenizes equity index fund on Ethereum The new share class offers blockchain-based exposure to an index tracking 600 companies across European markets."
+    },
+    {
+      "title": "Paraguay president resigns after collapse of Ueno digital bank",
+      "link": "https://cointelegraph.com/news/paraguay-president-resigns-after-collapse-ueno-digital-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 05 Nov 2026 17:40:25 +0000",
+      "source": "Cointelegraph",
+      "text": "Paraguay president resigns after collapse of Ueno digital bank Santiago Peña stepped down amid mounting scrutiny over his former ties to Ueno Bank’s parent company, as the lender’s collapse left millions of customers unable to access their funds."
+    },
+    {
+      "title": "Bitcoin crashes 6% to 7-week low as US stocks erase election gains",
+      "link": "https://cointelegraph.com/markets/bitcoin-price-crashes-7-week-low-stocks-election-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 05 Nov 2026 16:48:41 +0000",
+      "source": "Cointelegraph",
+      "text": "Bitcoin crashes 6% to 7-week low as US stocks erase election gains Bitcoin saw sudden downside at the Wall Street open as stocks witnessed a snap sell-off, reversing post-election gains."
+    },
     {
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -420,48 +468,6 @@
       "published": "Wed, 04 Nov 2026 23:20:17 +0000",
       "source": "Cointelegraph",
       "text": "Mercado Bitcoin says phased reopening to begin Monday, will cover losses Customers will initially be able to view their holdings, while withdrawals and trading remain suspended pending security checks."
-    },
-    {
-      "title": "BitMart founder says security team ‘severely understaffed’ after new hack",
-      "link": "https://cointelegraph.com/news/bitmart-hack-security-staffing-crypto-exchange-restructuring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 04 Nov 2026 22:31:58 +0000",
-      "source": "Cointelegraph",
-      "text": "BitMart founder says security team ‘severely understaffed’ after new hack The crypto exchange’s founder warned of security staffing shortages amid restructuring as analysts flagged suspicious transfers potentially linked to the Mercado Bitcoin hack."
-    },
-    {
-      "title": "Crypto PACs eye 2028 ‘new map’ as Democrats take Congress",
-      "link": "https://cointelegraph.com/news/crypto-superpac-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 04 Nov 2026 22:17:33 +0000",
-      "source": "Cointelegraph",
-      "text": "Crypto PACs eye 2028 ‘new map’ as Democrats take Congress Crypto super PACs spent more than $176 million on the midterms, but the Democratic sweep raises the prospect of tougher industry scrutiny."
-    },
-    {
-      "title": "How Aussie Bitcoiners can avoid 2027’s shock CGT hike",
-      "link": "https://cointelegraph.com/magazine/how-aussie-bitcoiners-can-avoid-2027s-shock-cgt-increase-part-1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 04 Nov 2026 21:30:00 +0000",
-      "source": "Cointelegraph",
-      "text": "How Aussie Bitcoiners can avoid 2027’s shock CGT hike From setting up an SMSF or a company, to just leaving the country entirely, here are some strategies Australian Bitcoiners can employ to deal with 2027’s massive CGT hike."
-    },
-    {
-      "title": "Trump-linked tokens lead crypto losses after Democrats sweep in the US midterms",
-      "link": "https://cointelegraph.com/news/trump-linked-tokens-lead-crypto-losses-after-democrats-sweep-in-the-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 04 Nov 2026 19:15:39 +0000",
-      "source": "Cointelegraph",
-      "text": "Trump-linked tokens lead crypto losses after Democrats sweep in the US midterms The official Trump and World Liberty Financial tokens were the two biggest losers among the top 100 cryptocurrencies on Wednesday, even as Bitcoin and Ether rallied."
-    },
-    {
-      "title": "Riot shares surge on $28B AI lease as Hut 8 sinks on revenue miss",
-      "link": "https://cointelegraph.com/news/riots-28b-ai-deal-lifts-shares-as-hut-8-faces-transition-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 04 Nov 2026 18:47:56 +0000",
-      "source": "Cointelegraph",
-      "text": "Riot shares surge on $28B AI lease as Hut 8 sinks on revenue miss Bitcoin miner Riot sold BTC to finance its AI expansion, while Hut 8 reported falling revenue and rising costs before its major data center leases generate income."
-    },
-    {
-      "title": "Circle’s ARC token sale lifts earnings as lower yields weigh on USDC income",
-      "link": "https://cointelegraph.com/news/circles-arc-token-sale-earnings-yields-usdc-income?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 04 Nov 2026 18:02:42 +0000",
-      "source": "Cointelegraph",
-      "text": "Circle’s ARC token sale lifts earnings as lower yields weigh on USDC income Circle is looking to payments fees and future staking rewards to diversify revenue as its core stablecoin business faces pressure from lower yields and growing competition."
     }
   ],
   "paper": {
@@ -557,16 +563,6 @@
         "mode": "PAPER ONLY"
       },
       {
-        "symbol": "SOXLBUSDT",
-        "side": "BUY",
-        "entry": 103.0,
-        "stopLoss": 101.455,
-        "takeProfit": 106.09,
-        "entryTime": "2026-10-28T04:42:22.984910+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
         "symbol": "HYPEUSDT",
         "side": "SELL",
         "entry": 91.04,
@@ -633,6 +629,16 @@
         "stopLoss": 3.81437,
         "takeProfit": 3.64526,
         "entryTime": "2026-11-05T16:44:57.647838+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "ZECUSDT",
+        "side": "BUY",
+        "entry": 1278.24,
+        "stopLoss": 1259.0664,
+        "takeProfit": 1316.5872,
+        "entryTime": "2026-11-05T22:21:31.307064+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       }
@@ -2015,6 +2021,19 @@
         "exitPrice": 2268.04,
         "exitTime": "2026-11-05T16:44:57.647838+00:00",
         "pnlPercent": 6.532
+      },
+      {
+        "symbol": "SOXLBUSDT",
+        "side": "BUY",
+        "entry": 103.0,
+        "stopLoss": 101.455,
+        "takeProfit": 106.09,
+        "entryTime": "2026-10-28T04:42:22.984910+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 41.65,
+        "exitTime": "2026-11-05T22:21:31.307064+00:00",
+        "pnlPercent": -59.563
       }
     ]
   },
