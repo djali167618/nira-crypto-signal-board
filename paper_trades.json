@@ -181,16 +181,6 @@
       "mode": "PAPER ONLY"
     },
     {
-      "symbol": "SOLUSDT",
-      "side": "SELL",
-      "entry": 94.63,
-      "stopLoss": 96.04945,
-      "takeProfit": 91.7911,
-      "entryTime": "2026-11-04T21:37:05.666963+00:00",
-      "status": "OPEN",
-      "mode": "PAPER ONLY"
-    },
-    {
       "symbol": "NEARUSDT",
       "side": "SELL",
       "entry": 4.022,
@@ -201,12 +191,12 @@
       "mode": "PAPER ONLY"
     },
     {
-      "symbol": "PEPEUSDT",
-      "side": "SELL",
-      "entry": 4.93e-06,
-      "stopLoss": 5.0039e-06,
-      "takeProfit": 4.7821e-06,
-      "entryTime": "2026-11-04T21:37:05.666963+00:00",
+      "symbol": "SOLUSDT",
+      "side": "BUY",
+      "entry": 96.13,
+      "stopLoss": 94.68805,
+      "takeProfit": 99.0139,
+      "entryTime": "2026-11-05T01:45:53.857453+00:00",
       "status": "OPEN",
       "mode": "PAPER ONLY"
     }
@@ -1459,6 +1449,32 @@
       "exitPrice": 4.022,
       "exitTime": "2026-11-04T21:37:05.666963+00:00",
       "pnlPercent": -3.154
+    },
+    {
+      "symbol": "SOLUSDT",
+      "side": "SELL",
+      "entry": 94.63,
+      "stopLoss": 96.04945,
+      "takeProfit": 91.7911,
+      "entryTime": "2026-11-04T21:37:05.666963+00:00",
+      "status": "STOP_LOSS",
+      "mode": "PAPER ONLY",
+      "exitPrice": 96.13,
+      "exitTime": "2026-11-05T01:45:53.857453+00:00",
+      "pnlPercent": -1.585
+    },
+    {
+      "symbol": "PEPEUSDT",
+      "side": "SELL",
+      "entry": 4.93e-06,
+      "stopLoss": 5.0039e-06,
+      "takeProfit": 4.7821e-06,
+      "entryTime": "2026-11-04T21:37:05.666963+00:00",
+      "status": "STOP_LOSS",
+      "mode": "PAPER ONLY",
+      "exitPrice": 5.05e-06,
+      "exitTime": "2026-11-05T01:45:53.857453+00:00",
+      "pnlPercent": -2.434
     }
   ]
 }
