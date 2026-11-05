@@ -131,16 +131,6 @@
       "mode": "PAPER ONLY"
     },
     {
-      "symbol": "SNDKBUSDT",
-      "side": "SELL",
-      "entry": 1114.24,
-      "stopLoss": 1130.9536,
-      "takeProfit": 1080.8128,
-      "entryTime": "2026-11-02T18:39:45.811968+00:00",
-      "status": "OPEN",
-      "mode": "PAPER ONLY"
-    },
-    {
       "symbol": "BTCUSDT",
       "side": "BUY",
       "entry": 80425.25,
@@ -197,6 +187,16 @@
       "stopLoss": 94.68805,
       "takeProfit": 99.0139,
       "entryTime": "2026-11-05T01:45:53.857453+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "ETHUSDT",
+      "side": "SELL",
+      "entry": 2426.54,
+      "stopLoss": 2462.9381,
+      "takeProfit": 2353.7438,
+      "entryTime": "2026-11-05T08:34:08.582094+00:00",
       "status": "OPEN",
       "mode": "PAPER ONLY"
     }
@@ -1475,6 +1475,19 @@
       "exitPrice": 5.05e-06,
       "exitTime": "2026-11-05T01:45:53.857453+00:00",
       "pnlPercent": -2.434
+    },
+    {
+      "symbol": "SNDKBUSDT",
+      "side": "SELL",
+      "entry": 1114.24,
+      "stopLoss": 1130.9536,
+      "takeProfit": 1080.8128,
+      "entryTime": "2026-11-02T18:39:45.811968+00:00",
+      "status": "TAKE_PROFIT",
+      "mode": "PAPER ONLY",
+      "exitPrice": 1013.3,
+      "exitTime": "2026-11-05T08:34:08.582094+00:00",
+      "pnlPercent": 9.059
     }
   ]
 }
