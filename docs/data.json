@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-06 02:35:58 UTC",
+  "generatedAt": "2026-11-06 09:49:33 UTC",
   "interval": "15m candles",
-  "marketSentiment": -40,
-  "overallNewsScore": -33,
+  "marketSentiment": -37,
+  "overallNewsScore": -23,
   "fearGreed": {
     "value": 28,
     "label": "Fear",
@@ -12,34 +12,41 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 76002.01,
-      "change24h": -5.723,
-      "volume24h": 2015459430.9456284,
+      "price": 76088.0,
+      "change24h": -5.304,
+      "volume24h": 2078668108.7832115,
       "technical": {
-        "rsi": 48.4,
-        "ema9": 76153.6830223303,
-        "ema21": 76164.79184620618,
+        "rsi": 59.7,
+        "ema9": 75887.5507748796,
+        "ema21": 75811.72224333919,
         "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.47,
-        "score": 47
+        "emaBull": true,
+        "volumeRatio": 0.57,
+        "score": 89
       },
-      "newsScore": 3,
+      "newsScore": -17,
       "newsCount": 5,
       "news": [
+        {
+          "title": "Bitcoin, Ether ETFs post $530M outflows as election gains evaporate",
+          "link": "https://cointelegraph.com/markets/bitcoin-ether-etfs-lose-post-election-gains-erased?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Fri, 06 Nov 2026 08:19:18 +0000",
+          "source": "Cointelegraph",
+          "text": "Bitcoin, Ether ETFs post $530M outflows as election gains evaporate US spot Bitcoin and Ether ETFs shed a combined $530 million Thursday as Bitcoin fell below $76,000 and US stocks tumbled."
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Fri, 06 Nov 2026 06:04:41 +0000",
+          "source": "Cointelegraph",
+          "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+        },
         {
           "title": "Core Scientific to quit Bitcoin mining by year-end as AI business surges",
           "link": "https://cointelegraph.com/news/core-scientific-to-quit-bitcoin-mining-by-year-end-as-ai-business-surges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "published": "Fri, 06 Nov 2026 00:19:49 +0000",
           "source": "Cointelegraph",
           "text": "Core Scientific to quit Bitcoin mining by year-end as AI business surges The former Bitcoin mining heavyweight plans to become a pure-play data center provider in 2027, with mining now accounting for just 7.5% of quarterly revenue."
-        },
-        {
-          "title": "Here’s what happened in crypto today",
-          "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Thu, 05 Nov 2026 23:03:41 +0000",
-          "source": "Cointelegraph",
-          "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
         },
         {
           "title": "American Bitcoin’s $126M profit masks mining pressure as rivals turn to AI",
@@ -54,38 +61,38 @@
           "published": "Thu, 05 Nov 2026 16:48:41 +0000",
           "source": "Cointelegraph",
           "text": "Bitcoin crashes 6% to 7-week low as US stocks erase election gains Bitcoin saw sudden downside at the Wall Street open as stocks witnessed a snap sell-off, reversing post-election gains."
-        },
-        {
-          "title": "Bitcoin win rate vs. S&P 500 recovers as post-midterm history favors stocks",
-          "link": "https://cointelegraph.com/markets/bitcoin-win-rate-sp-500-us-midterms-stocks-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Thu, 05 Nov 2026 10:28:26 +0000",
-          "source": "Cointelegraph",
-          "text": "Bitcoin win rate vs. S&P 500 recovers as post-midterm history favors stocks Bitcoin outperformed the S&P 500 in half of the past 90 US trading sessions, while historical midterm data highlights gains for stocks."
         }
       ],
-      "marketSentiment": -40,
-      "combinedScore": 45,
+      "marketSentiment": -37,
+      "combinedScore": 63,
       "signal": "WAIT",
-      "reason": "Technical 47/100; News +3; Market sentiment -40."
+      "reason": "Technical 89/100; News -17; Market sentiment -37."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2237.42,
-      "change24h": -7.822,
-      "volume24h": 838649027.159716,
+      "price": 2238.52,
+      "change24h": -7.291,
+      "volume24h": 890892338.985203,
       "technical": {
-        "rsi": 46.4,
-        "ema9": 2240.639549816176,
-        "ema21": 2243.0592279966754,
+        "rsi": 56.2,
+        "ema9": 2234.319008767223,
+        "ema21": 2232.087598200924,
         "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.32,
-        "score": 47
+        "emaBull": true,
+        "volumeRatio": 0.33,
+        "score": 89
       },
-      "newsScore": 47,
-      "newsCount": 5,
+      "newsScore": 33,
+      "newsCount": 4,
       "news": [
+        {
+          "title": "Bitcoin, Ether ETFs post $530M outflows as election gains evaporate",
+          "link": "https://cointelegraph.com/markets/bitcoin-ether-etfs-lose-post-election-gains-erased?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Fri, 06 Nov 2026 08:19:18 +0000",
+          "source": "Cointelegraph",
+          "text": "Bitcoin, Ether ETFs post $530M outflows as election gains evaporate US spot Bitcoin and Ether ETFs shed a combined $530 million Thursday as Bitcoin fell below $76,000 and US stocks tumbled."
+        },
         {
           "title": "Europe’s largest asset manager Amundi tokenizes equity index fund on Ethereum",
           "link": "https://cointelegraph.com/news/amundi-tokenizes-european-equity-index-fund-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -101,50 +108,43 @@
           "text": "Bitcoin, Ether ETFs draw $128M as crypto rebounds after midterms Fidelity led Bitcoin ETF inflows, while BlackRock’s IBIT shed another $201 million, extending its outflow streak to four trading sessions."
         },
         {
-          "title": "Trump-linked tokens lead crypto losses after Democrats sweep in the US midterms",
-          "link": "https://cointelegraph.com/news/trump-linked-tokens-lead-crypto-losses-after-democrats-sweep-in-the-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Wed, 04 Nov 2026 19:15:39 +0000",
-          "source": "Cointelegraph",
-          "text": "Trump-linked tokens lead crypto losses after Democrats sweep in the US midterms The official Trump and World Liberty Financial tokens were the two biggest losers among the top 100 cryptocurrencies on Wednesday, even as Bitcoin and Ether rallied."
-        },
-        {
           "title": "Standard Chartered and SBI back crypto insurer Soter as funding reaches $23.5 million",
           "link": "https://www.coindesk.com/business/2026/11/05/soter-raises-usd23-5m-plus-btc-and-eth-as-banks-demand-theft-protection",
           "published": "Thu, 05 Nov 2026 16:49:08 +0000",
           "source": "CoinDesk",
           "text": "Standard Chartered and SBI back crypto insurer Soter as funding reaches $23.5 million Soter also received backing of 500 BTC and 2000 ETH, worth another $43 million at current prices."
-        },
-        {
-          "title": "Bitcoin holds above $80,000 as Zcash jumps 12% in post-election crypto rebound",
-          "link": "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-as-zcash-jumps-12-in-post-election-crypto-rebound",
-          "published": "Thu, 05 Nov 2026 05:13:45 +0000",
-          "source": "CoinDesk",
-          "text": "Bitcoin holds above $80,000 as Zcash jumps 12% in post-election crypto rebound Ether rose 8% as falling oil prices and a weaker dollar helped markets recover, even as traders weighed a tougher path for U.S. crypto legislation."
         }
       ],
-      "marketSentiment": -40,
-      "combinedScore": 52,
-      "signal": "WAIT",
-      "reason": "Technical 47/100; News +47; Market sentiment -40."
+      "marketSentiment": -37,
+      "combinedScore": 71,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +33; Market sentiment -37."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 1309.55,
-      "change24h": -0.087,
-      "volume24h": 261992736.03764,
+      "price": 1282.61,
+      "change24h": -3.035,
+      "volume24h": 287515838.1115,
       "technical": {
-        "rsi": 62.9,
-        "ema9": 1305.962256372779,
-        "ema21": 1291.5077107543743,
+        "rsi": 55.1,
+        "ema9": 1273.2659492351506,
+        "ema21": 1272.2825717016474,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.36,
+        "volumeRatio": 0.98,
         "score": 89
       },
       "newsScore": 100,
-      "newsCount": 1,
+      "newsCount": 2,
       "news": [
+        {
+          "title": "Zcash NU7 upgrade goes live, leaves 12,224 ZEC stranded in Sprout pool",
+          "link": "https://cointelegraph.com/news/zcash-nu7-upgrade-15m-sprout-funds-unspendable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Fri, 06 Nov 2026 09:00:36 +0000",
+          "source": "Cointelegraph",
+          "text": "Zcash NU7 upgrade goes live, leaves 12,224 ZEC stranded in Sprout pool Zcash’s NU7 upgrade has rendered about $15 million in legacy Sprout funds unspendable, although a future network upgrade could potentially restore access."
+        },
         {
           "title": "Zcash is about to freeze $16 million in its oldest privacy pool",
           "link": "https://www.coindesk.com/tech/2026/11/05/zcash-is-about-to-freeze-usd16-million-in-its-oldest-privacy-pool",
@@ -153,195 +153,230 @@
           "text": "Zcash is about to freeze $16 million in its oldest privacy pool About 12,200 ZEC remains in Sprout, the privacy pool Zcash launched in 2016. Roughly 10,000 coins have left over the past week, but only about 40 moved out Wednesday."
         }
       ],
-      "marketSentiment": -40,
-      "combinedScore": 80,
+      "marketSentiment": -37,
+      "combinedScore": 81,
       "signal": "BUY",
-      "reason": "Technical 89/100; News +100; Market sentiment -40."
+      "reason": "Technical 89/100; News +100; Market sentiment -37."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 90.07,
-      "change24h": -6.411,
-      "volume24h": 247949914.63114,
+      "price": 90.14,
+      "change24h": -6.745,
+      "volume24h": 251789884.30357,
       "technical": {
-        "rsi": 51.0,
-        "ema9": 90.0762638255889,
-        "ema21": 90.0339286412533,
+        "rsi": 58.9,
+        "ema9": 89.91487359659212,
+        "ema21": 89.78557275030894,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.65,
-        "score": 77
+        "volumeRatio": 0.58,
+        "score": 89
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -40,
-      "combinedScore": 60,
-      "signal": "WAIT",
-      "reason": "Technical 77/100; News +0; Market sentiment -40."
+      "marketSentiment": -37,
+      "combinedScore": 66,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment -37."
     },
     {
       "symbol": "USD1USDT",
       "coin": "USD1",
-      "price": 0.99908,
-      "change24h": -0.038,
-      "volume24h": 239371333.28834,
+      "price": 0.99889,
+      "change24h": -0.052,
+      "volume24h": 239376619.55117,
       "technical": {
-        "rsi": 42.7,
-        "ema9": 0.9994678181277871,
-        "ema21": 0.9994481087285508,
+        "rsi": 25.7,
+        "ema9": 0.9989742658347937,
+        "ema21": 0.9991421355254685,
         "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 1.53,
-        "score": 36
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -40,
-      "combinedScore": 39,
-      "signal": "WAIT",
-      "reason": "Technical 36/100; News +0; Market sentiment -40."
-    },
-    {
-      "symbol": "XRPUSDT",
-      "coin": "XRP",
-      "price": 1.2155,
-      "change24h": -6.972,
-      "volume24h": 141554857.67312,
-      "technical": {
-        "rsi": 46.2,
-        "ema9": 1.218316323214143,
-        "ema21": 1.2211338729856596,
-        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.52,
-        "score": 47
+        "volumeRatio": 0.43,
+        "score": 28
       },
       "newsScore": 100,
       "newsCount": 1,
       "news": [
         {
-          "title": "XRP Ledger fixes a disclosed bug that could have led to the creation of new tokens",
-          "link": "https://www.coindesk.com/markets/2026/11/05/xrp-ledger-closes-bug-that-let-approved-token-burners-create-new-tokens",
-          "published": "Thu, 05 Nov 2026 05:25:06 +0000",
+          "title": "Trump-backed World Liberty Financial plans token buyback after 66% year-to-date slide",
+          "link": "https://www.coindesk.com/business/2026/11/06/trump-backed-world-liberty-financial-plans-token-buyback-after-66-year-to-date-slide",
+          "published": "Fri, 06 Nov 2026 08:04:52 +0000",
           "source": "CoinDesk",
-          "text": "XRP Ledger fixes a disclosed bug that could have led to the creation of new tokens The fix went live Wednesday after validator support reset the activation clock in October. XRP itself was unaffected."
+          "text": "Trump-backed World Liberty Financial plans token buyback after 66% year-to-date slide The crypto venture may use fees from its USD1 stablecoin reserves to fund token purchases as it seeks to boost governance."
         }
       ],
-      "marketSentiment": -40,
-      "combinedScore": 60,
+      "marketSentiment": -37,
+      "combinedScore": 50,
       "signal": "WAIT",
-      "reason": "Technical 47/100; News +100; Market sentiment -40."
+      "reason": "Technical 28/100; News +100; Market sentiment -37."
+    },
+    {
+      "symbol": "XRPUSDT",
+      "coin": "XRP",
+      "price": 1.198,
+      "change24h": -9.215,
+      "volume24h": 158907815.60125,
+      "technical": {
+        "rsi": 50.8,
+        "ema9": 1.1937706026009929,
+        "ema21": 1.1956510938896288,
+        "macdBull": true,
+        "emaBull": false,
+        "volumeRatio": 0.47,
+        "score": 47
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -37,
+      "combinedScore": 45,
+      "signal": "WAIT",
+      "reason": "Technical 47/100; News +0; Market sentiment -37."
     },
     {
       "symbol": "BNBUSDT",
       "coin": "BNB",
-      "price": 694.47,
-      "change24h": -3.277,
-      "volume24h": 125097736.83016,
+      "price": 693.89,
+      "change24h": -2.971,
+      "volume24h": 127318130.73281,
       "technical": {
-        "rsi": 56.7,
-        "ema9": 693.9461622763434,
-        "ema21": 693.0069481145579,
+        "rsi": 59.9,
+        "ema9": 692.544531388887,
+        "ema21": 691.869512544135,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 1.22,
+        "volumeRatio": 0.45,
         "score": 89
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -40,
+      "marketSentiment": -37,
       "combinedScore": 66,
       "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment -40."
-    },
-    {
-      "symbol": "SOXLBUSDT",
-      "coin": "SOXLB",
-      "price": 45.6,
-      "change24h": -28.2,
-      "volume24h": 108427250.97329,
-      "technical": {
-        "rsi": 62.6,
-        "ema9": 44.45138697029283,
-        "ema21": 43.88138143659395,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 1.43,
-        "score": 89
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -40,
-      "combinedScore": 66,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment -40."
+      "reason": "Technical 89/100; News +0; Market sentiment -37."
     },
     {
       "symbol": "RLUSDUSDT",
       "coin": "RLUSD",
-      "price": 1.0015,
-      "change24h": 0.06,
-      "volume24h": 104752137.6463,
+      "price": 1.0013,
+      "change24h": 0.05,
+      "volume24h": 100732494.6999,
       "technical": {
-        "rsi": 47.5,
-        "ema9": 1.001556424722403,
-        "ema21": 1.001552928982858,
+        "rsi": 45.2,
+        "ema9": 1.0013469675801583,
+        "ema21": 1.0013902601966467,
         "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.58,
-        "score": 53
+        "emaBull": false,
+        "volumeRatio": 0.87,
+        "score": 23
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -40,
-      "combinedScore": 48,
-      "signal": "WAIT",
-      "reason": "Technical 53/100; News +0; Market sentiment -40."
+      "marketSentiment": -37,
+      "combinedScore": 33,
+      "signal": "SELL",
+      "reason": "Technical 23/100; News +0; Market sentiment -37."
     },
     {
-      "symbol": "UNIUSDT",
-      "coin": "UNI",
-      "price": 6.952,
-      "change24h": -9.373,
-      "volume24h": 102741035.33658,
+      "symbol": "SOXLBUSDT",
+      "coin": "SOXLB",
+      "price": 47.68,
+      "change24h": -23.307,
+      "volume24h": 100191738.31743,
       "technical": {
-        "rsi": 57.7,
-        "ema9": 6.939665179449949,
-        "ema21": 6.9087562595509535,
+        "rsi": 70.1,
+        "ema9": 46.62995897038171,
+        "ema21": 45.84418545315205,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.47,
+        "volumeRatio": 1.29,
         "score": 89
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -40,
+      "marketSentiment": -37,
       "combinedScore": 66,
       "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment -40."
+      "reason": "Technical 89/100; News +0; Market sentiment -37."
+    },
+    {
+      "symbol": "NEARUSDT",
+      "coin": "NEAR",
+      "price": 3.726,
+      "change24h": -7.36,
+      "volume24h": 97441807.7897,
+      "technical": {
+        "rsi": 59.2,
+        "ema9": 3.7223096372925113,
+        "ema21": 3.707301813614649,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.77,
+        "score": 89
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -37,
+      "combinedScore": 66,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment -37."
     }
   ],
   "news": [
+    {
+      "title": "Zcash NU7 upgrade goes live, leaves 12,224 ZEC stranded in Sprout pool",
+      "link": "https://cointelegraph.com/news/zcash-nu7-upgrade-15m-sprout-funds-unspendable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 06 Nov 2026 09:00:36 +0000",
+      "source": "Cointelegraph",
+      "text": "Zcash NU7 upgrade goes live, leaves 12,224 ZEC stranded in Sprout pool Zcash’s NU7 upgrade has rendered about $15 million in legacy Sprout funds unspendable, although a future network upgrade could potentially restore access."
+    },
+    {
+      "title": "Hyperliquid Strategies seeks futures registration for perps",
+      "link": "https://cointelegraph.com/news/nasdaq-hyperliquid-strategies-futures-broker-license-onchain-perps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 06 Nov 2026 08:42:54 +0000",
+      "source": "Cointelegraph",
+      "text": "Hyperliquid Strategies seeks futures registration for perps The HYPE treasury company spent $785 million on tokens during the quarter and wants to bring Hyperliquid-based perpetual futures to the US."
+    },
+    {
+      "title": "Bitcoin, Ether ETFs post $530M outflows as election gains evaporate",
+      "link": "https://cointelegraph.com/markets/bitcoin-ether-etfs-lose-post-election-gains-erased?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 06 Nov 2026 08:19:18 +0000",
+      "source": "Cointelegraph",
+      "text": "Bitcoin, Ether ETFs post $530M outflows as election gains evaporate US spot Bitcoin and Ether ETFs shed a combined $530 million Thursday as Bitcoin fell below $76,000 and US stocks tumbled."
+    },
+    {
+      "title": "Chainalysis says breach exposed password hashes and live tokens",
+      "link": "https://cointelegraph.com/news/chainalysis-cyberattack-password-hashes-live-tokens-exposed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 06 Nov 2026 06:54:34 +0000",
+      "source": "Cointelegraph",
+      "text": "Chainalysis says breach exposed password hashes and live tokens Chainalysis disclosed password hashes and live tokens were exposed after initially reporting only non-sensitive customer data was accessed."
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 06 Nov 2026 06:04:41 +0000",
+      "source": "Cointelegraph",
+      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "title": "Crypto exchanges tout cold storage ratios after Binance attack",
+      "link": "https://cointelegraph.com/news/binance-hack-puts-crypto-exchanges-cold-wallet-ratio-under-spotlight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 06 Nov 2026 05:07:00 +0000",
+      "source": "Cointelegraph",
+      "text": "Crypto exchanges tout cold storage ratios after Binance attack Coinbase says it keeps more than 99% of customer assets offline, while Gate reports 88.26% of its total assets are kept in cold storage."
+    },
     {
       "title": "Core Scientific to quit Bitcoin mining by year-end as AI business surges",
       "link": "https://cointelegraph.com/news/core-scientific-to-quit-bitcoin-mining-by-year-end-as-ai-business-surges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 06 Nov 2026 00:19:49 +0000",
       "source": "Cointelegraph",
       "text": "Core Scientific to quit Bitcoin mining by year-end as AI business surges The former Bitcoin mining heavyweight plans to become a pure-play data center provider in 2027, with mining now accounting for just 7.5% of quarterly revenue."
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 05 Nov 2026 23:03:41 +0000",
-      "source": "Cointelegraph",
-      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
       "title": "American Bitcoin’s $126M profit masks mining pressure as rivals turn to AI",
@@ -433,41 +468,6 @@
       "published": "Thu, 05 Nov 2026 10:28:26 +0000",
       "source": "Cointelegraph",
       "text": "Bitcoin win rate vs. S&P 500 recovers as post-midterm history favors stocks Bitcoin outperformed the S&P 500 in half of the past 90 US trading sessions, while historical midterm data highlights gains for stocks."
-    },
-    {
-      "title": "South Korea seeks 4th crypto tax delay, targets 2029 start",
-      "link": "https://cointelegraph.com/news/south-korea-crypto-tax-fourth-delay-2029?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 05 Nov 2026 09:35:29 +0000",
-      "source": "Cointelegraph",
-      "text": "South Korea seeks 4th crypto tax delay, targets 2029 start South Korea is seeking a fourth delay to its 22% crypto tax, months after reaffirming plans to begin taxing digital asset gains in January 2027."
-    },
-    {
-      "title": "France budget rejection sidelines stablecoin tax, wallet reporting",
-      "link": "https://cointelegraph.com/news/france-rejects-budget-revenue-sidelines-crypto-amendments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 05 Nov 2026 09:04:42 +0000",
-      "source": "Cointelegraph",
-      "text": "France budget rejection sidelines stablecoin tax, wallet reporting Three adopted amendments, including stablecoin taxation and self-custody reporting, fall away but could be reintroduced in the Senate."
-    },
-    {
-      "title": "Bitcoin, Ether ETFs draw $128M as crypto rebounds after midterms",
-      "link": "https://cointelegraph.com/markets/bitcoin-ether-etfs-turn-green-post-election-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 05 Nov 2026 08:22:30 +0000",
-      "source": "Cointelegraph",
-      "text": "Bitcoin, Ether ETFs draw $128M as crypto rebounds after midterms Fidelity led Bitcoin ETF inflows, while BlackRock’s IBIT shed another $201 million, extending its outflow streak to four trading sessions."
-    },
-    {
-      "title": "Crédit Mutuel Arkéa resumes operations after attack, assesses losses",
-      "link": "https://cointelegraph.com/news/credit-mutuel-arkea-resumes-operations-133m-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 05 Nov 2026 07:23:06 +0000",
-      "source": "Cointelegraph",
-      "text": "Crédit Mutuel Arkéa resumes operations after attack, assesses losses The bank said customer funds were unaffected after attackers accessed its systems through a service provider’s platform."
-    },
-    {
-      "title": "Binance, Polymarket seek Polygon hard fork to recover $6.8M in stolen crypto",
-      "link": "https://cointelegraph.com/news/polygon-hard-fork-binance-polymarket-6-8m-hack-recovery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 05 Nov 2026 06:02:29 +0000",
-      "source": "Cointelegraph",
-      "text": "Binance, Polymarket seek Polygon hard fork to recover $6.8M in stolen crypto Polygon block producers have already frozen the stolen tokens, but a proposed hard fork would allow the funds to be recovered and returned to their owners."
     }
   ],
   "paper": {
@@ -643,12 +643,22 @@
         "mode": "PAPER ONLY"
       },
       {
+        "symbol": "ETHUSDT",
+        "side": "BUY",
+        "entry": 2238.52,
+        "stopLoss": 2204.9422,
+        "takeProfit": 2305.6756,
+        "entryTime": "2026-11-06T09:49:33.491434+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
         "symbol": "SOXLBUSDT",
         "side": "BUY",
-        "entry": 45.6,
-        "stopLoss": 44.916,
-        "takeProfit": 46.968,
-        "entryTime": "2026-11-06T02:35:58.717217+00:00",
+        "entry": 47.68,
+        "stopLoss": 46.9648,
+        "takeProfit": 49.1104,
+        "entryTime": "2026-11-06T09:49:33.491434+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       }
@@ -2044,6 +2054,19 @@
         "exitPrice": 41.65,
         "exitTime": "2026-11-05T22:21:31.307064+00:00",
         "pnlPercent": -59.563
+      },
+      {
+        "symbol": "SOXLBUSDT",
+        "side": "BUY",
+        "entry": 45.6,
+        "stopLoss": 44.916,
+        "takeProfit": 46.968,
+        "entryTime": "2026-11-06T02:35:58.717217+00:00",
+        "status": "TAKE_PROFIT",
+        "mode": "PAPER ONLY",
+        "exitPrice": 47.68,
+        "exitTime": "2026-11-06T09:49:33.491434+00:00",
+        "pnlPercent": 4.561
       }
     ]
   },

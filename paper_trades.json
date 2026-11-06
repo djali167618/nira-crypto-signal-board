@@ -171,12 +171,22 @@
       "mode": "PAPER ONLY"
     },
     {
+      "symbol": "ETHUSDT",
+      "side": "BUY",
+      "entry": 2238.52,
+      "stopLoss": 2204.9422,
+      "takeProfit": 2305.6756,
+      "entryTime": "2026-11-06T09:49:33.491434+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
+    },
+    {
       "symbol": "SOXLBUSDT",
       "side": "BUY",
-      "entry": 45.6,
-      "stopLoss": 44.916,
-      "takeProfit": 46.968,
-      "entryTime": "2026-11-06T02:35:58.717217+00:00",
+      "entry": 47.68,
+      "stopLoss": 46.9648,
+      "takeProfit": 49.1104,
+      "entryTime": "2026-11-06T09:49:33.491434+00:00",
       "status": "OPEN",
       "mode": "PAPER ONLY"
     }
@@ -1572,6 +1582,19 @@
       "exitPrice": 41.65,
       "exitTime": "2026-11-05T22:21:31.307064+00:00",
       "pnlPercent": -59.563
+    },
+    {
+      "symbol": "SOXLBUSDT",
+      "side": "BUY",
+      "entry": 45.6,
+      "stopLoss": 44.916,
+      "takeProfit": 46.968,
+      "entryTime": "2026-11-06T02:35:58.717217+00:00",
+      "status": "TAKE_PROFIT",
+      "mode": "PAPER ONLY",
+      "exitPrice": 47.68,
+      "exitTime": "2026-11-06T09:49:33.491434+00:00",
+      "pnlPercent": 4.561
     }
   ]
 }
