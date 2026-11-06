@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-06 09:49:33 UTC",
+  "generatedAt": "2026-11-06 16:57:55 UTC",
   "interval": "15m candles",
-  "marketSentiment": -37,
-  "overallNewsScore": -23,
+  "marketSentiment": -34,
+  "overallNewsScore": -14,
   "fearGreed": {
     "value": 28,
     "label": "Fear",
@@ -12,34 +12,41 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 76088.0,
-      "change24h": -5.304,
-      "volume24h": 2078668108.7832115,
+      "price": 75978.01,
+      "change24h": -0.645,
+      "volume24h": 1515526291.829453,
       "technical": {
-        "rsi": 59.7,
-        "ema9": 75887.5507748796,
-        "ema21": 75811.72224333919,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.57,
-        "score": 89
+        "rsi": 45.9,
+        "ema9": 75726.2542930287,
+        "ema21": 75806.1819669033,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.65,
+        "score": 23
       },
-      "newsScore": -17,
+      "newsScore": -30,
       "newsCount": 5,
       "news": [
+        {
+          "title": "Here’s what happened in crypto today",
+          "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Fri, 06 Nov 2026 13:33:00 +0000",
+          "source": "Cointelegraph",
+          "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+        },
+        {
+          "title": "Bitcoin holds $75K as AI regulation fears see KOSPI halted after 8% crash",
+          "link": "https://cointelegraph.com/markets/bitcoin-holds-ai-regulation-fears-kospi-halted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Fri, 06 Nov 2026 11:16:53 +0000",
+          "source": "Cointelegraph",
+          "text": "Bitcoin holds $75K as AI regulation fears see KOSPI halted after 8% crash Bitcoin consolidated as fears over US AI regulation spread to Asia, causing South Korea to announce measures to calm stock-market volatility."
+        },
         {
           "title": "Bitcoin, Ether ETFs post $530M outflows as election gains evaporate",
           "link": "https://cointelegraph.com/markets/bitcoin-ether-etfs-lose-post-election-gains-erased?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "published": "Fri, 06 Nov 2026 08:19:18 +0000",
           "source": "Cointelegraph",
           "text": "Bitcoin, Ether ETFs post $530M outflows as election gains evaporate US spot Bitcoin and Ether ETFs shed a combined $530 million Thursday as Bitcoin fell below $76,000 and US stocks tumbled."
-        },
-        {
-          "title": "Here’s what happened in crypto today",
-          "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Fri, 06 Nov 2026 06:04:41 +0000",
-          "source": "Cointelegraph",
-          "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
         },
         {
           "title": "Core Scientific to quit Bitcoin mining by year-end as AI business surges",
@@ -54,38 +61,38 @@
           "published": "Thu, 05 Nov 2026 22:43:18 +0000",
           "source": "Cointelegraph",
           "text": "American Bitcoin’s $126M profit masks mining pressure as rivals turn to AI The Eric Trump-backed miner reported $126 million in quarterly net income, largely driven by gains on its Bitcoin holdings, despite rising mining costs and shrinking margins."
-        },
-        {
-          "title": "Bitcoin crashes 6% to 7-week low as US stocks erase election gains",
-          "link": "https://cointelegraph.com/markets/bitcoin-price-crashes-7-week-low-stocks-election-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Thu, 05 Nov 2026 16:48:41 +0000",
-          "source": "Cointelegraph",
-          "text": "Bitcoin crashes 6% to 7-week low as US stocks erase election gains Bitcoin saw sudden downside at the Wall Street open as stocks witnessed a snap sell-off, reversing post-election gains."
         }
       ],
-      "marketSentiment": -37,
-      "combinedScore": 63,
-      "signal": "WAIT",
-      "reason": "Technical 89/100; News -17; Market sentiment -37."
+      "marketSentiment": -34,
+      "combinedScore": 29,
+      "signal": "SELL",
+      "reason": "Technical 23/100; News -30; Market sentiment -34."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2238.52,
-      "change24h": -7.291,
-      "volume24h": 890892338.985203,
+      "price": 2236.41,
+      "change24h": -1.393,
+      "volume24h": 620475547.321229,
       "technical": {
-        "rsi": 56.2,
-        "ema9": 2234.319008767223,
-        "ema21": 2232.087598200924,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.33,
-        "score": 89
+        "rsi": 45.2,
+        "ema9": 2228.903287301953,
+        "ema21": 2232.1576972020594,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.47,
+        "score": 23
       },
-      "newsScore": 33,
+      "newsScore": 25,
       "newsCount": 4,
       "news": [
+        {
+          "title": "Ethereum devs won’t fork Glamsterdam on Hoodi until smart contract risks resolved",
+          "link": "https://cointelegraph.com/news/ethereum-devs-fork-glamsterdam-hoodi-smart-contract-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Fri, 06 Nov 2026 13:23:08 +0000",
+          "source": "Cointelegraph",
+          "text": "Ethereum devs won’t fork Glamsterdam on Hoodi until smart contract risks resolved Ethereum developers are investigating concerns tied to eight smart contract invariants tied to Glamsterdam’s EIP-8037 and EIP-8038."
+        },
         {
           "title": "Bitcoin, Ether ETFs post $530M outflows as election gains evaporate",
           "link": "https://cointelegraph.com/markets/bitcoin-ether-etfs-lose-post-election-gains-erased?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -101,13 +108,6 @@
           "text": "Europe’s largest asset manager Amundi tokenizes equity index fund on Ethereum The new share class offers blockchain-based exposure to an index tracking 600 companies across European markets."
         },
         {
-          "title": "Bitcoin, Ether ETFs draw $128M as crypto rebounds after midterms",
-          "link": "https://cointelegraph.com/markets/bitcoin-ether-etfs-turn-green-post-election-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Thu, 05 Nov 2026 08:22:30 +0000",
-          "source": "Cointelegraph",
-          "text": "Bitcoin, Ether ETFs draw $128M as crypto rebounds after midterms Fidelity led Bitcoin ETF inflows, while BlackRock’s IBIT shed another $201 million, extending its outflow streak to four trading sessions."
-        },
-        {
           "title": "Standard Chartered and SBI back crypto insurer Soter as funding reaches $23.5 million",
           "link": "https://www.coindesk.com/business/2026/11/05/soter-raises-usd23-5m-plus-btc-and-eth-as-banks-demand-theft-protection",
           "published": "Thu, 05 Nov 2026 16:49:08 +0000",
@@ -115,28 +115,28 @@
           "text": "Standard Chartered and SBI back crypto insurer Soter as funding reaches $23.5 million Soter also received backing of 500 BTC and 2000 ETH, worth another $43 million at current prices."
         }
       ],
-      "marketSentiment": -37,
-      "combinedScore": 71,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +33; Market sentiment -37."
+      "marketSentiment": -34,
+      "combinedScore": 37,
+      "signal": "WAIT",
+      "reason": "Technical 23/100; News +25; Market sentiment -34."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 1282.61,
-      "change24h": -3.035,
-      "volume24h": 287515838.1115,
+      "price": 1372.0,
+      "change24h": 8.916,
+      "volume24h": 317604801.72284,
       "technical": {
-        "rsi": 55.1,
-        "ema9": 1273.2659492351506,
-        "ema21": 1272.2825717016474,
-        "macdBull": true,
+        "rsi": 58.2,
+        "ema9": 1344.5028061168766,
+        "ema21": 1330.0893494696131,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 0.98,
-        "score": 89
+        "volumeRatio": 0.5,
+        "score": 65
       },
       "newsScore": 100,
-      "newsCount": 2,
+      "newsCount": 1,
       "news": [
         {
           "title": "Zcash NU7 upgrade goes live, leaves 12,224 ZEC stranded in Sprout pool",
@@ -144,57 +144,27 @@
           "published": "Fri, 06 Nov 2026 09:00:36 +0000",
           "source": "Cointelegraph",
           "text": "Zcash NU7 upgrade goes live, leaves 12,224 ZEC stranded in Sprout pool Zcash’s NU7 upgrade has rendered about $15 million in legacy Sprout funds unspendable, although a future network upgrade could potentially restore access."
-        },
-        {
-          "title": "Zcash is about to freeze $16 million in its oldest privacy pool",
-          "link": "https://www.coindesk.com/tech/2026/11/05/zcash-is-about-to-freeze-usd16-million-in-its-oldest-privacy-pool",
-          "published": "Thu, 05 Nov 2026 05:47:01 +0000",
-          "source": "CoinDesk",
-          "text": "Zcash is about to freeze $16 million in its oldest privacy pool About 12,200 ZEC remains in Sprout, the privacy pool Zcash launched in 2016. Roughly 10,000 coins have left over the past week, but only about 40 moved out Wednesday."
         }
       ],
-      "marketSentiment": -37,
-      "combinedScore": 81,
+      "marketSentiment": -34,
+      "combinedScore": 69,
       "signal": "BUY",
-      "reason": "Technical 89/100; News +100; Market sentiment -37."
-    },
-    {
-      "symbol": "SOLUSDT",
-      "coin": "SOL",
-      "price": 90.14,
-      "change24h": -6.745,
-      "volume24h": 251789884.30357,
-      "technical": {
-        "rsi": 58.9,
-        "ema9": 89.91487359659212,
-        "ema21": 89.78557275030894,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.58,
-        "score": 89
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -37,
-      "combinedScore": 66,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment -37."
+      "reason": "Technical 65/100; News +100; Market sentiment -34."
     },
     {
       "symbol": "USD1USDT",
       "coin": "USD1",
-      "price": 0.99889,
-      "change24h": -0.052,
-      "volume24h": 239376619.55117,
+      "price": 0.99838,
+      "change24h": -0.077,
+      "volume24h": 247526151.98514,
       "technical": {
-        "rsi": 25.7,
-        "ema9": 0.9989742658347937,
-        "ema21": 0.9991421355254685,
+        "rsi": 36.2,
+        "ema9": 0.998983501239473,
+        "ema21": 0.9990523519065848,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.43,
-        "score": 28
+        "volumeRatio": 2.94,
+        "score": 6
       },
       "newsScore": 100,
       "newsCount": 1,
@@ -207,128 +177,229 @@
           "text": "Trump-backed World Liberty Financial plans token buyback after 66% year-to-date slide The crypto venture may use fees from its USD1 stablecoin reserves to fund token purchases as it seeks to boost governance."
         }
       ],
-      "marketSentiment": -37,
-      "combinedScore": 50,
+      "marketSentiment": -34,
+      "combinedScore": 40,
       "signal": "WAIT",
-      "reason": "Technical 28/100; News +100; Market sentiment -37."
+      "reason": "Technical 6/100; News +100; Market sentiment -34."
+    },
+    {
+      "symbol": "SOLUSDT",
+      "coin": "SOL",
+      "price": 90.66,
+      "change24h": 0.277,
+      "volume24h": 200911597.18698,
+      "technical": {
+        "rsi": 48.5,
+        "ema9": 90.46426057052396,
+        "ema21": 90.42267989532476,
+        "macdBull": false,
+        "emaBull": true,
+        "volumeRatio": 0.7,
+        "score": 53
+      },
+      "newsScore": 0,
+      "newsCount": 1,
+      "news": [
+        {
+          "title": "Solana’s Shanghai event halted over unauthorized promotion: Report",
+          "link": "https://cointelegraph.com/news/solana-shanghai-event-halted-unauthorized-promotion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Fri, 06 Nov 2026 12:15:28 +0000",
+          "source": "Cointelegraph",
+          "text": "Solana’s Shanghai event halted over unauthorized promotion: Report Solana’s promotional campaigns through domestic entities allegedly violated China’s crypto-related restrictions, an unidentified PBOC official told China’s Financial News."
+        }
+      ],
+      "marketSentiment": -34,
+      "combinedScore": 48,
+      "signal": "WAIT",
+      "reason": "Technical 53/100; News +0; Market sentiment -34."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 1.198,
-      "change24h": -9.215,
-      "volume24h": 158907815.60125,
+      "price": 1.1977,
+      "change24h": -3.784,
+      "volume24h": 149027705.51811,
       "technical": {
-        "rsi": 50.8,
-        "ema9": 1.1937706026009929,
-        "ema21": 1.1956510938896288,
+        "rsi": 51.3,
+        "ema9": 1.1894375804359594,
+        "ema21": 1.1898288919531737,
         "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.47,
+        "volumeRatio": 1.25,
         "score": 47
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -37,
+      "marketSentiment": -34,
       "combinedScore": 45,
       "signal": "WAIT",
-      "reason": "Technical 47/100; News +0; Market sentiment -37."
-    },
-    {
-      "symbol": "BNBUSDT",
-      "coin": "BNB",
-      "price": 693.89,
-      "change24h": -2.971,
-      "volume24h": 127318130.73281,
-      "technical": {
-        "rsi": 59.9,
-        "ema9": 692.544531388887,
-        "ema21": 691.869512544135,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.45,
-        "score": 89
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -37,
-      "combinedScore": 66,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment -37."
+      "reason": "Technical 47/100; News +0; Market sentiment -34."
     },
     {
       "symbol": "RLUSDUSDT",
       "coin": "RLUSD",
       "price": 1.0013,
-      "change24h": 0.05,
-      "volume24h": 100732494.6999,
+      "change24h": 0.01,
+      "volume24h": 106942067.3146,
       "technical": {
-        "rsi": 45.2,
-        "ema9": 1.0013469675801583,
-        "ema21": 1.0013902601966467,
+        "rsi": 50.1,
+        "ema9": 1.0014124562231566,
+        "ema21": 1.0013991390304744,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 7.21,
+        "score": 72
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -34,
+      "combinedScore": 58,
+      "signal": "WAIT",
+      "reason": "Technical 72/100; News +0; Market sentiment -34."
+    },
+    {
+      "symbol": "BNBUSDT",
+      "coin": "BNB",
+      "price": 697.4,
+      "change24h": 0.603,
+      "volume24h": 87107141.43074,
+      "technical": {
+        "rsi": 48.6,
+        "ema9": 695.539555606116,
+        "ema21": 695.591309930991,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.87,
+        "volumeRatio": 0.57,
         "score": 23
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -37,
+      "marketSentiment": -34,
       "combinedScore": 33,
       "signal": "SELL",
-      "reason": "Technical 23/100; News +0; Market sentiment -37."
+      "reason": "Technical 23/100; News +0; Market sentiment -34."
     },
     {
       "symbol": "SOXLBUSDT",
       "coin": "SOXLB",
-      "price": 47.68,
-      "change24h": -23.307,
-      "volume24h": 100191738.31743,
+      "price": 46.01,
+      "change24h": -3.946,
+      "volume24h": 84326024.07793,
       "technical": {
-        "rsi": 70.1,
-        "ema9": 46.62995897038171,
-        "ema21": 45.84418545315205,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 1.29,
-        "score": 89
+        "rsi": 43.2,
+        "ema9": 46.18753166520625,
+        "ema21": 46.806690355249565,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.61,
+        "score": 11
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -37,
-      "combinedScore": 66,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment -37."
+      "marketSentiment": -34,
+      "combinedScore": 27,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment -34."
     },
     {
-      "symbol": "NEARUSDT",
-      "coin": "NEAR",
-      "price": 3.726,
-      "change24h": -7.36,
-      "volume24h": 97441807.7897,
+      "symbol": "SNDKBUSDT",
+      "coin": "SNDKB",
+      "price": 841.5,
+      "change24h": -2.955,
+      "volume24h": 82728353.671301,
       "technical": {
-        "rsi": 59.2,
-        "ema9": 3.7223096372925113,
-        "ema21": 3.707301813614649,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.77,
-        "score": 89
+        "rsi": 35.7,
+        "ema9": 854.0283187568928,
+        "ema21": 866.8164557079044,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.71,
+        "score": 11
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -37,
-      "combinedScore": 66,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment -37."
+      "marketSentiment": -34,
+      "combinedScore": 27,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment -34."
     }
   ],
   "news": [
+    {
+      "title": "What Democrats’ US midterm sweep means for the CLARITY Act",
+      "link": "https://cointelegraph.com/magazine/clarity-act-faces-new-test-under-democratic-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 06 Nov 2026 14:30:00 +0000",
+      "source": "Cointelegraph",
+      "text": "What Democrats’ US midterm sweep means for the CLARITY Act The CLARITY Act faces a new test as Democrats control Congress, raising questions over consumer protections, ethics and what the crypto industry may have to concede."
+    },
+    {
+      "title": "Nigeria sets new crypto licensing rules, bans algorithmic stablecoins",
+      "link": "https://cointelegraph.com/news/nigeria-algorithmic-stablecoin-ban-crypto-licensing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 06 Nov 2026 13:57:14 +0000",
+      "source": "Cointelegraph",
+      "text": "Nigeria sets new crypto licensing rules, bans algorithmic stablecoins Nigeria has banned algorithmic stablecoins and introduced reserve requirements for issuers as it expands central bank oversight of crypto payment services."
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 06 Nov 2026 13:33:00 +0000",
+      "source": "Cointelegraph",
+      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "title": "Ethereum devs won’t fork Glamsterdam on Hoodi until smart contract risks resolved",
+      "link": "https://cointelegraph.com/news/ethereum-devs-fork-glamsterdam-hoodi-smart-contract-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 06 Nov 2026 13:23:08 +0000",
+      "source": "Cointelegraph",
+      "text": "Ethereum devs won’t fork Glamsterdam on Hoodi until smart contract risks resolved Ethereum developers are investigating concerns tied to eight smart contract invariants tied to Glamsterdam’s EIP-8037 and EIP-8038."
+    },
+    {
+      "title": "Solana’s Shanghai event halted over unauthorized promotion: Report",
+      "link": "https://cointelegraph.com/news/solana-shanghai-event-halted-unauthorized-promotion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 06 Nov 2026 12:15:28 +0000",
+      "source": "Cointelegraph",
+      "text": "Solana’s Shanghai event halted over unauthorized promotion: Report Solana’s promotional campaigns through domestic entities allegedly violated China’s crypto-related restrictions, an unidentified PBOC official told China’s Financial News."
+    },
+    {
+      "title": "Binance hackers had 8 weeks of access before $6.3B exploit, Security Alliance estimates",
+      "link": "https://cointelegraph.com/news/binance-hackers-8-weeks-access-63b-exploit-security-alliance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 06 Nov 2026 11:26:30 +0000",
+      "source": "Cointelegraph",
+      "text": "Binance hackers had 8 weeks of access before $6.3B exploit, Security Alliance estimates The cybersecurity company flagged similar multi-stage intrusion patterns behind other high-profile crypto heists, including the $388 million Bitget hack."
+    },
+    {
+      "title": "Bitcoin holds $75K as AI regulation fears see KOSPI halted after 8% crash",
+      "link": "https://cointelegraph.com/markets/bitcoin-holds-ai-regulation-fears-kospi-halted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 06 Nov 2026 11:16:53 +0000",
+      "source": "Cointelegraph",
+      "text": "Bitcoin holds $75K as AI regulation fears see KOSPI halted after 8% crash Bitcoin consolidated as fears over US AI regulation spread to Asia, causing South Korea to announce measures to calm stock-market volatility."
+    },
+    {
+      "title": "Greece approves 10% tax on crypto gains starting in 2027",
+      "link": "https://cointelegraph.com/news/greece-approves-10-tax-crypto-gains-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 06 Nov 2026 11:05:36 +0000",
+      "source": "Cointelegraph",
+      "text": "Greece approves 10% tax on crypto gains starting in 2027 Greece has approved a 10% tax on cryptocurrency gains starting in 2027, with an exemption for investors whose annual net gains do not exceed 500 euros."
+    },
+    {
+      "title": "GOPAX halts crypto trading, withdrawals to move all assets to cold storage",
+      "link": "https://cointelegraph.com/news/gopax-halts-crypto-trading-withdrawals-cold-storage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 06 Nov 2026 10:47:33 +0000",
+      "source": "Cointelegraph",
+      "text": "GOPAX halts crypto trading, withdrawals to move all assets to cold storage South Korea’s GOPAX suspended trading, deposits and standard withdrawals after a hacking threat, with manual withdrawals available through support."
+    },
+    {
+      "title": "Binance’s $6.3B hack leaves questions over hot wallet safeguards",
+      "link": "https://cointelegraph.com/news/binances-hack-questions-hot-wallet-risk-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 06 Nov 2026 10:40:57 +0000",
+      "source": "Cointelegraph",
+      "text": "Binance’s $6.3B hack leaves questions over hot wallet safeguards Experts say blockchain records show repeated wallet drains but cannot establish Binance’s internal signing controls or transaction limits."
+    },
     {
       "title": "Zcash NU7 upgrade goes live, leaves 12,224 ZEC stranded in Sprout pool",
       "link": "https://cointelegraph.com/news/zcash-nu7-upgrade-15m-sprout-funds-unspendable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -356,13 +427,6 @@
       "published": "Fri, 06 Nov 2026 06:54:34 +0000",
       "source": "Cointelegraph",
       "text": "Chainalysis says breach exposed password hashes and live tokens Chainalysis disclosed password hashes and live tokens were exposed after initially reporting only non-sensitive customer data was accessed."
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 06 Nov 2026 06:04:41 +0000",
-      "source": "Cointelegraph",
-      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
       "title": "Crypto exchanges tout cold storage ratios after Binance attack",
@@ -405,69 +469,6 @@
       "published": "Thu, 05 Nov 2026 19:02:19 +0000",
       "source": "Cointelegraph",
       "text": "Binance, Deribit revoke SignalPlus API keys after fake Teams invite attack SignalPlus said attackers compromised an engineer’s computer in a breach that resulted in losses of less than $82,000, which the crypto trading platform pledged to reimburse in full."
-    },
-    {
-      "title": "Fed, OCC check US banks after Binance hack as experts flag security risks",
-      "link": "https://cointelegraph.com/news/fed-occ-check-us-banks-binance-hack-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 05 Nov 2026 18:32:45 +0000",
-      "source": "Cointelegraph",
-      "text": "Fed, OCC check US banks after Binance hack as experts flag security risks US regulators reportedly contacted banks following last week’s $6.3 billion Binance security hack, while experts raised concerns about transaction security and crypto risks."
-    },
-    {
-      "title": "Europe’s largest asset manager Amundi tokenizes equity index fund on Ethereum",
-      "link": "https://cointelegraph.com/news/amundi-tokenizes-european-equity-index-fund-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 05 Nov 2026 18:09:38 +0000",
-      "source": "Cointelegraph",
-      "text": "Europe’s largest asset manager Amundi tokenizes equity index fund on Ethereum The new share class offers blockchain-based exposure to an index tracking 600 companies across European markets."
-    },
-    {
-      "title": "Paraguay president resigns after collapse of Ueno digital bank",
-      "link": "https://cointelegraph.com/news/paraguay-president-resigns-after-collapse-ueno-digital-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 05 Nov 2026 17:40:25 +0000",
-      "source": "Cointelegraph",
-      "text": "Paraguay president resigns after collapse of Ueno digital bank Santiago Peña stepped down amid mounting scrutiny over his former ties to Ueno Bank’s parent company, as the lender’s collapse left millions of customers unable to access their funds."
-    },
-    {
-      "title": "Bitcoin crashes 6% to 7-week low as US stocks erase election gains",
-      "link": "https://cointelegraph.com/markets/bitcoin-price-crashes-7-week-low-stocks-election-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 05 Nov 2026 16:48:41 +0000",
-      "source": "Cointelegraph",
-      "text": "Bitcoin crashes 6% to 7-week low as US stocks erase election gains Bitcoin saw sudden downside at the Wall Street open as stocks witnessed a snap sell-off, reversing post-election gains."
-    },
-    {
-      "title": "Blockchain is ‘perfect solution’ for AI agent trust, VeChain CEO says",
-      "link": "https://cointelegraph.com/news/blockchain-is-perfect-solution-for-ai-agent-trust-vechain-ceo-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 05 Nov 2026 13:34:57 +0000",
-      "source": "Cointelegraph",
-      "text": "Blockchain is ‘perfect solution’ for AI agent trust, VeChain CEO says Sunny Lu said AI agents would need identity and reputation systems, making the case while promoting agent-building platform VeWorld.ai."
-    },
-    {
-      "title": "Can decentralized phone networks power the AI revolution?",
-      "link": "https://cointelegraph.com/magazine/can-decentralized-phone-networks-power-the-ai-revolution?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 05 Nov 2026 13:30:00 +0000",
-      "source": "Cointelegraph",
-      "text": "Can decentralized phone networks power the AI revolution? Decentralized AI networks want to turn everyday phones into an alternative to centralized computing infrastructure — but skeptics have their doubts."
-    },
-    {
-      "title": "Trump’s memecoin ventures derailed CLARITY Act, Scaramucci says",
-      "link": "https://cointelegraph.com/news/scaramucci-trump-memecoins-clarity-act-failure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 05 Nov 2026 12:39:36 +0000",
-      "source": "Cointelegraph",
-      "text": "Trump’s memecoin ventures derailed CLARITY Act, Scaramucci says The SkyBridge founder said disputes over ethics restrictions also stalled negotiations, with both sides responsible for the setback."
-    },
-    {
-      "title": "Thailand to block Bitget in December over unlicensed crypto trading",
-      "link": "https://cointelegraph.com/news/thailand-block-bitget-december-unlicensed-crypto-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 05 Nov 2026 11:33:20 +0000",
-      "source": "Cointelegraph",
-      "text": "Thailand to block Bitget in December over unlicensed crypto trading Thailand’s SEC filed a criminal complaint against Bitget’s operator, with access to its website and app set to be blocked from Dec. 5."
-    },
-    {
-      "title": "Bitcoin win rate vs. S&P 500 recovers as post-midterm history favors stocks",
-      "link": "https://cointelegraph.com/markets/bitcoin-win-rate-sp-500-us-midterms-stocks-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 05 Nov 2026 10:28:26 +0000",
-      "source": "Cointelegraph",
-      "text": "Bitcoin win rate vs. S&P 500 recovers as post-midterm history favors stocks Bitcoin outperformed the S&P 500 in half of the past 90 US trading sessions, while historical midterm data highlights gains for stocks."
     }
   ],
   "paper": {
@@ -633,16 +634,6 @@
         "mode": "PAPER ONLY"
       },
       {
-        "symbol": "ZECUSDT",
-        "side": "BUY",
-        "entry": 1278.24,
-        "stopLoss": 1259.0664,
-        "takeProfit": 1316.5872,
-        "entryTime": "2026-11-05T22:21:31.307064+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
         "symbol": "ETHUSDT",
         "side": "BUY",
         "entry": 2238.52,
@@ -653,12 +644,42 @@
         "mode": "PAPER ONLY"
       },
       {
-        "symbol": "SOXLBUSDT",
+        "symbol": "BTCUSDT",
+        "side": "SELL",
+        "entry": 75978.01,
+        "stopLoss": 77117.68015,
+        "takeProfit": 73698.6697,
+        "entryTime": "2026-11-06T16:57:55.704110+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "ZECUSDT",
         "side": "BUY",
-        "entry": 47.68,
-        "stopLoss": 46.9648,
-        "takeProfit": 49.1104,
-        "entryTime": "2026-11-06T09:49:33.491434+00:00",
+        "entry": 1372.0,
+        "stopLoss": 1351.42,
+        "takeProfit": 1413.16,
+        "entryTime": "2026-11-06T16:57:55.704110+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "SOXLBUSDT",
+        "side": "SELL",
+        "entry": 46.01,
+        "stopLoss": 46.70015,
+        "takeProfit": 44.6297,
+        "entryTime": "2026-11-06T16:57:55.704110+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "SNDKBUSDT",
+        "side": "SELL",
+        "entry": 841.5,
+        "stopLoss": 854.1225,
+        "takeProfit": 816.255,
+        "entryTime": "2026-11-06T16:57:55.704110+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       }
@@ -2067,6 +2088,32 @@
         "exitPrice": 47.68,
         "exitTime": "2026-11-06T09:49:33.491434+00:00",
         "pnlPercent": 4.561
+      },
+      {
+        "symbol": "ZECUSDT",
+        "side": "BUY",
+        "entry": 1278.24,
+        "stopLoss": 1259.0664,
+        "takeProfit": 1316.5872,
+        "entryTime": "2026-11-05T22:21:31.307064+00:00",
+        "status": "TAKE_PROFIT",
+        "mode": "PAPER ONLY",
+        "exitPrice": 1372.0,
+        "exitTime": "2026-11-06T16:57:55.704110+00:00",
+        "pnlPercent": 7.335
+      },
+      {
+        "symbol": "SOXLBUSDT",
+        "side": "BUY",
+        "entry": 47.68,
+        "stopLoss": 46.9648,
+        "takeProfit": 49.1104,
+        "entryTime": "2026-11-06T09:49:33.491434+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 46.01,
+        "exitTime": "2026-11-06T16:57:55.704110+00:00",
+        "pnlPercent": -3.503
       }
     ]
   },
