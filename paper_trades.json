@@ -169,6 +169,16 @@
       "entryTime": "2026-11-05T22:21:31.307064+00:00",
       "status": "OPEN",
       "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "SOXLBUSDT",
+      "side": "BUY",
+      "entry": 45.6,
+      "stopLoss": 44.916,
+      "takeProfit": 46.968,
+      "entryTime": "2026-11-06T02:35:58.717217+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
     }
   ],
   "closed": [
