@@ -181,16 +181,6 @@
       "mode": "PAPER ONLY"
     },
     {
-      "symbol": "ZECUSDT",
-      "side": "BUY",
-      "entry": 1372.0,
-      "stopLoss": 1351.42,
-      "takeProfit": 1413.16,
-      "entryTime": "2026-11-06T16:57:55.704110+00:00",
-      "status": "OPEN",
-      "mode": "PAPER ONLY"
-    },
-    {
       "symbol": "SOXLBUSDT",
       "side": "SELL",
       "entry": 46.01,
@@ -207,6 +197,16 @@
       "stopLoss": 854.1225,
       "takeProfit": 816.255,
       "entryTime": "2026-11-06T16:57:55.704110+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "XRPUSDT",
+      "side": "SELL",
+      "entry": 1.1795,
+      "stopLoss": 1.1971925,
+      "takeProfit": 1.144115,
+      "entryTime": "2026-11-06T21:57:26.103911+00:00",
       "status": "OPEN",
       "mode": "PAPER ONLY"
     }
@@ -1641,6 +1641,19 @@
       "exitPrice": 46.01,
       "exitTime": "2026-11-06T16:57:55.704110+00:00",
       "pnlPercent": -3.503
+    },
+    {
+      "symbol": "ZECUSDT",
+      "side": "BUY",
+      "entry": 1372.0,
+      "stopLoss": 1351.42,
+      "takeProfit": 1413.16,
+      "entryTime": "2026-11-06T16:57:55.704110+00:00",
+      "status": "STOP_LOSS",
+      "mode": "PAPER ONLY",
+      "exitPrice": 1338.33,
+      "exitTime": "2026-11-06T21:57:26.103911+00:00",
+      "pnlPercent": -2.454
     }
   ]
 }
