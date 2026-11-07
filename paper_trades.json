@@ -211,12 +211,12 @@
       "mode": "PAPER ONLY"
     },
     {
-      "symbol": "ZECUSDT",
-      "side": "BUY",
-      "entry": 1347.4,
-      "stopLoss": 1327.189,
-      "takeProfit": 1387.822,
-      "entryTime": "2026-11-07T01:37:57.481766+00:00",
+      "symbol": "PEPEUSDT",
+      "side": "SELL",
+      "entry": 4.92e-06,
+      "stopLoss": 4.9938e-06,
+      "takeProfit": 4.7724e-06,
+      "entryTime": "2026-11-07T07:44:59.217273+00:00",
       "status": "OPEN",
       "mode": "PAPER ONLY"
     }
@@ -1664,6 +1664,19 @@
       "exitPrice": 1338.33,
       "exitTime": "2026-11-06T21:57:26.103911+00:00",
       "pnlPercent": -2.454
+    },
+    {
+      "symbol": "ZECUSDT",
+      "side": "BUY",
+      "entry": 1347.4,
+      "stopLoss": 1327.189,
+      "takeProfit": 1387.822,
+      "entryTime": "2026-11-07T01:37:57.481766+00:00",
+      "status": "STOP_LOSS",
+      "mode": "PAPER ONLY",
+      "exitPrice": 1320.4,
+      "exitTime": "2026-11-07T07:44:59.217273+00:00",
+      "pnlPercent": -2.004
     }
   ]
 }
