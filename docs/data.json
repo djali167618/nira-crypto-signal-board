@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07 14:21:59 UTC",
+  "generatedAt": "2026-11-07 18:54:04 UTC",
   "interval": "15m candles",
   "marketSentiment": -35,
   "overallNewsScore": -7,
@@ -12,34 +12,34 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 75930.77,
-      "change24h": 0.269,
-      "volume24h": 875782141.7925838,
+      "price": 75818.11,
+      "change24h": -0.042,
+      "volume24h": 532962783.9244047,
       "technical": {
-        "rsi": 47.0,
-        "ema9": 75935.71348713961,
-        "ema21": 75967.17918799604,
-        "macdBull": false,
+        "rsi": 46.8,
+        "ema9": 75824.86877373871,
+        "ema21": 75848.51515902302,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.74,
-        "score": 23
+        "volumeRatio": 0.43,
+        "score": 47
       },
       "newsScore": 0,
       "newsCount": 5,
       "news": [
+        {
+          "title": "Here’s what happened in crypto today",
+          "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Sat, 07 Nov 2026 14:22:00 +0000",
+          "source": "Cointelegraph",
+          "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+        },
         {
           "title": "Bitcoin holders have received eCash — What can you do with it?",
           "link": "https://cointelegraph.com/magazine/bitcoin-holders-have-received-ecash-what-can-you-with-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "published": "Sat, 07 Nov 2026 13:30:00 +0000",
           "source": "Cointelegraph",
           "text": "Bitcoin holders have received eCash — What can you do with it? Bitcoin’s eCash fork gives eligible holders an equivalent balance of ECX, but questions remain over where they can trade the tokens and what they can do with them."
-        },
-        {
-          "title": "Here’s what happened in crypto today",
-          "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Fri, 06 Nov 2026 22:00:15 +0000",
-          "source": "Cointelegraph",
-          "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
         },
         {
           "title": "Russia finalizes crypto trading rules ahead of Nov. 17 rollout",
@@ -64,24 +64,24 @@
         }
       ],
       "marketSentiment": -35,
-      "combinedScore": 33,
-      "signal": "SELL",
-      "reason": "Technical 23/100; News +0; Market sentiment -35."
+      "combinedScore": 45,
+      "signal": "WAIT",
+      "reason": "Technical 47/100; News +0; Market sentiment -35."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2245.65,
-      "change24h": 0.414,
-      "volume24h": 255866621.746929,
+      "price": 2236.66,
+      "change24h": 0.163,
+      "volume24h": 167364980.879877,
       "technical": {
-        "rsi": 52.9,
-        "ema9": 2244.336107194631,
-        "ema21": 2244.7261302498137,
+        "rsi": 44.7,
+        "ema9": 2237.0096696178193,
+        "ema21": 2238.751481700151,
         "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.65,
-        "score": 47
+        "volumeRatio": 0.83,
+        "score": 35
       },
       "newsScore": 25,
       "newsCount": 4,
@@ -116,54 +116,23 @@
         }
       ],
       "marketSentiment": -35,
-      "combinedScore": 49,
+      "combinedScore": 43,
       "signal": "WAIT",
-      "reason": "Technical 47/100; News +25; Market sentiment -35."
-    },
-    {
-      "symbol": "ZECUSDT",
-      "coin": "ZEC",
-      "price": 1277.44,
-      "change24h": -3.287,
-      "volume24h": 206509037.64408,
-      "technical": {
-        "rsi": 35.0,
-        "ema9": 1281.6552011327024,
-        "ema21": 1292.1529612889765,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.64,
-        "score": 11
-      },
-      "newsScore": 100,
-      "newsCount": 1,
-      "news": [
-        {
-          "title": "Zcash NU7 upgrade goes live, leaves 12,224 ZEC stranded in Sprout pool",
-          "link": "https://cointelegraph.com/news/zcash-nu7-upgrade-15m-sprout-funds-unspendable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Fri, 06 Nov 2026 09:00:36 +0000",
-          "source": "Cointelegraph",
-          "text": "Zcash NU7 upgrade goes live, leaves 12,224 ZEC stranded in Sprout pool Zcash’s NU7 upgrade has rendered about $15 million in legacy Sprout funds unspendable, although a future network upgrade could potentially restore access."
-        }
-      ],
-      "marketSentiment": -35,
-      "combinedScore": 42,
-      "signal": "WAIT",
-      "reason": "Technical 11/100; News +100; Market sentiment -35."
+      "reason": "Technical 35/100; News +25; Market sentiment -35."
     },
     {
       "symbol": "USD1USDT",
       "coin": "USD1",
-      "price": 0.99899,
-      "change24h": -0.037,
-      "volume24h": 195202658.31599,
+      "price": 0.99907,
+      "change24h": -0.033,
+      "volume24h": 144869588.64409,
       "technical": {
-        "rsi": 53.8,
-        "ema9": 0.9989125714441387,
-        "ema21": 0.9989044550996519,
+        "rsi": 50.8,
+        "ema9": 0.9990841367667448,
+        "ema21": 0.9990668854812126,
         "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 1.13,
+        "volumeRatio": 0.13,
         "score": 53
       },
       "newsScore": 100,
@@ -183,41 +152,72 @@
       "reason": "Technical 53/100; News +100; Market sentiment -35."
     },
     {
-      "symbol": "XRPUSDT",
-      "coin": "XRP",
-      "price": 1.1669,
-      "change24h": -1.378,
-      "volume24h": 107371251.82847,
+      "symbol": "ZECUSDT",
+      "coin": "ZEC",
+      "price": 1270.5,
+      "change24h": -5.376,
+      "volume24h": 135696965.18361,
       "technical": {
-        "rsi": 50.9,
-        "ema9": 1.1663534418548478,
-        "ema21": 1.1677422326362135,
-        "macdBull": false,
+        "rsi": 47.3,
+        "ema9": 1267.2512071802432,
+        "ema21": 1270.5665602029824,
+        "macdBull": true,
         "emaBull": false,
         "volumeRatio": 0.6,
-        "score": 23
+        "score": 47
+      },
+      "newsScore": 100,
+      "newsCount": 1,
+      "news": [
+        {
+          "title": "Zcash NU7 upgrade goes live, leaves 12,224 ZEC stranded in Sprout pool",
+          "link": "https://cointelegraph.com/news/zcash-nu7-upgrade-15m-sprout-funds-unspendable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Fri, 06 Nov 2026 09:00:36 +0000",
+          "source": "Cointelegraph",
+          "text": "Zcash NU7 upgrade goes live, leaves 12,224 ZEC stranded in Sprout pool Zcash’s NU7 upgrade has rendered about $15 million in legacy Sprout funds unspendable, although a future network upgrade could potentially restore access."
+        }
+      ],
+      "marketSentiment": -35,
+      "combinedScore": 60,
+      "signal": "WAIT",
+      "reason": "Technical 47/100; News +100; Market sentiment -35."
+    },
+    {
+      "symbol": "XRPUSDT",
+      "coin": "XRP",
+      "price": 1.1629,
+      "change24h": -2.03,
+      "volume24h": 85277734.59165,
+      "technical": {
+        "rsi": 48.2,
+        "ema9": 1.1621251096920215,
+        "ema21": 1.1627654135875034,
+        "macdBull": true,
+        "emaBull": false,
+        "volumeRatio": 0.52,
+        "score": 47
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": -35,
-      "combinedScore": 33,
-      "signal": "SELL",
-      "reason": "Technical 23/100; News +0; Market sentiment -35."
+      "combinedScore": 45,
+      "signal": "WAIT",
+      "reason": "Technical 47/100; News +0; Market sentiment -35."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 89.98,
-      "change24h": -0.398,
-      "volume24h": 91814594.91074,
+      "price": 89.74,
+      "change24h": -0.631,
+      "volume24h": 55873013.34135,
       "technical": {
-        "rsi": 48.4,
-        "ema9": 89.9421540492225,
-        "ema21": 89.97867634198955,
+        "rsi": 45.9,
+        "ema9": 89.72590424510356,
+        "ema21": 89.75778084168356,
         "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.57,
+        "volumeRatio": 0.78,
         "score": 47
       },
       "newsScore": 0,
@@ -237,18 +237,72 @@
       "reason": "Technical 47/100; News +0; Market sentiment -35."
     },
     {
+      "symbol": "ONEUSDT",
+      "coin": "ONE",
+      "price": 0.002225,
+      "change24h": 39.586,
+      "volume24h": 41511971.7381884,
+      "technical": {
+        "rsi": 55.6,
+        "ema9": 0.002235532114697073,
+        "ema21": 0.0021664429093166226,
+        "macdBull": false,
+        "emaBull": true,
+        "volumeRatio": 0.97,
+        "score": 65
+      },
+      "newsScore": -100,
+      "newsCount": 1,
+      "news": [
+        {
+          "title": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
+          "link": "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets",
+          "published": "Sat, 07 Nov 2026 16:51:00 +0000",
+          "source": "CoinDesk",
+          "text": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets One user said the exposed data tied his home address and card number to every crypto wallet linked to his account, raising the risk of targeted scams."
+        }
+      ],
+      "marketSentiment": -35,
+      "combinedScore": 39,
+      "signal": "WAIT",
+      "reason": "Technical 65/100; News -100; Market sentiment -35."
+    },
+    {
+      "symbol": "BNBUSDT",
+      "coin": "BNB",
+      "price": 696.16,
+      "change24h": 0.138,
+      "volume24h": 34157028.52339,
+      "technical": {
+        "rsi": 65.4,
+        "ema9": 695.452231627726,
+        "ema21": 695.0511489969076,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.98,
+        "score": 89
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -35,
+      "combinedScore": 66,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment -35."
+    },
+    {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 3.707,
-      "change24h": -0.43,
-      "volume24h": 45654164.9129,
+      "price": 3.671,
+      "change24h": -2.028,
+      "volume24h": 32563344.3202,
       "technical": {
-        "rsi": 49.0,
-        "ema9": 3.7081289834450146,
-        "ema21": 3.710942299205751,
+        "rsi": 46.3,
+        "ema9": 3.6655789849149762,
+        "ema21": 3.6750038644857383,
         "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.66,
+        "volumeRatio": 0.55,
         "score": 47
       },
       "newsScore": 0,
@@ -263,20 +317,27 @@
       "symbol": "UUSDT",
       "coin": "U",
       "price": 1.0004,
-      "change24h": -0.03,
-      "volume24h": 39829849.1412,
+      "change24h": 0.0,
+      "volume24h": 29830694.9376,
       "technical": {
-        "rsi": 55.9,
-        "ema9": 1.0003445028983835,
-        "ema21": 1.0003075498723646,
+        "rsi": 55.1,
+        "ema9": 1.0003678464757686,
+        "ema21": 1.0003469510043006,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.15,
+        "volumeRatio": 0.16,
         "score": 89
       },
-      "newsScore": -40,
+      "newsScore": -33,
       "newsCount": 5,
       "news": [
+        {
+          "title": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
+          "link": "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows",
+          "published": "Sat, 07 Nov 2026 17:36:46 +0000",
+          "source": "CoinDesk",
+          "text": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows Treasury billed the move as part of its campaign against Iran, but the order rests on MEXC's alleged role in Russian illicit finance."
+        },
         {
           "title": "U.S. prediction markets regulator issues demand that clashes directly with courts",
           "link": "https://www.coindesk.com/policy/2026/11/06/u-s-prediction-markets-regulator-issues-demand-that-clashes-directly-with-courts",
@@ -304,68 +365,22 @@
           "published": "Fri, 06 Nov 2026 02:24:23 +0000",
           "source": "CoinDesk",
           "text": "Hyperliquid treasury firm seeking U.S. regulatory nod as a domestic futures platform The company said it's trying to establish a U.S. \"futures commission merchant\" with full compliance for activity with U.S. clients, though the timing is uncertain."
-        },
-        {
-          "title": "U.S. Justice Department assembles force to shield against foreign AI threats",
-          "link": "https://www.coindesk.com/policy/2026/11/05/u-s-justice-department-assembles-force-to-shield-against-foreign-ai-threats",
-          "published": "Thu, 05 Nov 2026 18:59:45 +0000",
-          "source": "CoinDesk",
-          "text": "U.S. Justice Department assembles force to shield against foreign AI threats The new DOJ task force will aid the recently designated U.S. \"SI Force\" by warding off bad actors backed by other nations, criminal groups or corporate fraud."
         }
       ],
       "marketSentiment": -35,
-      "combinedScore": 60,
+      "combinedScore": 61,
       "signal": "WAIT",
-      "reason": "Technical 89/100; News -40; Market sentiment -35."
-    },
-    {
-      "symbol": "BNBUSDT",
-      "coin": "BNB",
-      "price": 695.0,
-      "change24h": -0.188,
-      "volume24h": 39234830.28636,
-      "technical": {
-        "rsi": 51.3,
-        "ema9": 695.0067816011393,
-        "ema21": 694.9264794955243,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.82,
-        "score": 77
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -35,
-      "combinedScore": 60,
-      "signal": "WAIT",
-      "reason": "Technical 77/100; News +0; Market sentiment -35."
-    },
-    {
-      "symbol": "SNDKBUSDT",
-      "coin": "SNDKB",
-      "price": 836.72,
-      "change24h": -6.665,
-      "volume24h": 37468044.771045,
-      "technical": {
-        "rsi": 53.2,
-        "ema9": 836.5771962666071,
-        "ema21": 836.0363640147456,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 2.17,
-        "score": 72
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -35,
-      "combinedScore": 58,
-      "signal": "WAIT",
-      "reason": "Technical 72/100; News +0; Market sentiment -35."
+      "reason": "Technical 89/100; News -33; Market sentiment -35."
     }
   ],
   "news": [
+    {
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sat, 07 Nov 2026 14:22:00 +0000",
+      "source": "Cointelegraph",
+      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
     {
       "title": "Ex-FBI counterintelligence agent stole almost $2.5M in crypto",
       "link": "https://cointelegraph.com/news/ex-fbi-counterintelligence-agent-stole-almost-25m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -400,13 +415,6 @@
       "published": "Sat, 07 Nov 2026 07:45:24 +0000",
       "source": "Cointelegraph",
       "text": "Nvidia may face a more hostile post-election Washington: Report CEO Jensen Huang’s relationship with President Donald Trump probably won’t save the company from a more adversarial Washington, Semafor says."
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 06 Nov 2026 22:00:15 +0000",
-      "source": "Cointelegraph",
-      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
       "title": "US Treasury cuts off MEXC over alleged $16B in illicit transactions",
