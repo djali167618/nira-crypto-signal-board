@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07 07:44:59 UTC",
+  "generatedAt": "2026-11-07 14:21:59 UTC",
   "interval": "15m candles",
   "marketSentiment": -35,
   "overallNewsScore": -7,
@@ -12,21 +12,28 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 76039.48,
-      "change24h": 0.44,
-      "volume24h": 1102052916.1864223,
+      "price": 75930.77,
+      "change24h": 0.269,
+      "volume24h": 875782141.7925838,
       "technical": {
-        "rsi": 53.9,
-        "ema9": 76017.93615708753,
-        "ema21": 75991.26316723396,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.38,
-        "score": 77
+        "rsi": 47.0,
+        "ema9": 75935.71348713961,
+        "ema21": 75967.17918799604,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.74,
+        "score": 23
       },
-      "newsScore": -10,
+      "newsScore": 0,
       "newsCount": 5,
       "news": [
+        {
+          "title": "Bitcoin holders have received eCash — What can you do with it?",
+          "link": "https://cointelegraph.com/magazine/bitcoin-holders-have-received-ecash-what-can-you-with-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Sat, 07 Nov 2026 13:30:00 +0000",
+          "source": "Cointelegraph",
+          "text": "Bitcoin holders have received eCash — What can you do with it? Bitcoin’s eCash fork gives eligible holders an equivalent balance of ECX, but questions remain over where they can trade the tokens and what they can do with them."
+        },
         {
           "title": "Here’s what happened in crypto today",
           "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -54,37 +61,30 @@
           "published": "Fri, 06 Nov 2026 17:49:33 +0000",
           "source": "Cointelegraph",
           "text": "Bitcoin price dips under $75K as crypto markets miss tech-stock rebound BTC price action stayed weak after US nonfarm payrolls data significantly beat forecasts, increasing bets of a December interest-rate hike."
-        },
-        {
-          "title": "Bitcoin holds $75K as AI regulation fears see KOSPI halted after 8% crash",
-          "link": "https://cointelegraph.com/markets/bitcoin-holds-ai-regulation-fears-kospi-halted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Fri, 06 Nov 2026 11:16:53 +0000",
-          "source": "Cointelegraph",
-          "text": "Bitcoin holds $75K as AI regulation fears see KOSPI halted after 8% crash Bitcoin consolidated as fears over US AI regulation spread to Asia, causing South Korea to announce measures to calm stock-market volatility."
         }
       ],
       "marketSentiment": -35,
-      "combinedScore": 58,
-      "signal": "WAIT",
-      "reason": "Technical 77/100; News -10; Market sentiment -35."
+      "combinedScore": 33,
+      "signal": "SELL",
+      "reason": "Technical 23/100; News +0; Market sentiment -35."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2244.87,
-      "change24h": 0.601,
-      "volume24h": 395071619.57474,
+      "price": 2245.65,
+      "change24h": 0.414,
+      "volume24h": 255866621.746929,
       "technical": {
-        "rsi": 49.0,
-        "ema9": 2246.2403743032146,
-        "ema21": 2245.494818902307,
-        "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.66,
-        "score": 53
+        "rsi": 52.9,
+        "ema9": 2244.336107194631,
+        "ema21": 2244.7261302498137,
+        "macdBull": true,
+        "emaBull": false,
+        "volumeRatio": 0.65,
+        "score": 47
       },
-      "newsScore": 40,
-      "newsCount": 5,
+      "newsScore": 25,
+      "newsCount": 4,
       "news": [
         {
           "title": "Russia finalizes crypto trading rules ahead of Nov. 17 rollout",
@@ -108,13 +108,6 @@
           "text": "Bitcoin, Ether ETFs post $530M outflows as election gains evaporate US spot Bitcoin and Ether ETFs shed a combined $530 million Thursday as Bitcoin fell below $76,000 and US stocks tumbled."
         },
         {
-          "title": "Europe’s largest asset manager Amundi tokenizes equity index fund on Ethereum",
-          "link": "https://cointelegraph.com/news/amundi-tokenizes-european-equity-index-fund-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Thu, 05 Nov 2026 18:09:38 +0000",
-          "source": "Cointelegraph",
-          "text": "Europe’s largest asset manager Amundi tokenizes equity index fund on Ethereum The new share class offers blockchain-based exposure to an index tracking 600 companies across European markets."
-        },
-        {
           "title": "Standard Chartered and SBI back crypto insurer Soter as funding reaches $23.5 million",
           "link": "https://www.coindesk.com/business/2026/11/05/soter-raises-usd23-5m-plus-btc-and-eth-as-banks-demand-theft-protection",
           "published": "Thu, 05 Nov 2026 16:49:08 +0000",
@@ -123,23 +116,23 @@
         }
       ],
       "marketSentiment": -35,
-      "combinedScore": 54,
+      "combinedScore": 49,
       "signal": "WAIT",
-      "reason": "Technical 53/100; News +40; Market sentiment -35."
+      "reason": "Technical 47/100; News +25; Market sentiment -35."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 1320.4,
-      "change24h": 4.551,
-      "volume24h": 228286531.87912,
+      "price": 1277.44,
+      "change24h": -3.287,
+      "volume24h": 206509037.64408,
       "technical": {
-        "rsi": 41.5,
-        "ema9": 1315.3996787644728,
-        "ema21": 1321.2215026045894,
+        "rsi": 35.0,
+        "ema9": 1281.6552011327024,
+        "ema21": 1292.1529612889765,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.42,
+        "volumeRatio": 0.64,
         "score": 11
       },
       "newsScore": 100,
@@ -161,17 +154,17 @@
     {
       "symbol": "USD1USDT",
       "coin": "USD1",
-      "price": 0.99842,
-      "change24h": -0.085,
-      "volume24h": 212213177.74094,
+      "price": 0.99899,
+      "change24h": -0.037,
+      "volume24h": 195202658.31599,
       "technical": {
-        "rsi": 23.4,
-        "ema9": 0.9984056586774553,
-        "ema21": 0.9985917089955485,
+        "rsi": 53.8,
+        "ema9": 0.9989125714441387,
+        "ema21": 0.9989044550996519,
         "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.2,
-        "score": 28
+        "emaBull": true,
+        "volumeRatio": 1.13,
+        "score": 53
       },
       "newsScore": 100,
       "newsCount": 1,
@@ -185,46 +178,46 @@
         }
       ],
       "marketSentiment": -35,
-      "combinedScore": 50,
+      "combinedScore": 63,
       "signal": "WAIT",
-      "reason": "Technical 28/100; News +100; Market sentiment -35."
+      "reason": "Technical 53/100; News +100; Market sentiment -35."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 1.1741,
-      "change24h": -0.643,
-      "volume24h": 122924708.0095,
+      "price": 1.1669,
+      "change24h": -1.378,
+      "volume24h": 107371251.82847,
       "technical": {
-        "rsi": 53.7,
-        "ema9": 1.1663165042066177,
-        "ema21": 1.166077371015073,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.39,
-        "score": 77
+        "rsi": 50.9,
+        "ema9": 1.1663534418548478,
+        "ema21": 1.1677422326362135,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.6,
+        "score": 23
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": -35,
-      "combinedScore": 60,
-      "signal": "WAIT",
-      "reason": "Technical 77/100; News +0; Market sentiment -35."
+      "combinedScore": 33,
+      "signal": "SELL",
+      "reason": "Technical 23/100; News +0; Market sentiment -35."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 90.15,
-      "change24h": 0.603,
-      "volume24h": 120956957.21886,
+      "price": 89.98,
+      "change24h": -0.398,
+      "volume24h": 91814594.91074,
       "technical": {
-        "rsi": 47.4,
-        "ema9": 90.1855198481738,
-        "ema21": 90.18581903069635,
+        "rsi": 48.4,
+        "ema9": 89.9421540492225,
+        "ema21": 89.97867634198955,
         "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.43,
+        "volumeRatio": 0.57,
         "score": 47
       },
       "newsScore": 0,
@@ -244,99 +237,170 @@
       "reason": "Technical 47/100; News +0; Market sentiment -35."
     },
     {
-      "symbol": "RLUSDUSDT",
-      "coin": "RLUSD",
-      "price": 1.0012,
-      "change24h": 0.0,
-      "volume24h": 64960680.3593,
-      "technical": {
-        "rsi": 43.9,
-        "ema9": 1.0012484758233895,
-        "ema21": 1.0012707073572624,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.03,
-        "score": 11
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -35,
-      "combinedScore": 27,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment -35."
-    },
-    {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 3.752,
-      "change24h": 1.901,
-      "volume24h": 56142689.8065,
+      "price": 3.707,
+      "change24h": -0.43,
+      "volume24h": 45654164.9129,
       "technical": {
-        "rsi": 50.8,
-        "ema9": 3.747986082247341,
-        "ema21": 3.746489021287351,
-        "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.53,
-        "score": 53
+        "rsi": 49.0,
+        "ema9": 3.7081289834450146,
+        "ema21": 3.710942299205751,
+        "macdBull": true,
+        "emaBull": false,
+        "volumeRatio": 0.66,
+        "score": 47
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": -35,
-      "combinedScore": 48,
+      "combinedScore": 45,
       "signal": "WAIT",
-      "reason": "Technical 53/100; News +0; Market sentiment -35."
+      "reason": "Technical 47/100; News +0; Market sentiment -35."
+    },
+    {
+      "symbol": "UUSDT",
+      "coin": "U",
+      "price": 1.0004,
+      "change24h": -0.03,
+      "volume24h": 39829849.1412,
+      "technical": {
+        "rsi": 55.9,
+        "ema9": 1.0003445028983835,
+        "ema21": 1.0003075498723646,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.15,
+        "score": 89
+      },
+      "newsScore": -40,
+      "newsCount": 5,
+      "news": [
+        {
+          "title": "U.S. prediction markets regulator issues demand that clashes directly with courts",
+          "link": "https://www.coindesk.com/policy/2026/11/06/u-s-prediction-markets-regulator-issues-demand-that-clashes-directly-with-courts",
+          "published": "Fri, 06 Nov 2026 17:42:28 +0000",
+          "source": "CoinDesk",
+          "text": "U.S. prediction markets regulator issues demand that clashes directly with courts The Commodity Futures Trading Commission said regulated exchanges can't cut off customers state-by-state, but firms like Kalshi are under court orders to do so."
+        },
+        {
+          "title": "U.S. added 165,000 jobs in October, blowing past 65,000 estimate",
+          "link": "https://www.coindesk.com/markets/2026/11/06/u-s-added-165-000-jobs-in-october-blowing-past-65-000-estimate",
+          "published": "Fri, 06 Nov 2026 13:31:54 +0000",
+          "source": "CoinDesk",
+          "text": "U.S. added 165,000 jobs in October, blowing past 65,000 estimate The unemployment rate unexpectedly fell to 4.1%. The strong showing surely puts a December rate hike in play, but next week's inflation numbers and the fate of the stock market could prove more important."
+        },
+        {
+          "title": "Bitcoin steadies after AI-led selloff as eyes turn to latest U.S. jobs figures",
+          "link": "https://www.coindesk.com/markets/2026/11/06/bitcoin-steadies-near-usd76-000-after-ai-led-selloff",
+          "published": "Fri, 06 Nov 2026 11:49:35 +0000",
+          "source": "CoinDesk",
+          "text": "Bitcoin steadies after AI-led selloff as eyes turn to latest U.S. jobs figures Bitcoin bounced from around $75,200 after Thursday’s AI-led selloff, which drove more than $1 billion in liquidations, as traders await the U.S. jobs report."
+        },
+        {
+          "title": "Hyperliquid treasury firm seeking U.S. regulatory nod as a domestic futures platform",
+          "link": "https://www.coindesk.com/policy/2026/11/05/hyperliquid-treasury-firm-seeking-u-s-regulatory-nod-as-a-domestic-futures-platform",
+          "published": "Fri, 06 Nov 2026 02:24:23 +0000",
+          "source": "CoinDesk",
+          "text": "Hyperliquid treasury firm seeking U.S. regulatory nod as a domestic futures platform The company said it's trying to establish a U.S. \"futures commission merchant\" with full compliance for activity with U.S. clients, though the timing is uncertain."
+        },
+        {
+          "title": "U.S. Justice Department assembles force to shield against foreign AI threats",
+          "link": "https://www.coindesk.com/policy/2026/11/05/u-s-justice-department-assembles-force-to-shield-against-foreign-ai-threats",
+          "published": "Thu, 05 Nov 2026 18:59:45 +0000",
+          "source": "CoinDesk",
+          "text": "U.S. Justice Department assembles force to shield against foreign AI threats The new DOJ task force will aid the recently designated U.S. \"SI Force\" by warding off bad actors backed by other nations, criminal groups or corporate fraud."
+        }
+      ],
+      "marketSentiment": -35,
+      "combinedScore": 60,
+      "signal": "WAIT",
+      "reason": "Technical 89/100; News -40; Market sentiment -35."
+    },
+    {
+      "symbol": "BNBUSDT",
+      "coin": "BNB",
+      "price": 695.0,
+      "change24h": -0.188,
+      "volume24h": 39234830.28636,
+      "technical": {
+        "rsi": 51.3,
+        "ema9": 695.0067816011393,
+        "ema21": 694.9264794955243,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.82,
+        "score": 77
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -35,
+      "combinedScore": 60,
+      "signal": "WAIT",
+      "reason": "Technical 77/100; News +0; Market sentiment -35."
     },
     {
       "symbol": "SNDKBUSDT",
       "coin": "SNDKB",
-      "price": 833.75,
-      "change24h": -2.792,
-      "volume24h": 55979399.23329,
+      "price": 836.72,
+      "change24h": -6.665,
+      "volume24h": 37468044.771045,
       "technical": {
-        "rsi": 46.2,
-        "ema9": 835.0602261243068,
-        "ema21": 836.0203575284157,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.51,
-        "score": 23
+        "rsi": 53.2,
+        "ema9": 836.5771962666071,
+        "ema21": 836.0363640147456,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 2.17,
+        "score": 72
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": -35,
-      "combinedScore": 33,
-      "signal": "SELL",
-      "reason": "Technical 23/100; News +0; Market sentiment -35."
-    },
-    {
-      "symbol": "PEPEUSDT",
-      "coin": "PEPE",
-      "price": 4.92e-06,
-      "change24h": -0.203,
-      "volume24h": 51882726.73894692,
-      "technical": {
-        "rsi": 35.6,
-        "ema9": 4.92707497451907e-06,
-        "ema21": 4.951104397267234e-06,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 1.61,
-        "score": 16
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -35,
-      "combinedScore": 30,
-      "signal": "SELL",
-      "reason": "Technical 16/100; News +0; Market sentiment -35."
+      "combinedScore": 58,
+      "signal": "WAIT",
+      "reason": "Technical 72/100; News +0; Market sentiment -35."
     }
   ],
   "news": [
+    {
+      "title": "Ex-FBI counterintelligence agent stole almost $2.5M in crypto",
+      "link": "https://cointelegraph.com/news/ex-fbi-counterintelligence-agent-stole-almost-25m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sat, 07 Nov 2026 14:16:00 +0000",
+      "source": "Cointelegraph",
+      "text": "Ex-FBI counterintelligence agent stole almost $2.5M in crypto Yaroch paid off his debts and intended to use the proceeds to finance a new life in Portugal, where he planned to buy a vineyard."
+    },
+    {
+      "title": "Bitcoin holders have received eCash — What can you do with it?",
+      "link": "https://cointelegraph.com/magazine/bitcoin-holders-have-received-ecash-what-can-you-with-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sat, 07 Nov 2026 13:30:00 +0000",
+      "source": "Cointelegraph",
+      "text": "Bitcoin holders have received eCash — What can you do with it? Bitcoin’s eCash fork gives eligible holders an equivalent balance of ECX, but questions remain over where they can trade the tokens and what they can do with them."
+    },
+    {
+      "title": "US sanctions Canadian money-exchange firms over Iran ties",
+      "link": "https://cointelegraph.com/news/us-sanctions-canadian-money-exchange-firms-over-iran-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sat, 07 Nov 2026 11:10:47 +0000",
+      "source": "Cointelegraph",
+      "text": "US sanctions Canadian money-exchange firms over Iran ties US also offers as much as $20 million and possible relocation for information about Iran’s nuclear program."
+    },
+    {
+      "title": "Suspicious prediction market activity seen before election poll release: NYT",
+      "link": "https://cointelegraph.com/news/suspicious-prediction-market-activity-seen-before-election-poll-release-nyt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sat, 07 Nov 2026 09:10:35 +0000",
+      "source": "Cointelegraph",
+      "text": "Suspicious prediction market activity seen before election poll release: NYT Bets were placed shortly before two recent New York Times/Siena political polls were released to the public, according to a report."
+    },
+    {
+      "title": "Nvidia may face a more hostile post-election Washington: Report",
+      "link": "https://cointelegraph.com/news/nvidia-may-be-facing-a-more-hostile-post-election-washington-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sat, 07 Nov 2026 07:45:24 +0000",
+      "source": "Cointelegraph",
+      "text": "Nvidia may face a more hostile post-election Washington: Report CEO Jensen Huang’s relationship with President Donald Trump probably won’t save the company from a more adversarial Washington, Semafor says."
+    },
     {
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -441,41 +505,6 @@
       "published": "Fri, 06 Nov 2026 11:05:36 +0000",
       "source": "Cointelegraph",
       "text": "Greece approves 10% tax on crypto gains starting in 2027 Greece has approved a 10% tax on cryptocurrency gains starting in 2027, with an exemption for investors whose annual net gains do not exceed 500 euros."
-    },
-    {
-      "title": "GOPAX halts crypto trading, withdrawals to move all assets to cold storage",
-      "link": "https://cointelegraph.com/news/gopax-halts-crypto-trading-withdrawals-cold-storage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 06 Nov 2026 10:47:33 +0000",
-      "source": "Cointelegraph",
-      "text": "GOPAX halts crypto trading, withdrawals to move all assets to cold storage South Korea’s GOPAX suspended trading, deposits and standard withdrawals after a hacking threat, with manual withdrawals available through support."
-    },
-    {
-      "title": "Binance’s $6.3B hack leaves questions over hot wallet safeguards",
-      "link": "https://cointelegraph.com/news/binances-hack-questions-hot-wallet-risk-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 06 Nov 2026 10:40:57 +0000",
-      "source": "Cointelegraph",
-      "text": "Binance’s $6.3B hack leaves questions over hot wallet safeguards Experts say blockchain records show repeated wallet drains but cannot establish Binance’s internal signing controls or transaction limits."
-    },
-    {
-      "title": "Zcash NU7 upgrade goes live, leaves 12,224 ZEC stranded in Sprout pool",
-      "link": "https://cointelegraph.com/news/zcash-nu7-upgrade-15m-sprout-funds-unspendable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 06 Nov 2026 09:00:36 +0000",
-      "source": "Cointelegraph",
-      "text": "Zcash NU7 upgrade goes live, leaves 12,224 ZEC stranded in Sprout pool Zcash’s NU7 upgrade has rendered about $15 million in legacy Sprout funds unspendable, although a future network upgrade could potentially restore access."
-    },
-    {
-      "title": "Hyperliquid Strategies seeks futures registration for perps",
-      "link": "https://cointelegraph.com/news/nasdaq-hyperliquid-strategies-futures-broker-license-onchain-perps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 06 Nov 2026 08:42:54 +0000",
-      "source": "Cointelegraph",
-      "text": "Hyperliquid Strategies seeks futures registration for perps The HYPE treasury company spent $785 million on tokens during the quarter and wants to bring Hyperliquid-based perpetual futures to the US."
-    },
-    {
-      "title": "Bitcoin, Ether ETFs post $530M outflows as election gains evaporate",
-      "link": "https://cointelegraph.com/markets/bitcoin-ether-etfs-lose-post-election-gains-erased?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 06 Nov 2026 08:19:18 +0000",
-      "source": "Cointelegraph",
-      "text": "Bitcoin, Ether ETFs post $530M outflows as election gains evaporate US spot Bitcoin and Ether ETFs shed a combined $530 million Thursday as Bitcoin fell below $76,000 and US stocks tumbled."
     }
   ],
   "paper": {
