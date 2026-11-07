@@ -1,32 +1,39 @@
 {
-  "generatedAt": "2026-11-06 21:57:26 UTC",
+  "generatedAt": "2026-11-07 01:37:57 UTC",
   "interval": "15m candles",
-  "marketSentiment": -31,
+  "marketSentiment": -35,
   "overallNewsScore": -7,
   "fearGreed": {
-    "value": 28,
-    "label": "Fear",
+    "value": 25,
+    "label": "Extreme Fear",
     "source": "Alternative.me"
   },
   "coins": [
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 75904.01,
-      "change24h": -0.051,
-      "volume24h": 1382502808.404356,
+      "price": 75957.99,
+      "change24h": -0.286,
+      "volume24h": 1251634061.329954,
       "technical": {
-        "rsi": 49.9,
-        "ema9": 75843.2016178768,
-        "ema21": 75835.70202985959,
-        "macdBull": true,
+        "rsi": 50.4,
+        "ema9": 75919.18922349853,
+        "ema21": 75908.8511168477,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 0.37,
-        "score": 77
+        "volumeRatio": 0.78,
+        "score": 53
       },
       "newsScore": -10,
       "newsCount": 5,
       "news": [
+        {
+          "title": "Here’s what happened in crypto today",
+          "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Fri, 06 Nov 2026 22:00:15 +0000",
+          "source": "Cointelegraph",
+          "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+        },
         {
           "title": "Russia finalizes crypto trading rules ahead of Nov. 17 rollout",
           "link": "https://cointelegraph.com/news/russia-finalizes-crypto-trading-rules-november-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -49,13 +56,6 @@
           "text": "Bitcoin price dips under $75K as crypto markets miss tech-stock rebound BTC price action stayed weak after US nonfarm payrolls data significantly beat forecasts, increasing bets of a December interest-rate hike."
         },
         {
-          "title": "Here’s what happened in crypto today",
-          "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Fri, 06 Nov 2026 13:33:00 +0000",
-          "source": "Cointelegraph",
-          "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-        },
-        {
           "title": "Bitcoin holds $75K as AI regulation fears see KOSPI halted after 8% crash",
           "link": "https://cointelegraph.com/markets/bitcoin-holds-ai-regulation-fears-kospi-halted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "published": "Fri, 06 Nov 2026 11:16:53 +0000",
@@ -63,25 +63,25 @@
           "text": "Bitcoin holds $75K as AI regulation fears see KOSPI halted after 8% crash Bitcoin consolidated as fears over US AI regulation spread to Asia, causing South Korea to announce measures to calm stock-market volatility."
         }
       ],
-      "marketSentiment": -31,
-      "combinedScore": 59,
+      "marketSentiment": -35,
+      "combinedScore": 46,
       "signal": "WAIT",
-      "reason": "Technical 77/100; News -10; Market sentiment -31."
+      "reason": "Technical 53/100; News -10; Market sentiment -35."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2238.06,
-      "change24h": 0.171,
-      "volume24h": 519445672.710268,
+      "price": 2245.0,
+      "change24h": 0.156,
+      "volume24h": 451617613.437017,
       "technical": {
-        "rsi": 48.4,
-        "ema9": 2230.7578691196586,
-        "ema21": 2231.06220394372,
+        "rsi": 58.3,
+        "ema9": 2241.0562720839234,
+        "ema21": 2238.606431707554,
         "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.94,
-        "score": 47
+        "emaBull": true,
+        "volumeRatio": 0.52,
+        "score": 89
       },
       "newsScore": 40,
       "newsCount": 5,
@@ -122,25 +122,25 @@
           "text": "Standard Chartered and SBI back crypto insurer Soter as funding reaches $23.5 million Soter also received backing of 500 BTC and 2000 ETH, worth another $43 million at current prices."
         }
       ],
-      "marketSentiment": -31,
-      "combinedScore": 51,
-      "signal": "WAIT",
-      "reason": "Technical 47/100; News +40; Market sentiment -31."
+      "marketSentiment": -35,
+      "combinedScore": 72,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +40; Market sentiment -35."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 1338.33,
-      "change24h": 6.095,
-      "volume24h": 293211912.31793,
+      "price": 1347.4,
+      "change24h": 2.304,
+      "volume24h": 241894267.12006,
       "technical": {
-        "rsi": 46.5,
-        "ema9": 1337.3558669001345,
-        "ema21": 1339.5723100344405,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.49,
-        "score": 23
+        "rsi": 60.3,
+        "ema9": 1334.2406537230695,
+        "ema21": 1333.1821750829827,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 1.31,
+        "score": 89
       },
       "newsScore": 100,
       "newsCount": 1,
@@ -153,25 +153,25 @@
           "text": "Zcash NU7 upgrade goes live, leaves 12,224 ZEC stranded in Sprout pool Zcash’s NU7 upgrade has rendered about $15 million in legacy Sprout funds unspendable, although a future network upgrade could potentially restore access."
         }
       ],
-      "marketSentiment": -31,
-      "combinedScore": 48,
-      "signal": "WAIT",
-      "reason": "Technical 23/100; News +100; Market sentiment -31."
+      "marketSentiment": -35,
+      "combinedScore": 81,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +100; Market sentiment -35."
     },
     {
       "symbol": "USD1USDT",
       "coin": "USD1",
-      "price": 0.99906,
-      "change24h": -0.065,
-      "volume24h": 220075623.82351,
+      "price": 0.99885,
+      "change24h": -0.084,
+      "volume24h": 229402547.31581,
       "technical": {
-        "rsi": 49.7,
-        "ema9": 0.9991254992601608,
-        "ema21": 0.9990709473520789,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.22,
-        "score": 77
+        "rsi": 38.2,
+        "ema9": 0.9990690226131969,
+        "ema21": 0.9991261077302505,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.64,
+        "score": 11
       },
       "newsScore": 100,
       "newsCount": 1,
@@ -184,25 +184,25 @@
           "text": "Trump-backed World Liberty Financial plans token buyback after 66% year-to-date slide The crypto venture may use fees from its USD1 stablecoin reserves to fund token purchases as it seeks to boost governance."
         }
       ],
-      "marketSentiment": -31,
-      "combinedScore": 75,
-      "signal": "BUY",
-      "reason": "Technical 77/100; News +100; Market sentiment -31."
+      "marketSentiment": -35,
+      "combinedScore": 42,
+      "signal": "WAIT",
+      "reason": "Technical 11/100; News +100; Market sentiment -35."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 90.32,
-      "change24h": 0.211,
-      "volume24h": 173797899.16667,
+      "price": 90.43,
+      "change24h": 0.377,
+      "volume24h": 145779644.57628,
       "technical": {
-        "rsi": 47.1,
-        "ema9": 90.04753190175042,
-        "ema21": 90.14910606879198,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.53,
-        "score": 23
+        "rsi": 54.1,
+        "ema9": 90.2522441921638,
+        "ema21": 90.21675041542818,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.36,
+        "score": 77
       },
       "newsScore": 0,
       "newsCount": 1,
@@ -215,128 +215,135 @@
           "text": "Solana’s Shanghai event halted over unauthorized promotion: Report Solana’s promotional campaigns through domestic entities allegedly violated China’s crypto-related restrictions, an unidentified PBOC official told China’s Financial News."
         }
       ],
-      "marketSentiment": -31,
-      "combinedScore": 33,
-      "signal": "SELL",
-      "reason": "Technical 23/100; News +0; Market sentiment -31."
+      "marketSentiment": -35,
+      "combinedScore": 60,
+      "signal": "WAIT",
+      "reason": "Technical 77/100; News +0; Market sentiment -35."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 1.1795,
-      "change24h": -3.604,
-      "volume24h": 137421280.81169,
+      "price": 1.1798,
+      "change24h": -3.025,
+      "volume24h": 125829091.78086,
       "technical": {
-        "rsi": 41.1,
-        "ema9": 1.1789141765644113,
-        "ema21": 1.1823998620937222,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 1.07,
-        "score": 11
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -31,
-      "combinedScore": 27,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment -31."
-    },
-    {
-      "symbol": "RLUSDUSDT",
-      "coin": "RLUSD",
-      "price": 1.0013,
-      "change24h": -0.04,
-      "volume24h": 101305267.7839,
-      "technical": {
-        "rsi": 52.2,
-        "ema9": 1.0013751638201622,
-        "ema21": 1.0013641957954786,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.41,
-        "score": 77
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -31,
-      "combinedScore": 60,
-      "signal": "WAIT",
-      "reason": "Technical 77/100; News +0; Market sentiment -31."
-    },
-    {
-      "symbol": "BNBUSDT",
-      "coin": "BNB",
-      "price": 693.8,
-      "change24h": 0.646,
-      "volume24h": 74869395.8457,
-      "technical": {
-        "rsi": 42.8,
-        "ema9": 693.6438821593067,
-        "ema21": 694.3013110979674,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 1.36,
-        "score": 11
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -31,
-      "combinedScore": 27,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment -31."
-    },
-    {
-      "symbol": "SNDKBUSDT",
-      "coin": "SNDKB",
-      "price": 839.84,
-      "change24h": 0.216,
-      "volume24h": 69796919.348529,
-      "technical": {
-        "rsi": 46.8,
-        "ema9": 835.1158895885784,
-        "ema21": 838.3978081649483,
+        "rsi": 47.2,
+        "ema9": 1.179617056706145,
+        "ema21": 1.1803829744377652,
         "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.45,
+        "volumeRatio": 0.96,
         "score": 47
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -31,
+      "marketSentiment": -35,
       "combinedScore": 45,
       "signal": "WAIT",
-      "reason": "Technical 47/100; News +0; Market sentiment -31."
+      "reason": "Technical 47/100; News +0; Market sentiment -35."
     },
     {
-      "symbol": "NEARUSDT",
-      "coin": "NEAR",
-      "price": 3.736,
-      "change24h": 0.728,
-      "volume24h": 65346287.6584,
+      "symbol": "RLUSDUSDT",
+      "coin": "RLUSD",
+      "price": 1.0014,
+      "change24h": -0.01,
+      "volume24h": 91800558.9122,
       "technical": {
-        "rsi": 47.5,
-        "ema9": 3.7201259258486696,
-        "ema21": 3.728326546142135,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.53,
-        "score": 23
+        "rsi": 52.7,
+        "ema9": 1.001356704202816,
+        "ema21": 1.0013538635313088,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.01,
+        "score": 77
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -31,
-      "combinedScore": 33,
-      "signal": "SELL",
-      "reason": "Technical 23/100; News +0; Market sentiment -31."
+      "marketSentiment": -35,
+      "combinedScore": 60,
+      "signal": "WAIT",
+      "reason": "Technical 77/100; News +0; Market sentiment -35."
+    },
+    {
+      "symbol": "SNDKBUSDT",
+      "coin": "SNDKB",
+      "price": 838.7,
+      "change24h": -0.295,
+      "volume24h": 64624423.86501,
+      "technical": {
+        "rsi": 46.4,
+        "ema9": 839.0880752092398,
+        "ema21": 838.8260282283577,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.66,
+        "score": 77
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -35,
+      "combinedScore": 60,
+      "signal": "WAIT",
+      "reason": "Technical 77/100; News +0; Market sentiment -35."
+    },
+    {
+      "symbol": "BNBUSDT",
+      "coin": "BNB",
+      "price": 695.39,
+      "change24h": 0.076,
+      "volume24h": 61894291.14896,
+      "technical": {
+        "rsi": 55.6,
+        "ema9": 694.4293558775871,
+        "ema21": 694.343056373202,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 1.16,
+        "score": 89
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -35,
+      "combinedScore": 66,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment -35."
+    },
+    {
+      "symbol": "NEARUSDT",
+      "coin": "NEAR",
+      "price": 3.752,
+      "change24h": 0.536,
+      "volume24h": 59120559.4869,
+      "technical": {
+        "rsi": 56.6,
+        "ema9": 3.7280201339968966,
+        "ema21": 3.724629195386659,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.52,
+        "score": 89
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -35,
+      "combinedScore": 66,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment -35."
     }
   ],
   "news": [
+    {
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 06 Nov 2026 22:00:15 +0000",
+      "source": "Cointelegraph",
+      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
     {
       "title": "US Treasury cuts off MEXC over alleged $16B in illicit transactions",
       "link": "https://cointelegraph.com/news/us-treasury-bans-mexc-over-alleged-16b-illicit-transactions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -399,13 +406,6 @@
       "published": "Fri, 06 Nov 2026 13:57:14 +0000",
       "source": "Cointelegraph",
       "text": "Nigeria sets new crypto licensing rules, bans algorithmic stablecoins Nigeria has banned algorithmic stablecoins and introduced reserve requirements for issuers as it expands central bank oversight of crypto payment services."
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 06 Nov 2026 13:33:00 +0000",
-      "source": "Cointelegraph",
-      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
       "title": "Ethereum devs won’t fork Glamsterdam on Hoodi until smart contract risks resolved",
@@ -687,6 +687,16 @@
         "stopLoss": 1.1971925,
         "takeProfit": 1.144115,
         "entryTime": "2026-11-06T21:57:26.103911+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "ZECUSDT",
+        "side": "BUY",
+        "entry": 1347.4,
+        "stopLoss": 1327.189,
+        "takeProfit": 1387.822,
+        "entryTime": "2026-11-07T01:37:57.481766+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       }
