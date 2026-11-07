@@ -219,6 +219,16 @@
       "entryTime": "2026-11-07T07:44:59.217273+00:00",
       "status": "OPEN",
       "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "ONEUSDT",
+      "side": "SELL",
+      "entry": 0.002054,
+      "stopLoss": 0.00208481,
+      "takeProfit": 0.00199238,
+      "entryTime": "2026-11-07T22:25:36.574816+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
     }
   ],
   "closed": [

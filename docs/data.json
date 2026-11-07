@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07 18:54:04 UTC",
+  "generatedAt": "2026-11-07 22:25:36 UTC",
   "interval": "15m candles",
   "marketSentiment": -35,
   "overallNewsScore": -7,
@@ -12,16 +12,16 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 75818.11,
-      "change24h": -0.042,
-      "volume24h": 532962783.9244047,
+      "price": 75792.58,
+      "change24h": -0.291,
+      "volume24h": 419867328.3519319,
       "technical": {
-        "rsi": 46.8,
-        "ema9": 75824.86877373871,
-        "ema21": 75848.51515902302,
+        "rsi": 45.3,
+        "ema9": 75722.28420524304,
+        "ema21": 75759.67401033378,
         "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.43,
+        "volumeRatio": 1.1,
         "score": 47
       },
       "newsScore": 0,
@@ -71,17 +71,17 @@
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2236.66,
-      "change24h": 0.163,
-      "volume24h": 167364980.879877,
+      "price": 2234.29,
+      "change24h": -0.282,
+      "volume24h": 152492718.973466,
       "technical": {
-        "rsi": 44.7,
-        "ema9": 2237.0096696178193,
-        "ema21": 2238.751481700151,
+        "rsi": 45.1,
+        "ema9": 2231.1673135006886,
+        "ema21": 2233.3699412115056,
         "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.83,
-        "score": 35
+        "volumeRatio": 0.98,
+        "score": 47
       },
       "newsScore": 25,
       "newsCount": 4,
@@ -116,55 +116,24 @@
         }
       ],
       "marketSentiment": -35,
-      "combinedScore": 43,
+      "combinedScore": 49,
       "signal": "WAIT",
-      "reason": "Technical 35/100; News +25; Market sentiment -35."
-    },
-    {
-      "symbol": "USD1USDT",
-      "coin": "USD1",
-      "price": 0.99907,
-      "change24h": -0.033,
-      "volume24h": 144869588.64409,
-      "technical": {
-        "rsi": 50.8,
-        "ema9": 0.9990841367667448,
-        "ema21": 0.9990668854812126,
-        "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.13,
-        "score": 53
-      },
-      "newsScore": 100,
-      "newsCount": 1,
-      "news": [
-        {
-          "title": "Trump-backed World Liberty Financial plans token buyback after 66% year-to-date slide",
-          "link": "https://www.coindesk.com/business/2026/11/06/trump-backed-world-liberty-financial-plans-token-buyback-after-66-year-to-date-slide",
-          "published": "Fri, 06 Nov 2026 08:04:52 +0000",
-          "source": "CoinDesk",
-          "text": "Trump-backed World Liberty Financial plans token buyback after 66% year-to-date slide The crypto venture may use fees from its USD1 stablecoin reserves to fund token purchases as it seeks to boost governance."
-        }
-      ],
-      "marketSentiment": -35,
-      "combinedScore": 63,
-      "signal": "WAIT",
-      "reason": "Technical 53/100; News +100; Market sentiment -35."
+      "reason": "Technical 47/100; News +25; Market sentiment -35."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 1270.5,
-      "change24h": -5.376,
-      "volume24h": 135696965.18361,
+      "price": 1253.49,
+      "change24h": -5.937,
+      "volume24h": 135317077.01547,
       "technical": {
-        "rsi": 47.3,
-        "ema9": 1267.2512071802432,
-        "ema21": 1270.5665602029824,
-        "macdBull": true,
+        "rsi": 35.5,
+        "ema9": 1251.4847312995782,
+        "ema21": 1258.3472342444402,
+        "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.6,
-        "score": 47
+        "volumeRatio": 0.66,
+        "score": 11
       },
       "newsScore": 100,
       "newsCount": 1,
@@ -178,47 +147,78 @@
         }
       ],
       "marketSentiment": -35,
-      "combinedScore": 60,
+      "combinedScore": 42,
       "signal": "WAIT",
-      "reason": "Technical 47/100; News +100; Market sentiment -35."
+      "reason": "Technical 11/100; News +100; Market sentiment -35."
+    },
+    {
+      "symbol": "USD1USDT",
+      "coin": "USD1",
+      "price": 0.99904,
+      "change24h": -0.044,
+      "volume24h": 115168501.4101,
+      "technical": {
+        "rsi": 50.9,
+        "ema9": 0.9990057313745929,
+        "ema21": 0.9990137898070554,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.6,
+        "score": 23
+      },
+      "newsScore": 100,
+      "newsCount": 1,
+      "news": [
+        {
+          "title": "Trump-backed World Liberty Financial plans token buyback after 66% year-to-date slide",
+          "link": "https://www.coindesk.com/business/2026/11/06/trump-backed-world-liberty-financial-plans-token-buyback-after-66-year-to-date-slide",
+          "published": "Fri, 06 Nov 2026 08:04:52 +0000",
+          "source": "CoinDesk",
+          "text": "Trump-backed World Liberty Financial plans token buyback after 66% year-to-date slide The crypto venture may use fees from its USD1 stablecoin reserves to fund token purchases as it seeks to boost governance."
+        }
+      ],
+      "marketSentiment": -35,
+      "combinedScore": 48,
+      "signal": "WAIT",
+      "reason": "Technical 23/100; News +100; Market sentiment -35."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 1.1629,
-      "change24h": -2.03,
-      "volume24h": 85277734.59165,
+      "price": 1.1611,
+      "change24h": -1.743,
+      "volume24h": 77694102.4564,
       "technical": {
-        "rsi": 48.2,
-        "ema9": 1.1621251096920215,
-        "ema21": 1.1627654135875034,
-        "macdBull": true,
+        "rsi": 46.4,
+        "ema9": 1.158453758280675,
+        "ema21": 1.1598712082167764,
+        "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.52,
-        "score": 47
+        "volumeRatio": 1.31,
+        "score": 23
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": -35,
-      "combinedScore": 45,
-      "signal": "WAIT",
-      "reason": "Technical 47/100; News +0; Market sentiment -35."
+      "combinedScore": 33,
+      "signal": "SELL",
+      "reason": "Technical 23/100; News +0; Market sentiment -35."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 89.74,
-      "change24h": -0.631,
-      "volume24h": 55873013.34135,
+      "price": 89.39,
+      "change24h": -0.986,
+      "volume24h": 53717527.14316,
       "technical": {
-        "rsi": 45.9,
-        "ema9": 89.72590424510356,
-        "ema21": 89.75778084168356,
-        "macdBull": true,
+        "rsi": 40.4,
+        "ema9": 89.22152273074914,
+        "ema21": 89.40898717156765,
+        "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.78,
-        "score": 47
+        "volumeRatio": 0.95,
+        "score": 11
       },
       "newsScore": 0,
       "newsCount": 1,
@@ -232,24 +232,24 @@
         }
       ],
       "marketSentiment": -35,
-      "combinedScore": 45,
-      "signal": "WAIT",
-      "reason": "Technical 47/100; News +0; Market sentiment -35."
+      "combinedScore": 27,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment -35."
     },
     {
       "symbol": "ONEUSDT",
       "coin": "ONE",
-      "price": 0.002225,
-      "change24h": 39.586,
-      "volume24h": 41511971.7381884,
+      "price": 0.002054,
+      "change24h": 20.117,
+      "volume24h": 46032561.8581064,
       "technical": {
-        "rsi": 55.6,
-        "ema9": 0.002235532114697073,
-        "ema21": 0.0021664429093166226,
+        "rsi": 37.8,
+        "ema9": 0.00226973012776936,
+        "ema21": 0.002261592607405356,
         "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 0.97,
-        "score": 65
+        "volumeRatio": 2.75,
+        "score": 36
       },
       "newsScore": -100,
       "newsCount": 1,
@@ -263,46 +263,23 @@
         }
       ],
       "marketSentiment": -35,
-      "combinedScore": 39,
-      "signal": "WAIT",
-      "reason": "Technical 65/100; News -100; Market sentiment -35."
-    },
-    {
-      "symbol": "BNBUSDT",
-      "coin": "BNB",
-      "price": 696.16,
-      "change24h": 0.138,
-      "volume24h": 34157028.52339,
-      "technical": {
-        "rsi": 65.4,
-        "ema9": 695.452231627726,
-        "ema21": 695.0511489969076,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.98,
-        "score": 89
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -35,
-      "combinedScore": 66,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment -35."
+      "combinedScore": 24,
+      "signal": "SELL",
+      "reason": "Technical 36/100; News -100; Market sentiment -35."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 3.671,
-      "change24h": -2.028,
-      "volume24h": 32563344.3202,
+      "price": 3.667,
+      "change24h": -1.292,
+      "volume24h": 34134448.6102,
       "technical": {
-        "rsi": 46.3,
-        "ema9": 3.6655789849149762,
-        "ema21": 3.6750038644857383,
+        "rsi": 46.6,
+        "ema9": 3.6503897858523713,
+        "ema21": 3.6571302923196196,
         "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.55,
+        "volumeRatio": 0.46,
         "score": 47
       },
       "newsScore": 0,
@@ -314,19 +291,42 @@
       "reason": "Technical 47/100; News +0; Market sentiment -35."
     },
     {
+      "symbol": "BNBUSDT",
+      "coin": "BNB",
+      "price": 696.62,
+      "change24h": 0.258,
+      "volume24h": 33967844.91927,
+      "technical": {
+        "rsi": 55.2,
+        "ema9": 695.7343103326518,
+        "ema21": 695.6840944919878,
+        "macdBull": false,
+        "emaBull": true,
+        "volumeRatio": 0.59,
+        "score": 65
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -35,
+      "combinedScore": 54,
+      "signal": "WAIT",
+      "reason": "Technical 65/100; News +0; Market sentiment -35."
+    },
+    {
       "symbol": "UUSDT",
       "coin": "U",
       "price": 1.0004,
-      "change24h": 0.0,
-      "volume24h": 29830694.9376,
+      "change24h": 0.01,
+      "volume24h": 26636569.2464,
       "technical": {
-        "rsi": 55.1,
-        "ema9": 1.0003678464757686,
-        "ema21": 1.0003469510043006,
-        "macdBull": true,
+        "rsi": 47.0,
+        "ema9": 1.0003458052639296,
+        "ema21": 1.0003441197810043,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 0.16,
-        "score": 89
+        "volumeRatio": 0.4,
+        "score": 53
       },
       "newsScore": -33,
       "newsCount": 5,
@@ -368,9 +368,9 @@
         }
       ],
       "marketSentiment": -35,
-      "combinedScore": 61,
+      "combinedScore": 43,
       "signal": "WAIT",
-      "reason": "Technical 89/100; News -33; Market sentiment -35."
+      "reason": "Technical 53/100; News -33; Market sentiment -35."
     }
   ],
   "news": [
@@ -734,6 +734,16 @@
         "stopLoss": 4.9938e-06,
         "takeProfit": 4.7724e-06,
         "entryTime": "2026-11-07T07:44:59.217273+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "ONEUSDT",
+        "side": "SELL",
+        "entry": 0.002054,
+        "stopLoss": 0.00208481,
+        "takeProfit": 0.00199238,
+        "entryTime": "2026-11-07T22:25:36.574816+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       }
