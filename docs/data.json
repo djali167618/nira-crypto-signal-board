@@ -1,28 +1,28 @@
 {
-  "generatedAt": "2026-11-07 22:25:36 UTC",
+  "generatedAt": "2026-11-08 01:40:17 UTC",
   "interval": "15m candles",
-  "marketSentiment": -35,
+  "marketSentiment": -31,
   "overallNewsScore": -7,
   "fearGreed": {
-    "value": 25,
-    "label": "Extreme Fear",
+    "value": 28,
+    "label": "Fear",
     "source": "Alternative.me"
   },
   "coins": [
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 75792.58,
-      "change24h": -0.291,
-      "volume24h": 419867328.3519319,
+      "price": 75800.09,
+      "change24h": -0.248,
+      "volume24h": 397470266.5883966,
       "technical": {
-        "rsi": 45.3,
-        "ema9": 75722.28420524304,
-        "ema21": 75759.67401033378,
+        "rsi": 48.5,
+        "ema9": 75795.70967444671,
+        "ema21": 75788.38322777297,
         "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 1.1,
-        "score": 47
+        "emaBull": true,
+        "volumeRatio": 1.54,
+        "score": 72
       },
       "newsScore": 0,
       "newsCount": 5,
@@ -63,25 +63,25 @@
           "text": "Bitcoin price dips under $75K as crypto markets miss tech-stock rebound BTC price action stayed weak after US nonfarm payrolls data significantly beat forecasts, increasing bets of a December interest-rate hike."
         }
       ],
-      "marketSentiment": -35,
-      "combinedScore": 45,
+      "marketSentiment": -31,
+      "combinedScore": 58,
       "signal": "WAIT",
-      "reason": "Technical 47/100; News +0; Market sentiment -35."
+      "reason": "Technical 72/100; News +0; Market sentiment -31."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2234.29,
-      "change24h": -0.282,
-      "volume24h": 152492718.973466,
+      "price": 2236.15,
+      "change24h": -0.433,
+      "volume24h": 143116372.079742,
       "technical": {
-        "rsi": 45.1,
-        "ema9": 2231.1673135006886,
-        "ema21": 2233.3699412115056,
+        "rsi": 47.4,
+        "ema9": 2236.2344919543193,
+        "ema21": 2235.6254933850614,
         "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.98,
-        "score": 47
+        "emaBull": true,
+        "volumeRatio": 0.76,
+        "score": 77
       },
       "newsScore": 25,
       "newsCount": 4,
@@ -115,25 +115,25 @@
           "text": "Standard Chartered and SBI back crypto insurer Soter as funding reaches $23.5 million Soter also received backing of 500 BTC and 2000 ETH, worth another $43 million at current prices."
         }
       ],
-      "marketSentiment": -35,
-      "combinedScore": 49,
+      "marketSentiment": -31,
+      "combinedScore": 64,
       "signal": "WAIT",
-      "reason": "Technical 47/100; News +25; Market sentiment -35."
+      "reason": "Technical 77/100; News +25; Market sentiment -31."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 1253.49,
-      "change24h": -5.937,
-      "volume24h": 135317077.01547,
+      "price": 1253.09,
+      "change24h": -7.041,
+      "volume24h": 129434450.81808,
       "technical": {
-        "rsi": 35.5,
-        "ema9": 1251.4847312995782,
-        "ema21": 1258.3472342444402,
-        "macdBull": false,
+        "rsi": 44.3,
+        "ema9": 1255.8683754393137,
+        "ema21": 1257.0605761299973,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.66,
-        "score": 11
+        "volumeRatio": 0.2,
+        "score": 35
       },
       "newsScore": 100,
       "newsCount": 1,
@@ -146,25 +146,25 @@
           "text": "Zcash NU7 upgrade goes live, leaves 12,224 ZEC stranded in Sprout pool Zcash’s NU7 upgrade has rendered about $15 million in legacy Sprout funds unspendable, although a future network upgrade could potentially restore access."
         }
       ],
-      "marketSentiment": -35,
-      "combinedScore": 42,
+      "marketSentiment": -31,
+      "combinedScore": 54,
       "signal": "WAIT",
-      "reason": "Technical 11/100; News +100; Market sentiment -35."
+      "reason": "Technical 35/100; News +100; Market sentiment -31."
     },
     {
       "symbol": "USD1USDT",
       "coin": "USD1",
-      "price": 0.99904,
-      "change24h": -0.044,
-      "volume24h": 115168501.4101,
+      "price": 0.9991,
+      "change24h": 0.03,
+      "volume24h": 118946381.09466,
       "technical": {
-        "rsi": 50.9,
-        "ema9": 0.9990057313745929,
-        "ema21": 0.9990137898070554,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.6,
-        "score": 23
+        "rsi": 64.0,
+        "ema9": 0.9990389410773817,
+        "ema21": 0.9990129610857639,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.99,
+        "score": 89
       },
       "newsScore": 100,
       "newsCount": 1,
@@ -177,48 +177,48 @@
           "text": "Trump-backed World Liberty Financial plans token buyback after 66% year-to-date slide The crypto venture may use fees from its USD1 stablecoin reserves to fund token purchases as it seeks to boost governance."
         }
       ],
-      "marketSentiment": -35,
-      "combinedScore": 48,
-      "signal": "WAIT",
-      "reason": "Technical 23/100; News +100; Market sentiment -35."
+      "marketSentiment": -31,
+      "combinedScore": 81,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +100; Market sentiment -31."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 1.1611,
-      "change24h": -1.743,
-      "volume24h": 77694102.4564,
+      "price": 1.1606,
+      "change24h": -1.719,
+      "volume24h": 73884637.07095,
       "technical": {
-        "rsi": 46.4,
-        "ema9": 1.158453758280675,
-        "ema21": 1.1598712082167764,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 1.31,
-        "score": 23
+        "rsi": 49.0,
+        "ema9": 1.1614726656667582,
+        "ema21": 1.161125340607533,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.29,
+        "score": 77
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -35,
-      "combinedScore": 33,
-      "signal": "SELL",
-      "reason": "Technical 23/100; News +0; Market sentiment -35."
+      "marketSentiment": -31,
+      "combinedScore": 60,
+      "signal": "WAIT",
+      "reason": "Technical 77/100; News +0; Market sentiment -31."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 89.39,
-      "change24h": -0.986,
-      "volume24h": 53717527.14316,
+      "price": 89.28,
+      "change24h": -1.315,
+      "volume24h": 53938474.52897,
       "technical": {
-        "rsi": 40.4,
-        "ema9": 89.22152273074914,
-        "ema21": 89.40898717156765,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.95,
-        "score": 11
+        "rsi": 44.8,
+        "ema9": 89.46602950311733,
+        "ema21": 89.46537519333562,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 1.81,
+        "score": 60
       },
       "newsScore": 0,
       "newsCount": 1,
@@ -231,25 +231,25 @@
           "text": "Solana’s Shanghai event halted over unauthorized promotion: Report Solana’s promotional campaigns through domestic entities allegedly violated China’s crypto-related restrictions, an unidentified PBOC official told China’s Financial News."
         }
       ],
-      "marketSentiment": -35,
-      "combinedScore": 27,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment -35."
+      "marketSentiment": -31,
+      "combinedScore": 52,
+      "signal": "WAIT",
+      "reason": "Technical 60/100; News +0; Market sentiment -31."
     },
     {
       "symbol": "ONEUSDT",
       "coin": "ONE",
-      "price": 0.002054,
-      "change24h": 20.117,
-      "volume24h": 46032561.8581064,
+      "price": 0.002047,
+      "change24h": 12.226,
+      "volume24h": 44386606.5807113,
       "technical": {
-        "rsi": 37.8,
-        "ema9": 0.00226973012776936,
-        "ema21": 0.002261592607405356,
+        "rsi": 42.0,
+        "ema9": 0.002078498783567477,
+        "ema21": 0.0021246199926115163,
         "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 2.75,
-        "score": 36
+        "emaBull": false,
+        "volumeRatio": 0.38,
+        "score": 11
       },
       "newsScore": -100,
       "newsCount": 1,
@@ -262,115 +262,79 @@
           "text": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets One user said the exposed data tied his home address and card number to every crypto wallet linked to his account, raising the risk of targeted scams."
         }
       ],
-      "marketSentiment": -35,
-      "combinedScore": 24,
+      "marketSentiment": -31,
+      "combinedScore": 12,
       "signal": "SELL",
-      "reason": "Technical 36/100; News -100; Market sentiment -35."
-    },
-    {
-      "symbol": "NEARUSDT",
-      "coin": "NEAR",
-      "price": 3.667,
-      "change24h": -1.292,
-      "volume24h": 34134448.6102,
-      "technical": {
-        "rsi": 46.6,
-        "ema9": 3.6503897858523713,
-        "ema21": 3.6571302923196196,
-        "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.46,
-        "score": 47
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -35,
-      "combinedScore": 45,
-      "signal": "WAIT",
-      "reason": "Technical 47/100; News +0; Market sentiment -35."
+      "reason": "Technical 11/100; News -100; Market sentiment -31."
     },
     {
       "symbol": "BNBUSDT",
       "coin": "BNB",
-      "price": 696.62,
-      "change24h": 0.258,
-      "volume24h": 33967844.91927,
+      "price": 695.38,
+      "change24h": -0.03,
+      "volume24h": 35129596.22152,
       "technical": {
-        "rsi": 55.2,
-        "ema9": 695.7343103326518,
-        "ema21": 695.6840944919878,
+        "rsi": 45.9,
+        "ema9": 695.9608329664895,
+        "ema21": 695.8717741189946,
         "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 0.59,
-        "score": 65
+        "volumeRatio": 0.88,
+        "score": 53
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -35,
-      "combinedScore": 54,
+      "marketSentiment": -31,
+      "combinedScore": 48,
       "signal": "WAIT",
-      "reason": "Technical 65/100; News +0; Market sentiment -35."
+      "reason": "Technical 53/100; News +0; Market sentiment -31."
     },
     {
-      "symbol": "UUSDT",
-      "coin": "U",
-      "price": 1.0004,
-      "change24h": 0.01,
-      "volume24h": 26636569.2464,
+      "symbol": "NEARUSDT",
+      "coin": "NEAR",
+      "price": 3.7,
+      "change24h": -1.517,
+      "volume24h": 33518141.7361,
       "technical": {
-        "rsi": 47.0,
-        "ema9": 1.0003458052639296,
-        "ema21": 1.0003441197810043,
+        "rsi": 51.1,
+        "ema9": 3.701931112023605,
+        "ema21": 3.6899195696126226,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.51,
+        "score": 77
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -31,
+      "combinedScore": 60,
+      "signal": "WAIT",
+      "reason": "Technical 77/100; News +0; Market sentiment -31."
+    },
+    {
+      "symbol": "UNIUSDT",
+      "coin": "UNI",
+      "price": 7.13,
+      "change24h": 2.516,
+      "volume24h": 21641404.77216,
+      "technical": {
+        "rsi": 49.3,
+        "ema9": 7.157202518964521,
+        "ema21": 7.146490907403889,
         "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 0.4,
+        "volumeRatio": 0.78,
         "score": 53
       },
-      "newsScore": -33,
-      "newsCount": 5,
-      "news": [
-        {
-          "title": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
-          "link": "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows",
-          "published": "Sat, 07 Nov 2026 17:36:46 +0000",
-          "source": "CoinDesk",
-          "text": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows Treasury billed the move as part of its campaign against Iran, but the order rests on MEXC's alleged role in Russian illicit finance."
-        },
-        {
-          "title": "U.S. prediction markets regulator issues demand that clashes directly with courts",
-          "link": "https://www.coindesk.com/policy/2026/11/06/u-s-prediction-markets-regulator-issues-demand-that-clashes-directly-with-courts",
-          "published": "Fri, 06 Nov 2026 17:42:28 +0000",
-          "source": "CoinDesk",
-          "text": "U.S. prediction markets regulator issues demand that clashes directly with courts The Commodity Futures Trading Commission said regulated exchanges can't cut off customers state-by-state, but firms like Kalshi are under court orders to do so."
-        },
-        {
-          "title": "U.S. added 165,000 jobs in October, blowing past 65,000 estimate",
-          "link": "https://www.coindesk.com/markets/2026/11/06/u-s-added-165-000-jobs-in-october-blowing-past-65-000-estimate",
-          "published": "Fri, 06 Nov 2026 13:31:54 +0000",
-          "source": "CoinDesk",
-          "text": "U.S. added 165,000 jobs in October, blowing past 65,000 estimate The unemployment rate unexpectedly fell to 4.1%. The strong showing surely puts a December rate hike in play, but next week's inflation numbers and the fate of the stock market could prove more important."
-        },
-        {
-          "title": "Bitcoin steadies after AI-led selloff as eyes turn to latest U.S. jobs figures",
-          "link": "https://www.coindesk.com/markets/2026/11/06/bitcoin-steadies-near-usd76-000-after-ai-led-selloff",
-          "published": "Fri, 06 Nov 2026 11:49:35 +0000",
-          "source": "CoinDesk",
-          "text": "Bitcoin steadies after AI-led selloff as eyes turn to latest U.S. jobs figures Bitcoin bounced from around $75,200 after Thursday’s AI-led selloff, which drove more than $1 billion in liquidations, as traders await the U.S. jobs report."
-        },
-        {
-          "title": "Hyperliquid treasury firm seeking U.S. regulatory nod as a domestic futures platform",
-          "link": "https://www.coindesk.com/policy/2026/11/05/hyperliquid-treasury-firm-seeking-u-s-regulatory-nod-as-a-domestic-futures-platform",
-          "published": "Fri, 06 Nov 2026 02:24:23 +0000",
-          "source": "CoinDesk",
-          "text": "Hyperliquid treasury firm seeking U.S. regulatory nod as a domestic futures platform The company said it's trying to establish a U.S. \"futures commission merchant\" with full compliance for activity with U.S. clients, though the timing is uncertain."
-        }
-      ],
-      "marketSentiment": -35,
-      "combinedScore": 43,
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -31,
+      "combinedScore": 48,
       "signal": "WAIT",
-      "reason": "Technical 53/100; News -33; Market sentiment -35."
+      "reason": "Technical 53/100; News +0; Market sentiment -31."
     }
   ],
   "news": [
@@ -653,16 +617,6 @@
         "entry": 692.8,
         "stopLoss": 703.192,
         "takeProfit": 672.016,
-        "entryTime": "2026-11-05T16:44:57.647838+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
-        "symbol": "UNIUSDT",
-        "side": "SELL",
-        "entry": 6.851,
-        "stopLoss": 6.953765,
-        "takeProfit": 6.64547,
         "entryTime": "2026-11-05T16:44:57.647838+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
@@ -2204,6 +2158,19 @@
         "exitPrice": 1320.4,
         "exitTime": "2026-11-07T07:44:59.217273+00:00",
         "pnlPercent": -2.004
+      },
+      {
+        "symbol": "UNIUSDT",
+        "side": "SELL",
+        "entry": 6.851,
+        "stopLoss": 6.953765,
+        "takeProfit": 6.64547,
+        "entryTime": "2026-11-05T16:44:57.647838+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 7.13,
+        "exitTime": "2026-11-08T01:40:17.535642+00:00",
+        "pnlPercent": -4.072
       }
     ]
   },

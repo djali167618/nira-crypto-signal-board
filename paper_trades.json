@@ -141,16 +141,6 @@
       "mode": "PAPER ONLY"
     },
     {
-      "symbol": "UNIUSDT",
-      "side": "SELL",
-      "entry": 6.851,
-      "stopLoss": 6.953765,
-      "takeProfit": 6.64547,
-      "entryTime": "2026-11-05T16:44:57.647838+00:00",
-      "status": "OPEN",
-      "mode": "PAPER ONLY"
-    },
-    {
       "symbol": "NEARUSDT",
       "side": "SELL",
       "entry": 3.758,
@@ -1687,6 +1677,19 @@
       "exitPrice": 1320.4,
       "exitTime": "2026-11-07T07:44:59.217273+00:00",
       "pnlPercent": -2.004
+    },
+    {
+      "symbol": "UNIUSDT",
+      "side": "SELL",
+      "entry": 6.851,
+      "stopLoss": 6.953765,
+      "takeProfit": 6.64547,
+      "entryTime": "2026-11-05T16:44:57.647838+00:00",
+      "status": "STOP_LOSS",
+      "mode": "PAPER ONLY",
+      "exitPrice": 7.13,
+      "exitTime": "2026-11-08T01:40:17.535642+00:00",
+      "pnlPercent": -4.072
     }
   ]
 }
