@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-08T14:49:07.559235+00:00",
+  "updatedAt": "2026-11-08T19:12:14.224401+00:00",
   "signals": {
     "BTCUSDT": "WAIT",
     "ETHUSDT": "WAIT",
-    "ZECUSDT": "BUY",
-    "USD1USDT": "WAIT",
-    "SOLUSDT": "SELL",
-    "XRPUSDT": "SELL",
-    "ONEUSDT": "SELL",
+    "USD1USDT": "BUY",
+    "ZECUSDT": "WAIT",
+    "SOLUSDT": "WAIT",
+    "XRPUSDT": "WAIT",
+    "NEARUSDT": "WAIT",
     "BNBUSDT": "WAIT",
-    "NEARUSDT": "SELL",
+    "ONEUSDT": "SELL",
     "PEPEUSDT": "WAIT"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08 14:49:07 UTC",
+  "generatedAt": "2026-11-08 19:12:14 UTC",
   "interval": "15m candles",
   "marketSentiment": -34,
   "overallNewsScore": -14,
@@ -12,17 +12,17 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 76026.83,
-      "change24h": 0.092,
-      "volume24h": 379645249.5017438,
+      "price": 75866.91,
+      "change24h": 0.094,
+      "volume24h": 397620412.8344255,
       "technical": {
-        "rsi": 54.5,
-        "ema9": 75979.63338762692,
-        "ema21": 75961.46880136835,
-        "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.86,
-        "score": 53
+        "rsi": 52.2,
+        "ema9": 75887.54086453469,
+        "ema21": 75909.78918583799,
+        "macdBull": true,
+        "emaBull": false,
+        "volumeRatio": 0.69,
+        "score": 47
       },
       "newsScore": -20,
       "newsCount": 5,
@@ -64,24 +64,24 @@
         }
       ],
       "marketSentiment": -34,
-      "combinedScore": 45,
+      "combinedScore": 42,
       "signal": "WAIT",
-      "reason": "Technical 53/100; News -20; Market sentiment -34."
+      "reason": "Technical 47/100; News -20; Market sentiment -34."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2240.27,
-      "change24h": -0.256,
-      "volume24h": 130531462.574358,
+      "price": 2233.19,
+      "change24h": -0.03,
+      "volume24h": 129254053.649167,
       "technical": {
-        "rsi": 54.8,
-        "ema9": 2239.3267599369233,
-        "ema21": 2238.861000738697,
-        "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 1.5,
-        "score": 53
+        "rsi": 51.0,
+        "ema9": 2234.3222015461247,
+        "ema21": 2235.5268718608295,
+        "macdBull": true,
+        "emaBull": false,
+        "volumeRatio": 0.74,
+        "score": 47
       },
       "newsScore": 25,
       "newsCount": 4,
@@ -116,55 +116,24 @@
         }
       ],
       "marketSentiment": -34,
-      "combinedScore": 52,
+      "combinedScore": 49,
       "signal": "WAIT",
-      "reason": "Technical 53/100; News +25; Market sentiment -34."
-    },
-    {
-      "symbol": "ZECUSDT",
-      "coin": "ZEC",
-      "price": 1276.85,
-      "change24h": -0.13,
-      "volume24h": 104224693.14699,
-      "technical": {
-        "rsi": 57.3,
-        "ema9": 1272.4624590344854,
-        "ema21": 1270.564679627931,
-        "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.76,
-        "score": 65
-      },
-      "newsScore": 100,
-      "newsCount": 1,
-      "news": [
-        {
-          "title": "Zcash NU7 upgrade goes live, leaves 12,224 ZEC stranded in Sprout pool",
-          "link": "https://cointelegraph.com/news/zcash-nu7-upgrade-15m-sprout-funds-unspendable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Fri, 06 Nov 2026 09:00:36 +0000",
-          "source": "Cointelegraph",
-          "text": "Zcash NU7 upgrade goes live, leaves 12,224 ZEC stranded in Sprout pool Zcash’s NU7 upgrade has rendered about $15 million in legacy Sprout funds unspendable, although a future network upgrade could potentially restore access."
-        }
-      ],
-      "marketSentiment": -34,
-      "combinedScore": 69,
-      "signal": "BUY",
-      "reason": "Technical 65/100; News +100; Market sentiment -34."
+      "reason": "Technical 47/100; News +25; Market sentiment -34."
     },
     {
       "symbol": "USD1USDT",
       "coin": "USD1",
-      "price": 0.99877,
-      "change24h": -0.022,
-      "volume24h": 102478363.99418,
+      "price": 0.999,
+      "change24h": -0.006,
+      "volume24h": 100956196.44599,
       "technical": {
-        "rsi": 39.1,
-        "ema9": 0.9988485857918183,
-        "ema21": 0.9989052810706108,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.12,
-        "score": 11
+        "rsi": 54.4,
+        "ema9": 0.9990726643561866,
+        "ema21": 0.9990107471909156,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.47,
+        "score": 77
       },
       "newsScore": 100,
       "newsCount": 1,
@@ -178,24 +147,55 @@
         }
       ],
       "marketSentiment": -34,
-      "combinedScore": 42,
+      "combinedScore": 75,
+      "signal": "BUY",
+      "reason": "Technical 77/100; News +100; Market sentiment -34."
+    },
+    {
+      "symbol": "ZECUSDT",
+      "coin": "ZEC",
+      "price": 1263.47,
+      "change24h": -0.27,
+      "volume24h": 91432112.33954,
+      "technical": {
+        "rsi": 53.8,
+        "ema9": 1259.5657283941168,
+        "ema21": 1261.612696847868,
+        "macdBull": true,
+        "emaBull": false,
+        "volumeRatio": 0.26,
+        "score": 47
+      },
+      "newsScore": 100,
+      "newsCount": 1,
+      "news": [
+        {
+          "title": "Zcash NU7 upgrade goes live, leaves 12,224 ZEC stranded in Sprout pool",
+          "link": "https://cointelegraph.com/news/zcash-nu7-upgrade-15m-sprout-funds-unspendable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Fri, 06 Nov 2026 09:00:36 +0000",
+          "source": "Cointelegraph",
+          "text": "Zcash NU7 upgrade goes live, leaves 12,224 ZEC stranded in Sprout pool Zcash’s NU7 upgrade has rendered about $15 million in legacy Sprout funds unspendable, although a future network upgrade could potentially restore access."
+        }
+      ],
+      "marketSentiment": -34,
+      "combinedScore": 60,
       "signal": "WAIT",
-      "reason": "Technical 11/100; News +100; Market sentiment -34."
+      "reason": "Technical 47/100; News +100; Market sentiment -34."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 89.53,
-      "change24h": -0.566,
-      "volume24h": 55206216.9073,
+      "price": 89.31,
+      "change24h": -0.39,
+      "volume24h": 58407839.09787,
       "technical": {
-        "rsi": 51.2,
-        "ema9": 89.39009372332244,
-        "ema21": 89.39226290979965,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.98,
-        "score": 23
+        "rsi": 54.9,
+        "ema9": 89.43484055301276,
+        "ema21": 89.4160536976494,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 1.25,
+        "score": 77
       },
       "newsScore": 0,
       "newsCount": 1,
@@ -209,47 +209,93 @@
         }
       ],
       "marketSentiment": -34,
-      "combinedScore": 33,
-      "signal": "SELL",
-      "reason": "Technical 23/100; News +0; Market sentiment -34."
+      "combinedScore": 60,
+      "signal": "WAIT",
+      "reason": "Technical 77/100; News +0; Market sentiment -34."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 1.1645,
-      "change24h": -0.214,
-      "volume24h": 51182572.78561,
+      "price": 1.1537,
+      "change24h": -0.731,
+      "volume24h": 54113557.72871,
       "technical": {
-        "rsi": 50.7,
-        "ema9": 1.1621140109121804,
-        "ema21": 1.1627382041815897,
-        "macdBull": false,
+        "rsi": 48.7,
+        "ema9": 1.1572653709098857,
+        "ema21": 1.158109988095735,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.78,
-        "score": 23
+        "volumeRatio": 0.76,
+        "score": 47
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": -34,
-      "combinedScore": 33,
-      "signal": "SELL",
-      "reason": "Technical 23/100; News +0; Market sentiment -34."
+      "combinedScore": 45,
+      "signal": "WAIT",
+      "reason": "Technical 47/100; News +0; Market sentiment -34."
+    },
+    {
+      "symbol": "NEARUSDT",
+      "coin": "NEAR",
+      "price": 3.65,
+      "change24h": -0.409,
+      "volume24h": 48955821.186,
+      "technical": {
+        "rsi": 50.9,
+        "ema9": 3.640008489548416,
+        "ema21": 3.6564381256665484,
+        "macdBull": true,
+        "emaBull": false,
+        "volumeRatio": 0.46,
+        "score": 47
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -34,
+      "combinedScore": 45,
+      "signal": "WAIT",
+      "reason": "Technical 47/100; News +0; Market sentiment -34."
+    },
+    {
+      "symbol": "BNBUSDT",
+      "coin": "BNB",
+      "price": 698.12,
+      "change24h": 0.187,
+      "volume24h": 35778320.34716,
+      "technical": {
+        "rsi": 55.9,
+        "ema9": 697.4731221933878,
+        "ema21": 697.5580776813067,
+        "macdBull": true,
+        "emaBull": false,
+        "volumeRatio": 0.98,
+        "score": 59
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -34,
+      "combinedScore": 51,
+      "signal": "WAIT",
+      "reason": "Technical 59/100; News +0; Market sentiment -34."
     },
     {
       "symbol": "ONEUSDT",
       "coin": "ONE",
-      "price": 0.001894,
-      "change24h": -6.974,
-      "volume24h": 40842337.3645286,
+      "price": 0.00179,
+      "change24h": -21.97,
+      "volume24h": 31504285.8238121,
       "technical": {
-        "rsi": 46.7,
-        "ema9": 0.001884641337940725,
-        "ema21": 0.0019266420549268102,
-        "macdBull": false,
+        "rsi": 42.8,
+        "ema9": 0.0018169685212104795,
+        "ema21": 0.0018500686409553971,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 1.53,
-        "score": 28
+        "volumeRatio": 0.28,
+        "score": 35
       },
       "newsScore": -50,
       "newsCount": 2,
@@ -270,78 +316,32 @@
         }
       ],
       "marketSentiment": -34,
-      "combinedScore": 28,
+      "combinedScore": 32,
       "signal": "SELL",
-      "reason": "Technical 28/100; News -50; Market sentiment -34."
-    },
-    {
-      "symbol": "BNBUSDT",
-      "coin": "BNB",
-      "price": 697.75,
-      "change24h": 0.378,
-      "volume24h": 37701757.68988,
-      "technical": {
-        "rsi": 48.1,
-        "ema9": 697.895560392196,
-        "ema21": 698.1330455929943,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 1.76,
-        "score": 28
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -34,
-      "combinedScore": 36,
-      "signal": "WAIT",
-      "reason": "Technical 28/100; News +0; Market sentiment -34."
-    },
-    {
-      "symbol": "NEARUSDT",
-      "coin": "NEAR",
-      "price": 3.709,
-      "change24h": -0.188,
-      "volume24h": 27603530.4816,
-      "technical": {
-        "rsi": 51.8,
-        "ema9": 3.700574108404389,
-        "ema21": 3.703710741580549,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 1.11,
-        "score": 23
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -34,
-      "combinedScore": 33,
-      "signal": "SELL",
-      "reason": "Technical 23/100; News +0; Market sentiment -34."
+      "reason": "Technical 35/100; News -50; Market sentiment -34."
     },
     {
       "symbol": "PEPEUSDT",
       "coin": "PEPE",
       "price": 5.08e-06,
-      "change24h": 3.043,
-      "volume24h": 22817774.42157139,
+      "change24h": 4.098,
+      "volume24h": 29628006.40085467,
       "technical": {
-        "rsi": 75.1,
-        "ema9": 5.02877766030614e-06,
-        "ema21": 4.98995112928804e-06,
-        "macdBull": true,
+        "rsi": 58.0,
+        "ema9": 5.058030561664869e-06,
+        "ema21": 5.0412656647677925e-06,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 1.58,
-        "score": 77
+        "volumeRatio": 0.76,
+        "score": 65
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": -34,
-      "combinedScore": 60,
+      "combinedScore": 54,
       "signal": "WAIT",
-      "reason": "Technical 77/100; News +0; Market sentiment -34."
+      "reason": "Technical 65/100; News +0; Market sentiment -34."
     }
   ],
   "news": [
@@ -701,10 +701,10 @@
       {
         "symbol": "ONEUSDT",
         "side": "SELL",
-        "entry": 0.001894,
-        "stopLoss": 0.00192241,
-        "takeProfit": 0.00183718,
-        "entryTime": "2026-11-08T14:49:07.554492+00:00",
+        "entry": 0.00179,
+        "stopLoss": 0.00181685,
+        "takeProfit": 0.0017363,
+        "entryTime": "2026-11-08T19:12:14.219690+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       }
@@ -2204,6 +2204,19 @@
         "exitPrice": 0.001894,
         "exitTime": "2026-11-08T14:49:07.554492+00:00",
         "pnlPercent": 7.79
+      },
+      {
+        "symbol": "ONEUSDT",
+        "side": "SELL",
+        "entry": 0.001894,
+        "stopLoss": 0.00192241,
+        "takeProfit": 0.00183718,
+        "entryTime": "2026-11-08T14:49:07.554492+00:00",
+        "status": "TAKE_PROFIT",
+        "mode": "PAPER ONLY",
+        "exitPrice": 0.00179,
+        "exitTime": "2026-11-08T19:12:14.219690+00:00",
+        "pnlPercent": 5.491
       }
     ]
   },

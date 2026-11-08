@@ -213,10 +213,10 @@
     {
       "symbol": "ONEUSDT",
       "side": "SELL",
-      "entry": 0.001894,
-      "stopLoss": 0.00192241,
-      "takeProfit": 0.00183718,
-      "entryTime": "2026-11-08T14:49:07.554492+00:00",
+      "entry": 0.00179,
+      "stopLoss": 0.00181685,
+      "takeProfit": 0.0017363,
+      "entryTime": "2026-11-08T19:12:14.219690+00:00",
       "status": "OPEN",
       "mode": "PAPER ONLY"
     }
@@ -1716,6 +1716,19 @@
       "exitPrice": 0.001894,
       "exitTime": "2026-11-08T14:49:07.554492+00:00",
       "pnlPercent": 7.79
+    },
+    {
+      "symbol": "ONEUSDT",
+      "side": "SELL",
+      "entry": 0.001894,
+      "stopLoss": 0.00192241,
+      "takeProfit": 0.00183718,
+      "entryTime": "2026-11-08T14:49:07.554492+00:00",
+      "status": "TAKE_PROFIT",
+      "mode": "PAPER ONLY",
+      "exitPrice": 0.00179,
+      "exitTime": "2026-11-08T19:12:14.219690+00:00",
+      "pnlPercent": 5.491
     }
   ]
 }
