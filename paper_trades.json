@@ -219,6 +219,16 @@
       "entryTime": "2026-11-07T22:25:36.574816+00:00",
       "status": "OPEN",
       "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "ZECUSDT",
+      "side": "BUY",
+      "entry": 1266.63,
+      "stopLoss": 1247.63055,
+      "takeProfit": 1304.6289,
+      "entryTime": "2026-11-08T07:58:11.554931+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
     }
   ],
   "closed": [
