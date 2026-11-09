@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-09 02:10:22 UTC",
+  "generatedAt": "2026-11-09 09:44:17 UTC",
   "interval": "15m candles",
-  "marketSentiment": -30,
-  "overallNewsScore": -8,
+  "marketSentiment": -34,
+  "overallNewsScore": -20,
   "fearGreed": {
     "value": 29,
     "label": "Fear",
@@ -12,34 +12,41 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 75252.0,
-      "change24h": -0.64,
-      "volume24h": 785299044.8456113,
+      "price": 74232.0,
+      "change24h": -2.278,
+      "volume24h": 1125432744.2152786,
       "technical": {
-        "rsi": 49.1,
-        "ema9": 75056.58747981058,
-        "ema21": 75139.4172344074,
+        "rsi": 45.8,
+        "ema9": 74292.02747815504,
+        "ema21": 74402.00328382898,
         "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.47,
+        "volumeRatio": 0.68,
         "score": 47
       },
       "newsScore": -10,
       "newsCount": 5,
       "news": [
         {
+          "title": "Bitcoin ETFs shed $1.3B in biggest weekly outflow since late June",
+          "link": "https://cointelegraph.com/markets/bitcoin-etfs-13b-biggest-weekly-outflow-late-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Mon, 09 Nov 2026 08:17:35 +0000",
+          "source": "Cointelegraph",
+          "text": "Bitcoin ETFs shed $1.3B in biggest weekly outflow since late June Investors pulled a net $1.21 billion from BlackRock’s IBIT last week as Bitcoin fell below $76,000 and US technology stocks sold off."
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Mon, 09 Nov 2026 05:44:53 +0000",
+          "source": "Cointelegraph",
+          "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+        },
+        {
           "title": "Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest",
           "link": "https://cointelegraph.com/magazine/vitaliks-pivots-to-eth-as-a-store-of-value-us-election-weighs-on-crypto-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "published": "Sun, 08 Nov 2026 22:59:06 +0000",
           "source": "Cointelegraph",
           "text": "Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest Vitalik Buterin wants Ethereum to embrace a store of value narrative, upsetting Bitcoin maxis. The crypto industry faces an uncertain future following the US elections."
-        },
-        {
-          "title": "Here’s what happened in crypto today",
-          "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Sun, 08 Nov 2026 13:33:00 +0000",
-          "source": "Cointelegraph",
-          "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
         },
         {
           "title": "Bitcoin holders have received eCash — What can you do with it?",
@@ -54,37 +61,30 @@
           "published": "Fri, 06 Nov 2026 18:47:45 +0000",
           "source": "Cointelegraph",
           "text": "Russia finalizes crypto trading rules ahead of Nov. 17 rollout The rules allow retail investors to trade BTC, ETH and USDT through regulated intermediaries, with Moscow Exchange planning to launch crypto trading in December."
-        },
-        {
-          "title": "Strive buys 15,124 Bitcoin in October, closes in on top treasury holders",
-          "link": "https://cointelegraph.com/news/strive-buys-bitcoin-october-top-btc-corporate-holders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Fri, 06 Nov 2026 18:22:42 +0000",
-          "source": "Cointelegraph",
-          "text": "Strive buys 15,124 Bitcoin in October, closes in on top treasury holders Bitcoin treasury company Strive reported $509 million in third-quarter net income and purchased 15,124 BTC in October, bringing its total holdings to 43,124 BTC."
         }
       ],
-      "marketSentiment": -30,
+      "marketSentiment": -34,
       "combinedScore": 44,
       "signal": "WAIT",
-      "reason": "Technical 47/100; News -10; Market sentiment -30."
+      "reason": "Technical 47/100; News -10; Market sentiment -34."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2145.72,
-      "change24h": -3.927,
-      "volume24h": 496664686.889235,
+      "price": 2106.65,
+      "change24h": -5.875,
+      "volume24h": 764166330.82661,
       "technical": {
-        "rsi": 39.6,
-        "ema9": 2140.271184543947,
-        "ema21": 2155.7347625966668,
+        "rsi": 43.4,
+        "ema9": 2111.1243585112998,
+        "ema21": 2117.2146183954765,
         "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.35,
+        "volumeRatio": 0.65,
         "score": 35
       },
-      "newsScore": 20,
-      "newsCount": 5,
+      "newsScore": 25,
+      "newsCount": 4,
       "news": [
         {
           "title": "Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest",
@@ -108,70 +108,32 @@
           "text": "Ethereum devs won’t fork Glamsterdam on Hoodi until smart contract risks resolved Ethereum developers are investigating concerns tied to eight smart contract invariants tied to Glamsterdam’s EIP-8037 and EIP-8038."
         },
         {
-          "title": "Bitcoin, Ether ETFs post $530M outflows as election gains evaporate",
-          "link": "https://cointelegraph.com/markets/bitcoin-ether-etfs-lose-post-election-gains-erased?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Fri, 06 Nov 2026 08:19:18 +0000",
-          "source": "Cointelegraph",
-          "text": "Bitcoin, Ether ETFs post $530M outflows as election gains evaporate US spot Bitcoin and Ether ETFs shed a combined $530 million Thursday as Bitcoin fell below $76,000 and US stocks tumbled."
-        },
-        {
-          "title": "Standard Chartered and SBI back crypto insurer Soter as funding reaches $23.5 million",
-          "link": "https://www.coindesk.com/business/2026/11/05/soter-raises-usd23-5m-plus-btc-and-eth-as-banks-demand-theft-protection",
-          "published": "Thu, 05 Nov 2026 16:49:08 +0000",
+          "title": "Two rival Ethereum proposals aim to stop Glamsterdam breaking old contracts",
+          "link": "https://www.coindesk.com/tech/2026/11/09/two-rival-ethereum-proposals-aim-to-stop-glamsterdam-breaking-old-contracts",
+          "published": "Mon, 09 Nov 2026 05:16:54 +0000",
           "source": "CoinDesk",
-          "text": "Standard Chartered and SBI back crypto insurer Soter as funding reaches $23.5 million Soter also received backing of 500 BTC and 2000 ETH, worth another $43 million at current prices."
+          "text": "Two rival Ethereum proposals aim to stop Glamsterdam breaking old contracts The proposals aim to keep Ethereum’s planned gas changes from breaking existing contracts, using different approaches to what contracts see and what users pay."
         }
       ],
-      "marketSentiment": -30,
-      "combinedScore": 42,
+      "marketSentiment": -34,
+      "combinedScore": 43,
       "signal": "WAIT",
-      "reason": "Technical 35/100; News +20; Market sentiment -30."
-    },
-    {
-      "symbol": "SOLUSDT",
-      "coin": "SOL",
-      "price": 88.02,
-      "change24h": -1.134,
-      "volume24h": 139636579.9846,
-      "technical": {
-        "rsi": 50.4,
-        "ema9": 87.43084688990466,
-        "ema21": 87.6017750986327,
-        "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.45,
-        "score": 47
-      },
-      "newsScore": 0,
-      "newsCount": 1,
-      "news": [
-        {
-          "title": "Solana’s Shanghai event halted over unauthorized promotion: Report",
-          "link": "https://cointelegraph.com/news/solana-shanghai-event-halted-unauthorized-promotion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Fri, 06 Nov 2026 12:15:28 +0000",
-          "source": "Cointelegraph",
-          "text": "Solana’s Shanghai event halted over unauthorized promotion: Report Solana’s promotional campaigns through domestic entities allegedly violated China’s crypto-related restrictions, an unidentified PBOC official told China’s Financial News."
-        }
-      ],
-      "marketSentiment": -30,
-      "combinedScore": 46,
-      "signal": "WAIT",
-      "reason": "Technical 47/100; News +0; Market sentiment -30."
+      "reason": "Technical 35/100; News +25; Market sentiment -34."
     },
     {
       "symbol": "USD1USDT",
       "coin": "USD1",
-      "price": 0.99863,
-      "change24h": -0.029,
-      "volume24h": 131817153.62402,
+      "price": 0.99902,
+      "change24h": 0.01,
+      "volume24h": 193228842.60727,
       "technical": {
-        "rsi": 42.9,
-        "ema9": 0.9987130802072539,
-        "ema21": 0.9987631542060785,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.43,
-        "score": 11
+        "rsi": 56.3,
+        "ema9": 0.9990911367185656,
+        "ema21": 0.9989537476036173,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.41,
+        "score": 89
       },
       "newsScore": 100,
       "newsCount": 1,
@@ -184,172 +146,230 @@
           "text": "Trump-backed World Liberty Financial plans token buyback after 66% year-to-date slide The crypto venture may use fees from its USD1 stablecoin reserves to fund token purchases as it seeks to boost governance."
         }
       ],
-      "marketSentiment": -30,
-      "combinedScore": 42,
+      "marketSentiment": -34,
+      "combinedScore": 81,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +100; Market sentiment -34."
+    },
+    {
+      "symbol": "SOLUSDT",
+      "coin": "SOL",
+      "price": 86.58,
+      "change24h": -3.035,
+      "volume24h": 184347037.55714,
+      "technical": {
+        "rsi": 51.7,
+        "ema9": 86.47819270896889,
+        "ema21": 86.57619150659582,
+        "macdBull": true,
+        "emaBull": false,
+        "volumeRatio": 0.69,
+        "score": 47
+      },
+      "newsScore": -50,
+      "newsCount": 2,
+      "news": [
+        {
+          "title": "Solana’s Shanghai event halted over unauthorized promotion: Report",
+          "link": "https://cointelegraph.com/news/solana-shanghai-event-halted-unauthorized-promotion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Fri, 06 Nov 2026 12:15:28 +0000",
+          "source": "Cointelegraph",
+          "text": "Solana’s Shanghai event halted over unauthorized promotion: Report Solana’s promotional campaigns through domestic entities allegedly violated China’s crypto-related restrictions, an unidentified PBOC official told China’s Financial News."
+        },
+        {
+          "title": "Solana moves to scrap the transaction feature used in the $270 million Drift hack",
+          "link": "https://www.coindesk.com/tech/2026/11/09/solana-moves-to-scrap-the-transaction-feature-used-in-the-usd270-million-drift-hack",
+          "published": "Mon, 09 Nov 2026 06:36:45 +0000",
+          "source": "CoinDesk",
+          "text": "Solana moves to scrap the transaction feature used in the $270 million Drift hack A draft proposal would end the 'durable nonces' feature no earlier than May 5, 2027, forcing custodians that sign offline to rebuild how they move coins."
+        }
+      ],
+      "marketSentiment": -34,
+      "combinedScore": 38,
       "signal": "WAIT",
-      "reason": "Technical 11/100; News +100; Market sentiment -30."
+      "reason": "Technical 47/100; News -50; Market sentiment -34."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 1239.72,
-      "change24h": -0.335,
-      "volume24h": 130928571.93939,
+      "price": 1217.72,
+      "change24h": -4.033,
+      "volume24h": 175353705.22958,
       "technical": {
-        "rsi": 52.3,
-        "ema9": 1230.2977671066444,
-        "ema21": 1230.9869355461972,
+        "rsi": 49.6,
+        "ema9": 1214.4978266935045,
+        "ema21": 1216.5340256364893,
         "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.42,
+        "volumeRatio": 0.79,
         "score": 47
       },
-      "newsScore": 100,
-      "newsCount": 1,
-      "news": [
-        {
-          "title": "Zcash NU7 upgrade goes live, leaves 12,224 ZEC stranded in Sprout pool",
-          "link": "https://cointelegraph.com/news/zcash-nu7-upgrade-15m-sprout-funds-unspendable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Fri, 06 Nov 2026 09:00:36 +0000",
-          "source": "Cointelegraph",
-          "text": "Zcash NU7 upgrade goes live, leaves 12,224 ZEC stranded in Sprout pool Zcash’s NU7 upgrade has rendered about $15 million in legacy Sprout funds unspendable, although a future network upgrade could potentially restore access."
-        }
-      ],
-      "marketSentiment": -30,
-      "combinedScore": 60,
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -34,
+      "combinedScore": 45,
       "signal": "WAIT",
-      "reason": "Technical 47/100; News +100; Market sentiment -30."
+      "reason": "Technical 47/100; News +0; Market sentiment -34."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 1.1169,
-      "change24h": -3.533,
-      "volume24h": 120442791.56904,
+      "price": 1.0912,
+      "change24h": -6.23,
+      "volume24h": 156976612.57767,
       "technical": {
-        "rsi": 38.1,
-        "ema9": 1.11608450196568,
-        "ema21": 1.123301043933793,
+        "rsi": 45.3,
+        "ema9": 1.0932135058911396,
+        "ema21": 1.0966252368636487,
         "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.28,
-        "score": 35
+        "volumeRatio": 0.79,
+        "score": 47
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -30,
-      "combinedScore": 40,
+      "marketSentiment": -34,
+      "combinedScore": 45,
       "signal": "WAIT",
-      "reason": "Technical 35/100; News +0; Market sentiment -30."
+      "reason": "Technical 47/100; News +0; Market sentiment -34."
     },
     {
       "symbol": "BNBUSDT",
       "coin": "BNB",
-      "price": 689.28,
-      "change24h": -0.77,
-      "volume24h": 75117398.25881,
+      "price": 681.16,
+      "change24h": -2.491,
+      "volume24h": 93119980.31873,
       "technical": {
-        "rsi": 46.8,
-        "ema9": 687.7505046436168,
-        "ema21": 689.0551578100926,
+        "rsi": 46.6,
+        "ema9": 681.3854413355941,
+        "ema21": 682.4648557442989,
         "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.56,
+        "volumeRatio": 0.37,
         "score": 47
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -30,
-      "combinedScore": 46,
+      "marketSentiment": -34,
+      "combinedScore": 45,
       "signal": "WAIT",
-      "reason": "Technical 47/100; News +0; Market sentiment -30."
+      "reason": "Technical 47/100; News +0; Market sentiment -34."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 3.626,
-      "change24h": -1.734,
-      "volume24h": 69173356.2163,
+      "price": 3.542,
+      "change24h": -4.528,
+      "volume24h": 81222441.5265,
       "technical": {
-        "rsi": 51.9,
-        "ema9": 3.6104897770163498,
-        "ema21": 3.607703928160877,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.24,
-        "score": 77
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -30,
-      "combinedScore": 60,
-      "signal": "WAIT",
-      "reason": "Technical 77/100; News +0; Market sentiment -30."
-    },
-    {
-      "symbol": "PEPEUSDT",
-      "coin": "PEPE",
-      "price": 5.14e-06,
-      "change24h": 6.418,
-      "volume24h": 53666165.2399608,
-      "technical": {
-        "rsi": 61.8,
-        "ema9": 5.063809496880908e-06,
-        "ema21": 5.039982026325693e-06,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 1.97,
-        "score": 94
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -30,
-      "combinedScore": 69,
-      "signal": "BUY",
-      "reason": "Technical 94/100; News +0; Market sentiment -30."
-    },
-    {
-      "symbol": "DOGEUSDT",
-      "coin": "DOGE",
-      "price": 0.06994,
-      "change24h": -1.797,
-      "volume24h": 38334622.13045,
-      "technical": {
-        "rsi": 48.5,
-        "ema9": 0.06954618825797673,
-        "ema21": 0.06975315237558084,
+        "rsi": 47.4,
+        "ema9": 3.52715659609262,
+        "ema21": 3.5415311250610415,
         "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.3,
+        "volumeRatio": 0.55,
         "score": 47
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -30,
-      "combinedScore": 46,
+      "marketSentiment": -34,
+      "combinedScore": 45,
       "signal": "WAIT",
-      "reason": "Technical 47/100; News +0; Market sentiment -30."
+      "reason": "Technical 47/100; News +0; Market sentiment -34."
+    },
+    {
+      "symbol": "PEPEUSDT",
+      "coin": "PEPE",
+      "price": 5.15e-06,
+      "change24h": 5.533,
+      "volume24h": 71892707.20676339,
+      "technical": {
+        "rsi": 60.7,
+        "ema9": 5.092992032826189e-06,
+        "ema21": 5.06634088201443e-06,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.99,
+        "score": 89
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -34,
+      "combinedScore": 66,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment -34."
+    },
+    {
+      "symbol": "DOGEUSDT",
+      "coin": "DOGE",
+      "price": 0.06935,
+      "change24h": -2.186,
+      "volume24h": 47303853.20679,
+      "technical": {
+        "rsi": 54.3,
+        "ema9": 0.06901342302903866,
+        "ema21": 0.06904644173652244,
+        "macdBull": true,
+        "emaBull": false,
+        "volumeRatio": 0.45,
+        "score": 47
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -34,
+      "combinedScore": 45,
+      "signal": "WAIT",
+      "reason": "Technical 47/100; News +0; Market sentiment -34."
     }
   ],
   "news": [
+    {
+      "title": "Binance, Tether and Trump crypto firms face Senate records deadline",
+      "link": "https://cointelegraph.com/news/binance-tether-wlfi-senate-crypto-investigation-records-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 09 Nov 2026 09:00:17 +0000",
+      "source": "Cointelegraph",
+      "text": "Binance, Tether and Trump crypto firms face Senate records deadline Sen. Richard Blumenthal asked four crypto firms to start sending records by Nov. 30 and warned of further action if they miss the Jan. 4 deadline."
+    },
+    {
+      "title": "Bitcoin ETFs shed $1.3B in biggest weekly outflow since late June",
+      "link": "https://cointelegraph.com/markets/bitcoin-etfs-13b-biggest-weekly-outflow-late-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 09 Nov 2026 08:17:35 +0000",
+      "source": "Cointelegraph",
+      "text": "Bitcoin ETFs shed $1.3B in biggest weekly outflow since late June Investors pulled a net $1.21 billion from BlackRock’s IBIT last week as Bitcoin fell below $76,000 and US technology stocks sold off."
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 09 Nov 2026 05:44:53 +0000",
+      "source": "Cointelegraph",
+      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "title": "Zcash devs propose another block time cut days after NU7 upgrade",
+      "link": "https://cointelegraph.com/news/zcash-developers-propose-20-second-blocks-nu7-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 09 Nov 2026 05:36:08 +0000",
+      "source": "Cointelegraph",
+      "text": "Zcash devs propose another block time cut days after NU7 upgrade The proposed reduction aims to shorten transaction confirmation times and improve the user experience for point-of-sale payments, exchange deposits and cross-chain swaps."
+    },
+    {
+      "title": "tBTC bridge partially resumes as $120M Aave reserve remains frozen",
+      "link": "https://cointelegraph.com/news/tbtc-bridge-resumes-aave-120m-reserve-frozen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 09 Nov 2026 04:03:08 +0000",
+      "source": "Cointelegraph",
+      "text": "tBTC bridge partially resumes as $120M Aave reserve remains frozen Threshold halted its tBTC bridge on Oct. 30 as operators addressed a critical Linux kernel vulnerability that could allow attackers to execute code on unpatched servers."
+    },
     {
       "title": "Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest",
       "link": "https://cointelegraph.com/magazine/vitaliks-pivots-to-eth-as-a-store-of-value-us-election-weighs-on-crypto-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sun, 08 Nov 2026 22:59:06 +0000",
       "source": "Cointelegraph",
       "text": "Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest Vitalik Buterin wants Ethereum to embrace a store of value narrative, upsetting Bitcoin maxis. The crypto industry faces an uncertain future following the US elections."
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 08 Nov 2026 13:33:00 +0000",
-      "source": "Cointelegraph",
-      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
       "title": "Binance France emails announce closure of its users’ accounts on Dec. 31",
@@ -448,34 +468,6 @@
       "published": "Fri, 06 Nov 2026 18:22:42 +0000",
       "source": "Cointelegraph",
       "text": "Strive buys 15,124 Bitcoin in October, closes in on top treasury holders Bitcoin treasury company Strive reported $509 million in third-quarter net income and purchased 15,124 BTC in October, bringing its total holdings to 43,124 BTC."
-    },
-    {
-      "title": "Bitcoin price dips under $75K as crypto markets miss tech-stock rebound",
-      "link": "https://cointelegraph.com/markets/bitcoin-price-under-75k-crypto-markets-tech-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 06 Nov 2026 17:49:33 +0000",
-      "source": "Cointelegraph",
-      "text": "Bitcoin price dips under $75K as crypto markets miss tech-stock rebound BTC price action stayed weak after US nonfarm payrolls data significantly beat forecasts, increasing bets of a December interest-rate hike."
-    },
-    {
-      "title": "What Democrats’ US midterm sweep means for the CLARITY Act",
-      "link": "https://cointelegraph.com/magazine/clarity-act-faces-new-test-under-democratic-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 06 Nov 2026 14:30:00 +0000",
-      "source": "Cointelegraph",
-      "text": "What Democrats’ US midterm sweep means for the CLARITY Act The CLARITY Act faces a new test as Democrats control Congress, raising questions over consumer protections, ethics and what the crypto industry may have to concede."
-    },
-    {
-      "title": "Nigeria sets new crypto licensing rules, bans algorithmic stablecoins",
-      "link": "https://cointelegraph.com/news/nigeria-algorithmic-stablecoin-ban-crypto-licensing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 06 Nov 2026 13:57:14 +0000",
-      "source": "Cointelegraph",
-      "text": "Nigeria sets new crypto licensing rules, bans algorithmic stablecoins Nigeria has banned algorithmic stablecoins and introduced reserve requirements for issuers as it expands central bank oversight of crypto payment services."
-    },
-    {
-      "title": "Ethereum devs won’t fork Glamsterdam on Hoodi until smart contract risks resolved",
-      "link": "https://cointelegraph.com/news/ethereum-devs-fork-glamsterdam-hoodi-smart-contract-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 06 Nov 2026 13:23:08 +0000",
-      "source": "Cointelegraph",
-      "text": "Ethereum devs won’t fork Glamsterdam on Hoodi until smart contract risks resolved Ethereum developers are investigating concerns tied to eight smart contract invariants tied to Glamsterdam’s EIP-8037 and EIP-8038."
     }
   ],
   "paper": {
