@@ -179,6 +179,16 @@
       "entryTime": "2026-11-09T02:10:22.568191+00:00",
       "status": "OPEN",
       "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "XRPUSDT",
+      "side": "SELL",
+      "entry": 1.0943,
+      "stopLoss": 1.1107145,
+      "takeProfit": 1.061471,
+      "entryTime": "2026-11-09T20:09:38.868700+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
     }
   ],
   "closed": [
