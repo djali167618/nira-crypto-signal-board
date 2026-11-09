@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-08 22:53:28 UTC",
+  "generatedAt": "2026-11-09 02:10:22 UTC",
   "interval": "15m candles",
-  "marketSentiment": -34,
-  "overallNewsScore": -14,
+  "marketSentiment": -30,
+  "overallNewsScore": -8,
   "fearGreed": {
-    "value": 28,
+    "value": 29,
     "label": "Fear",
     "source": "Alternative.me"
   },
@@ -12,21 +12,28 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 74476.01,
-      "change24h": -1.713,
-      "volume24h": 633350705.3393672,
+      "price": 75252.0,
+      "change24h": -0.64,
+      "volume24h": 785299044.8456113,
       "technical": {
-        "rsi": 22.9,
-        "ema9": 74965.11010323674,
-        "ema21": 75378.15164437455,
-        "macdBull": false,
+        "rsi": 49.1,
+        "ema9": 75056.58747981058,
+        "ema21": 75139.4172344074,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 1.43,
-        "score": 28
+        "volumeRatio": 0.47,
+        "score": 47
       },
-      "newsScore": -20,
+      "newsScore": -10,
       "newsCount": 5,
       "news": [
+        {
+          "title": "Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest",
+          "link": "https://cointelegraph.com/magazine/vitaliks-pivots-to-eth-as-a-store-of-value-us-election-weighs-on-crypto-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Sun, 08 Nov 2026 22:59:06 +0000",
+          "source": "Cointelegraph",
+          "text": "Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest Vitalik Buterin wants Ethereum to embrace a store of value narrative, upsetting Bitcoin maxis. The crypto industry faces an uncertain future following the US elections."
+        },
         {
           "title": "Here’s what happened in crypto today",
           "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -54,38 +61,38 @@
           "published": "Fri, 06 Nov 2026 18:22:42 +0000",
           "source": "Cointelegraph",
           "text": "Strive buys 15,124 Bitcoin in October, closes in on top treasury holders Bitcoin treasury company Strive reported $509 million in third-quarter net income and purchased 15,124 BTC in October, bringing its total holdings to 43,124 BTC."
-        },
-        {
-          "title": "Bitcoin price dips under $75K as crypto markets miss tech-stock rebound",
-          "link": "https://cointelegraph.com/markets/bitcoin-price-under-75k-crypto-markets-tech-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Fri, 06 Nov 2026 17:49:33 +0000",
-          "source": "Cointelegraph",
-          "text": "Bitcoin price dips under $75K as crypto markets miss tech-stock rebound BTC price action stayed weak after US nonfarm payrolls data significantly beat forecasts, increasing bets of a December interest-rate hike."
         }
       ],
-      "marketSentiment": -34,
-      "combinedScore": 33,
-      "signal": "SELL",
-      "reason": "Technical 28/100; News -20; Market sentiment -34."
+      "marketSentiment": -30,
+      "combinedScore": 44,
+      "signal": "WAIT",
+      "reason": "Technical 47/100; News -10; Market sentiment -30."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2127.35,
-      "change24h": -4.809,
-      "volume24h": 355609704.31241,
+      "price": 2145.72,
+      "change24h": -3.927,
+      "volume24h": 496664686.889235,
       "technical": {
-        "rsi": 6.3,
-        "ema9": 2167.965715700093,
-        "ema21": 2197.74616890968,
-        "macdBull": false,
+        "rsi": 39.6,
+        "ema9": 2140.271184543947,
+        "ema21": 2155.7347625966668,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 1.0,
-        "score": 28
+        "volumeRatio": 0.35,
+        "score": 35
       },
-      "newsScore": 25,
-      "newsCount": 4,
+      "newsScore": 20,
+      "newsCount": 5,
       "news": [
+        {
+          "title": "Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest",
+          "link": "https://cointelegraph.com/magazine/vitaliks-pivots-to-eth-as-a-store-of-value-us-election-weighs-on-crypto-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Sun, 08 Nov 2026 22:59:06 +0000",
+          "source": "Cointelegraph",
+          "text": "Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest Vitalik Buterin wants Ethereum to embrace a store of value narrative, upsetting Bitcoin maxis. The crypto industry faces an uncertain future following the US elections."
+        },
         {
           "title": "Russia finalizes crypto trading rules ahead of Nov. 17 rollout",
           "link": "https://cointelegraph.com/news/russia-finalizes-crypto-trading-rules-november-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -115,87 +122,25 @@
           "text": "Standard Chartered and SBI back crypto insurer Soter as funding reaches $23.5 million Soter also received backing of 500 BTC and 2000 ETH, worth another $43 million at current prices."
         }
       ],
-      "marketSentiment": -34,
-      "combinedScore": 39,
+      "marketSentiment": -30,
+      "combinedScore": 42,
       "signal": "WAIT",
-      "reason": "Technical 28/100; News +25; Market sentiment -34."
-    },
-    {
-      "symbol": "USD1USDT",
-      "coin": "USD1",
-      "price": 0.99846,
-      "change24h": -0.057,
-      "volume24h": 124003660.48266,
-      "technical": {
-        "rsi": 37.0,
-        "ema9": 0.9987062517389906,
-        "ema21": 0.998835211594493,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 3.21,
-        "score": 6
-      },
-      "newsScore": 100,
-      "newsCount": 1,
-      "news": [
-        {
-          "title": "Trump-backed World Liberty Financial plans token buyback after 66% year-to-date slide",
-          "link": "https://www.coindesk.com/business/2026/11/06/trump-backed-world-liberty-financial-plans-token-buyback-after-66-year-to-date-slide",
-          "published": "Fri, 06 Nov 2026 08:04:52 +0000",
-          "source": "CoinDesk",
-          "text": "Trump-backed World Liberty Financial plans token buyback after 66% year-to-date slide The crypto venture may use fees from its USD1 stablecoin reserves to fund token purchases as it seeks to boost governance."
-        }
-      ],
-      "marketSentiment": -34,
-      "combinedScore": 40,
-      "signal": "WAIT",
-      "reason": "Technical 6/100; News +100; Market sentiment -34."
-    },
-    {
-      "symbol": "ZECUSDT",
-      "coin": "ZEC",
-      "price": 1209.04,
-      "change24h": -3.922,
-      "volume24h": 113729716.21179,
-      "technical": {
-        "rsi": 25.5,
-        "ema9": 1223.699978721337,
-        "ema21": 1238.606437118515,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 1.63,
-        "score": 23
-      },
-      "newsScore": 100,
-      "newsCount": 1,
-      "news": [
-        {
-          "title": "Zcash NU7 upgrade goes live, leaves 12,224 ZEC stranded in Sprout pool",
-          "link": "https://cointelegraph.com/news/zcash-nu7-upgrade-15m-sprout-funds-unspendable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Fri, 06 Nov 2026 09:00:36 +0000",
-          "source": "Cointelegraph",
-          "text": "Zcash NU7 upgrade goes live, leaves 12,224 ZEC stranded in Sprout pool Zcash’s NU7 upgrade has rendered about $15 million in legacy Sprout funds unspendable, although a future network upgrade could potentially restore access."
-        }
-      ],
-      "marketSentiment": -34,
-      "combinedScore": 48,
-      "signal": "WAIT",
-      "reason": "Technical 23/100; News +100; Market sentiment -34."
+      "reason": "Technical 35/100; News +20; Market sentiment -30."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 86.35,
-      "change24h": -3.249,
-      "volume24h": 107596760.63616,
+      "price": 88.02,
+      "change24h": -1.134,
+      "volume24h": 139636579.9846,
       "technical": {
-        "rsi": 21.6,
-        "ema9": 87.42446434549478,
-        "ema21": 88.32914699505451,
-        "macdBull": false,
+        "rsi": 50.4,
+        "ema9": 87.43084688990466,
+        "ema21": 87.6017750986327,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 2.07,
-        "score": 23
+        "volumeRatio": 0.45,
+        "score": 47
       },
       "newsScore": 0,
       "newsCount": 1,
@@ -208,128 +153,197 @@
           "text": "Solana’s Shanghai event halted over unauthorized promotion: Report Solana’s promotional campaigns through domestic entities allegedly violated China’s crypto-related restrictions, an unidentified PBOC official told China’s Financial News."
         }
       ],
-      "marketSentiment": -34,
-      "combinedScore": 33,
-      "signal": "SELL",
-      "reason": "Technical 23/100; News +0; Market sentiment -34."
+      "marketSentiment": -30,
+      "combinedScore": 46,
+      "signal": "WAIT",
+      "reason": "Technical 47/100; News +0; Market sentiment -30."
+    },
+    {
+      "symbol": "USD1USDT",
+      "coin": "USD1",
+      "price": 0.99863,
+      "change24h": -0.029,
+      "volume24h": 131817153.62402,
+      "technical": {
+        "rsi": 42.9,
+        "ema9": 0.9987130802072539,
+        "ema21": 0.9987631542060785,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.43,
+        "score": 11
+      },
+      "newsScore": 100,
+      "newsCount": 1,
+      "news": [
+        {
+          "title": "Trump-backed World Liberty Financial plans token buyback after 66% year-to-date slide",
+          "link": "https://www.coindesk.com/business/2026/11/06/trump-backed-world-liberty-financial-plans-token-buyback-after-66-year-to-date-slide",
+          "published": "Fri, 06 Nov 2026 08:04:52 +0000",
+          "source": "CoinDesk",
+          "text": "Trump-backed World Liberty Financial plans token buyback after 66% year-to-date slide The crypto venture may use fees from its USD1 stablecoin reserves to fund token purchases as it seeks to boost governance."
+        }
+      ],
+      "marketSentiment": -30,
+      "combinedScore": 42,
+      "signal": "WAIT",
+      "reason": "Technical 11/100; News +100; Market sentiment -30."
+    },
+    {
+      "symbol": "ZECUSDT",
+      "coin": "ZEC",
+      "price": 1239.72,
+      "change24h": -0.335,
+      "volume24h": 130928571.93939,
+      "technical": {
+        "rsi": 52.3,
+        "ema9": 1230.2977671066444,
+        "ema21": 1230.9869355461972,
+        "macdBull": true,
+        "emaBull": false,
+        "volumeRatio": 0.42,
+        "score": 47
+      },
+      "newsScore": 100,
+      "newsCount": 1,
+      "news": [
+        {
+          "title": "Zcash NU7 upgrade goes live, leaves 12,224 ZEC stranded in Sprout pool",
+          "link": "https://cointelegraph.com/news/zcash-nu7-upgrade-15m-sprout-funds-unspendable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Fri, 06 Nov 2026 09:00:36 +0000",
+          "source": "Cointelegraph",
+          "text": "Zcash NU7 upgrade goes live, leaves 12,224 ZEC stranded in Sprout pool Zcash’s NU7 upgrade has rendered about $15 million in legacy Sprout funds unspendable, although a future network upgrade could potentially restore access."
+        }
+      ],
+      "marketSentiment": -30,
+      "combinedScore": 60,
+      "signal": "WAIT",
+      "reason": "Technical 47/100; News +100; Market sentiment -30."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 1.1149,
-      "change24h": -3.838,
-      "volume24h": 97008002.16929,
+      "price": 1.1169,
+      "change24h": -3.533,
+      "volume24h": 120442791.56904,
       "technical": {
-        "rsi": 23.1,
-        "ema9": 1.129032971009698,
-        "ema21": 1.1409937042448146,
-        "macdBull": false,
+        "rsi": 38.1,
+        "ema9": 1.11608450196568,
+        "ema21": 1.123301043933793,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 1.41,
-        "score": 28
+        "volumeRatio": 0.28,
+        "score": 35
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -34,
-      "combinedScore": 36,
+      "marketSentiment": -30,
+      "combinedScore": 40,
       "signal": "WAIT",
-      "reason": "Technical 28/100; News +0; Market sentiment -34."
+      "reason": "Technical 35/100; News +0; Market sentiment -30."
     },
     {
       "symbol": "BNBUSDT",
       "coin": "BNB",
-      "price": 684.0,
-      "change24h": -1.648,
-      "volume24h": 63225094.8231,
+      "price": 689.28,
+      "change24h": -0.77,
+      "volume24h": 75117398.25881,
       "technical": {
-        "rsi": 26.4,
-        "ema9": 689.1712697589741,
-        "ema21": 693.0045674239678,
-        "macdBull": false,
+        "rsi": 46.8,
+        "ema9": 687.7505046436168,
+        "ema21": 689.0551578100926,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.89,
-        "score": 28
+        "volumeRatio": 0.56,
+        "score": 47
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -34,
-      "combinedScore": 36,
+      "marketSentiment": -30,
+      "combinedScore": 46,
       "signal": "WAIT",
-      "reason": "Technical 28/100; News +0; Market sentiment -34."
+      "reason": "Technical 47/100; News +0; Market sentiment -30."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 3.551,
-      "change24h": -3.243,
-      "volume24h": 58989487.297,
+      "price": 3.626,
+      "change24h": -1.734,
+      "volume24h": 69173356.2163,
       "technical": {
-        "rsi": 31.8,
-        "ema9": 3.5685211809149955,
-        "ema21": 3.6027043093185176,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.54,
-        "score": 11
+        "rsi": 51.9,
+        "ema9": 3.6104897770163498,
+        "ema21": 3.607703928160877,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.24,
+        "score": 77
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -34,
-      "combinedScore": 27,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment -34."
+      "marketSentiment": -30,
+      "combinedScore": 60,
+      "signal": "WAIT",
+      "reason": "Technical 77/100; News +0; Market sentiment -30."
     },
     {
       "symbol": "PEPEUSDT",
       "coin": "PEPE",
-      "price": 4.96e-06,
-      "change24h": 2.692,
-      "volume24h": 40281899.3669231,
+      "price": 5.14e-06,
+      "change24h": 6.418,
+      "volume24h": 53666165.2399608,
       "technical": {
-        "rsi": 43.1,
-        "ema9": 4.985730095326991e-06,
-        "ema21": 5.013261855806378e-06,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 1.09,
-        "score": 11
+        "rsi": 61.8,
+        "ema9": 5.063809496880908e-06,
+        "ema21": 5.039982026325693e-06,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 1.97,
+        "score": 94
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -34,
-      "combinedScore": 27,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment -34."
+      "marketSentiment": -30,
+      "combinedScore": 69,
+      "signal": "BUY",
+      "reason": "Technical 94/100; News +0; Market sentiment -30."
     },
     {
       "symbol": "DOGEUSDT",
       "coin": "DOGE",
-      "price": 0.0692,
-      "change24h": -3.027,
-      "volume24h": 31250582.13703,
+      "price": 0.06994,
+      "change24h": -1.797,
+      "volume24h": 38334622.13045,
       "technical": {
-        "rsi": 29.0,
-        "ema9": 0.06978742127295129,
-        "ema21": 0.0704276517371371,
-        "macdBull": false,
+        "rsi": 48.5,
+        "ema9": 0.06954618825797673,
+        "ema21": 0.06975315237558084,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 1.3,
-        "score": 11
+        "volumeRatio": 0.3,
+        "score": 47
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -34,
-      "combinedScore": 27,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment -34."
+      "marketSentiment": -30,
+      "combinedScore": 46,
+      "signal": "WAIT",
+      "reason": "Technical 47/100; News +0; Market sentiment -30."
     }
   ],
   "news": [
+    {
+      "title": "Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest",
+      "link": "https://cointelegraph.com/magazine/vitaliks-pivots-to-eth-as-a-store-of-value-us-election-weighs-on-crypto-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sun, 08 Nov 2026 22:59:06 +0000",
+      "source": "Cointelegraph",
+      "text": "Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest Vitalik Buterin wants Ethereum to embrace a store of value narrative, upsetting Bitcoin maxis. The crypto industry faces an uncertain future following the US elections."
+    },
     {
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -462,13 +476,6 @@
       "published": "Fri, 06 Nov 2026 13:23:08 +0000",
       "source": "Cointelegraph",
       "text": "Ethereum devs won’t fork Glamsterdam on Hoodi until smart contract risks resolved Ethereum developers are investigating concerns tied to eight smart contract invariants tied to Glamsterdam’s EIP-8037 and EIP-8038."
-    },
-    {
-      "title": "Solana’s Shanghai event halted over unauthorized promotion: Report",
-      "link": "https://cointelegraph.com/news/solana-shanghai-event-halted-unauthorized-promotion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 06 Nov 2026 12:15:28 +0000",
-      "source": "Cointelegraph",
-      "text": "Solana’s Shanghai event halted over unauthorized promotion: Report Solana’s promotional campaigns through domestic entities allegedly violated China’s crypto-related restrictions, an unidentified PBOC official told China’s Financial News."
     }
   ],
   "paper": {
@@ -634,42 +641,22 @@
         "mode": "PAPER ONLY"
       },
       {
-        "symbol": "SOLUSDT",
-        "side": "SELL",
-        "entry": 86.35,
-        "stopLoss": 87.64525,
-        "takeProfit": 83.7595,
-        "entryTime": "2026-11-08T22:53:28.238014+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
-        "symbol": "NEARUSDT",
-        "side": "SELL",
-        "entry": 3.551,
-        "stopLoss": 3.604265,
-        "takeProfit": 3.44447,
-        "entryTime": "2026-11-08T22:53:28.238014+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
-        "symbol": "PEPEUSDT",
-        "side": "SELL",
-        "entry": 4.96e-06,
-        "stopLoss": 5.0344e-06,
-        "takeProfit": 4.8112e-06,
-        "entryTime": "2026-11-08T22:53:28.238014+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
         "symbol": "DOGEUSDT",
         "side": "SELL",
         "entry": 0.0692,
         "stopLoss": 0.070238,
         "takeProfit": 0.067124,
         "entryTime": "2026-11-08T22:53:28.238014+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "PEPEUSDT",
+        "side": "BUY",
+        "entry": 5.14e-06,
+        "stopLoss": 5.0629e-06,
+        "takeProfit": 5.2942e-06,
+        "entryTime": "2026-11-09T02:10:22.568191+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       }
@@ -2260,6 +2247,45 @@
         "exitPrice": 1209.04,
         "exitTime": "2026-11-08T22:53:28.238014+00:00",
         "pnlPercent": -4.547
+      },
+      {
+        "symbol": "SOLUSDT",
+        "side": "SELL",
+        "entry": 86.35,
+        "stopLoss": 87.64525,
+        "takeProfit": 83.7595,
+        "entryTime": "2026-11-08T22:53:28.238014+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 88.02,
+        "exitTime": "2026-11-09T02:10:22.568191+00:00",
+        "pnlPercent": -1.934
+      },
+      {
+        "symbol": "NEARUSDT",
+        "side": "SELL",
+        "entry": 3.551,
+        "stopLoss": 3.604265,
+        "takeProfit": 3.44447,
+        "entryTime": "2026-11-08T22:53:28.238014+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 3.626,
+        "exitTime": "2026-11-09T02:10:22.568191+00:00",
+        "pnlPercent": -2.112
+      },
+      {
+        "symbol": "PEPEUSDT",
+        "side": "SELL",
+        "entry": 4.96e-06,
+        "stopLoss": 5.0344e-06,
+        "takeProfit": 4.8112e-06,
+        "entryTime": "2026-11-08T22:53:28.238014+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 5.14e-06,
+        "exitTime": "2026-11-09T02:10:22.568191+00:00",
+        "pnlPercent": -3.629
       }
     ]
   },
