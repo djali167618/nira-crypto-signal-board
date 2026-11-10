@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-10 10:27:21 UTC",
+  "generatedAt": "2026-11-10 18:04:13 UTC",
   "interval": "15m candles",
-  "marketSentiment": -21,
-  "overallNewsScore": 8,
+  "marketSentiment": -17,
+  "overallNewsScore": 17,
   "fearGreed": {
     "value": 32,
     "label": "Fear",
@@ -12,80 +12,87 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 74294.41,
-      "change24h": 0.006,
-      "volume24h": 889111271.2485554,
+      "price": 73252.0,
+      "change24h": -2.009,
+      "volume24h": 1174736346.0752482,
       "technical": {
-        "rsi": 40.7,
-        "ema9": 74531.64325468882,
-        "ema21": 74638.83038832652,
+        "rsi": 41.9,
+        "ema9": 73223.23194123313,
+        "ema21": 73554.02655211776,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.65,
+        "volumeRatio": 0.86,
         "score": 11
       },
-      "newsScore": -30,
+      "newsScore": -7,
       "newsCount": 5,
       "news": [
+        {
+          "title": "Bitcoin nears 11-week low after ‘discouraging’ US CPI inflation beat",
+          "link": "https://cointelegraph.com/markets/bitcoin-11-week-low-discouraging-us-cpi-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Tue, 10 Nov 2026 16:25:03 +0000",
+          "source": "Cointelegraph",
+          "text": "Bitcoin nears 11-week low after ‘discouraging’ US CPI inflation beat Bitcoin and US stocks initially fall after October inflation tops forecasts, with traders expecting a quarter-point Fed rate hike in December."
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Tue, 10 Nov 2026 13:34:37 +0000",
+          "source": "Cointelegraph",
+          "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+        },
+        {
+          "title": "Bitcoin’s ‘best buying opportunity ever’ has arrived: Mark Moss",
+          "link": "https://cointelegraph.com/magazine/bitcoins-best-buying-opportunity-ever-has-arrived-mark-moss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Tue, 10 Nov 2026 13:30:00 +0000",
+          "source": "Cointelegraph",
+          "text": "Bitcoin’s ‘best buying opportunity ever’ has arrived: Mark Moss Bitcoin Opportunity Fund co-founder Mark Moss says that with banks and ETFs widening access to Bitcoin he expects a new record high in 2027."
+        },
+        {
+          "title": "Bitcoin may benefit as global tightening slows, Binance Research says",
+          "link": "https://cointelegraph.com/markets/bitcoin-price-global-tightening-binance-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Tue, 10 Nov 2026 13:15:59 +0000",
+          "source": "Cointelegraph",
+          "text": "Bitcoin may benefit as global tightening slows, Binance Research says Binance Research says Bitcoin could find support as global monetary tightening slows, even as markets price in a December Fed rate hike."
+        },
         {
           "title": "Bitcoin price eyes $74K as Fed rate-hike bets hit 96% after Waller speech",
           "link": "https://cointelegraph.com/markets/bitcoin-price-eyes-74k-fed-rate-hike-expected-after-waller-speech?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "published": "Tue, 10 Nov 2026 10:08:22 +0000",
           "source": "Cointelegraph",
           "text": "Bitcoin price eyes $74K as Fed rate-hike bets hit 96% after Waller speech Bitcoin price action and stock futures trended lower after Fed governor Christopher Waller said that he would vote to raise interest rates by 0.25% at the December FOMC meeting."
-        },
-        {
-          "title": "BlackRock Bitcoin ETF outflows hit $1.66B over seven trading sessions",
-          "link": "https://cointelegraph.com/markets/blackrock-ibit-bitcoin-etf-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Tue, 10 Nov 2026 08:02:05 +0000",
-          "source": "Cointelegraph",
-          "text": "BlackRock Bitcoin ETF outflows hit $1.66B over seven trading sessions US spot Bitcoin ETFs shed $201 million Monday, with seven straight sessions of net withdrawals from BlackRock’s IBIT totaling $1.66 billion."
-        },
-        {
-          "title": "Here’s what happened in crypto today",
-          "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Tue, 10 Nov 2026 06:00:00 +0000",
-          "source": "Cointelegraph",
-          "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-        },
-        {
-          "title": "HIVE, MARA mine more Bitcoin but earn less as crypto prices fall",
-          "link": "https://cointelegraph.com/markets/hives-bitcoin-output-jumps-49-but-mining-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Tue, 10 Nov 2026 00:42:39 +0000",
-          "source": "Cointelegraph",
-          "text": "HIVE, MARA mine more Bitcoin but earn less as crypto prices fall Both miners reported higher Bitcoin production but lower mining revenue and rising electricity costs as they expanded their AI infrastructure businesses."
-        },
-        {
-          "title": "Mercado Bitcoin begins post-hack reopening without a timeline for withdrawals",
-          "link": "https://cointelegraph.com/news/mercado-bitcoin-reopening-withdrawals-hack-suspended?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Mon, 09 Nov 2026 18:25:29 +0000",
-          "source": "Cointelegraph",
-          "text": "Mercado Bitcoin begins post-hack reopening without a timeline for withdrawals Customers can view their pre-hack balances as access returns in phases. The exchange has yet to say when withdrawals will resume."
         }
       ],
-      "marketSentiment": -21,
-      "combinedScore": 24,
+      "marketSentiment": -17,
+      "combinedScore": 28,
       "signal": "SELL",
-      "reason": "Technical 11/100; News -30; Market sentiment -21."
+      "reason": "Technical 11/100; News -7; Market sentiment -17."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2092.73,
-      "change24h": -0.674,
-      "volume24h": 393967471.582512,
+      "price": 2028.13,
+      "change24h": -4.527,
+      "volume24h": 660869759.270674,
       "technical": {
-        "rsi": 34.9,
-        "ema9": 2107.0798304657947,
-        "ema21": 2112.816717183678,
+        "rsi": 36.3,
+        "ema9": 2029.6383536815847,
+        "ema21": 2047.2859390628205,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.66,
+        "volumeRatio": 0.4,
         "score": 11
       },
       "newsScore": 0,
-      "newsCount": 4,
+      "newsCount": 3,
       "news": [
+        {
+          "title": "Ex-employee sues Ethereum Foundation and Vitalik Buterin over firing",
+          "link": "https://cointelegraph.com/news/ex-employee-sues-ethereum-foundation-vitalik-buterin-over-firing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Tue, 10 Nov 2026 10:56:51 +0000",
+          "source": "Cointelegraph",
+          "text": "Ex-employee sues Ethereum Foundation and Vitalik Buterin over firing Kayleen Fulton alleges she was fired less than two weeks after disclosing a cancer diagnosis and helping organize a staff letter challenging a requirement to endorse the foundation’s new mandate."
+        },
         {
           "title": "PNC Bank tests turning USDC payments into dollar deposits",
           "link": "https://cointelegraph.com/news/pnc-bank-launches-usdc-payment-pilot-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -94,95 +101,58 @@
           "text": "PNC Bank tests turning USDC payments into dollar deposits The pilot lets eligible corporate and institutional clients accept USDC on Ethereum, with each token converted to one US dollar before deposit."
         },
         {
-          "title": "Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest",
-          "link": "https://cointelegraph.com/magazine/vitaliks-pivots-to-eth-as-a-store-of-value-us-election-weighs-on-crypto-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Sun, 08 Nov 2026 22:59:06 +0000",
-          "source": "Cointelegraph",
-          "text": "Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest Vitalik Buterin wants Ethereum to embrace a store of value narrative, upsetting Bitcoin maxis. The crypto industry faces an uncertain future following the US elections."
-        },
-        {
           "title": "An 11-year-old Ethereum wallet moved $4.6 million and dodged a scam set up in minutes",
           "link": "https://www.coindesk.com/tech/2026/11/10/an-11-year-old-ethereum-wallet-moved-usd4-6-million-and-dodged-a-scam-set-up-in-minutes",
           "published": "Tue, 10 Nov 2026 07:01:06 +0000",
           "source": "CoinDesk",
           "text": "An 11-year-old Ethereum wallet moved $4.6 million and dodged a scam set up in minutes Bots spotted a wallet from Ethereum’s 2015 launch the moment it stirred and planted lookalike addresses in its history, but the owner sent the money to the right place anyway."
-        },
-        {
-          "title": "Two rival Ethereum proposals aim to stop Glamsterdam breaking old contracts",
-          "link": "https://www.coindesk.com/tech/2026/11/09/two-rival-ethereum-proposals-aim-to-stop-glamsterdam-breaking-old-contracts",
-          "published": "Mon, 09 Nov 2026 05:16:54 +0000",
-          "source": "CoinDesk",
-          "text": "Two rival Ethereum proposals aim to stop Glamsterdam breaking old contracts The proposals aim to keep Ethereum’s planned gas changes from breaking existing contracts, using different approaches to what contracts see and what users pay."
         }
       ],
-      "marketSentiment": -21,
-      "combinedScore": 28,
+      "marketSentiment": -17,
+      "combinedScore": 29,
       "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment -21."
-    },
-    {
-      "symbol": "USD1USDT",
-      "coin": "USD1",
-      "price": 0.99952,
-      "change24h": 0.023,
-      "volume24h": 178448016.70762,
-      "technical": {
-        "rsi": 74.6,
-        "ema9": 0.9994271762634391,
-        "ema21": 0.9993128117389026,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.74,
-        "score": 72
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -21,
-      "combinedScore": 59,
-      "signal": "WAIT",
-      "reason": "Technical 72/100; News +0; Market sentiment -21."
+      "reason": "Technical 11/100; News +0; Market sentiment -17."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 1142.7,
-      "change24h": -5.52,
-      "volume24h": 161398197.35417,
+      "price": 1039.53,
+      "change24h": -11.175,
+      "volume24h": 247540277.96327,
       "technical": {
-        "rsi": 39.3,
-        "ema9": 1143.7748100316367,
-        "ema21": 1147.9541041671641,
+        "rsi": 30.0,
+        "ema9": 1052.9061113586854,
+        "ema21": 1089.4999538444656,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 1.68,
-        "score": 6
+        "volumeRatio": 0.7,
+        "score": 11
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -21,
-      "combinedScore": 26,
+      "marketSentiment": -17,
+      "combinedScore": 29,
       "signal": "SELL",
-      "reason": "Technical 6/100; News +0; Market sentiment -21."
+      "reason": "Technical 11/100; News +0; Market sentiment -17."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 85.14,
-      "change24h": -1.344,
-      "volume24h": 143782854.372,
+      "price": 82.28,
+      "change24h": -4.999,
+      "volume24h": 209702930.11817,
       "technical": {
-        "rsi": 37.3,
-        "ema9": 85.61122993407747,
-        "ema21": 85.82345815303364,
+        "rsi": 37.1,
+        "ema9": 82.4584496812503,
+        "ema21": 83.12785474662098,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 1.21,
+        "volumeRatio": 0.34,
         "score": 11
       },
-      "newsScore": 33,
-      "newsCount": 3,
+      "newsScore": 100,
+      "newsCount": 2,
       "news": [
         {
           "title": "Formation Securities plans Solana stock trading venue under SEC exemption",
@@ -197,38 +167,61 @@
           "published": "Mon, 09 Nov 2026 12:41:35 +0000",
           "source": "CoinDesk",
           "text": "Solana set for its first tokenized stock venue under SEC framework, listing Galaxy Formation Securities plans to launch in early 2027 with Galaxy, Exodus and Forward Industries shares, expanding the U.S. regulator's experiment in blockchain-based stock trading."
-        },
-        {
-          "title": "Solana moves to scrap the transaction feature used in the $270 million Drift hack",
-          "link": "https://www.coindesk.com/tech/2026/11/09/solana-moves-to-scrap-the-transaction-feature-used-in-the-usd270-million-drift-hack",
-          "published": "Mon, 09 Nov 2026 06:36:45 +0000",
-          "source": "CoinDesk",
-          "text": "Solana moves to scrap the transaction feature used in the $270 million Drift hack A draft proposal would end the 'durable nonces' feature no earlier than May 5, 2027, forcing custodians that sign offline to rebuild how they move coins."
         }
       ],
-      "marketSentiment": -21,
-      "combinedScore": 33,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +33; Market sentiment -21."
+      "marketSentiment": -17,
+      "combinedScore": 44,
+      "signal": "WAIT",
+      "reason": "Technical 11/100; News +100; Market sentiment -17."
+    },
+    {
+      "symbol": "USD1USDT",
+      "coin": "USD1",
+      "price": 0.99943,
+      "change24h": 0.06,
+      "volume24h": 194036690.12626,
+      "technical": {
+        "rsi": 63.3,
+        "ema9": 0.9992405892310048,
+        "ema21": 0.9992104399944347,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.31,
+        "score": 89
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -17,
+      "combinedScore": 68,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment -17."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 1.0803,
-      "change24h": -0.808,
-      "volume24h": 127231466.32926,
+      "price": 1.0521,
+      "change24h": -3.601,
+      "volume24h": 158646773.29066,
       "technical": {
-        "rsi": 36.3,
-        "ema9": 1.0882014902477195,
-        "ema21": 1.091800131920103,
-        "macdBull": false,
+        "rsi": 42.9,
+        "ema9": 1.0499176578806273,
+        "ema21": 1.0565776012985202,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 1.48,
-        "score": 11
+        "volumeRatio": 1.4,
+        "score": 35
       },
       "newsScore": 0,
-      "newsCount": 1,
+      "newsCount": 2,
       "news": [
+        {
+          "title": "Ripple Prime head Marc Asch to step down, Noel Kimmel named successor",
+          "link": "https://www.coindesk.com/business/2026/11/09/ripple-prime-head-marc-asch-to-step-down-noel-kimmel-named-successor",
+          "published": "Tue, 10 Nov 2026 12:38:20 +0000",
+          "source": "CoinDesk",
+          "text": "Ripple Prime head Marc Asch to step down, Noel Kimmel named successor Asch is stepping down as head of the institutional prime brokerage."
+        },
         {
           "title": "XRP Ledger maps out quantum-proof accounts, with no extra fees for users",
           "link": "https://www.coindesk.com/tech/2026/11/10/xrp-ledger-maps-out-quantum-proof-accounts-with-no-extra-fees-for-users",
@@ -237,120 +230,197 @@
           "text": "XRP Ledger maps out quantum-proof accounts, with no extra fees for users The XRP Ledger Foundation’s design lets owners add a quantum-resistant key and switch off the old one, part of a roadmap that puts the network on track for a full transition by 2028."
         }
       ],
-      "marketSentiment": -21,
-      "combinedScore": 28,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment -21."
+      "marketSentiment": -17,
+      "combinedScore": 41,
+      "signal": "WAIT",
+      "reason": "Technical 35/100; News +0; Market sentiment -17."
     },
     {
       "symbol": "RLUSDUSDT",
       "coin": "RLUSD",
-      "price": 1.0012,
-      "change24h": -0.01,
-      "volume24h": 84341841.2657,
+      "price": 1.001,
+      "change24h": 0.01,
+      "volume24h": 107921821.1299,
       "technical": {
-        "rsi": 47.4,
-        "ema9": 1.001237383343489,
-        "ema21": 1.0012383314691826,
+        "rsi": 36.3,
+        "ema9": 1.000875781016803,
+        "ema21": 1.0009657926730227,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.75,
-        "score": 23
+        "volumeRatio": 0.01,
+        "score": 11
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -21,
-      "combinedScore": 34,
+      "marketSentiment": -17,
+      "combinedScore": 29,
       "signal": "SELL",
-      "reason": "Technical 23/100; News +0; Market sentiment -21."
+      "reason": "Technical 11/100; News +0; Market sentiment -17."
     },
     {
       "symbol": "PEPEUSDT",
       "coin": "PEPE",
-      "price": 5.28e-06,
-      "change24h": 3.733,
-      "volume24h": 68072475.9313824,
+      "price": 5.27e-06,
+      "change24h": 0.19,
+      "volume24h": 93173912.76962946,
       "technical": {
-        "rsi": 52.4,
-        "ema9": 5.298807767219718e-06,
-        "ema21": 5.289125155645077e-06,
-        "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.59,
-        "score": 53
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -21,
-      "combinedScore": 49,
-      "signal": "WAIT",
-      "reason": "Technical 53/100; News +0; Market sentiment -21."
-    },
-    {
-      "symbol": "BNBUSDT",
-      "coin": "BNB",
-      "price": 688.41,
-      "change24h": 1.051,
-      "volume24h": 66864679.4986,
-      "technical": {
-        "rsi": 48.6,
-        "ema9": 690.0649997438425,
-        "ema21": 690.0976647855498,
+        "rsi": 49.4,
+        "ema9": 5.260758785327587e-06,
+        "ema21": 5.282421382146788e-06,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.56,
+        "volumeRatio": 0.28,
         "score": 23
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -21,
-      "combinedScore": 34,
+      "marketSentiment": -17,
+      "combinedScore": 35,
       "signal": "SELL",
-      "reason": "Technical 23/100; News +0; Market sentiment -21."
+      "reason": "Technical 23/100; News +0; Market sentiment -17."
     },
     {
-      "symbol": "AVAXUSDT",
-      "coin": "AVAX",
-      "price": 8.331,
-      "change24h": 3.995,
-      "volume24h": 62432191.40892,
+      "symbol": "BNBUSDT",
+      "coin": "BNB",
+      "price": 674.01,
+      "change24h": -1.887,
+      "volume24h": 86583524.29718,
       "technical": {
-        "rsi": 30.8,
-        "ema9": 8.431084839219423,
-        "ema21": 8.47944446398713,
+        "rsi": 36.8,
+        "ema9": 674.9722290731958,
+        "ema21": 679.0954217674217,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 1.67,
-        "score": 6
+        "volumeRatio": 0.37,
+        "score": 11
       },
-      "newsScore": 50,
-      "newsCount": 2,
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -17,
+      "combinedScore": 29,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment -17."
+    },
+    {
+      "symbol": "NEARUSDT",
+      "coin": "NEAR",
+      "price": 3.535,
+      "change24h": -1.45,
+      "volume24h": 82033239.6915,
+      "technical": {
+        "rsi": 42.2,
+        "ema9": 3.5355405320647817,
+        "ema21": 3.570414979420426,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.44,
+        "score": 11
+      },
+      "newsScore": -44,
+      "newsCount": 3,
       "news": [
         {
-          "title": "Avalanche’s AVAX leads crypto gains following NYSE tokenization deal",
-          "link": "https://cointelegraph.com/news/avalanche-avax-crypto-nyse-tokenization-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Mon, 09 Nov 2026 17:41:02 +0000",
+          "title": "North Korean hackers create memecoins to launder funds from Binance hack: Elliptic",
+          "link": "https://cointelegraph.com/news/north-korean-hackers-memecoins-launder-binance-hack-elliptic?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Mon, 09 Nov 2026 20:26:34 +0000",
           "source": "Cointelegraph",
-          "text": "Avalanche’s AVAX leads crypto gains following NYSE tokenization deal Avalanche’s AVAX token rose as much as 10% after the NYSE selected its blockchain to support settlement on a planned tokenized stock trading platform."
+          "text": "North Korean hackers create memecoins to launder funds from Binance hack: Elliptic The blockchain firm traced stolen funds through six new tokens on NEAR, where hackers used liquidity pools to obscure transfers between wallets."
         },
         {
-          "title": "NYSE picks Avalanche to settle tokenized stocks amid Wall Street's blockchain race",
-          "link": "https://www.coindesk.com/business/2026/11/09/nyse-picks-avalanche-to-settle-tokenized-stocks-amid-wall-street-s-blockchain-race",
-          "published": "Mon, 09 Nov 2026 13:40:06 +0000",
+          "title": "Bitcoin, tech stocks brush off Nvidia nerves as analyst mulls $68K target",
+          "link": "https://cointelegraph.com/markets/bitcoin-stocks-nvidia-analyst-68k-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Mon, 09 Nov 2026 17:13:25 +0000",
+          "source": "Cointelegraph",
+          "text": "Bitcoin, tech stocks brush off Nvidia nerves as analyst mulls $68K target Bitcoin rebounded from an 11-week low near $73,500 as the Nasdaq Composite rallied despite sell-off in Nvidia shares."
+        },
+        {
+          "title": "North Korean hackers are creating memecoins to wash loot from $6.3 billion Binance hack",
+          "link": "https://www.coindesk.com/business/2026/11/09/north-korean-hackers-are-creating-memecoins-to-wash-loot-from-usd6-3-billion-binance-hack",
+          "published": "Mon, 09 Nov 2026 15:00:44 +0000",
           "source": "CoinDesk",
-          "text": "NYSE picks Avalanche to settle tokenized stocks amid Wall Street's blockchain race Avalanche will serve as the core settlement ledger for the exchange's planned blockchain stock market"
+          "text": "North Korean hackers are creating memecoins to wash loot from $6.3 billion Binance hack North Korean hackers used six homemade memecoins to launder 117,000 NEAR, worth about $430,000, from the $6.3 billion Binance hack, Elliptic says."
         }
       ],
-      "marketSentiment": -21,
-      "combinedScore": 33,
+      "marketSentiment": -17,
+      "combinedScore": 22,
       "signal": "SELL",
-      "reason": "Technical 6/100; News +50; Market sentiment -21."
+      "reason": "Technical 11/100; News -44; Market sentiment -17."
     }
   ],
   "news": [
+    {
+      "title": "Hot US inflation raises odds of half-point Fed hike in December",
+      "link": "https://cointelegraph.com/news/hot-us-inflation-raises-rate-hike-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 10 Nov 2026 17:31:09 +0000",
+      "source": "Cointelegraph",
+      "text": "Hot US inflation raises odds of half-point Fed hike in December US inflation came in above forecasts in October, increasing expectations of a bigger rate hike in December and raising concerns for crypto investors."
+    },
+    {
+      "title": "Polymarket US trading volume jumps 266% despite regulatory battles",
+      "link": "https://cointelegraph.com/news/polymarket-us-trading-volume-jumps-regulatory-battles?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 10 Nov 2026 17:07:48 +0000",
+      "source": "Cointelegraph",
+      "text": "Polymarket US trading volume jumps 266% despite regulatory battles Trading volume on Polymarket’s US exchange surged from June to October, fueled by sports betting, even as the platform faces mounting regulatory scrutiny."
+    },
+    {
+      "title": "Bitcoin nears 11-week low after ‘discouraging’ US CPI inflation beat",
+      "link": "https://cointelegraph.com/markets/bitcoin-11-week-low-discouraging-us-cpi-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 10 Nov 2026 16:25:03 +0000",
+      "source": "Cointelegraph",
+      "text": "Bitcoin nears 11-week low after ‘discouraging’ US CPI inflation beat Bitcoin and US stocks initially fall after October inflation tops forecasts, with traders expecting a quarter-point Fed rate hike in December."
+    },
+    {
+      "title": "Poland’s lower house backs sanctions bill covering crypto freezes",
+      "link": "https://cointelegraph.com/news/poland-bill-freeze-sanctions-crypto-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 10 Nov 2026 13:40:39 +0000",
+      "source": "Cointelegraph",
+      "text": "Poland’s lower house backs sanctions bill covering crypto freezes The bill is now before the Senate and would broaden the grounds for adding people and companies to Poland’s national sanctions list."
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 10 Nov 2026 13:34:37 +0000",
+      "source": "Cointelegraph",
+      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "title": "Bitcoin’s ‘best buying opportunity ever’ has arrived: Mark Moss",
+      "link": "https://cointelegraph.com/magazine/bitcoins-best-buying-opportunity-ever-has-arrived-mark-moss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 10 Nov 2026 13:30:00 +0000",
+      "source": "Cointelegraph",
+      "text": "Bitcoin’s ‘best buying opportunity ever’ has arrived: Mark Moss Bitcoin Opportunity Fund co-founder Mark Moss says that with banks and ETFs widening access to Bitcoin he expects a new record high in 2027."
+    },
+    {
+      "title": "Bitcoin may benefit as global tightening slows, Binance Research says",
+      "link": "https://cointelegraph.com/markets/bitcoin-price-global-tightening-binance-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 10 Nov 2026 13:15:59 +0000",
+      "source": "Cointelegraph",
+      "text": "Bitcoin may benefit as global tightening slows, Binance Research says Binance Research says Bitcoin could find support as global monetary tightening slows, even as markets price in a December Fed rate hike."
+    },
+    {
+      "title": "Coinbase, Kalshi join lawsuit backing CFTC over US stock perp futures",
+      "link": "https://cointelegraph.com/news/coinbase-kalshi-cftc-stock-perpetual-futures-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 10 Nov 2026 11:44:55 +0000",
+      "source": "Cointelegraph",
+      "text": "Coinbase, Kalshi join lawsuit backing CFTC over US stock perp futures Coinbase, Kalshi and four other companies backed the CFTC in a lawsuit over whether US exchanges can list perpetual futures tied to individual stocks."
+    },
+    {
+      "title": "Binance warns iOS flaw could expose crypto wallet keys",
+      "link": "https://cointelegraph.com/news/binance-warns-ios-flaw-could-expose-crypto-wallet-keys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 10 Nov 2026 11:25:57 +0000",
+      "source": "Cointelegraph",
+      "text": "Binance warns iOS flaw could expose crypto wallet keys The exchange urged iPhone users to remove apps installed from untrusted sources, and it is unclear whether Apple’s latest iOS updates fix the flaw."
+    },
+    {
+      "title": "Ex-employee sues Ethereum Foundation and Vitalik Buterin over firing",
+      "link": "https://cointelegraph.com/news/ex-employee-sues-ethereum-foundation-vitalik-buterin-over-firing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 10 Nov 2026 10:56:51 +0000",
+      "source": "Cointelegraph",
+      "text": "Ex-employee sues Ethereum Foundation and Vitalik Buterin over firing Kayleen Fulton alleges she was fired less than two weeks after disclosing a cancer diagnosis and helping organize a staff letter challenging a requirement to endorse the foundation’s new mandate."
+    },
     {
       "title": "Bitcoin price eyes $74K as Fed rate-hike bets hit 96% after Waller speech",
       "link": "https://cointelegraph.com/markets/bitcoin-price-eyes-74k-fed-rate-hike-expected-after-waller-speech?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -378,13 +448,6 @@
       "published": "Tue, 10 Nov 2026 07:49:14 +0000",
       "source": "Cointelegraph",
       "text": "Securitize agrees to buy River One to expand into asset-backed lending Securitize agreed to buy River One to bring stablecoin funding to asset-backed lending and expects the deal to close in the fourth quarter of 2026."
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 10 Nov 2026 06:00:00 +0000",
-      "source": "Cointelegraph",
-      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
       "title": "Crypto exchanges need hard dollar caps on hot wallets, CertiK says",
@@ -427,69 +490,6 @@
       "published": "Mon, 09 Nov 2026 19:52:34 +0000",
       "source": "Cointelegraph",
       "text": "Formation Securities plans Solana stock trading venue under SEC exemption The proposed venue would offer 24/7 trading of tokenized shares from Galaxy Digital, Exodus and Forward Industries, with a launch planned for early 2027."
-    },
-    {
-      "title": "Mercado Bitcoin begins post-hack reopening without a timeline for withdrawals",
-      "link": "https://cointelegraph.com/news/mercado-bitcoin-reopening-withdrawals-hack-suspended?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 09 Nov 2026 18:25:29 +0000",
-      "source": "Cointelegraph",
-      "text": "Mercado Bitcoin begins post-hack reopening without a timeline for withdrawals Customers can view their pre-hack balances as access returns in phases. The exchange has yet to say when withdrawals will resume."
-    },
-    {
-      "title": "PNC Bank tests turning USDC payments into dollar deposits",
-      "link": "https://cointelegraph.com/news/pnc-bank-launches-usdc-payment-pilot-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 09 Nov 2026 17:48:35 +0000",
-      "source": "Cointelegraph",
-      "text": "PNC Bank tests turning USDC payments into dollar deposits The pilot lets eligible corporate and institutional clients accept USDC on Ethereum, with each token converted to one US dollar before deposit."
-    },
-    {
-      "title": "Avalanche’s AVAX leads crypto gains following NYSE tokenization deal",
-      "link": "https://cointelegraph.com/news/avalanche-avax-crypto-nyse-tokenization-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 09 Nov 2026 17:41:02 +0000",
-      "source": "Cointelegraph",
-      "text": "Avalanche’s AVAX leads crypto gains following NYSE tokenization deal Avalanche’s AVAX token rose as much as 10% after the NYSE selected its blockchain to support settlement on a planned tokenized stock trading platform."
-    },
-    {
-      "title": "Bitcoin, tech stocks brush off Nvidia nerves as analyst mulls $68K target",
-      "link": "https://cointelegraph.com/markets/bitcoin-stocks-nvidia-analyst-68k-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 09 Nov 2026 17:13:25 +0000",
-      "source": "Cointelegraph",
-      "text": "Bitcoin, tech stocks brush off Nvidia nerves as analyst mulls $68K target Bitcoin rebounded from an 11-week low near $73,500 as the Nasdaq Composite rallied despite sell-off in Nvidia shares."
-    },
-    {
-      "title": "Analysts see no broader ‘contagion’ from $6.3B Binance hack",
-      "link": "https://cointelegraph.com/markets/analysts-no-contagion-effect-63b-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 09 Nov 2026 13:52:46 +0000",
-      "source": "Cointelegraph",
-      "text": "Analysts see no broader ‘contagion’ from $6.3B Binance hack Binance’s pledge to cover all user losses helped contain the fallout from the $6.3 billion hack, analysts said."
-    },
-    {
-      "title": "The $2.85B Binance hackers lost shows why the UK needs stablecoin freeze rules",
-      "link": "https://cointelegraph.com/opinion/285b-binance-hackers-lost-shows-why-uk-needs-stablecoin-freeze-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 09 Nov 2026 13:30:00 +0000",
-      "source": "Cointelegraph",
-      "text": "The $2.85B Binance hackers lost shows why the UK needs stablecoin freeze rules The Binance hack proved stablecoin freezes work. Now the UK should make clear freeze rules a condition of listing coins."
-    },
-    {
-      "title": "Strategy buys 1,036 Bitcoin as BTC holdings climb to 850,364",
-      "link": "https://cointelegraph.com/news/strategy-buy-1036-bitcoin-holdings-850364-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 09 Nov 2026 13:29:47 +0000",
-      "source": "Cointelegraph",
-      "text": "Strategy buys 1,036 Bitcoin as BTC holdings climb to 850,364 Strategy bought $81.9 million in Bitcoin last week while spending $188.3 million repurchasing STRC preferred shares, according to its latest SEC filing."
-    },
-    {
-      "title": "EU taps industry to set standards for tokenized securities",
-      "link": "https://cointelegraph.com/news/eu-nominations-tokenization-standards-group?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 09 Nov 2026 12:27:06 +0000",
-      "source": "Cointelegraph",
-      "text": "EU taps industry to set standards for tokenized securities Applications close Nov. 27 for an industry group that aims to draft initial standards for holding and settling tokenized securities by early 2028."
-    },
-    {
-      "title": "Coinbase’s US national trust bank charter takes effect",
-      "link": "https://cointelegraph.com/news/coinbase-occ-approval-national-trust-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 09 Nov 2026 11:38:52 +0000",
-      "source": "Cointelegraph",
-      "text": "Coinbase’s US national trust bank charter takes effect Coinbase plans to expand its institutional crypto custody business under the federal charter and is exploring digital asset payment products."
     }
   ],
   "paper": {
@@ -615,16 +615,6 @@
         "mode": "PAPER ONLY"
       },
       {
-        "symbol": "BTCUSDT",
-        "side": "SELL",
-        "entry": 75978.01,
-        "stopLoss": 77117.68015,
-        "takeProfit": 73698.6697,
-        "entryTime": "2026-11-06T16:57:55.704110+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
         "symbol": "SOXLBUSDT",
         "side": "SELL",
         "entry": 46.01,
@@ -675,46 +665,6 @@
         "mode": "PAPER ONLY"
       },
       {
-        "symbol": "XRPUSDT",
-        "side": "SELL",
-        "entry": 1.0943,
-        "stopLoss": 1.1107145,
-        "takeProfit": 1.061471,
-        "entryTime": "2026-11-09T20:09:38.868700+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
-        "symbol": "ETHUSDT",
-        "side": "SELL",
-        "entry": 2118.78,
-        "stopLoss": 2150.5617,
-        "takeProfit": 2055.2166,
-        "entryTime": "2026-11-10T02:42:54.022096+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
-        "symbol": "ZECUSDT",
-        "side": "SELL",
-        "entry": 1156.59,
-        "stopLoss": 1173.93885,
-        "takeProfit": 1121.8923,
-        "entryTime": "2026-11-10T02:42:54.022096+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
-        "symbol": "SOLUSDT",
-        "side": "SELL",
-        "entry": 86.02,
-        "stopLoss": 87.3103,
-        "takeProfit": 83.4394,
-        "entryTime": "2026-11-10T02:42:54.022096+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
         "symbol": "NEARUSDT",
         "side": "SELL",
         "entry": 3.591,
@@ -731,6 +681,36 @@
         "stopLoss": 8.455965,
         "takeProfit": 8.08107,
         "entryTime": "2026-11-10T10:27:21.142110+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "BTCUSDT",
+        "side": "SELL",
+        "entry": 73252.0,
+        "stopLoss": 74350.78,
+        "takeProfit": 71054.44,
+        "entryTime": "2026-11-10T18:04:13.619954+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "ETHUSDT",
+        "side": "SELL",
+        "entry": 2028.13,
+        "stopLoss": 2058.55195,
+        "takeProfit": 1967.2861,
+        "entryTime": "2026-11-10T18:04:13.619954+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "ZECUSDT",
+        "side": "SELL",
+        "entry": 1039.53,
+        "stopLoss": 1055.12295,
+        "takeProfit": 1008.3441,
+        "entryTime": "2026-11-10T18:04:13.619954+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       }
@@ -2360,6 +2340,71 @@
         "exitPrice": 5.14e-06,
         "exitTime": "2026-11-09T02:10:22.568191+00:00",
         "pnlPercent": -3.629
+      },
+      {
+        "symbol": "BTCUSDT",
+        "side": "SELL",
+        "entry": 75978.01,
+        "stopLoss": 77117.68015,
+        "takeProfit": 73698.6697,
+        "entryTime": "2026-11-06T16:57:55.704110+00:00",
+        "status": "TAKE_PROFIT",
+        "mode": "PAPER ONLY",
+        "exitPrice": 73252.0,
+        "exitTime": "2026-11-10T18:04:13.619954+00:00",
+        "pnlPercent": 3.588
+      },
+      {
+        "symbol": "XRPUSDT",
+        "side": "SELL",
+        "entry": 1.0943,
+        "stopLoss": 1.1107145,
+        "takeProfit": 1.061471,
+        "entryTime": "2026-11-09T20:09:38.868700+00:00",
+        "status": "TAKE_PROFIT",
+        "mode": "PAPER ONLY",
+        "exitPrice": 1.0521,
+        "exitTime": "2026-11-10T18:04:13.619954+00:00",
+        "pnlPercent": 3.856
+      },
+      {
+        "symbol": "ETHUSDT",
+        "side": "SELL",
+        "entry": 2118.78,
+        "stopLoss": 2150.5617,
+        "takeProfit": 2055.2166,
+        "entryTime": "2026-11-10T02:42:54.022096+00:00",
+        "status": "TAKE_PROFIT",
+        "mode": "PAPER ONLY",
+        "exitPrice": 2028.13,
+        "exitTime": "2026-11-10T18:04:13.619954+00:00",
+        "pnlPercent": 4.278
+      },
+      {
+        "symbol": "ZECUSDT",
+        "side": "SELL",
+        "entry": 1156.59,
+        "stopLoss": 1173.93885,
+        "takeProfit": 1121.8923,
+        "entryTime": "2026-11-10T02:42:54.022096+00:00",
+        "status": "TAKE_PROFIT",
+        "mode": "PAPER ONLY",
+        "exitPrice": 1039.53,
+        "exitTime": "2026-11-10T18:04:13.619954+00:00",
+        "pnlPercent": 10.121
+      },
+      {
+        "symbol": "SOLUSDT",
+        "side": "SELL",
+        "entry": 86.02,
+        "stopLoss": 87.3103,
+        "takeProfit": 83.4394,
+        "entryTime": "2026-11-10T02:42:54.022096+00:00",
+        "status": "TAKE_PROFIT",
+        "mode": "PAPER ONLY",
+        "exitPrice": 82.28,
+        "exitTime": "2026-11-10T18:04:13.619954+00:00",
+        "pnlPercent": 4.348
       }
     ]
   },
