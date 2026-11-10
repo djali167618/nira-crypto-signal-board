@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-10 18:04:13 UTC",
+  "generatedAt": "2026-11-10 23:10:42 UTC",
   "interval": "15m candles",
-  "marketSentiment": -17,
-  "overallNewsScore": 17,
+  "marketSentiment": -20,
+  "overallNewsScore": 9,
   "fearGreed": {
     "value": 32,
     "label": "Fear",
@@ -12,34 +12,41 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 73252.0,
-      "change24h": -2.009,
-      "volume24h": 1174736346.0752482,
+      "price": 73557.72,
+      "change24h": -2.075,
+      "volume24h": 1217137819.124814,
       "technical": {
-        "rsi": 41.9,
-        "ema9": 73223.23194123313,
-        "ema21": 73554.02655211776,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.86,
-        "score": 11
+        "rsi": 50.0,
+        "ema9": 73751.72416550378,
+        "ema21": 73686.87188292354,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.56,
+        "score": 77
       },
-      "newsScore": -7,
+      "newsScore": -17,
       "newsCount": 5,
       "news": [
+        {
+          "title": "Here’s what happened in crypto today",
+          "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Tue, 10 Nov 2026 22:04:47 +0000",
+          "source": "Cointelegraph",
+          "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+        },
+        {
+          "title": "Mercado Bitcoin to resume cash withdrawals after $49M hack",
+          "link": "https://cointelegraph.com/news/pix-withdrawals-resume-mercado-bitcoin-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Tue, 10 Nov 2026 18:12:07 +0000",
+          "source": "Cointelegraph",
+          "text": "Mercado Bitcoin to resume cash withdrawals after $49M hack Starting next week, customers can deposit and withdraw money through Brazil’s instant payment system. Crypto transfers remain suspended."
+        },
         {
           "title": "Bitcoin nears 11-week low after ‘discouraging’ US CPI inflation beat",
           "link": "https://cointelegraph.com/markets/bitcoin-11-week-low-discouraging-us-cpi-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "published": "Tue, 10 Nov 2026 16:25:03 +0000",
           "source": "Cointelegraph",
           "text": "Bitcoin nears 11-week low after ‘discouraging’ US CPI inflation beat Bitcoin and US stocks initially fall after October inflation tops forecasts, with traders expecting a quarter-point Fed rate hike in December."
-        },
-        {
-          "title": "Here’s what happened in crypto today",
-          "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Tue, 10 Nov 2026 13:34:37 +0000",
-          "source": "Cointelegraph",
-          "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
         },
         {
           "title": "Bitcoin’s ‘best buying opportunity ever’ has arrived: Mark Moss",
@@ -54,34 +61,27 @@
           "published": "Tue, 10 Nov 2026 13:15:59 +0000",
           "source": "Cointelegraph",
           "text": "Bitcoin may benefit as global tightening slows, Binance Research says Binance Research says Bitcoin could find support as global monetary tightening slows, even as markets price in a December Fed rate hike."
-        },
-        {
-          "title": "Bitcoin price eyes $74K as Fed rate-hike bets hit 96% after Waller speech",
-          "link": "https://cointelegraph.com/markets/bitcoin-price-eyes-74k-fed-rate-hike-expected-after-waller-speech?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Tue, 10 Nov 2026 10:08:22 +0000",
-          "source": "Cointelegraph",
-          "text": "Bitcoin price eyes $74K as Fed rate-hike bets hit 96% after Waller speech Bitcoin price action and stock futures trended lower after Fed governor Christopher Waller said that he would vote to raise interest rates by 0.25% at the December FOMC meeting."
         }
       ],
-      "marketSentiment": -17,
-      "combinedScore": 28,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News -7; Market sentiment -17."
+      "marketSentiment": -20,
+      "combinedScore": 59,
+      "signal": "WAIT",
+      "reason": "Technical 77/100; News -17; Market sentiment -20."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2028.13,
-      "change24h": -4.527,
-      "volume24h": 660869759.270674,
+      "price": 2043.53,
+      "change24h": -4.077,
+      "volume24h": 691112236.22031,
       "technical": {
-        "rsi": 36.3,
-        "ema9": 2029.6383536815847,
-        "ema21": 2047.2859390628205,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.4,
-        "score": 11
+        "rsi": 46.5,
+        "ema9": 2052.6676529754495,
+        "ema21": 2051.1323967023177,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.58,
+        "score": 77
       },
       "newsScore": 0,
       "newsCount": 3,
@@ -108,48 +108,48 @@
           "text": "An 11-year-old Ethereum wallet moved $4.6 million and dodged a scam set up in minutes Bots spotted a wallet from Ethereum’s 2015 launch the moment it stirred and planted lookalike addresses in its history, but the owner sent the money to the right place anyway."
         }
       ],
-      "marketSentiment": -17,
-      "combinedScore": 29,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment -17."
+      "marketSentiment": -20,
+      "combinedScore": 62,
+      "signal": "WAIT",
+      "reason": "Technical 77/100; News +0; Market sentiment -20."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 1039.53,
-      "change24h": -11.175,
-      "volume24h": 247540277.96327,
+      "price": 1033.98,
+      "change24h": -10.813,
+      "volume24h": 252562718.74716,
       "technical": {
-        "rsi": 30.0,
-        "ema9": 1052.9061113586854,
-        "ema21": 1089.4999538444656,
-        "macdBull": false,
+        "rsi": 38.9,
+        "ema9": 1051.054923896515,
+        "ema21": 1054.5783068814026,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.7,
-        "score": 11
+        "volumeRatio": 0.62,
+        "score": 35
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -17,
-      "combinedScore": 29,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment -17."
+      "marketSentiment": -20,
+      "combinedScore": 40,
+      "signal": "WAIT",
+      "reason": "Technical 35/100; News +0; Market sentiment -20."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 82.28,
-      "change24h": -4.999,
-      "volume24h": 209702930.11817,
+      "price": 82.61,
+      "change24h": -4.574,
+      "volume24h": 205442526.34826,
       "technical": {
-        "rsi": 37.1,
-        "ema9": 82.4584496812503,
-        "ema21": 83.12785474662098,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.34,
-        "score": 11
+        "rsi": 44.0,
+        "ema9": 83.17985128458628,
+        "ema21": 83.16108350444946,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.67,
+        "score": 65
       },
       "newsScore": 100,
       "newsCount": 2,
@@ -169,48 +169,48 @@
           "text": "Solana set for its first tokenized stock venue under SEC framework, listing Galaxy Formation Securities plans to launch in early 2027 with Galaxy, Exodus and Forward Industries shares, expanding the U.S. regulator's experiment in blockchain-based stock trading."
         }
       ],
-      "marketSentiment": -17,
-      "combinedScore": 44,
-      "signal": "WAIT",
-      "reason": "Technical 11/100; News +100; Market sentiment -17."
+      "marketSentiment": -20,
+      "combinedScore": 70,
+      "signal": "BUY",
+      "reason": "Technical 65/100; News +100; Market sentiment -20."
     },
     {
       "symbol": "USD1USDT",
       "coin": "USD1",
-      "price": 0.99943,
-      "change24h": 0.06,
-      "volume24h": 194036690.12626,
+      "price": 0.99947,
+      "change24h": 0.083,
+      "volume24h": 192065612.13924,
       "technical": {
-        "rsi": 63.3,
-        "ema9": 0.9992405892310048,
-        "ema21": 0.9992104399944347,
+        "rsi": 59.9,
+        "ema9": 0.999400678030747,
+        "ema21": 0.999331227087173,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.31,
+        "volumeRatio": 0.42,
         "score": 89
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -17,
+      "marketSentiment": -20,
       "combinedScore": 68,
       "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment -17."
+      "reason": "Technical 89/100; News +0; Market sentiment -20."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 1.0521,
-      "change24h": -3.601,
-      "volume24h": 158646773.29066,
+      "price": 1.0518,
+      "change24h": -4.512,
+      "volume24h": 161072652.29981,
       "technical": {
-        "rsi": 42.9,
-        "ema9": 1.0499176578806273,
-        "ema21": 1.0565776012985202,
-        "macdBull": true,
+        "rsi": 44.2,
+        "ema9": 1.0606825530386486,
+        "ema21": 1.061220881072741,
+        "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 1.4,
-        "score": 35
+        "volumeRatio": 0.15,
+        "score": 11
       },
       "newsScore": 0,
       "newsCount": 2,
@@ -230,94 +230,71 @@
           "text": "XRP Ledger maps out quantum-proof accounts, with no extra fees for users The XRP Ledger Foundation’s design lets owners add a quantum-resistant key and switch off the old one, part of a roadmap that puts the network on track for a full transition by 2028."
         }
       ],
-      "marketSentiment": -17,
-      "combinedScore": 41,
-      "signal": "WAIT",
-      "reason": "Technical 35/100; News +0; Market sentiment -17."
+      "marketSentiment": -20,
+      "combinedScore": 28,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment -20."
     },
     {
       "symbol": "RLUSDUSDT",
       "coin": "RLUSD",
-      "price": 1.001,
-      "change24h": 0.01,
-      "volume24h": 107921821.1299,
+      "price": 1.0011,
+      "change24h": -0.01,
+      "volume24h": 99630890.9745,
       "technical": {
-        "rsi": 36.3,
-        "ema9": 1.000875781016803,
-        "ema21": 1.0009657926730227,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.01,
-        "score": 11
+        "rsi": 58.8,
+        "ema9": 1.0010871177045564,
+        "ema21": 1.0010510639299135,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.21,
+        "score": 89
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -17,
-      "combinedScore": 29,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment -17."
+      "marketSentiment": -20,
+      "combinedScore": 68,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment -20."
     },
     {
       "symbol": "PEPEUSDT",
       "coin": "PEPE",
-      "price": 5.27e-06,
-      "change24h": 0.19,
-      "volume24h": 93173912.76962946,
+      "price": 5.3e-06,
+      "change24h": 3.314,
+      "volume24h": 94051670.62072594,
       "technical": {
-        "rsi": 49.4,
-        "ema9": 5.260758785327587e-06,
-        "ema21": 5.282421382146788e-06,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.28,
-        "score": 23
+        "rsi": 52.7,
+        "ema9": 5.28284324015087e-06,
+        "ema21": 5.277478000569376e-06,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 1.01,
+        "score": 77
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -17,
-      "combinedScore": 35,
-      "signal": "SELL",
-      "reason": "Technical 23/100; News +0; Market sentiment -17."
-    },
-    {
-      "symbol": "BNBUSDT",
-      "coin": "BNB",
-      "price": 674.01,
-      "change24h": -1.887,
-      "volume24h": 86583524.29718,
-      "technical": {
-        "rsi": 36.8,
-        "ema9": 674.9722290731958,
-        "ema21": 679.0954217674217,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.37,
-        "score": 11
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -17,
-      "combinedScore": 29,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment -17."
+      "marketSentiment": -20,
+      "combinedScore": 62,
+      "signal": "WAIT",
+      "reason": "Technical 77/100; News +0; Market sentiment -20."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 3.535,
-      "change24h": -1.45,
-      "volume24h": 82033239.6915,
+      "price": 3.532,
+      "change24h": -2.269,
+      "volume24h": 84492067.6633,
       "technical": {
-        "rsi": 42.2,
-        "ema9": 3.5355405320647817,
-        "ema21": 3.570414979420426,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.44,
-        "score": 11
+        "rsi": 45.7,
+        "ema9": 3.57371853367141,
+        "ema21": 3.573664499704231,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.23,
+        "score": 77
       },
       "newsScore": -44,
       "newsCount": 3,
@@ -344,13 +321,78 @@
           "text": "North Korean hackers are creating memecoins to wash loot from $6.3 billion Binance hack North Korean hackers used six homemade memecoins to launder 117,000 NEAR, worth about $430,000, from the $6.3 billion Binance hack, Elliptic says."
         }
       ],
-      "marketSentiment": -17,
-      "combinedScore": 22,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News -44; Market sentiment -17."
+      "marketSentiment": -20,
+      "combinedScore": 55,
+      "signal": "WAIT",
+      "reason": "Technical 77/100; News -44; Market sentiment -20."
+    },
+    {
+      "symbol": "BNBUSDT",
+      "coin": "BNB",
+      "price": 676.45,
+      "change24h": -1.91,
+      "volume24h": 78096673.89243,
+      "technical": {
+        "rsi": 51.7,
+        "ema9": 677.6916786246896,
+        "ema21": 677.301820423201,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 1.63,
+        "score": 72
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -20,
+      "combinedScore": 59,
+      "signal": "WAIT",
+      "reason": "Technical 72/100; News +0; Market sentiment -20."
     }
   ],
   "news": [
+    {
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 10 Nov 2026 22:04:47 +0000",
+      "source": "Cointelegraph",
+      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "title": "Can crypto trust firms compete with banks in US derivatives settlements?",
+      "link": "https://cointelegraph.com/news/crypto-trust-firms-compete-banks-us-derivatives-settlements?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 10 Nov 2026 21:34:40 +0000",
+      "source": "Cointelegraph",
+      "text": "Can crypto trust firms compete with banks in US derivatives settlements? Crypto custodians are moving into a market handling billions in daily settlements, but regulatory relief and a shift in congressional control leave questions over their long-term role."
+    },
+    {
+      "title": "Across Protocol warns users to avoid app amid reports of drained wallets",
+      "link": "https://cointelegraph.com/news/across-protocol-warns-avoid-app-drained-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 10 Nov 2026 21:24:36 +0000",
+      "source": "Cointelegraph",
+      "text": "Across Protocol warns users to avoid app amid reports of drained wallets The protocol is investigating a potential security incident affecting its domain, while several users have reported losing funds after interacting with the platform."
+    },
+    {
+      "title": "Ava Labs exec says NYSE deal marks end of blockchain’s ‘general purpose era’",
+      "link": "https://cointelegraph.com/interview/ava-labs-nyse-general-purpose-chains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 10 Nov 2026 21:07:44 +0000",
+      "source": "Cointelegraph",
+      "text": "Ava Labs exec says NYSE deal marks end of blockchain’s ‘general purpose era’ Ava Labs’ John Nahas said the collaboration with the NYSE shows institutions moving past pilots toward purpose-built onchain market infrastructure."
+    },
+    {
+      "title": "Kimber Digital Securities gains broker-dealer status for tokenized assets",
+      "link": "https://cointelegraph.com/news/kimber-digital-securities-broker-dealer-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 10 Nov 2026 20:26:02 +0000",
+      "source": "Cointelegraph",
+      "text": "Kimber Digital Securities gains broker-dealer status for tokenized assets The Plume affiliate plans to offer tokenized US stocks, ETFs and bonds through self-custodial wallets, with traditional shareholder rights preserved."
+    },
+    {
+      "title": "Mercado Bitcoin to resume cash withdrawals after $49M hack",
+      "link": "https://cointelegraph.com/news/pix-withdrawals-resume-mercado-bitcoin-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 10 Nov 2026 18:12:07 +0000",
+      "source": "Cointelegraph",
+      "text": "Mercado Bitcoin to resume cash withdrawals after $49M hack Starting next week, customers can deposit and withdraw money through Brazil’s instant payment system. Crypto transfers remain suspended."
+    },
     {
       "title": "Hot US inflation raises odds of half-point Fed hike in December",
       "link": "https://cointelegraph.com/news/hot-us-inflation-raises-rate-hike-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -378,13 +420,6 @@
       "published": "Tue, 10 Nov 2026 13:40:39 +0000",
       "source": "Cointelegraph",
       "text": "Poland’s lower house backs sanctions bill covering crypto freezes The bill is now before the Senate and would broaden the grounds for adding people and companies to Poland’s national sanctions list."
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 10 Nov 2026 13:34:37 +0000",
-      "source": "Cointelegraph",
-      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
       "title": "Bitcoin’s ‘best buying opportunity ever’ has arrived: Mark Moss",
@@ -455,41 +490,6 @@
       "published": "Tue, 10 Nov 2026 05:05:58 +0000",
       "source": "Cointelegraph",
       "text": "Crypto exchanges need hard dollar caps on hot wallets, CertiK says “Cold storage is a useful measure of online exposure, but it is not a standalone security score,” the cybersecurity firm told Cointelegraph."
-    },
-    {
-      "title": "OpenAI builds kill switch to stop rogue agents within 35 seconds",
-      "link": "https://cointelegraph.com/news/openai-builds-kill-switch-stop-rogue-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 10 Nov 2026 03:04:54 +0000",
-      "source": "Cointelegraph",
-      "text": "OpenAI builds kill switch to stop rogue agents within 35 seconds Control Room cuts off model output for internal research jobs when people or automated monitors flag safety or security concerns."
-    },
-    {
-      "title": "HIVE, MARA mine more Bitcoin but earn less as crypto prices fall",
-      "link": "https://cointelegraph.com/markets/hives-bitcoin-output-jumps-49-but-mining-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 10 Nov 2026 00:42:39 +0000",
-      "source": "Cointelegraph",
-      "text": "HIVE, MARA mine more Bitcoin but earn less as crypto prices fall Both miners reported higher Bitcoin production but lower mining revenue and rising electricity costs as they expanded their AI infrastructure businesses."
-    },
-    {
-      "title": "Should you leave Australia to avoid paying 47% tax on crypto gains?",
-      "link": "https://cointelegraph.com/magazine/should-you-leave-australia-to-avoid-47-tax-on-crypto-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 09 Nov 2026 21:00:00 +0000",
-      "source": "Cointelegraph",
-      "text": "Should you leave Australia to avoid paying 47% tax on crypto gains? Some Australian crypto investors are moving overseas to avoid the huge CGT increase from July 2027. But there are also less drastic ways you can pay less tax."
-    },
-    {
-      "title": "North Korean hackers create memecoins to launder funds from Binance hack: Elliptic",
-      "link": "https://cointelegraph.com/news/north-korean-hackers-memecoins-launder-binance-hack-elliptic?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 09 Nov 2026 20:26:34 +0000",
-      "source": "Cointelegraph",
-      "text": "North Korean hackers create memecoins to launder funds from Binance hack: Elliptic The blockchain firm traced stolen funds through six new tokens on NEAR, where hackers used liquidity pools to obscure transfers between wallets."
-    },
-    {
-      "title": "Formation Securities plans Solana stock trading venue under SEC exemption",
-      "link": "https://cointelegraph.com/news/formation-securities-solana-stock-trading-venue-sec-exemption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 09 Nov 2026 19:52:34 +0000",
-      "source": "Cointelegraph",
-      "text": "Formation Securities plans Solana stock trading venue under SEC exemption The proposed venue would offer 24/7 trading of tokenized shares from Galaxy Digital, Exodus and Forward Industries, with a launch planned for early 2027."
     }
   ],
   "paper": {
@@ -655,16 +655,6 @@
         "mode": "PAPER ONLY"
       },
       {
-        "symbol": "PEPEUSDT",
-        "side": "BUY",
-        "entry": 5.14e-06,
-        "stopLoss": 5.0629e-06,
-        "takeProfit": 5.2942e-06,
-        "entryTime": "2026-11-09T02:10:22.568191+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
         "symbol": "NEARUSDT",
         "side": "SELL",
         "entry": 3.591,
@@ -711,6 +701,26 @@
         "stopLoss": 1055.12295,
         "takeProfit": 1008.3441,
         "entryTime": "2026-11-10T18:04:13.619954+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "SOLUSDT",
+        "side": "BUY",
+        "entry": 82.61,
+        "stopLoss": 81.37085,
+        "takeProfit": 85.0883,
+        "entryTime": "2026-11-10T23:10:42.513766+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "XRPUSDT",
+        "side": "SELL",
+        "entry": 1.0518,
+        "stopLoss": 1.067577,
+        "takeProfit": 1.020246,
+        "entryTime": "2026-11-10T23:10:42.513766+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       }
@@ -2405,6 +2415,19 @@
         "exitPrice": 82.28,
         "exitTime": "2026-11-10T18:04:13.619954+00:00",
         "pnlPercent": 4.348
+      },
+      {
+        "symbol": "PEPEUSDT",
+        "side": "BUY",
+        "entry": 5.14e-06,
+        "stopLoss": 5.0629e-06,
+        "takeProfit": 5.2942e-06,
+        "entryTime": "2026-11-09T02:10:22.568191+00:00",
+        "status": "TAKE_PROFIT",
+        "mode": "PAPER ONLY",
+        "exitPrice": 5.3e-06,
+        "exitTime": "2026-11-10T23:10:42.513766+00:00",
+        "pnlPercent": 3.113
       }
     ]
   },
