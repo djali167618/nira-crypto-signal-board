@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-09 20:09:38 UTC",
+  "generatedAt": "2026-11-10 02:42:54 UTC",
   "interval": "15m candles",
-  "marketSentiment": -27,
+  "marketSentiment": -23,
   "overallNewsScore": 0,
   "fearGreed": {
-    "value": 29,
+    "value": 32,
     "label": "Fear",
     "source": "Alternative.me"
   },
@@ -12,21 +12,35 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 74916.01,
-      "change24h": -1.275,
-      "volume24h": 1459810814.4052055,
+      "price": 74824.79,
+      "change24h": -0.789,
+      "volume24h": 1121115838.5585065,
       "technical": {
-        "rsi": 52.5,
-        "ema9": 74787.96506660015,
-        "ema21": 74789.13101561781,
+        "rsi": 44.3,
+        "ema9": 75054.98653002628,
+        "ema21": 75063.94224230431,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.7,
-        "score": 23
+        "volumeRatio": 0.79,
+        "score": 11
       },
       "newsScore": -10,
       "newsCount": 5,
       "news": [
+        {
+          "title": "HIVE, MARA mine more Bitcoin but earn less as crypto prices fall",
+          "link": "https://cointelegraph.com/markets/hives-bitcoin-output-jumps-49-but-mining-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Tue, 10 Nov 2026 00:42:39 +0000",
+          "source": "Cointelegraph",
+          "text": "HIVE, MARA mine more Bitcoin but earn less as crypto prices fall Both miners reported higher Bitcoin production but lower mining revenue and rising electricity costs as they expanded their AI infrastructure businesses."
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Mon, 09 Nov 2026 22:06:26 +0000",
+          "source": "Cointelegraph",
+          "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+        },
         {
           "title": "Mercado Bitcoin begins post-hack reopening without a timeline for withdrawals",
           "link": "https://cointelegraph.com/news/mercado-bitcoin-reopening-withdrawals-hack-suspended?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -42,46 +56,32 @@
           "text": "Bitcoin, tech stocks brush off Nvidia nerves as analyst mulls $68K target Bitcoin rebounded from an 11-week low near $73,500 as the Nasdaq Composite rallied despite sell-off in Nvidia shares."
         },
         {
-          "title": "Here’s what happened in crypto today",
-          "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Mon, 09 Nov 2026 13:36:56 +0000",
-          "source": "Cointelegraph",
-          "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-        },
-        {
           "title": "Strategy buys 1,036 Bitcoin as BTC holdings climb to 850,364",
           "link": "https://cointelegraph.com/news/strategy-buy-1036-bitcoin-holdings-850364-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "published": "Mon, 09 Nov 2026 13:29:47 +0000",
           "source": "Cointelegraph",
           "text": "Strategy buys 1,036 Bitcoin as BTC holdings climb to 850,364 Strategy bought $81.9 million in Bitcoin last week while spending $188.3 million repurchasing STRC preferred shares, according to its latest SEC filing."
-        },
-        {
-          "title": "BTC price eyes $73K amid Nvidia volatility: Three things to know in Bitcoin this week",
-          "link": "https://cointelegraph.com/markets/btc-price-nvidia-volatility-three-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Mon, 09 Nov 2026 10:03:40 +0000",
-          "source": "Cointelegraph",
-          "text": "BTC price eyes $73K amid Nvidia volatility: Three things to know in Bitcoin this week Bitcoin price action fell to its lowest levels since mid-August as Nvidia reports added to sell-side pressure across stock-market futures."
         }
       ],
-      "marketSentiment": -27,
-      "combinedScore": 32,
+      "marketSentiment": -23,
+      "combinedScore": 27,
       "signal": "SELL",
-      "reason": "Technical 23/100; News -10; Market sentiment -27."
+      "reason": "Technical 11/100; News -10; Market sentiment -23."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2128.87,
-      "change24h": -4.471,
-      "volume24h": 922450859.798964,
+      "price": 2118.78,
+      "change24h": -1.673,
+      "volume24h": 569251059.823115,
       "technical": {
-        "rsi": 51.9,
-        "ema9": 2127.1698622909603,
-        "ema21": 2126.540531513884,
+        "rsi": 42.5,
+        "ema9": 2126.5173991838706,
+        "ema21": 2128.210804836876,
         "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.83,
-        "score": 53
+        "emaBull": false,
+        "volumeRatio": 0.76,
+        "score": 11
       },
       "newsScore": -33,
       "newsCount": 3,
@@ -108,25 +108,71 @@
           "text": "Two rival Ethereum proposals aim to stop Glamsterdam breaking old contracts The proposals aim to keep Ethereum’s planned gas changes from breaking existing contracts, using different approaches to what contracts see and what users pay."
         }
       ],
-      "marketSentiment": -27,
-      "combinedScore": 44,
-      "signal": "WAIT",
-      "reason": "Technical 53/100; News -33; Market sentiment -27."
+      "marketSentiment": -23,
+      "combinedScore": 23,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News -33; Market sentiment -23."
+    },
+    {
+      "symbol": "USD1USDT",
+      "coin": "USD1",
+      "price": 0.99898,
+      "change24h": 0.038,
+      "volume24h": 214637581.70717,
+      "technical": {
+        "rsi": 62.5,
+        "ema9": 0.9989359506780701,
+        "ema21": 0.9988670046607792,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.78,
+        "score": 89
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -23,
+      "combinedScore": 67,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment -23."
+    },
+    {
+      "symbol": "ZECUSDT",
+      "coin": "ZEC",
+      "price": 1156.59,
+      "change24h": -6.562,
+      "volume24h": 196175273.77031,
+      "technical": {
+        "rsi": 37.1,
+        "ema9": 1164.2274437917315,
+        "ema21": 1168.4345614152928,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 1.78,
+        "score": 6
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -23,
+      "combinedScore": 26,
+      "signal": "SELL",
+      "reason": "Technical 6/100; News +0; Market sentiment -23."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 86.61,
-      "change24h": -3.153,
-      "volume24h": 237248768.39208,
+      "price": 86.02,
+      "change24h": -2.45,
+      "volume24h": 167609241.07899,
       "technical": {
-        "rsi": 47.3,
-        "ema9": 86.60392878961683,
-        "ema21": 86.69453168380278,
+        "rsi": 38.9,
+        "ema9": 86.36333798633797,
+        "ema21": 86.49668437137369,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.83,
-        "score": 23
+        "volumeRatio": 0.87,
+        "score": 11
       },
       "newsScore": 33,
       "newsCount": 3,
@@ -153,144 +199,128 @@
           "text": "Solana moves to scrap the transaction feature used in the $270 million Drift hack A draft proposal would end the 'durable nonces' feature no earlier than May 5, 2027, forcing custodians that sign offline to rebuild how they move coins."
         }
       ],
-      "marketSentiment": -27,
-      "combinedScore": 39,
-      "signal": "WAIT",
-      "reason": "Technical 23/100; News +33; Market sentiment -27."
-    },
-    {
-      "symbol": "USD1USDT",
-      "coin": "USD1",
-      "price": 0.99886,
-      "change24h": -0.015,
-      "volume24h": 234159142.33654,
-      "technical": {
-        "rsi": 42.4,
-        "ema9": 0.9988569929752715,
-        "ema21": 0.9989129376481837,
-        "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 1.0,
-        "score": 35
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -27,
-      "combinedScore": 40,
-      "signal": "WAIT",
-      "reason": "Technical 35/100; News +0; Market sentiment -27."
-    },
-    {
-      "symbol": "ZECUSDT",
-      "coin": "ZEC",
-      "price": 1174.87,
-      "change24h": -6.488,
-      "volume24h": 227160467.49382,
-      "technical": {
-        "rsi": 41.5,
-        "ema9": 1175.3783492425105,
-        "ema21": 1184.5288854598173,
-        "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.54,
-        "score": 35
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -27,
-      "combinedScore": 40,
-      "signal": "WAIT",
-      "reason": "Technical 35/100; News +0; Market sentiment -27."
+      "marketSentiment": -23,
+      "combinedScore": 33,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +33; Market sentiment -23."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 1.0943,
-      "change24h": -5.075,
-      "volume24h": 204891234.50877,
+      "price": 1.0913,
+      "change24h": -2.528,
+      "volume24h": 150911447.53914,
       "technical": {
-        "rsi": 48.5,
-        "ema9": 1.0940552846362859,
-        "ema21": 1.095366576169622,
+        "rsi": 43.9,
+        "ema9": 1.099517106563301,
+        "ema21": 1.0991816754901735,
         "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.81,
-        "score": 23
+        "emaBull": true,
+        "volumeRatio": 0.65,
+        "score": 41
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -27,
-      "combinedScore": 34,
-      "signal": "SELL",
-      "reason": "Technical 23/100; News +0; Market sentiment -27."
+      "marketSentiment": -23,
+      "combinedScore": 43,
+      "signal": "WAIT",
+      "reason": "Technical 41/100; News +0; Market sentiment -23."
     },
     {
       "symbol": "BNBUSDT",
       "coin": "BNB",
-      "price": 688.67,
-      "change24h": -1.314,
-      "volume24h": 107013822.62562,
+      "price": 688.95,
+      "change24h": -0.233,
+      "volume24h": 76766677.31732,
       "technical": {
-        "rsi": 54.5,
-        "ema9": 687.5872941611972,
-        "ema21": 687.120906568656,
+        "rsi": 46.6,
+        "ema9": 690.3124966485608,
+        "ema21": 690.1257457136453,
         "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 0.69,
+        "volumeRatio": 0.7,
         "score": 53
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -27,
+      "marketSentiment": -23,
       "combinedScore": 49,
       "signal": "WAIT",
-      "reason": "Technical 53/100; News +0; Market sentiment -27."
+      "reason": "Technical 53/100; News +0; Market sentiment -23."
     },
     {
       "symbol": "PEPEUSDT",
       "coin": "PEPE",
-      "price": 5.11e-06,
-      "change24h": 0.789,
-      "volume24h": 88180443.86921993,
+      "price": 5.14e-06,
+      "change24h": 1.181,
+      "volume24h": 70962007.37319481,
       "technical": {
-        "rsi": 42.7,
-        "ema9": 5.161889207650753e-06,
-        "ema21": 5.1796284918286935e-06,
-        "macdBull": false,
+        "rsi": 50.2,
+        "ema9": 5.13481797797642e-06,
+        "ema21": 5.136904821937472e-06,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.32,
-        "score": 11
+        "volumeRatio": 1.1,
+        "score": 47
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -27,
-      "combinedScore": 28,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment -27."
+      "marketSentiment": -23,
+      "combinedScore": 46,
+      "signal": "WAIT",
+      "reason": "Technical 47/100; News +0; Market sentiment -23."
+    },
+    {
+      "symbol": "RLUSDUSDT",
+      "coin": "RLUSD",
+      "price": 1.0012,
+      "change24h": -0.01,
+      "volume24h": 60819947.1264,
+      "technical": {
+        "rsi": 59.4,
+        "ema9": 1.0011438084911823,
+        "ema21": 1.0011114691616192,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.48,
+        "score": 89
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -23,
+      "combinedScore": 67,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment -23."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 3.615,
-      "change24h": -0.386,
-      "volume24h": 77294412.7247,
+      "price": 3.591,
+      "change24h": -1.346,
+      "volume24h": 59427076.3917,
       "technical": {
-        "rsi": 53.4,
-        "ema9": 3.613687408257633,
-        "ema21": 3.60224584039816,
+        "rsi": 41.1,
+        "ema9": 3.6191542993329495,
+        "ema21": 3.6234014663423793,
         "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.74,
-        "score": 53
+        "emaBull": false,
+        "volumeRatio": 0.6,
+        "score": 11
       },
-      "newsScore": -50,
-      "newsCount": 2,
+      "newsScore": -44,
+      "newsCount": 3,
       "news": [
+        {
+          "title": "North Korean hackers create memecoins to launder funds from Binance hack: Elliptic",
+          "link": "https://cointelegraph.com/news/north-korean-hackers-memecoins-launder-binance-hack-elliptic?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Mon, 09 Nov 2026 20:26:34 +0000",
+          "source": "Cointelegraph",
+          "text": "North Korean hackers create memecoins to launder funds from Binance hack: Elliptic The blockchain firm traced stolen funds through six new tokens on NEAR, where hackers used liquidity pools to obscure transfers between wallets."
+        },
         {
           "title": "Bitcoin, tech stocks brush off Nvidia nerves as analyst mulls $68K target",
           "link": "https://cointelegraph.com/markets/bitcoin-stocks-nvidia-analyst-68k-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -306,36 +336,41 @@
           "text": "North Korean hackers are creating memecoins to wash loot from $6.3 billion Binance hack North Korean hackers used six homemade memecoins to launder 117,000 NEAR, worth about $430,000, from the $6.3 billion Binance hack, Elliptic says."
         }
       ],
-      "marketSentiment": -27,
-      "combinedScore": 41,
-      "signal": "WAIT",
-      "reason": "Technical 53/100; News -50; Market sentiment -27."
-    },
-    {
-      "symbol": "DOGEUSDT",
-      "coin": "DOGE",
-      "price": 0.07001,
-      "change24h": -1.644,
-      "volume24h": 53560933.99597,
-      "technical": {
-        "rsi": 53.2,
-        "ema9": 0.06999371148295086,
-        "ema21": 0.06993405891320936,
-        "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.55,
-        "score": 53
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -27,
-      "combinedScore": 49,
-      "signal": "WAIT",
-      "reason": "Technical 53/100; News +0; Market sentiment -27."
+      "marketSentiment": -23,
+      "combinedScore": 22,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News -44; Market sentiment -23."
     }
   ],
   "news": [
+    {
+      "title": "HIVE, MARA mine more Bitcoin but earn less as crypto prices fall",
+      "link": "https://cointelegraph.com/markets/hives-bitcoin-output-jumps-49-but-mining-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 10 Nov 2026 00:42:39 +0000",
+      "source": "Cointelegraph",
+      "text": "HIVE, MARA mine more Bitcoin but earn less as crypto prices fall Both miners reported higher Bitcoin production but lower mining revenue and rising electricity costs as they expanded their AI infrastructure businesses."
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 09 Nov 2026 22:06:26 +0000",
+      "source": "Cointelegraph",
+      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "title": "Should you leave Australia to avoid paying 47% tax on crypto gains?",
+      "link": "https://cointelegraph.com/magazine/should-you-leave-australia-to-avoid-47-tax-on-crypto-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 09 Nov 2026 21:00:00 +0000",
+      "source": "Cointelegraph",
+      "text": "Should you leave Australia to avoid paying 47% tax on crypto gains? Some Australian crypto investors are moving overseas to avoid the huge CGT increase from July 2027. But there are also less drastic ways you can pay less tax."
+    },
+    {
+      "title": "North Korean hackers create memecoins to launder funds from Binance hack: Elliptic",
+      "link": "https://cointelegraph.com/news/north-korean-hackers-memecoins-launder-binance-hack-elliptic?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 09 Nov 2026 20:26:34 +0000",
+      "source": "Cointelegraph",
+      "text": "North Korean hackers create memecoins to launder funds from Binance hack: Elliptic The blockchain firm traced stolen funds through six new tokens on NEAR, where hackers used liquidity pools to obscure transfers between wallets."
+    },
     {
       "title": "Formation Securities plans Solana stock trading venue under SEC exemption",
       "link": "https://cointelegraph.com/news/formation-securities-solana-stock-trading-venue-sec-exemption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -377,13 +412,6 @@
       "published": "Mon, 09 Nov 2026 13:52:46 +0000",
       "source": "Cointelegraph",
       "text": "Analysts see no broader ‘contagion’ from $6.3B Binance hack Binance’s pledge to cover all user losses helped contain the fallout from the $6.3 billion hack, analysts said."
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 09 Nov 2026 13:36:56 +0000",
-      "source": "Cointelegraph",
-      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
       "title": "The $2.85B Binance hackers lost shows why the UK needs stablecoin freeze rules",
@@ -454,27 +482,6 @@
       "published": "Mon, 09 Nov 2026 04:03:08 +0000",
       "source": "Cointelegraph",
       "text": "tBTC bridge partially resumes as $120M Aave reserve remains frozen Threshold halted its tBTC bridge on Oct. 30 as operators addressed a critical Linux kernel vulnerability that could allow attackers to execute code on unpatched servers."
-    },
-    {
-      "title": "Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest",
-      "link": "https://cointelegraph.com/magazine/vitaliks-pivots-to-eth-as-a-store-of-value-us-election-weighs-on-crypto-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 08 Nov 2026 22:59:06 +0000",
-      "source": "Cointelegraph",
-      "text": "Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest Vitalik Buterin wants Ethereum to embrace a store of value narrative, upsetting Bitcoin maxis. The crypto industry faces an uncertain future following the US elections."
-    },
-    {
-      "title": "Binance France emails announce closure of its users’ accounts on Dec. 31",
-      "link": "https://cointelegraph.com/news/binance-france-emails-announce-closure-of-its-users-accounts-on-dec-31?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 08 Nov 2026 12:57:51 +0000",
-      "source": "Cointelegraph",
-      "text": "Binance France emails announce closure of its users’ accounts on Dec. 31 Any assets left on the exchange will be charged monthly fees starting on Nov. 29, company says."
-    },
-    {
-      "title": "Amsterdam protesters break into Microsoft data center construction site: Report",
-      "link": "https://cointelegraph.com/news/amsterdam-data-center-protesters-break-into-construction-site-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 08 Nov 2026 09:48:48 +0000",
-      "source": "Cointelegraph",
-      "text": "Amsterdam protesters break into Microsoft data center construction site: Report Dutch police said they detained 150-200 people for trespassing during the protest."
     }
   ],
   "paper": {
@@ -666,6 +673,46 @@
         "stopLoss": 1.1107145,
         "takeProfit": 1.061471,
         "entryTime": "2026-11-09T20:09:38.868700+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "ETHUSDT",
+        "side": "SELL",
+        "entry": 2118.78,
+        "stopLoss": 2150.5617,
+        "takeProfit": 2055.2166,
+        "entryTime": "2026-11-10T02:42:54.022096+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "ZECUSDT",
+        "side": "SELL",
+        "entry": 1156.59,
+        "stopLoss": 1173.93885,
+        "takeProfit": 1121.8923,
+        "entryTime": "2026-11-10T02:42:54.022096+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "SOLUSDT",
+        "side": "SELL",
+        "entry": 86.02,
+        "stopLoss": 87.3103,
+        "takeProfit": 83.4394,
+        "entryTime": "2026-11-10T02:42:54.022096+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "NEARUSDT",
+        "side": "SELL",
+        "entry": 3.591,
+        "stopLoss": 3.644865,
+        "takeProfit": 3.48327,
+        "entryTime": "2026-11-10T02:42:54.022096+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       }

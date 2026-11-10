@@ -189,6 +189,46 @@
       "entryTime": "2026-11-09T20:09:38.868700+00:00",
       "status": "OPEN",
       "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "ETHUSDT",
+      "side": "SELL",
+      "entry": 2118.78,
+      "stopLoss": 2150.5617,
+      "takeProfit": 2055.2166,
+      "entryTime": "2026-11-10T02:42:54.022096+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "ZECUSDT",
+      "side": "SELL",
+      "entry": 1156.59,
+      "stopLoss": 1173.93885,
+      "takeProfit": 1121.8923,
+      "entryTime": "2026-11-10T02:42:54.022096+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "SOLUSDT",
+      "side": "SELL",
+      "entry": 86.02,
+      "stopLoss": 87.3103,
+      "takeProfit": 83.4394,
+      "entryTime": "2026-11-10T02:42:54.022096+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "NEARUSDT",
+      "side": "SELL",
+      "entry": 3.591,
+      "stopLoss": 3.644865,
+      "takeProfit": 3.48327,
+      "entryTime": "2026-11-10T02:42:54.022096+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
     }
   ],
   "closed": [
