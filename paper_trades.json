@@ -229,6 +229,16 @@
       "entryTime": "2026-11-10T02:42:54.022096+00:00",
       "status": "OPEN",
       "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "AVAXUSDT",
+      "side": "SELL",
+      "entry": 8.331,
+      "stopLoss": 8.455965,
+      "takeProfit": 8.08107,
+      "entryTime": "2026-11-10T10:27:21.142110+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
     }
   ],
   "closed": [
