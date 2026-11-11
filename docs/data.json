@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-10 23:10:42 UTC",
+  "generatedAt": "2026-11-11 02:45:59 UTC",
   "interval": "15m candles",
-  "marketSentiment": -20,
-  "overallNewsScore": 9,
+  "marketSentiment": -27,
+  "overallNewsScore": 0,
   "fearGreed": {
-    "value": 32,
+    "value": 29,
     "label": "Fear",
     "source": "Alternative.me"
   },
@@ -12,21 +12,28 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 73557.72,
-      "change24h": -2.075,
-      "volume24h": 1217137819.124814,
+      "price": 73762.0,
+      "change24h": -1.47,
+      "volume24h": 1289845809.375997,
       "technical": {
-        "rsi": 50.0,
-        "ema9": 73751.72416550378,
-        "ema21": 73686.87188292354,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.56,
-        "score": 77
+        "rsi": 52.5,
+        "ema9": 73605.47301322309,
+        "ema21": 73635.7850980915,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.99,
+        "score": 23
       },
       "newsScore": -17,
       "newsCount": 5,
       "news": [
+        {
+          "title": "LNbits rushes emergency patch after reported Bitcoin wallet thefts",
+          "link": "https://cointelegraph.com/news/lnbits-rushes-emergency-patch-after-reported-bitcoin-wallet-thefts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Wed, 11 Nov 2026 01:16:58 +0000",
+          "source": "Cointelegraph",
+          "text": "LNbits rushes emergency patch after reported Bitcoin wallet thefts The project warned that installations running older versions were vulnerable and urged operators to replace potentially exposed credentials even after upgrading."
+        },
         {
           "title": "Here’s what happened in crypto today",
           "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -54,34 +61,27 @@
           "published": "Tue, 10 Nov 2026 13:30:00 +0000",
           "source": "Cointelegraph",
           "text": "Bitcoin’s ‘best buying opportunity ever’ has arrived: Mark Moss Bitcoin Opportunity Fund co-founder Mark Moss says that with banks and ETFs widening access to Bitcoin he expects a new record high in 2027."
-        },
-        {
-          "title": "Bitcoin may benefit as global tightening slows, Binance Research says",
-          "link": "https://cointelegraph.com/markets/bitcoin-price-global-tightening-binance-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Tue, 10 Nov 2026 13:15:59 +0000",
-          "source": "Cointelegraph",
-          "text": "Bitcoin may benefit as global tightening slows, Binance Research says Binance Research says Bitcoin could find support as global monetary tightening slows, even as markets price in a December Fed rate hike."
         }
       ],
-      "marketSentiment": -20,
-      "combinedScore": 59,
-      "signal": "WAIT",
-      "reason": "Technical 77/100; News -17; Market sentiment -20."
+      "marketSentiment": -27,
+      "combinedScore": 31,
+      "signal": "SELL",
+      "reason": "Technical 23/100; News -17; Market sentiment -27."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2043.53,
-      "change24h": -4.077,
-      "volume24h": 691112236.22031,
+      "price": 2062.34,
+      "change24h": -2.738,
+      "volume24h": 708571946.139864,
       "technical": {
-        "rsi": 46.5,
-        "ema9": 2052.6676529754495,
-        "ema21": 2051.1323967023177,
+        "rsi": 58.0,
+        "ema9": 2054.901723438523,
+        "ema21": 2053.268154670606,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.58,
-        "score": 77
+        "volumeRatio": 0.86,
+        "score": 89
       },
       "newsScore": 0,
       "newsCount": 3,
@@ -108,48 +108,48 @@
           "text": "An 11-year-old Ethereum wallet moved $4.6 million and dodged a scam set up in minutes Bots spotted a wallet from Ethereum’s 2015 launch the moment it stirred and planted lookalike addresses in its history, but the owner sent the money to the right place anyway."
         }
       ],
-      "marketSentiment": -20,
-      "combinedScore": 62,
-      "signal": "WAIT",
-      "reason": "Technical 77/100; News +0; Market sentiment -20."
+      "marketSentiment": -27,
+      "combinedScore": 67,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment -27."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 1033.98,
-      "change24h": -10.813,
-      "volume24h": 252562718.74716,
+      "price": 1032.53,
+      "change24h": -10.81,
+      "volume24h": 255962012.35072,
       "technical": {
-        "rsi": 38.9,
-        "ema9": 1051.054923896515,
-        "ema21": 1054.5783068814026,
-        "macdBull": true,
+        "rsi": 44.3,
+        "ema9": 1027.7087337654348,
+        "ema21": 1036.0111666583819,
+        "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.62,
-        "score": 35
+        "volumeRatio": 1.52,
+        "score": 16
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -20,
-      "combinedScore": 40,
-      "signal": "WAIT",
-      "reason": "Technical 35/100; News +0; Market sentiment -20."
+      "marketSentiment": -27,
+      "combinedScore": 30,
+      "signal": "SELL",
+      "reason": "Technical 16/100; News +0; Market sentiment -27."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 82.61,
-      "change24h": -4.574,
-      "volume24h": 205442526.34826,
+      "price": 83.56,
+      "change24h": -2.939,
+      "volume24h": 211692885.27468,
       "technical": {
-        "rsi": 44.0,
-        "ema9": 83.17985128458628,
-        "ema21": 83.16108350444946,
+        "rsi": 54.9,
+        "ema9": 83.31913510206596,
+        "ema21": 83.27204795746552,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.67,
-        "score": 65
+        "volumeRatio": 0.69,
+        "score": 77
       },
       "newsScore": 100,
       "newsCount": 2,
@@ -169,48 +169,48 @@
           "text": "Solana set for its first tokenized stock venue under SEC framework, listing Galaxy Formation Securities plans to launch in early 2027 with Galaxy, Exodus and Forward Industries shares, expanding the U.S. regulator's experiment in blockchain-based stock trading."
         }
       ],
-      "marketSentiment": -20,
-      "combinedScore": 70,
+      "marketSentiment": -27,
+      "combinedScore": 76,
       "signal": "BUY",
-      "reason": "Technical 65/100; News +100; Market sentiment -20."
+      "reason": "Technical 77/100; News +100; Market sentiment -27."
     },
     {
       "symbol": "USD1USDT",
       "coin": "USD1",
-      "price": 0.99947,
-      "change24h": 0.083,
-      "volume24h": 192065612.13924,
+      "price": 0.99937,
+      "change24h": 0.037,
+      "volume24h": 173703889.61004,
       "technical": {
-        "rsi": 59.9,
-        "ema9": 0.999400678030747,
-        "ema21": 0.999331227087173,
-        "macdBull": true,
+        "rsi": 46.6,
+        "ema9": 0.9994029078863901,
+        "ema21": 0.9994012871802437,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 0.42,
-        "score": 89
+        "volumeRatio": 1.15,
+        "score": 53
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -20,
-      "combinedScore": 68,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment -20."
+      "marketSentiment": -27,
+      "combinedScore": 49,
+      "signal": "WAIT",
+      "reason": "Technical 53/100; News +0; Market sentiment -27."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 1.0518,
-      "change24h": -4.512,
-      "volume24h": 161072652.29981,
+      "price": 1.0603,
+      "change24h": -3.151,
+      "volume24h": 164978833.63836,
       "technical": {
-        "rsi": 44.2,
-        "ema9": 1.0606825530386486,
-        "ema21": 1.061220881072741,
-        "macdBull": false,
+        "rsi": 54.0,
+        "ema9": 1.0548614950358848,
+        "ema21": 1.0561201862383331,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.15,
-        "score": 11
+        "volumeRatio": 1.52,
+        "score": 52
       },
       "newsScore": 0,
       "newsCount": 2,
@@ -230,74 +230,74 @@
           "text": "XRP Ledger maps out quantum-proof accounts, with no extra fees for users The XRP Ledger Foundation’s design lets owners add a quantum-resistant key and switch off the old one, part of a roadmap that puts the network on track for a full transition by 2028."
         }
       ],
-      "marketSentiment": -20,
-      "combinedScore": 28,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment -20."
+      "marketSentiment": -27,
+      "combinedScore": 48,
+      "signal": "WAIT",
+      "reason": "Technical 52/100; News +0; Market sentiment -27."
     },
     {
-      "symbol": "RLUSDUSDT",
-      "coin": "RLUSD",
-      "price": 1.0011,
-      "change24h": -0.01,
-      "volume24h": 99630890.9745,
+      "symbol": "PEPEUSDT",
+      "coin": "PEPE",
+      "price": 5.47e-06,
+      "change24h": 6.42,
+      "volume24h": 99473438.36809082,
       "technical": {
-        "rsi": 58.8,
-        "ema9": 1.0010871177045564,
-        "ema21": 1.0010510639299135,
+        "rsi": 61.8,
+        "ema9": 5.434582131442325e-06,
+        "ema21": 5.391554625071123e-06,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.21,
+        "volumeRatio": 0.7,
         "score": 89
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -20,
-      "combinedScore": 68,
+      "marketSentiment": -27,
+      "combinedScore": 67,
       "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment -20."
+      "reason": "Technical 89/100; News +0; Market sentiment -27."
     },
     {
-      "symbol": "PEPEUSDT",
-      "coin": "PEPE",
-      "price": 5.3e-06,
-      "change24h": 3.314,
-      "volume24h": 94051670.62072594,
+      "symbol": "RLUSDUSDT",
+      "coin": "RLUSD",
+      "price": 1.0013,
+      "change24h": 0.0,
+      "volume24h": 97452042.3579,
       "technical": {
-        "rsi": 52.7,
-        "ema9": 5.28284324015087e-06,
-        "ema21": 5.277478000569376e-06,
+        "rsi": 55.4,
+        "ema9": 1.0011849560829758,
+        "ema21": 1.0011494526053946,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 1.01,
-        "score": 77
+        "volumeRatio": 3.51,
+        "score": 94
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -20,
-      "combinedScore": 62,
-      "signal": "WAIT",
-      "reason": "Technical 77/100; News +0; Market sentiment -20."
+      "marketSentiment": -27,
+      "combinedScore": 69,
+      "signal": "BUY",
+      "reason": "Technical 94/100; News +0; Market sentiment -27."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 3.532,
-      "change24h": -2.269,
-      "volume24h": 84492067.6633,
+      "price": 3.698,
+      "change24h": 3.008,
+      "volume24h": 90403849.1783,
       "technical": {
-        "rsi": 45.7,
-        "ema9": 3.57371853367141,
-        "ema21": 3.573664499704231,
+        "rsi": 63.0,
+        "ema9": 3.6502786912392966,
+        "ema21": 3.6245001064953515,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.23,
-        "score": 77
+        "volumeRatio": 0.94,
+        "score": 89
       },
-      "newsScore": -44,
-      "newsCount": 3,
+      "newsScore": -66,
+      "newsCount": 2,
       "news": [
         {
           "title": "North Korean hackers create memecoins to launder funds from Binance hack: Elliptic",
@@ -307,13 +307,6 @@
           "text": "North Korean hackers create memecoins to launder funds from Binance hack: Elliptic The blockchain firm traced stolen funds through six new tokens on NEAR, where hackers used liquidity pools to obscure transfers between wallets."
         },
         {
-          "title": "Bitcoin, tech stocks brush off Nvidia nerves as analyst mulls $68K target",
-          "link": "https://cointelegraph.com/markets/bitcoin-stocks-nvidia-analyst-68k-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Mon, 09 Nov 2026 17:13:25 +0000",
-          "source": "Cointelegraph",
-          "text": "Bitcoin, tech stocks brush off Nvidia nerves as analyst mulls $68K target Bitcoin rebounded from an 11-week low near $73,500 as the Nasdaq Composite rallied despite sell-off in Nvidia shares."
-        },
-        {
           "title": "North Korean hackers are creating memecoins to wash loot from $6.3 billion Binance hack",
           "link": "https://www.coindesk.com/business/2026/11/09/north-korean-hackers-are-creating-memecoins-to-wash-loot-from-usd6-3-billion-binance-hack",
           "published": "Mon, 09 Nov 2026 15:00:44 +0000",
@@ -321,36 +314,57 @@
           "text": "North Korean hackers are creating memecoins to wash loot from $6.3 billion Binance hack North Korean hackers used six homemade memecoins to launder 117,000 NEAR, worth about $430,000, from the $6.3 billion Binance hack, Elliptic says."
         }
       ],
-      "marketSentiment": -20,
-      "combinedScore": 55,
+      "marketSentiment": -27,
+      "combinedScore": 57,
       "signal": "WAIT",
-      "reason": "Technical 77/100; News -44; Market sentiment -20."
+      "reason": "Technical 89/100; News -66; Market sentiment -27."
     },
     {
       "symbol": "BNBUSDT",
       "coin": "BNB",
-      "price": 676.45,
-      "change24h": -1.91,
-      "volume24h": 78096673.89243,
+      "price": 682.85,
+      "change24h": -0.908,
+      "volume24h": 79114379.80974,
       "technical": {
-        "rsi": 51.7,
-        "ema9": 677.6916786246896,
-        "ema21": 677.301820423201,
+        "rsi": 59.5,
+        "ema9": 680.7673841223357,
+        "ema21": 679.817436687468,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 1.63,
-        "score": 72
+        "volumeRatio": 0.92,
+        "score": 89
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -20,
-      "combinedScore": 59,
-      "signal": "WAIT",
-      "reason": "Technical 72/100; News +0; Market sentiment -20."
+      "marketSentiment": -27,
+      "combinedScore": 67,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment -27."
     }
   ],
   "news": [
+    {
+      "title": "LNbits rushes emergency patch after reported Bitcoin wallet thefts",
+      "link": "https://cointelegraph.com/news/lnbits-rushes-emergency-patch-after-reported-bitcoin-wallet-thefts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 11 Nov 2026 01:16:58 +0000",
+      "source": "Cointelegraph",
+      "text": "LNbits rushes emergency patch after reported Bitcoin wallet thefts The project warned that installations running older versions were vulnerable and urged operators to replace potentially exposed credentials even after upgrading."
+    },
+    {
+      "title": "CFTC warns Kalshi of imminent charges over notification of contracts: Politico",
+      "link": "https://cointelegraph.com/news/cftc-warns-kalshi-imminent-charges-over-contracts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 10 Nov 2026 23:49:51 +0000",
+      "source": "Cointelegraph",
+      "text": "CFTC warns Kalshi of imminent charges over notification of contracts: Politico The prediction markets operator says the issue involves procedural errors affecting a handful of contracts, many of which weren’t live, according to Politico."
+    },
+    {
+      "title": "Global banks commit $270M to stablecoin venture targeting 2027 launch",
+      "link": "https://cointelegraph.com/news/banks-270m-project-faro-stablecoin-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 10 Nov 2026 23:08:28 +0000",
+      "source": "Cointelegraph",
+      "text": "Global banks commit $270M to stablecoin venture targeting 2027 launch Project Faro, backed by Goldman Sachs, Citigroup and BBVA, has secured $270 million in funding to launch a US dollar stablecoin in the first half of 2027."
+    },
     {
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -469,27 +483,6 @@
       "published": "Tue, 10 Nov 2026 09:05:16 +0000",
       "source": "Cointelegraph",
       "text": "BitGo Q3 profit nearly doubles on crypto gains as revenue falls 51% BitGo’s $71 million unrealized gain on its crypto holdings helped nearly double its net income, but revenue and earnings came in below preliminary analyst expectations."
-    },
-    {
-      "title": "BlackRock Bitcoin ETF outflows hit $1.66B over seven trading sessions",
-      "link": "https://cointelegraph.com/markets/blackrock-ibit-bitcoin-etf-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 10 Nov 2026 08:02:05 +0000",
-      "source": "Cointelegraph",
-      "text": "BlackRock Bitcoin ETF outflows hit $1.66B over seven trading sessions US spot Bitcoin ETFs shed $201 million Monday, with seven straight sessions of net withdrawals from BlackRock’s IBIT totaling $1.66 billion."
-    },
-    {
-      "title": "Securitize agrees to buy River One to expand into asset-backed lending",
-      "link": "https://cointelegraph.com/news/securitize-river-one-asset-backed-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 10 Nov 2026 07:49:14 +0000",
-      "source": "Cointelegraph",
-      "text": "Securitize agrees to buy River One to expand into asset-backed lending Securitize agreed to buy River One to bring stablecoin funding to asset-backed lending and expects the deal to close in the fourth quarter of 2026."
-    },
-    {
-      "title": "Crypto exchanges need hard dollar caps on hot wallets, CertiK says",
-      "link": "https://cointelegraph.com/news/crypto-exchanges-need-dollar-caps-on-hot-wallets-certik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 10 Nov 2026 05:05:58 +0000",
-      "source": "Cointelegraph",
-      "text": "Crypto exchanges need hard dollar caps on hot wallets, CertiK says “Cold storage is a useful measure of online exposure, but it is not a standalone security score,” the cybersecurity firm told Cointelegraph."
     }
   ],
   "paper": {
@@ -655,16 +648,6 @@
         "mode": "PAPER ONLY"
       },
       {
-        "symbol": "NEARUSDT",
-        "side": "SELL",
-        "entry": 3.591,
-        "stopLoss": 3.644865,
-        "takeProfit": 3.48327,
-        "entryTime": "2026-11-10T02:42:54.022096+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
         "symbol": "AVAXUSDT",
         "side": "SELL",
         "entry": 8.331,
@@ -680,16 +663,6 @@
         "entry": 73252.0,
         "stopLoss": 74350.78,
         "takeProfit": 71054.44,
-        "entryTime": "2026-11-10T18:04:13.619954+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
-        "symbol": "ETHUSDT",
-        "side": "SELL",
-        "entry": 2028.13,
-        "stopLoss": 2058.55195,
-        "takeProfit": 1967.2861,
         "entryTime": "2026-11-10T18:04:13.619954+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
@@ -721,6 +694,26 @@
         "stopLoss": 1.067577,
         "takeProfit": 1.020246,
         "entryTime": "2026-11-10T23:10:42.513766+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "ETHUSDT",
+        "side": "BUY",
+        "entry": 2062.34,
+        "stopLoss": 2031.4049,
+        "takeProfit": 2124.2102,
+        "entryTime": "2026-11-11T02:45:59.405156+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "PEPEUSDT",
+        "side": "BUY",
+        "entry": 5.47e-06,
+        "stopLoss": 5.3879e-06,
+        "takeProfit": 5.6341e-06,
+        "entryTime": "2026-11-11T02:45:59.405156+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       }
@@ -2428,6 +2421,32 @@
         "exitPrice": 5.3e-06,
         "exitTime": "2026-11-10T23:10:42.513766+00:00",
         "pnlPercent": 3.113
+      },
+      {
+        "symbol": "NEARUSDT",
+        "side": "SELL",
+        "entry": 3.591,
+        "stopLoss": 3.644865,
+        "takeProfit": 3.48327,
+        "entryTime": "2026-11-10T02:42:54.022096+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 3.698,
+        "exitTime": "2026-11-11T02:45:59.405156+00:00",
+        "pnlPercent": -2.98
+      },
+      {
+        "symbol": "ETHUSDT",
+        "side": "SELL",
+        "entry": 2028.13,
+        "stopLoss": 2058.55195,
+        "takeProfit": 1967.2861,
+        "entryTime": "2026-11-10T18:04:13.619954+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 2062.34,
+        "exitTime": "2026-11-11T02:45:59.405156+00:00",
+        "pnlPercent": -1.687
       }
     ]
   },

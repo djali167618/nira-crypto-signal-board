@@ -161,16 +161,6 @@
       "mode": "PAPER ONLY"
     },
     {
-      "symbol": "NEARUSDT",
-      "side": "SELL",
-      "entry": 3.591,
-      "stopLoss": 3.644865,
-      "takeProfit": 3.48327,
-      "entryTime": "2026-11-10T02:42:54.022096+00:00",
-      "status": "OPEN",
-      "mode": "PAPER ONLY"
-    },
-    {
       "symbol": "AVAXUSDT",
       "side": "SELL",
       "entry": 8.331,
@@ -186,16 +176,6 @@
       "entry": 73252.0,
       "stopLoss": 74350.78,
       "takeProfit": 71054.44,
-      "entryTime": "2026-11-10T18:04:13.619954+00:00",
-      "status": "OPEN",
-      "mode": "PAPER ONLY"
-    },
-    {
-      "symbol": "ETHUSDT",
-      "side": "SELL",
-      "entry": 2028.13,
-      "stopLoss": 2058.55195,
-      "takeProfit": 1967.2861,
       "entryTime": "2026-11-10T18:04:13.619954+00:00",
       "status": "OPEN",
       "mode": "PAPER ONLY"
@@ -227,6 +207,26 @@
       "stopLoss": 1.067577,
       "takeProfit": 1.020246,
       "entryTime": "2026-11-10T23:10:42.513766+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "ETHUSDT",
+      "side": "BUY",
+      "entry": 2062.34,
+      "stopLoss": 2031.4049,
+      "takeProfit": 2124.2102,
+      "entryTime": "2026-11-11T02:45:59.405156+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "PEPEUSDT",
+      "side": "BUY",
+      "entry": 5.47e-06,
+      "stopLoss": 5.3879e-06,
+      "takeProfit": 5.6341e-06,
+      "entryTime": "2026-11-11T02:45:59.405156+00:00",
       "status": "OPEN",
       "mode": "PAPER ONLY"
     }
@@ -1934,6 +1934,32 @@
       "exitPrice": 5.3e-06,
       "exitTime": "2026-11-10T23:10:42.513766+00:00",
       "pnlPercent": 3.113
+    },
+    {
+      "symbol": "NEARUSDT",
+      "side": "SELL",
+      "entry": 3.591,
+      "stopLoss": 3.644865,
+      "takeProfit": 3.48327,
+      "entryTime": "2026-11-10T02:42:54.022096+00:00",
+      "status": "STOP_LOSS",
+      "mode": "PAPER ONLY",
+      "exitPrice": 3.698,
+      "exitTime": "2026-11-11T02:45:59.405156+00:00",
+      "pnlPercent": -2.98
+    },
+    {
+      "symbol": "ETHUSDT",
+      "side": "SELL",
+      "entry": 2028.13,
+      "stopLoss": 2058.55195,
+      "takeProfit": 1967.2861,
+      "entryTime": "2026-11-10T18:04:13.619954+00:00",
+      "status": "STOP_LOSS",
+      "mode": "PAPER ONLY",
+      "exitPrice": 2062.34,
+      "exitTime": "2026-11-11T02:45:59.405156+00:00",
+      "pnlPercent": -1.687
     }
   ]
 }
