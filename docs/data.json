@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-12 04:12:52 UTC",
+  "generatedAt": "2026-11-12 12:43:13 UTC",
   "interval": "15m candles",
-  "marketSentiment": -43,
-  "overallNewsScore": -40,
+  "marketSentiment": -40,
+  "overallNewsScore": -33,
   "fearGreed": {
     "value": 28,
     "label": "Fear",
@@ -12,25 +12,32 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 73836.3,
-      "change24h": 0.084,
-      "volume24h": 1107115027.796914,
+      "price": 72860.01,
+      "change24h": -1.482,
+      "volume24h": 953711153.44294,
       "technical": {
-        "rsi": 45.0,
-        "ema9": 73819.95597303378,
-        "ema21": 73910.02128394715,
-        "macdBull": true,
+        "rsi": 29.0,
+        "ema9": 73149.05679945996,
+        "ema21": 73335.48919666883,
+        "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.35,
-        "score": 47
+        "volumeRatio": 1.75,
+        "score": 6
       },
-      "newsScore": -20,
+      "newsScore": -30,
       "newsCount": 5,
       "news": [
         {
+          "title": "BlackRock Bitcoin ETF outflows hit $2B over nine sessions",
+          "link": "https://cointelegraph.com/markets/blackrock-bitcoin-etf-ibit-outflows-nine-day-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Thu, 12 Nov 2026 08:06:48 +0000",
+          "source": "Cointelegraph",
+          "text": "BlackRock Bitcoin ETF outflows hit $2B over nine sessions US spot Bitcoin ETF outflows rose to nearly $300 million on Wednesday, up from $95 million a day earlier, as five-session withdrawals reached $1.44 billion."
+        },
+        {
           "title": "Here’s what happened in crypto today",
           "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Wed, 11 Nov 2026 22:15:26 +0000",
+          "published": "Thu, 12 Nov 2026 06:00:00 +0000",
           "source": "Cointelegraph",
           "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
         },
@@ -54,38 +61,38 @@
           "published": "Wed, 11 Nov 2026 14:02:18 +0000",
           "source": "Cointelegraph",
           "text": "Deutsche Bank launches crypto custody for companies and institutions Clients can store and transfer Bitcoin, Ether and select stablecoins through the bank, which manages their wallets and private keys."
-        },
-        {
-          "title": "Bitcoin Covenants Part 5: MATT and OP_CHECKCONTRACTVERIFY — How Bitcoin could carry state across transactions",
-          "link": "https://cointelegraph.com/research/bitcoin-covenants-part-5-matt-op-ccv?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Wed, 11 Nov 2026 13:26:18 +0000",
-          "source": "Cointelegraph",
-          "text": "Bitcoin Covenants Part 5: MATT and OP_CHECKCONTRACTVERIFY — How Bitcoin could carry state across transactions OP_CCV embeds contract state directly into Taproot output keys and enforces valid state transitions onchain. This makes it possible to achieve stateful contracts and compact fraud proofs."
         }
       ],
-      "marketSentiment": -43,
-      "combinedScore": 41,
-      "signal": "WAIT",
-      "reason": "Technical 47/100; News -20; Market sentiment -43."
+      "marketSentiment": -40,
+      "combinedScore": 20,
+      "signal": "SELL",
+      "reason": "Technical 6/100; News -30; Market sentiment -40."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2055.45,
-      "change24h": -0.426,
-      "volume24h": 384105379.684821,
+      "price": 2021.22,
+      "change24h": -1.594,
+      "volume24h": 365036624.797323,
       "technical": {
-        "rsi": 45.1,
-        "ema9": 2055.66580695206,
-        "ema21": 2058.3224116013985,
-        "macdBull": true,
+        "rsi": 29.4,
+        "ema9": 2032.8941202967167,
+        "ema21": 2039.9229658183785,
+        "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.55,
-        "score": 47
+        "volumeRatio": 1.29,
+        "score": 11
       },
-      "newsScore": 33,
-      "newsCount": 3,
+      "newsScore": -25,
+      "newsCount": 4,
       "news": [
+        {
+          "title": "Ethlabs drops Hegotá slot proposal in push for 2027 quantum readiness",
+          "link": "https://cointelegraph.com/news/ethlabs-ethereum-quantum-security-2027-quick-slots?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Thu, 12 Nov 2026 10:30:29 +0000",
+          "source": "Cointelegraph",
+          "text": "Ethlabs drops Hegotá slot proposal in push for 2027 quantum readiness Ethlabs’ roadmap aims to help Ethereum withstand quantum attacks and give users a way to protect their accounts by 2027."
+        },
         {
           "title": "Deutsche Bank launches crypto custody for companies and institutions",
           "link": "https://cointelegraph.com/news/deutsche-bank-debuts-digital-asset-custody-services-eu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -101,227 +108,276 @@
           "text": "Bitmine posts $6.3B net loss for fiscal 2026 as Ether prices slide Bitmine booked $6.2 billion in unrealized losses on digital assets. It held 6.07 million ETH on Sunday, or 4.97% of Ether’s supply."
         },
         {
-          "title": "An 11-year-old Ethereum wallet moved $4.6 million and dodged a scam set up in minutes",
-          "link": "https://www.coindesk.com/tech/2026/11/10/an-11-year-old-ethereum-wallet-moved-usd4-6-million-and-dodged-a-scam-set-up-in-minutes",
-          "published": "Tue, 10 Nov 2026 07:01:06 +0000",
+          "title": "Ethereum researchers drop faster blocks to race toward quantum defenses in 2027",
+          "link": "https://www.coindesk.com/tech/2026/11/12/ethereum-researchers-drop-faster-blocks-to-race-toward-quantum-defenses-in-2027",
+          "published": "Thu, 12 Nov 2026 11:43:41 +0000",
           "source": "CoinDesk",
-          "text": "An 11-year-old Ethereum wallet moved $4.6 million and dodged a scam set up in minutes Bots spotted a wallet from Ethereum’s 2015 launch the moment it stirred and planted lookalike addresses in its history, but the owner sent the money to the right place anyway."
+          "text": "Ethereum researchers drop faster blocks to race toward quantum defenses in 2027 Ethlabs wants quantum-resistant accounts targeted for next year, even if wallet holders still have to switch signing methods themselves."
         }
       ],
-      "marketSentiment": -43,
-      "combinedScore": 49,
-      "signal": "WAIT",
-      "reason": "Technical 47/100; News +33; Market sentiment -43."
+      "marketSentiment": -40,
+      "combinedScore": 23,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News -25; Market sentiment -40."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 987.76,
-      "change24h": -3.387,
-      "volume24h": 206216500.40199,
+      "price": 970.58,
+      "change24h": -1.232,
+      "volume24h": 172707705.713,
       "technical": {
-        "rsi": 47.8,
-        "ema9": 987.6276276291273,
-        "ema21": 987.8198326849205,
-        "macdBull": true,
+        "rsi": 35.2,
+        "ema9": 978.6133153270614,
+        "ema21": 982.7852070263006,
+        "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.29,
-        "score": 47
+        "volumeRatio": 0.9,
+        "score": 11
       },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -43,
-      "combinedScore": 44,
+      "newsScore": 100,
+      "newsCount": 1,
+      "news": [
+        {
+          "title": "Zcash holders to vote on pulling 50,000 ZEC, worth $50 million, from grants treasury",
+          "link": "https://www.coindesk.com/tech/2026/11/12/zcash-holders-to-vote-on-pulling-50-000-zec-from-grants-treasury",
+          "published": "Thu, 12 Nov 2026 05:49:44 +0000",
+          "source": "CoinDesk",
+          "text": "Zcash holders to vote on pulling 50,000 ZEC, worth $50 million, from grants treasury The proposal would remove more than half of Zcash Community Grants' ZEC holdings from circulation and redirect its future block rewards into a new development and legal-defense fund."
+        }
+      ],
+      "marketSentiment": -40,
+      "combinedScore": 42,
       "signal": "WAIT",
-      "reason": "Technical 47/100; News +0; Market sentiment -43."
-    },
-    {
-      "symbol": "SOLUSDT",
-      "coin": "SOL",
-      "price": 83.27,
-      "change24h": -0.012,
-      "volume24h": 150637072.11213,
-      "technical": {
-        "rsi": 45.0,
-        "ema9": 83.34435665179218,
-        "ema21": 83.51916337879159,
-        "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.27,
-        "score": 47
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -43,
-      "combinedScore": 44,
-      "signal": "WAIT",
-      "reason": "Technical 47/100; News +0; Market sentiment -43."
+      "reason": "Technical 11/100; News +100; Market sentiment -40."
     },
     {
       "symbol": "NVDABUSDT",
       "coin": "NVDAB",
-      "price": 161.73,
-      "change24h": -6.52,
-      "volume24h": 129679396.68972,
+      "price": 160.35,
+      "change24h": -9.104,
+      "volume24h": 147052678.57636,
       "technical": {
-        "rsi": 38.7,
-        "ema9": 161.26255042021657,
-        "ema21": 162.4704372805616,
-        "macdBull": true,
+        "rsi": 37.7,
+        "ema9": 161.46521289877126,
+        "ema21": 161.8647748443668,
+        "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.41,
-        "score": 35
+        "volumeRatio": 1.93,
+        "score": 6
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -43,
-      "combinedScore": 38,
-      "signal": "WAIT",
-      "reason": "Technical 35/100; News +0; Market sentiment -43."
+      "marketSentiment": -40,
+      "combinedScore": 24,
+      "signal": "SELL",
+      "reason": "Technical 6/100; News +0; Market sentiment -40."
+    },
+    {
+      "symbol": "SOLUSDT",
+      "coin": "SOL",
+      "price": 82.29,
+      "change24h": -1.837,
+      "volume24h": 138668792.61769,
+      "technical": {
+        "rsi": 34.0,
+        "ema9": 82.65618185130113,
+        "ema21": 82.83439177387883,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 1.45,
+        "score": 11
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -40,
+      "combinedScore": 26,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment -40."
     },
     {
       "symbol": "USD1USDT",
       "coin": "USD1",
-      "price": 0.99938,
-      "change24h": 0.014,
-      "volume24h": 106275449.87612,
+      "price": 0.99912,
+      "change24h": 0.022,
+      "volume24h": 117009449.9241,
       "technical": {
-        "rsi": 53.3,
-        "ema9": 0.9993760679446416,
-        "ema21": 0.9993679797778094,
+        "rsi": 41.7,
+        "ema9": 0.9992360215761396,
+        "ema21": 0.9993134543772775,
         "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.8,
-        "score": 53
+        "emaBull": false,
+        "volumeRatio": 2.66,
+        "score": 6
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -43,
-      "combinedScore": 47,
-      "signal": "WAIT",
-      "reason": "Technical 53/100; News +0; Market sentiment -43."
+      "marketSentiment": -40,
+      "combinedScore": 24,
+      "signal": "SELL",
+      "reason": "Technical 6/100; News +0; Market sentiment -40."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 1.0474,
-      "change24h": -1.002,
-      "volume24h": 104059221.92339,
+      "price": 1.0384,
+      "change24h": -1.639,
+      "volume24h": 98066132.95897,
       "technical": {
-        "rsi": 44.0,
-        "ema9": 1.0487599420460971,
-        "ema21": 1.051633699851366,
+        "rsi": 30.8,
+        "ema9": 1.041847041867718,
+        "ema21": 1.0444268219837876,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.59,
-        "score": 11
+        "volumeRatio": 1.9,
+        "score": 6
       },
-      "newsScore": 0,
+      "newsScore": 33,
       "newsCount": 1,
       "news": [
         {
-          "title": "Ripple Prime head Marc Asch to step down, Noel Kimmel named successor",
-          "link": "https://www.coindesk.com/business/2026/11/09/ripple-prime-head-marc-asch-to-step-down-noel-kimmel-named-successor",
-          "published": "Tue, 10 Nov 2026 12:38:20 +0000",
+          "title": "Ripple’s bank-lending system moves closer to launch on the XRP Ledger",
+          "link": "https://www.coindesk.com/tech/2026/11/12/ripple-s-bank-lending-system-moves-closer-to-launch-on-the-xrp-ledger",
+          "published": "Thu, 12 Nov 2026 05:18:43 +0000",
           "source": "CoinDesk",
-          "text": "Ripple Prime head Marc Asch to step down, Noel Kimmel named successor Asch is stepping down as head of the institutional prime brokerage."
+          "text": "Ripple’s bank-lending system moves closer to launch on the XRP Ledger Lending support among the ledger’s 35 validators has climbed from 19 to 22 since mid-October, and no public tracker shows which validators switched."
         }
       ],
-      "marketSentiment": -43,
-      "combinedScore": 26,
+      "marketSentiment": -40,
+      "combinedScore": 29,
       "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment -43."
-    },
-    {
-      "symbol": "NEARUSDT",
-      "coin": "NEAR",
-      "price": 3.56,
-      "change24h": -3.077,
-      "volume24h": 81622118.0166,
-      "technical": {
-        "rsi": 37.1,
-        "ema9": 3.5711670123047727,
-        "ema21": 3.594319903402375,
-        "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.81,
-        "score": 35
-      },
-      "newsScore": -50,
-      "newsCount": 2,
-      "news": [
-        {
-          "title": "Bitcoin hovers near $74K as stocks rise despite US bond yield rebound",
-          "link": "https://cointelegraph.com/markets/bitcoin-74k-stocks-us-bond-yield-inflation-cpi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Wed, 11 Nov 2026 16:26:00 +0000",
-          "source": "Cointelegraph",
-          "text": "Bitcoin hovers near $74K as stocks rise despite US bond yield rebound Bitcoin traded in a narrow range as investors bought the dip in tech stocks and US bond yields climbed on high CPI inflation data."
-        },
-        {
-          "title": "Bitcoin sits out stock rebound as ETF outflows extend to fourth day",
-          "link": "https://www.coindesk.com/markets/2026/11/11/bitcoin-sits-out-stock-rebound-as-etf-outflows-extend-to-fourth-day",
-          "published": "Wed, 11 Nov 2026 11:37:04 +0000",
-          "source": "CoinDesk",
-          "text": "Bitcoin sits out stock rebound as ETF outflows extend to fourth day Bitcoin held steady near $74,000 as Tuesday's hot inflation figure lifted the odds on a U.S. interest-rate increase to around 90%. ETF outflows extended to a fourth day and liquidations jumped."
-        }
-      ],
-      "marketSentiment": -43,
-      "combinedScore": 31,
-      "signal": "SELL",
-      "reason": "Technical 35/100; News -50; Market sentiment -43."
-    },
-    {
-      "symbol": "SNDKBUSDT",
-      "coin": "SNDKB",
-      "price": 959.64,
-      "change24h": 6.681,
-      "volume24h": 80752741.392842,
-      "technical": {
-        "rsi": 43.8,
-        "ema9": 960.8109152409828,
-        "ema21": 963.76349613072,
-        "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.56,
-        "score": 35
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -43,
-      "combinedScore": 38,
-      "signal": "WAIT",
-      "reason": "Technical 35/100; News +0; Market sentiment -43."
+      "reason": "Technical 6/100; News +33; Market sentiment -40."
     },
     {
       "symbol": "PEPEUSDT",
       "coin": "PEPE",
-      "price": 4.57e-06,
-      "change24h": -15.056,
-      "volume24h": 79762114.92752329,
+      "price": 4.41e-06,
+      "change24h": -11.268,
+      "volume24h": 68744298.98339377,
       "technical": {
-        "rsi": 38.8,
-        "ema9": 4.583985978149057e-06,
-        "ema21": 4.6032564098829634e-06,
+        "rsi": 38.7,
+        "ema9": 4.432257375213463e-06,
+        "ema21": 4.452088522342793e-06,
         "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.59,
+        "volumeRatio": 0.7,
         "score": 35
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -43,
+      "marketSentiment": -40,
       "combinedScore": 38,
       "signal": "WAIT",
-      "reason": "Technical 35/100; News +0; Market sentiment -43."
+      "reason": "Technical 35/100; News +0; Market sentiment -40."
+    },
+    {
+      "symbol": "SNDKBUSDT",
+      "coin": "SNDKB",
+      "price": 922.1,
+      "change24h": -1.468,
+      "volume24h": 65422547.643693,
+      "technical": {
+        "rsi": 31.1,
+        "ema9": 935.6403303514279,
+        "ema21": 940.1880978392123,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 2.33,
+        "score": 6
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -40,
+      "combinedScore": 24,
+      "signal": "SELL",
+      "reason": "Technical 6/100; News +0; Market sentiment -40."
+    },
+    {
+      "symbol": "BNBUSDT",
+      "coin": "BNB",
+      "price": 660.14,
+      "change24h": -3.112,
+      "volume24h": 65162800.47326,
+      "technical": {
+        "rsi": 17.6,
+        "ema9": 666.3815264107973,
+        "ema21": 669.6817050477821,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 2.67,
+        "score": 23
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -40,
+      "combinedScore": 32,
+      "signal": "SELL",
+      "reason": "Technical 23/100; News +0; Market sentiment -40."
     }
   ],
   "news": [
+    {
+      "title": "EU DeFi proposals could push users to riskier platforms, says Coinbase exec",
+      "link": "https://cointelegraph.com/news/eu-defi-riskier-platforms-coinbase-exec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 12 Nov 2026 12:21:43 +0000",
+      "source": "Cointelegraph",
+      "text": "EU DeFi proposals could push users to riskier platforms, says Coinbase exec Coinbase’s EU policy chief says applying suitability tests beyond crypto lending and borrowing could limit access and fragment liquidity."
+    },
+    {
+      "title": "Stablecoin supply falls $14.2B in biggest 30-day drop since June 2022",
+      "link": "https://cointelegraph.com/markets/stablecoin-supply-drops-worst-slump-since-mid-2022?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 12 Nov 2026 11:38:50 +0000",
+      "source": "Cointelegraph",
+      "text": "Stablecoin supply falls $14.2B in biggest 30-day drop since June 2022 Crypto markets were left with “less fuel” to rally after the market cap of major stablecoins saw its biggest 30-day drop in over four years."
+    },
+    {
+      "title": "Tron and Tether bring in Chainalysis after T3 crime unit folds",
+      "link": "https://cointelegraph.com/news/tron-tether-chainalysis-cybercrime-task-force-laundering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 12 Nov 2026 11:00:00 +0000",
+      "source": "Cointelegraph",
+      "text": "Tron and Tether bring in Chainalysis after T3 crime unit folds The group will focus on illicit USDT activity on Tron and help law enforcement investigate suspicious transfers and freeze funds faster."
+    },
+    {
+      "title": "Ethlabs drops Hegotá slot proposal in push for 2027 quantum readiness",
+      "link": "https://cointelegraph.com/news/ethlabs-ethereum-quantum-security-2027-quick-slots?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 12 Nov 2026 10:30:29 +0000",
+      "source": "Cointelegraph",
+      "text": "Ethlabs drops Hegotá slot proposal in push for 2027 quantum readiness Ethlabs’ roadmap aims to help Ethereum withstand quantum attacks and give users a way to protect their accounts by 2027."
+    },
+    {
+      "title": "BlackRock Bitcoin ETF outflows hit $2B over nine sessions",
+      "link": "https://cointelegraph.com/markets/blackrock-bitcoin-etf-ibit-outflows-nine-day-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 12 Nov 2026 08:06:48 +0000",
+      "source": "Cointelegraph",
+      "text": "BlackRock Bitcoin ETF outflows hit $2B over nine sessions US spot Bitcoin ETF outflows rose to nearly $300 million on Wednesday, up from $95 million a day earlier, as five-session withdrawals reached $1.44 billion."
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 12 Nov 2026 06:00:00 +0000",
+      "source": "Cointelegraph",
+      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "title": "South Korea to permit crypto withdrawal freezes during hacking threats",
+      "link": "https://cointelegraph.com/news/south-korea-crypto-withdrawal-freezes-suspected-hacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 12 Nov 2026 05:54:48 +0000",
+      "source": "Cointelegraph",
+      "text": "South Korea to permit crypto withdrawal freezes during hacking threats The move follows recent security incidents involving South Korean crypto exchanges, including GOPAX’s precautionary suspension of services and a $70,000 hot-wallet breach at Prabang."
+    },
+    {
+      "title": "Binance CSO unwittingly foreshadowed $6.3B hack tactic months before attack",
+      "link": "https://cointelegraph.com/news/binance-cso-foreshadowed-6b-hack-tactic-months-before-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 12 Nov 2026 05:07:11 +0000",
+      "source": "Cointelegraph",
+      "text": "Binance CSO unwittingly foreshadowed $6.3B hack tactic months before attack In a July interview, Binance chief security officer Jimmy Su explained how fake coding assessments could compromise employee devices, a tactic later used in the exchange’s record-breaking hack."
+    },
     {
       "title": "MSCI confirms Strategy’s removal from indexes at end of November",
       "link": "https://cointelegraph.com/news/msci-confirms-strategys-removal-from-indexes-end-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -342,13 +398,6 @@
       "published": "Wed, 11 Nov 2026 22:44:47 +0000",
       "source": "Cointelegraph",
       "text": "Nvidia preparing to oust CEO Jensen Huang after affairs: WSJ The report about Huang’s possible departure came after the New York Times reported that he had a second extramarital affair."
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 11 Nov 2026 22:15:26 +0000",
-      "source": "Cointelegraph",
-      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
       "title": "Uncalled US House races could send more crypto allies to Congress",
@@ -412,55 +461,6 @@
       "published": "Wed, 11 Nov 2026 13:02:30 +0000",
       "source": "Cointelegraph",
       "text": "CoreWeave stock jumps 15% premarket after Q3 revenue beats estimates CoreWeave’s third-quarter revenue rose 168% to $3.66 billion, beating analyst estimates by 3.4%. Its revenue backlog reached $132.5 billion."
-    },
-    {
-      "title": "FSB urgest Turkey to tighten crypto oversight, set stablecoin rules",
-      "link": "https://cointelegraph.com/news/fsb-turkey-crypto-oversight-stablecoin-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 11 Nov 2026 12:44:10 +0000",
-      "source": "Cointelegraph",
-      "text": "FSB urgest Turkey to tighten crypto oversight, set stablecoin rules The Financial Stability Board cited progress on crypto licensing and urged stronger enforcement and cooperation with foreign regulators."
-    },
-    {
-      "title": "Zcash falls below $1,000 for first time since September",
-      "link": "https://cointelegraph.com/markets/zcash-falls-1k-grayscales-1m-ecosystem-commitment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 11 Nov 2026 12:31:44 +0000",
-      "source": "Cointelegraph",
-      "text": "Zcash falls below $1,000 for first time since September Zcash fell nearly 15% amid a broader sell-off in privacy coins, a day after Grayscale pledged $1 million to ecosystem initiatives."
-    },
-    {
-      "title": "Barclays boosts BlackRock Bitcoin ETF stake 48% as banks expand holdings",
-      "link": "https://cointelegraph.com/news/barclays-blackrock-ibit-boost-key-q3-filings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 11 Nov 2026 11:56:23 +0000",
-      "source": "Cointelegraph",
-      "text": "Barclays boosts BlackRock Bitcoin ETF stake 48% as banks expand holdings Barclays reported a $187 million stake as of Sept. 30, while Citigroup disclosed a new $119 million position in Fidelity’s Bitcoin ETF."
-    },
-    {
-      "title": "Kraken parent adds over 200 tokenized UK and EU stocks to xStocks",
-      "link": "https://cointelegraph.com/news/kraken-xstocks-200-tokenized-uk-eu-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 11 Nov 2026 11:30:36 +0000",
-      "source": "Cointelegraph",
-      "text": "Kraken parent adds over 200 tokenized UK and EU stocks to xStocks The expansion adds more than 200 tokenized UK and EU equities, including all 40 companies in Germany’s DAX index, as xStocks plans further expansion into Hong Kong."
-    },
-    {
-      "title": "Bitcoin short-term holders send 47K BTC to exchanges at a loss",
-      "link": "https://cointelegraph.com/markets/bitcoin-speculators-btc-exchanges-unrealized-loss-727k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 11 Nov 2026 11:05:26 +0000",
-      "source": "Cointelegraph",
-      "text": "Bitcoin short-term holders send 47K BTC to exchanges at a loss Bitcoin fell to an 11-week low of $72,670 after slipping below short-term holders’ average cost basis of about $75,700, according to CryptoQuant."
-    },
-    {
-      "title": "Bitget Wallet reports sevenfold jump in crypto phishing risk alerts",
-      "link": "https://cointelegraph.com/news/bitget-wallet-crypto-phishing-risk-detections-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 11 Nov 2026 10:00:00 +0000",
-      "source": "Cointelegraph",
-      "text": "Bitget Wallet reports sevenfold jump in crypto phishing risk alerts The wallet flagged about 37,000 signing requests a week for phishing in Q3 and said better monitoring likely contributed to the increase."
-    },
-    {
-      "title": "Bitmine posts $6.3B net loss for fiscal 2026 as Ether prices slide",
-      "link": "https://cointelegraph.com/news/bitmine-6b-net-loss-eth-treasury-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 11 Nov 2026 09:58:15 +0000",
-      "source": "Cointelegraph",
-      "text": "Bitmine posts $6.3B net loss for fiscal 2026 as Ether prices slide Bitmine booked $6.2 billion in unrealized losses on digital assets. It held 6.07 million ETH on Sunday, or 4.97% of Ether’s supply."
     }
   ],
   "paper": {
@@ -576,16 +576,6 @@
         "mode": "PAPER ONLY"
       },
       {
-        "symbol": "BNBUSDT",
-        "side": "SELL",
-        "entry": 692.8,
-        "stopLoss": 703.192,
-        "takeProfit": 672.016,
-        "entryTime": "2026-11-05T16:44:57.647838+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
         "symbol": "SOXLBUSDT",
         "side": "SELL",
         "entry": 46.01,
@@ -622,16 +612,6 @@
         "stopLoss": 8.455965,
         "takeProfit": 8.08107,
         "entryTime": "2026-11-10T10:27:21.142110+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
-        "symbol": "ETHUSDT",
-        "side": "BUY",
-        "entry": 2062.34,
-        "stopLoss": 2031.4049,
-        "takeProfit": 2124.2102,
-        "entryTime": "2026-11-11T02:45:59.405156+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       },
@@ -676,12 +656,42 @@
         "mode": "PAPER ONLY"
       },
       {
+        "symbol": "ETHUSDT",
+        "side": "SELL",
+        "entry": 2021.22,
+        "stopLoss": 2051.5383,
+        "takeProfit": 1960.5834,
+        "entryTime": "2026-11-12T12:43:13.292273+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "NVDABUSDT",
+        "side": "SELL",
+        "entry": 160.35,
+        "stopLoss": 162.75525,
+        "takeProfit": 155.5395,
+        "entryTime": "2026-11-12T12:43:13.292273+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
         "symbol": "SNDKBUSDT",
         "side": "SELL",
-        "entry": 961.07,
-        "stopLoss": 975.48605,
-        "takeProfit": 932.2379,
-        "entryTime": "2026-11-11T23:38:26.049866+00:00",
+        "entry": 922.1,
+        "stopLoss": 935.9315,
+        "takeProfit": 894.437,
+        "entryTime": "2026-11-12T12:43:13.292273+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "BNBUSDT",
+        "side": "SELL",
+        "entry": 660.14,
+        "stopLoss": 670.0421,
+        "takeProfit": 640.3358,
+        "entryTime": "2026-11-12T12:43:13.292273+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       }
@@ -2597,6 +2607,45 @@
         "exitPrice": 987.76,
         "exitTime": "2026-11-12T04:12:52.260118+00:00",
         "pnlPercent": -2.185
+      },
+      {
+        "symbol": "BNBUSDT",
+        "side": "SELL",
+        "entry": 692.8,
+        "stopLoss": 703.192,
+        "takeProfit": 672.016,
+        "entryTime": "2026-11-05T16:44:57.647838+00:00",
+        "status": "TAKE_PROFIT",
+        "mode": "PAPER ONLY",
+        "exitPrice": 660.14,
+        "exitTime": "2026-11-12T12:43:13.292273+00:00",
+        "pnlPercent": 4.714
+      },
+      {
+        "symbol": "ETHUSDT",
+        "side": "BUY",
+        "entry": 2062.34,
+        "stopLoss": 2031.4049,
+        "takeProfit": 2124.2102,
+        "entryTime": "2026-11-11T02:45:59.405156+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 2021.22,
+        "exitTime": "2026-11-12T12:43:13.292273+00:00",
+        "pnlPercent": -1.994
+      },
+      {
+        "symbol": "SNDKBUSDT",
+        "side": "SELL",
+        "entry": 961.07,
+        "stopLoss": 975.48605,
+        "takeProfit": 932.2379,
+        "entryTime": "2026-11-11T23:38:26.049866+00:00",
+        "status": "TAKE_PROFIT",
+        "mode": "PAPER ONLY",
+        "exitPrice": 922.1,
+        "exitTime": "2026-11-12T12:43:13.292273+00:00",
+        "pnlPercent": 4.055
       }
     ]
   },
