@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-11 23:38:26 UTC",
+  "generatedAt": "2026-11-12 04:12:52 UTC",
   "interval": "15m candles",
-  "marketSentiment": -41,
+  "marketSentiment": -43,
   "overallNewsScore": -40,
   "fearGreed": {
-    "value": 29,
+    "value": 28,
     "label": "Fear",
     "source": "Alternative.me"
   },
@@ -12,17 +12,17 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 73843.92,
-      "change24h": 0.149,
-      "volume24h": 1197921049.3984656,
+      "price": 73836.3,
+      "change24h": 0.084,
+      "volume24h": 1107115027.796914,
       "technical": {
-        "rsi": 38.5,
-        "ema9": 74077.22803833299,
-        "ema21": 74233.52322736062,
-        "macdBull": false,
+        "rsi": 45.0,
+        "ema9": 73819.95597303378,
+        "ema21": 73910.02128394715,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.55,
-        "score": 11
+        "volumeRatio": 0.35,
+        "score": 47
       },
       "newsScore": -20,
       "newsCount": 5,
@@ -63,25 +63,25 @@
           "text": "Bitcoin Covenants Part 5: MATT and OP_CHECKCONTRACTVERIFY — How Bitcoin could carry state across transactions OP_CCV embeds contract state directly into Taproot output keys and enforces valid state transitions onchain. This makes it possible to achieve stateful contracts and compact fraud proofs."
         }
       ],
-      "marketSentiment": -41,
-      "combinedScore": 23,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News -20; Market sentiment -41."
+      "marketSentiment": -43,
+      "combinedScore": 41,
+      "signal": "WAIT",
+      "reason": "Technical 47/100; News -20; Market sentiment -43."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2051.64,
-      "change24h": 0.013,
-      "volume24h": 398212926.904736,
+      "price": 2055.45,
+      "change24h": -0.426,
+      "volume24h": 384105379.684821,
       "technical": {
-        "rsi": 36.0,
-        "ema9": 2060.587752925386,
-        "ema21": 2068.7335154149127,
-        "macdBull": false,
+        "rsi": 45.1,
+        "ema9": 2055.66580695206,
+        "ema21": 2058.3224116013985,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 1.36,
-        "score": 11
+        "volumeRatio": 0.55,
+        "score": 47
       },
       "newsScore": 33,
       "newsCount": 3,
@@ -108,74 +108,120 @@
           "text": "An 11-year-old Ethereum wallet moved $4.6 million and dodged a scam set up in minutes Bots spotted a wallet from Ethereum’s 2015 launch the moment it stirred and planted lookalike addresses in its history, but the owner sent the money to the right place anyway."
         }
       ],
-      "marketSentiment": -41,
-      "combinedScore": 31,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +33; Market sentiment -41."
+      "marketSentiment": -43,
+      "combinedScore": 49,
+      "signal": "WAIT",
+      "reason": "Technical 47/100; News +33; Market sentiment -43."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 966.64,
-      "change24h": -7.521,
-      "volume24h": 206257251.57957,
+      "price": 987.76,
+      "change24h": -3.387,
+      "volume24h": 206216500.40199,
       "technical": {
-        "rsi": 33.1,
-        "ema9": 981.3870114402673,
-        "ema21": 989.2680529966822,
-        "macdBull": false,
+        "rsi": 47.8,
+        "ema9": 987.6276276291273,
+        "ema21": 987.8198326849205,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 3.54,
-        "score": 16
+        "volumeRatio": 0.29,
+        "score": 47
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -41,
-      "combinedScore": 29,
-      "signal": "SELL",
-      "reason": "Technical 16/100; News +0; Market sentiment -41."
+      "marketSentiment": -43,
+      "combinedScore": 44,
+      "signal": "WAIT",
+      "reason": "Technical 47/100; News +0; Market sentiment -43."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 83.04,
-      "change24h": -0.204,
-      "volume24h": 151877038.34243,
+      "price": 83.27,
+      "change24h": -0.012,
+      "volume24h": 150637072.11213,
       "technical": {
-        "rsi": 32.9,
-        "ema9": 83.76944582585917,
-        "ema21": 84.26636573724674,
-        "macdBull": false,
+        "rsi": 45.0,
+        "ema9": 83.34435665179218,
+        "ema21": 83.51916337879159,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 1.43,
-        "score": 11
+        "volumeRatio": 0.27,
+        "score": 47
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -41,
-      "combinedScore": 26,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment -41."
+      "marketSentiment": -43,
+      "combinedScore": 44,
+      "signal": "WAIT",
+      "reason": "Technical 47/100; News +0; Market sentiment -43."
+    },
+    {
+      "symbol": "NVDABUSDT",
+      "coin": "NVDAB",
+      "price": 161.73,
+      "change24h": -6.52,
+      "volume24h": 129679396.68972,
+      "technical": {
+        "rsi": 38.7,
+        "ema9": 161.26255042021657,
+        "ema21": 162.4704372805616,
+        "macdBull": true,
+        "emaBull": false,
+        "volumeRatio": 0.41,
+        "score": 35
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -43,
+      "combinedScore": 38,
+      "signal": "WAIT",
+      "reason": "Technical 35/100; News +0; Market sentiment -43."
+    },
+    {
+      "symbol": "USD1USDT",
+      "coin": "USD1",
+      "price": 0.99938,
+      "change24h": 0.014,
+      "volume24h": 106275449.87612,
+      "technical": {
+        "rsi": 53.3,
+        "ema9": 0.9993760679446416,
+        "ema21": 0.9993679797778094,
+        "macdBull": false,
+        "emaBull": true,
+        "volumeRatio": 0.8,
+        "score": 53
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -43,
+      "combinedScore": 47,
+      "signal": "WAIT",
+      "reason": "Technical 53/100; News +0; Market sentiment -43."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 1.0492,
-      "change24h": -0.738,
-      "volume24h": 110352106.57874,
+      "price": 1.0474,
+      "change24h": -1.002,
+      "volume24h": 104059221.92339,
       "technical": {
-        "rsi": 35.2,
-        "ema9": 1.05489600399574,
-        "ema21": 1.0590544747698845,
+        "rsi": 44.0,
+        "ema9": 1.0487599420460971,
+        "ema21": 1.051633699851366,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 1.31,
+        "volumeRatio": 0.59,
         "score": 11
       },
       "newsScore": 0,
-      "newsCount": 2,
+      "newsCount": 1,
       "news": [
         {
           "title": "Ripple Prime head Marc Asch to step down, Noel Kimmel named successor",
@@ -183,80 +229,27 @@
           "published": "Tue, 10 Nov 2026 12:38:20 +0000",
           "source": "CoinDesk",
           "text": "Ripple Prime head Marc Asch to step down, Noel Kimmel named successor Asch is stepping down as head of the institutional prime brokerage."
-        },
-        {
-          "title": "XRP Ledger maps out quantum-proof accounts, with no extra fees for users",
-          "link": "https://www.coindesk.com/tech/2026/11/10/xrp-ledger-maps-out-quantum-proof-accounts-with-no-extra-fees-for-users",
-          "published": "Tue, 10 Nov 2026 04:51:20 +0000",
-          "source": "CoinDesk",
-          "text": "XRP Ledger maps out quantum-proof accounts, with no extra fees for users The XRP Ledger Foundation’s design lets owners add a quantum-resistant key and switch off the old one, part of a roadmap that puts the network on track for a full transition by 2028."
         }
       ],
-      "marketSentiment": -41,
+      "marketSentiment": -43,
       "combinedScore": 26,
       "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment -41."
-    },
-    {
-      "symbol": "USD1USDT",
-      "coin": "USD1",
-      "price": 0.99941,
-      "change24h": -0.008,
-      "volume24h": 102466046.7325,
-      "technical": {
-        "rsi": 69.2,
-        "ema9": 0.9993820764900729,
-        "ema21": 0.9993042390408677,
-        "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 1.34,
-        "score": 65
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -41,
-      "combinedScore": 53,
-      "signal": "WAIT",
-      "reason": "Technical 65/100; News +0; Market sentiment -41."
-    },
-    {
-      "symbol": "NVDABUSDT",
-      "coin": "NVDAB",
-      "price": 159.72,
-      "change24h": -6.108,
-      "volume24h": 91176191.7308,
-      "technical": {
-        "rsi": 24.3,
-        "ema9": 163.93026090717342,
-        "ema21": 168.65399681569306,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 2.08,
-        "score": 33
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -41,
-      "combinedScore": 37,
-      "signal": "WAIT",
-      "reason": "Technical 33/100; News +0; Market sentiment -41."
+      "reason": "Technical 11/100; News +0; Market sentiment -43."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 3.568,
-      "change24h": -0.14,
-      "volume24h": 85762793.4336,
+      "price": 3.56,
+      "change24h": -3.077,
+      "volume24h": 81622118.0166,
       "technical": {
-        "rsi": 24.3,
-        "ema9": 3.6196028981903,
-        "ema21": 3.6650601770183986,
-        "macdBull": false,
+        "rsi": 37.1,
+        "ema9": 3.5711670123047727,
+        "ema21": 3.594319903402375,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 2.08,
-        "score": 33
+        "volumeRatio": 0.81,
+        "score": 35
       },
       "newsScore": -50,
       "newsCount": 2,
@@ -276,59 +269,66 @@
           "text": "Bitcoin sits out stock rebound as ETF outflows extend to fourth day Bitcoin held steady near $74,000 as Tuesday's hot inflation figure lifted the odds on a U.S. interest-rate increase to around 90%. ETF outflows extended to a fourth day and liquidations jumped."
         }
       ],
-      "marketSentiment": -41,
-      "combinedScore": 30,
+      "marketSentiment": -43,
+      "combinedScore": 31,
       "signal": "SELL",
-      "reason": "Technical 33/100; News -50; Market sentiment -41."
-    },
-    {
-      "symbol": "RLUSDUSDT",
-      "coin": "RLUSD",
-      "price": 1.001,
-      "change24h": -0.01,
-      "volume24h": 85390071.6774,
-      "technical": {
-        "rsi": 52.7,
-        "ema9": 1.0009760832238115,
-        "ema21": 1.0009572500693946,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.2,
-        "score": 77
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -41,
-      "combinedScore": 59,
-      "signal": "WAIT",
-      "reason": "Technical 77/100; News +0; Market sentiment -41."
+      "reason": "Technical 35/100; News -50; Market sentiment -43."
     },
     {
       "symbol": "SNDKBUSDT",
       "coin": "SNDKB",
-      "price": 961.07,
-      "change24h": 10.397,
-      "volume24h": 82392710.188207,
+      "price": 959.64,
+      "change24h": 6.681,
+      "volume24h": 80752741.392842,
       "technical": {
-        "rsi": 43.0,
-        "ema9": 969.3617525849891,
-        "ema21": 977.1816409187018,
-        "macdBull": false,
+        "rsi": 43.8,
+        "ema9": 960.8109152409828,
+        "ema21": 963.76349613072,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.41,
-        "score": 11
+        "volumeRatio": 0.56,
+        "score": 35
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -41,
-      "combinedScore": 26,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment -41."
+      "marketSentiment": -43,
+      "combinedScore": 38,
+      "signal": "WAIT",
+      "reason": "Technical 35/100; News +0; Market sentiment -43."
+    },
+    {
+      "symbol": "PEPEUSDT",
+      "coin": "PEPE",
+      "price": 4.57e-06,
+      "change24h": -15.056,
+      "volume24h": 79762114.92752329,
+      "technical": {
+        "rsi": 38.8,
+        "ema9": 4.583985978149057e-06,
+        "ema21": 4.6032564098829634e-06,
+        "macdBull": true,
+        "emaBull": false,
+        "volumeRatio": 0.59,
+        "score": 35
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -43,
+      "combinedScore": 38,
+      "signal": "WAIT",
+      "reason": "Technical 35/100; News +0; Market sentiment -43."
     }
   ],
   "news": [
+    {
+      "title": "MSCI confirms Strategy’s removal from indexes at end of November",
+      "link": "https://cointelegraph.com/news/msci-confirms-strategys-removal-from-indexes-end-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 12 Nov 2026 00:09:13 +0000",
+      "source": "Cointelegraph",
+      "text": "MSCI confirms Strategy’s removal from indexes at end of November Strategy, Metaplanet and Upexi are marked for deletion in MSCI’s final list, with changes taking effect after the Nov. 30 close."
+    },
     {
       "title": "Suiet wallet to shut down in latest exit from Sui ecosystem",
       "link": "https://cointelegraph.com/news/suiet-wallet-shut-down-latest-exit-sui-ecosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -341,7 +341,7 @@
       "link": "https://cointelegraph.com/news/nvidia-preparing-to-oust-ceo-jensen-huang-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 11 Nov 2026 22:44:47 +0000",
       "source": "Cointelegraph",
-      "text": "Nvidia preparing to oust CEO Jensen Huang after affairs: WSJ Nvidia’s board could meet as soon as today to decide Jensen Huang’s future, WSJ reports."
+      "text": "Nvidia preparing to oust CEO Jensen Huang after affairs: WSJ The report about Huang’s possible departure came after the New York Times reported that he had a second extramarital affair."
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -461,13 +461,6 @@
       "published": "Wed, 11 Nov 2026 09:58:15 +0000",
       "source": "Cointelegraph",
       "text": "Bitmine posts $6.3B net loss for fiscal 2026 as Ether prices slide Bitmine booked $6.2 billion in unrealized losses on digital assets. It held 6.07 million ETH on Sunday, or 4.97% of Ether’s supply."
-    },
-    {
-      "title": "ECB warns legislative delays could postpone digital euro launch",
-      "link": "https://cointelegraph.com/news/ecb-warns-legislative-delays-digital-euro-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 11 Nov 2026 09:03:49 +0000",
-      "source": "Cointelegraph",
-      "text": "ECB warns legislative delays could postpone digital euro launch ECB Executive Board member Piero Cipollone warned EU lawmakers that delays in finalizing digital euro legislation could push back its potential 2029 rollout."
     }
   ],
   "paper": {
@@ -643,31 +636,11 @@
         "mode": "PAPER ONLY"
       },
       {
-        "symbol": "PEPEUSDT",
-        "side": "SELL",
-        "entry": 5.03e-06,
-        "stopLoss": 5.1054e-06,
-        "takeProfit": 4.8791e-06,
-        "entryTime": "2026-11-11T09:52:40.929045+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
         "symbol": "BTCUSDT",
         "side": "SELL",
         "entry": 73843.92,
         "stopLoss": 74951.5788,
         "takeProfit": 71628.6024,
-        "entryTime": "2026-11-11T23:38:26.049866+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
-        "symbol": "ZECUSDT",
-        "side": "SELL",
-        "entry": 966.64,
-        "stopLoss": 981.1396,
-        "takeProfit": 937.6408,
         "entryTime": "2026-11-11T23:38:26.049866+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
@@ -2598,6 +2571,32 @@
         "exitPrice": 961.07,
         "exitTime": "2026-11-11T23:38:26.049866+00:00",
         "pnlPercent": -3.812
+      },
+      {
+        "symbol": "PEPEUSDT",
+        "side": "SELL",
+        "entry": 5.03e-06,
+        "stopLoss": 5.1054e-06,
+        "takeProfit": 4.8791e-06,
+        "entryTime": "2026-11-11T09:52:40.929045+00:00",
+        "status": "TAKE_PROFIT",
+        "mode": "PAPER ONLY",
+        "exitPrice": 4.57e-06,
+        "exitTime": "2026-11-12T04:12:52.260118+00:00",
+        "pnlPercent": 9.145
+      },
+      {
+        "symbol": "ZECUSDT",
+        "side": "SELL",
+        "entry": 966.64,
+        "stopLoss": 981.1396,
+        "takeProfit": 937.6408,
+        "entryTime": "2026-11-11T23:38:26.049866+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 987.76,
+        "exitTime": "2026-11-12T04:12:52.260118+00:00",
+        "pnlPercent": -2.185
       }
     ]
   },
