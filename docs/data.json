@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-12 12:43:13 UTC",
+  "generatedAt": "2026-11-12 20:28:24 UTC",
   "interval": "15m candles",
-  "marketSentiment": -40,
-  "overallNewsScore": -33,
+  "marketSentiment": -38,
+  "overallNewsScore": -27,
   "fearGreed": {
     "value": 28,
     "label": "Fear",
@@ -12,21 +12,28 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 72860.01,
-      "change24h": -1.482,
-      "volume24h": 953711153.44294,
+      "price": 71515.16,
+      "change24h": -4.079,
+      "volume24h": 1122337834.0575323,
       "technical": {
-        "rsi": 29.0,
-        "ema9": 73149.05679945996,
-        "ema21": 73335.48919666883,
-        "macdBull": false,
+        "rsi": 39.6,
+        "ema9": 71690.1025149259,
+        "ema21": 71847.56783224575,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 1.75,
-        "score": 6
+        "volumeRatio": 0.5,
+        "score": 35
       },
-      "newsScore": -30,
+      "newsScore": -10,
       "newsCount": 5,
       "news": [
+        {
+          "title": "Bitcoin slides toward $71K as Nvidia stock tumbles after Huang steps down",
+          "link": "https://cointelegraph.com/markets/bitcoin-price-drops-71k-stocks-nvidia-huang-resignation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Thu, 12 Nov 2026 15:46:06 +0000",
+          "source": "Cointelegraph",
+          "text": "Bitcoin slides toward $71K as Nvidia stock tumbles after Huang steps down Bitcoin fell to its lowest leve since Aug. 20 as tech stocks slid following the resignation of Nvidia CEO Jensen Huang."
+        },
         {
           "title": "BlackRock Bitcoin ETF outflows hit $2B over nine sessions",
           "link": "https://cointelegraph.com/markets/blackrock-bitcoin-etf-ibit-outflows-nine-day-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -54,38 +61,38 @@
           "published": "Wed, 11 Nov 2026 16:26:00 +0000",
           "source": "Cointelegraph",
           "text": "Bitcoin hovers near $74K as stocks rise despite US bond yield rebound Bitcoin traded in a narrow range as investors bought the dip in tech stocks and US bond yields climbed on high CPI inflation data."
-        },
-        {
-          "title": "Deutsche Bank launches crypto custody for companies and institutions",
-          "link": "https://cointelegraph.com/news/deutsche-bank-debuts-digital-asset-custody-services-eu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Wed, 11 Nov 2026 14:02:18 +0000",
-          "source": "Cointelegraph",
-          "text": "Deutsche Bank launches crypto custody for companies and institutions Clients can store and transfer Bitcoin, Ether and select stablecoins through the bank, which manages their wallets and private keys."
         }
       ],
-      "marketSentiment": -40,
-      "combinedScore": 20,
-      "signal": "SELL",
-      "reason": "Technical 6/100; News -30; Market sentiment -40."
+      "marketSentiment": -38,
+      "combinedScore": 37,
+      "signal": "WAIT",
+      "reason": "Technical 35/100; News -10; Market sentiment -38."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2021.22,
-      "change24h": -1.594,
-      "volume24h": 365036624.797323,
+      "price": 2019.36,
+      "change24h": -3.054,
+      "volume24h": 497515993.977082,
       "technical": {
-        "rsi": 29.4,
-        "ema9": 2032.8941202967167,
-        "ema21": 2039.9229658183785,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 1.29,
-        "score": 11
+        "rsi": 53.2,
+        "ema9": 2015.4635385803713,
+        "ema21": 2014.773680833389,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 1.01,
+        "score": 77
       },
       "newsScore": -25,
       "newsCount": 4,
       "news": [
+        {
+          "title": "Are Alt-L1s over? Security, costs drive smaller chains to Ethereum",
+          "link": "https://cointelegraph.com/magazine/are-alt-l1s-over-security-costs-drive-smaller-chains-to-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Thu, 12 Nov 2026 13:30:00 +0000",
+          "source": "Cointelegraph",
+          "text": "Are Alt-L1s over? Security, costs drive smaller chains to Ethereum L1 blockchains Zilliqa, Gnosis and Ronin join the Ethereum ecosystem as the costs of going it alone grow, and the security and liquidity advantages become too hard to resist."
+        },
         {
           "title": "Ethlabs drops Hegotá slot proposal in push for 2027 quantum readiness",
           "link": "https://cointelegraph.com/news/ethlabs-ethereum-quantum-security-2027-quick-slots?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -101,13 +108,6 @@
           "text": "Deutsche Bank launches crypto custody for companies and institutions Clients can store and transfer Bitcoin, Ether and select stablecoins through the bank, which manages their wallets and private keys."
         },
         {
-          "title": "Bitmine posts $6.3B net loss for fiscal 2026 as Ether prices slide",
-          "link": "https://cointelegraph.com/news/bitmine-6b-net-loss-eth-treasury-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Wed, 11 Nov 2026 09:58:15 +0000",
-          "source": "Cointelegraph",
-          "text": "Bitmine posts $6.3B net loss for fiscal 2026 as Ether prices slide Bitmine booked $6.2 billion in unrealized losses on digital assets. It held 6.07 million ETH on Sunday, or 4.97% of Ether’s supply."
-        },
-        {
           "title": "Ethereum researchers drop faster blocks to race toward quantum defenses in 2027",
           "link": "https://www.coindesk.com/tech/2026/11/12/ethereum-researchers-drop-faster-blocks-to-race-toward-quantum-defenses-in-2027",
           "published": "Thu, 12 Nov 2026 11:43:41 +0000",
@@ -115,25 +115,48 @@
           "text": "Ethereum researchers drop faster blocks to race toward quantum defenses in 2027 Ethlabs wants quantum-resistant accounts targeted for next year, even if wallet holders still have to switch signing methods themselves."
         }
       ],
-      "marketSentiment": -40,
-      "combinedScore": 23,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News -25; Market sentiment -40."
+      "marketSentiment": -38,
+      "combinedScore": 56,
+      "signal": "WAIT",
+      "reason": "Technical 77/100; News -25; Market sentiment -38."
+    },
+    {
+      "symbol": "NVDABUSDT",
+      "coin": "NVDAB",
+      "price": 164.27,
+      "change24h": -6.153,
+      "volume24h": 279133001.26757,
+      "technical": {
+        "rsi": 49.9,
+        "ema9": 164.54170673062316,
+        "ema21": 164.11211305516636,
+        "macdBull": false,
+        "emaBull": true,
+        "volumeRatio": 0.22,
+        "score": 53
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -38,
+      "combinedScore": 48,
+      "signal": "WAIT",
+      "reason": "Technical 53/100; News +0; Market sentiment -38."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 970.58,
-      "change24h": -1.232,
-      "volume24h": 172707705.713,
+      "price": 949.63,
+      "change24h": -5.409,
+      "volume24h": 172767159.99985,
       "technical": {
-        "rsi": 35.2,
-        "ema9": 978.6133153270614,
-        "ema21": 982.7852070263006,
-        "macdBull": false,
+        "rsi": 50.6,
+        "ema9": 949.3689317106251,
+        "ema21": 952.487917911854,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.9,
-        "score": 11
+        "volumeRatio": 0.44,
+        "score": 47
       },
       "newsScore": 100,
       "newsCount": 1,
@@ -146,94 +169,93 @@
           "text": "Zcash holders to vote on pulling 50,000 ZEC, worth $50 million, from grants treasury The proposal would remove more than half of Zcash Community Grants' ZEC holdings from circulation and redirect its future block rewards into a new development and legal-defense fund."
         }
       ],
-      "marketSentiment": -40,
-      "combinedScore": 42,
+      "marketSentiment": -38,
+      "combinedScore": 60,
       "signal": "WAIT",
-      "reason": "Technical 11/100; News +100; Market sentiment -40."
-    },
-    {
-      "symbol": "NVDABUSDT",
-      "coin": "NVDAB",
-      "price": 160.35,
-      "change24h": -9.104,
-      "volume24h": 147052678.57636,
-      "technical": {
-        "rsi": 37.7,
-        "ema9": 161.46521289877126,
-        "ema21": 161.8647748443668,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 1.93,
-        "score": 6
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -40,
-      "combinedScore": 24,
-      "signal": "SELL",
-      "reason": "Technical 6/100; News +0; Market sentiment -40."
+      "reason": "Technical 47/100; News +100; Market sentiment -38."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 82.29,
-      "change24h": -1.837,
-      "volume24h": 138668792.61769,
+      "price": 81.55,
+      "change24h": -4.081,
+      "volume24h": 162574896.49275,
       "technical": {
-        "rsi": 34.0,
-        "ema9": 82.65618185130113,
-        "ema21": 82.83439177387883,
-        "macdBull": false,
+        "rsi": 46.6,
+        "ema9": 81.58117014113778,
+        "ema21": 81.60636861138252,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 1.45,
-        "score": 11
+        "volumeRatio": 1.07,
+        "score": 47
       },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -40,
-      "combinedScore": 26,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment -40."
+      "newsScore": 33,
+      "newsCount": 3,
+      "news": [
+        {
+          "title": "DTCC Plans Solana Expansion as Wallet Rules Limit Access",
+          "link": "https://cointelegraph.com/news/dtcc-plans-solana-expansion-wallet-rules-limit-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Thu, 12 Nov 2026 20:07:41 +0000",
+          "source": "Cointelegraph",
+          "text": "DTCC Plans Solana Expansion as Wallet Rules Limit Access The US securities clearinghouse plans to bring tokenized stocks to Solana in 2027, but analysts say restrictions could limit adoption."
+        },
+        {
+          "title": "DTCC adds Solana to Wall Street tokenization plans, targeting 2027 rollout",
+          "link": "https://www.coindesk.com/business/2026/11/12/dtcc-adds-solana-to-wall-street-tokenization-plans-targeting-2027-rollout",
+          "published": "Thu, 12 Nov 2026 15:45:48 +0000",
+          "source": "CoinDesk",
+          "text": "DTCC adds Solana to Wall Street tokenization plans, targeting 2027 rollout The securities infrastructure giant plans to bring tokenized stocks, ETFs and U.S. Treasuries to Solana as it expands next year's roadmap beyond Stellar and Arc."
+        },
+        {
+          "title": "Jupiter adds Anchorage-backed USDGO to its $1 billion Solana lending platform",
+          "link": "https://www.coindesk.com/business/2026/11/12/jupiter-adds-anchorage-backed-usdgo-to-its-usd1-billion-solana-lending-platform",
+          "published": "Thu, 12 Nov 2026 14:45:00 +0000",
+          "source": "CoinDesk",
+          "text": "Jupiter adds Anchorage-backed USDGO to its $1 billion Solana lending platform OSL offers a yield on USDGO only to professional investors, but Jupiter said its market lets other holders earn onchain at rates set by borrower demand."
+        }
+      ],
+      "marketSentiment": -38,
+      "combinedScore": 50,
+      "signal": "WAIT",
+      "reason": "Technical 47/100; News +33; Market sentiment -38."
     },
     {
       "symbol": "USD1USDT",
       "coin": "USD1",
-      "price": 0.99912,
-      "change24h": 0.022,
-      "volume24h": 117009449.9241,
+      "price": 0.99951,
+      "change24h": 0.016,
+      "volume24h": 147383174.57836,
       "technical": {
-        "rsi": 41.7,
-        "ema9": 0.9992360215761396,
-        "ema21": 0.9993134543772775,
+        "rsi": 52.9,
+        "ema9": 0.9994881158027497,
+        "ema21": 0.9994685028496869,
         "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 2.66,
-        "score": 6
+        "emaBull": true,
+        "volumeRatio": 0.57,
+        "score": 53
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -40,
-      "combinedScore": 24,
-      "signal": "SELL",
-      "reason": "Technical 6/100; News +0; Market sentiment -40."
+      "marketSentiment": -38,
+      "combinedScore": 48,
+      "signal": "WAIT",
+      "reason": "Technical 53/100; News +0; Market sentiment -38."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 1.0384,
-      "change24h": -1.639,
-      "volume24h": 98066132.95897,
+      "price": 1.0336,
+      "change24h": -2.693,
+      "volume24h": 101870578.38254,
       "technical": {
-        "rsi": 30.8,
-        "ema9": 1.041847041867718,
-        "ema21": 1.0444268219837876,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 1.9,
-        "score": 6
+        "rsi": 51.8,
+        "ema9": 1.0299399474074087,
+        "ema21": 1.0295617342335521,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 1.1,
+        "score": 77
       },
       "newsScore": 33,
       "newsCount": 1,
@@ -246,82 +268,146 @@
           "text": "Ripple’s bank-lending system moves closer to launch on the XRP Ledger Lending support among the ledger’s 35 validators has climbed from 19 to 22 since mid-October, and no public tracker shows which validators switched."
         }
       ],
-      "marketSentiment": -40,
-      "combinedScore": 29,
-      "signal": "SELL",
-      "reason": "Technical 6/100; News +33; Market sentiment -40."
+      "marketSentiment": -38,
+      "combinedScore": 65,
+      "signal": "BUY",
+      "reason": "Technical 77/100; News +33; Market sentiment -38."
     },
     {
       "symbol": "PEPEUSDT",
       "coin": "PEPE",
-      "price": 4.41e-06,
-      "change24h": -11.268,
-      "volume24h": 68744298.98339377,
+      "price": 4.48e-06,
+      "change24h": -7.246,
+      "volume24h": 82475411.6389521,
       "technical": {
-        "rsi": 38.7,
-        "ema9": 4.432257375213463e-06,
-        "ema21": 4.452088522342793e-06,
+        "rsi": 69.0,
+        "ema9": 4.428888881539088e-06,
+        "ema21": 4.4020365787925195e-06,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 1.0,
+        "score": 89
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -38,
+      "combinedScore": 66,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment -38."
+    },
+    {
+      "symbol": "BNBUSDT",
+      "coin": "BNB",
+      "price": 654.44,
+      "change24h": -4.719,
+      "volume24h": 80307881.10526,
+      "technical": {
+        "rsi": 43.2,
+        "ema9": 655.1334634742929,
+        "ema21": 655.9930164267123,
         "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.7,
+        "volumeRatio": 0.55,
         "score": 35
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -40,
-      "combinedScore": 38,
+      "marketSentiment": -38,
+      "combinedScore": 39,
       "signal": "WAIT",
-      "reason": "Technical 35/100; News +0; Market sentiment -40."
+      "reason": "Technical 35/100; News +0; Market sentiment -38."
     },
     {
-      "symbol": "SNDKBUSDT",
-      "coin": "SNDKB",
-      "price": 922.1,
-      "change24h": -1.468,
-      "volume24h": 65422547.643693,
+      "symbol": "NEARUSDT",
+      "coin": "NEAR",
+      "price": 3.428,
+      "change24h": -7.849,
+      "volume24h": 68596442.8747,
       "technical": {
-        "rsi": 31.1,
-        "ema9": 935.6403303514279,
-        "ema21": 940.1880978392123,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 2.33,
-        "score": 6
+        "rsi": 51.5,
+        "ema9": 3.416257913000091,
+        "ema21": 3.414058824356458,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.48,
+        "score": 77
       },
       "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -40,
-      "combinedScore": 24,
-      "signal": "SELL",
-      "reason": "Technical 6/100; News +0; Market sentiment -40."
-    },
-    {
-      "symbol": "BNBUSDT",
-      "coin": "BNB",
-      "price": 660.14,
-      "change24h": -3.112,
-      "volume24h": 65162800.47326,
-      "technical": {
-        "rsi": 17.6,
-        "ema9": 666.3815264107973,
-        "ema21": 669.6817050477821,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 2.67,
-        "score": 23
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -40,
-      "combinedScore": 32,
-      "signal": "SELL",
-      "reason": "Technical 23/100; News +0; Market sentiment -40."
+      "newsCount": 1,
+      "news": [
+        {
+          "title": "Bitcoin hovers near $74K as stocks rise despite US bond yield rebound",
+          "link": "https://cointelegraph.com/markets/bitcoin-74k-stocks-us-bond-yield-inflation-cpi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Wed, 11 Nov 2026 16:26:00 +0000",
+          "source": "Cointelegraph",
+          "text": "Bitcoin hovers near $74K as stocks rise despite US bond yield rebound Bitcoin traded in a narrow range as investors bought the dip in tech stocks and US bond yields climbed on high CPI inflation data."
+        }
+      ],
+      "marketSentiment": -38,
+      "combinedScore": 60,
+      "signal": "WAIT",
+      "reason": "Technical 77/100; News +0; Market sentiment -38."
     }
   ],
   "news": [
+    {
+      "title": "DTCC Plans Solana Expansion as Wallet Rules Limit Access",
+      "link": "https://cointelegraph.com/news/dtcc-plans-solana-expansion-wallet-rules-limit-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 12 Nov 2026 20:07:41 +0000",
+      "source": "Cointelegraph",
+      "text": "DTCC Plans Solana Expansion as Wallet Rules Limit Access The US securities clearinghouse plans to bring tokenized stocks to Solana in 2027, but analysts say restrictions could limit adoption."
+    },
+    {
+      "title": "Bitcoin slides toward $71K as Nvidia stock tumbles after Huang steps down",
+      "link": "https://cointelegraph.com/markets/bitcoin-price-drops-71k-stocks-nvidia-huang-resignation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 12 Nov 2026 15:46:06 +0000",
+      "source": "Cointelegraph",
+      "text": "Bitcoin slides toward $71K as Nvidia stock tumbles after Huang steps down Bitcoin fell to its lowest leve since Aug. 20 as tech stocks slid following the resignation of Nvidia CEO Jensen Huang."
+    },
+    {
+      "title": "Jensen Huang resigns as Nvidia CEO, exits board; shares plunge",
+      "link": "https://cointelegraph.com/news/jensen-huang-resigns-nvidia-ceo-board-member?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 12 Nov 2026 13:59:02 +0000",
+      "source": "Cointelegraph",
+      "text": "Jensen Huang resigns as Nvidia CEO, exits board; shares plunge Colette Kress will remain Nvidia’s chief financial officer while serving as interim CEO as the board searches for a permanent successor."
+    },
+    {
+      "title": "Bit Digital stock falls 5% in pre-market after Q3 revenue miss",
+      "link": "https://cointelegraph.com/news/bit-digital-stock-falls-q3-revenue-miss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 12 Nov 2026 13:52:39 +0000",
+      "source": "Cointelegraph",
+      "text": "Bit Digital stock falls 5% in pre-market after Q3 revenue miss Bit Digital’s $27 million third-quarter revenue came in 16% below analyst consensus estimates, marking an over $5 million shortfall."
+    },
+    {
+      "title": "Thailand proposes $148K daily cap on stablecoin deposits and withdrawals",
+      "link": "https://cointelegraph.com/news/thailand-tighter-stablecoin-rules-crypto-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 12 Nov 2026 13:44:03 +0000",
+      "source": "Cointelegraph",
+      "text": "Thailand proposes $148K daily cap on stablecoin deposits and withdrawals Thailand’s SEC would set separate daily caps for stablecoin deposits and withdrawals and require customers to use wallets they own."
+    },
+    {
+      "title": "Crypto hack losses equal 57 cents per $1 earned onchain: Ark’s Valente",
+      "link": "https://cointelegraph.com/news/crypto-hackers-stole-57-cents-every-1-earned-ark?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 12 Nov 2026 13:31:59 +0000",
+      "source": "Cointelegraph",
+      "text": "Crypto hack losses equal 57 cents per $1 earned onchain: Ark’s Valente Crypto hackers stole $8.7 billion so far in 2026, surpassing the projected annual onchain revenue generated across the industry, according to ARK’s research director."
+    },
+    {
+      "title": "Are Alt-L1s over? Security, costs drive smaller chains to Ethereum",
+      "link": "https://cointelegraph.com/magazine/are-alt-l1s-over-security-costs-drive-smaller-chains-to-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 12 Nov 2026 13:30:00 +0000",
+      "source": "Cointelegraph",
+      "text": "Are Alt-L1s over? Security, costs drive smaller chains to Ethereum L1 blockchains Zilliqa, Gnosis and Ronin join the Ethereum ecosystem as the costs of going it alone grow, and the security and liquidity advantages become too hard to resist."
+    },
+    {
+      "title": "Uber’s UK banking partner Griffin raises $20M for stablecoin services",
+      "link": "https://cointelegraph.com/news/digital-bank-griffin-100m-valuation-card-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 12 Nov 2026 13:21:56 +0000",
+      "source": "Cointelegraph",
+      "text": "Uber’s UK banking partner Griffin raises $20M for stablecoin services The Series B valued Griffin at more than $100 million and will help fund stablecoin reserve services and onchain cross-border payments."
+    },
     {
       "title": "EU DeFi proposals could push users to riskier platforms, says Coinbase exec",
       "link": "https://cointelegraph.com/news/eu-defi-riskier-platforms-coinbase-exec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -405,62 +491,6 @@
       "published": "Wed, 11 Nov 2026 22:05:17 +0000",
       "source": "Cointelegraph",
       "text": "Uncalled US House races could send more crypto allies to Congress The remaining races feature pro-crypto candidates and others without a stated position, giving advocacy groups what they see as “an opportunity” for outreach."
-    },
-    {
-      "title": "Nomura explores sale of crypto unit Laser Digital: Bloomberg",
-      "link": "https://cointelegraph.com/news/nomura-sale-crypto-unit-laser-digital?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 11 Nov 2026 21:36:01 +0000",
-      "source": "Cointelegraph",
-      "text": "Nomura explores sale of crypto unit Laser Digital: Bloomberg The potential sale of Laser Digital follows a fourth straight quarterly loss for Nomura’s European operations."
-    },
-    {
-      "title": "US data center restrictions could give Bitcoin miners an edge in AI, though challenges remain",
-      "link": "https://cointelegraph.com/news/us-data-center-restrictions-bitcoin-miners-edge-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 11 Nov 2026 20:43:19 +0000",
-      "source": "Cointelegraph",
-      "text": "US data center restrictions could give Bitcoin miners an edge in AI, though challenges remain As US voters push back against new data centers, Bitcoin miners already expanding into AI could benefit from their existing facilities."
-    },
-    {
-      "title": "OKXICE moves ahead with tokenized stocks as blue chips push back",
-      "link": "https://cointelegraph.com/news/okxice-tokenized-stocks-blue-chips-push-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 11 Nov 2026 18:30:43 +0000",
-      "source": "Cointelegraph",
-      "text": "OKXICE moves ahead with tokenized stocks as blue chips push back The Nov. 23 debut puts a new SEC exemption to the test as Nasdaq pursues its own tokenized stock plans after warning that trading across platforms could fragment liquidity."
-    },
-    {
-      "title": "Bitcoin hovers near $74K as stocks rise despite US bond yield rebound",
-      "link": "https://cointelegraph.com/markets/bitcoin-74k-stocks-us-bond-yield-inflation-cpi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 11 Nov 2026 16:26:00 +0000",
-      "source": "Cointelegraph",
-      "text": "Bitcoin hovers near $74K as stocks rise despite US bond yield rebound Bitcoin traded in a narrow range as investors bought the dip in tech stocks and US bond yields climbed on high CPI inflation data."
-    },
-    {
-      "title": "Deutsche Bank launches crypto custody for companies and institutions",
-      "link": "https://cointelegraph.com/news/deutsche-bank-debuts-digital-asset-custody-services-eu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 11 Nov 2026 14:02:18 +0000",
-      "source": "Cointelegraph",
-      "text": "Deutsche Bank launches crypto custody for companies and institutions Clients can store and transfer Bitcoin, Ether and select stablecoins through the bank, which manages their wallets and private keys."
-    },
-    {
-      "title": "Paraguay bank collapse shows stablecoins can offer a lifeline... of sorts",
-      "link": "https://cointelegraph.com/magazine/paraguay-bank-collapse-shows-stablecoins-can-offer-a-lifeline-of-sorts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 11 Nov 2026 13:30:00 +0000",
-      "source": "Cointelegraph",
-      "text": "Paraguay bank collapse shows stablecoins can offer a lifeline... of sorts Ueno’s collapse exposed the fragility of digital banking in Paraguay, as customers scrambled for access to their money and stablecoins offered a lifeline."
-    },
-    {
-      "title": "Bitcoin Covenants Part 5: MATT and OP_CHECKCONTRACTVERIFY — How Bitcoin could carry state across transactions",
-      "link": "https://cointelegraph.com/research/bitcoin-covenants-part-5-matt-op-ccv?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 11 Nov 2026 13:26:18 +0000",
-      "source": "Cointelegraph",
-      "text": "Bitcoin Covenants Part 5: MATT and OP_CHECKCONTRACTVERIFY — How Bitcoin could carry state across transactions OP_CCV embeds contract state directly into Taproot output keys and enforces valid state transitions onchain. This makes it possible to achieve stateful contracts and compact fraud proofs."
-    },
-    {
-      "title": "CoreWeave stock jumps 15% premarket after Q3 revenue beats estimates",
-      "link": "https://cointelegraph.com/markets/coreweave-stock-surges-pre-market-q3-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 11 Nov 2026 13:02:30 +0000",
-      "source": "Cointelegraph",
-      "text": "CoreWeave stock jumps 15% premarket after Q3 revenue beats estimates CoreWeave’s third-quarter revenue rose 168% to $3.66 billion, beating analyst estimates by 3.4%. Its revenue backlog reached $132.5 billion."
     }
   ],
   "paper": {
@@ -616,16 +646,6 @@
         "mode": "PAPER ONLY"
       },
       {
-        "symbol": "BTCUSDT",
-        "side": "SELL",
-        "entry": 73843.92,
-        "stopLoss": 74951.5788,
-        "takeProfit": 71628.6024,
-        "entryTime": "2026-11-11T23:38:26.049866+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
         "symbol": "SOLUSDT",
         "side": "SELL",
         "entry": 83.04,
@@ -646,31 +666,11 @@
         "mode": "PAPER ONLY"
       },
       {
-        "symbol": "NEARUSDT",
-        "side": "SELL",
-        "entry": 3.568,
-        "stopLoss": 3.62152,
-        "takeProfit": 3.46096,
-        "entryTime": "2026-11-11T23:38:26.049866+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
         "symbol": "ETHUSDT",
         "side": "SELL",
         "entry": 2021.22,
         "stopLoss": 2051.5383,
         "takeProfit": 1960.5834,
-        "entryTime": "2026-11-12T12:43:13.292273+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
-        "symbol": "NVDABUSDT",
-        "side": "SELL",
-        "entry": 160.35,
-        "stopLoss": 162.75525,
-        "takeProfit": 155.5395,
         "entryTime": "2026-11-12T12:43:13.292273+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
@@ -692,6 +692,16 @@
         "stopLoss": 670.0421,
         "takeProfit": 640.3358,
         "entryTime": "2026-11-12T12:43:13.292273+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "PEPEUSDT",
+        "side": "BUY",
+        "entry": 4.48e-06,
+        "stopLoss": 4.4128e-06,
+        "takeProfit": 4.6144e-06,
+        "entryTime": "2026-11-12T20:28:24.878099+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       }
@@ -2646,6 +2656,45 @@
         "exitPrice": 922.1,
         "exitTime": "2026-11-12T12:43:13.292273+00:00",
         "pnlPercent": 4.055
+      },
+      {
+        "symbol": "BTCUSDT",
+        "side": "SELL",
+        "entry": 73843.92,
+        "stopLoss": 74951.5788,
+        "takeProfit": 71628.6024,
+        "entryTime": "2026-11-11T23:38:26.049866+00:00",
+        "status": "TAKE_PROFIT",
+        "mode": "PAPER ONLY",
+        "exitPrice": 71515.16,
+        "exitTime": "2026-11-12T20:28:24.878099+00:00",
+        "pnlPercent": 3.154
+      },
+      {
+        "symbol": "NEARUSDT",
+        "side": "SELL",
+        "entry": 3.568,
+        "stopLoss": 3.62152,
+        "takeProfit": 3.46096,
+        "entryTime": "2026-11-11T23:38:26.049866+00:00",
+        "status": "TAKE_PROFIT",
+        "mode": "PAPER ONLY",
+        "exitPrice": 3.428,
+        "exitTime": "2026-11-12T20:28:24.878099+00:00",
+        "pnlPercent": 3.924
+      },
+      {
+        "symbol": "NVDABUSDT",
+        "side": "SELL",
+        "entry": 160.35,
+        "stopLoss": 162.75525,
+        "takeProfit": 155.5395,
+        "entryTime": "2026-11-12T12:43:13.292273+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 164.27,
+        "exitTime": "2026-11-12T20:28:24.878099+00:00",
+        "pnlPercent": -2.445
       }
     ]
   },
