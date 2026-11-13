@@ -209,6 +209,36 @@
       "entryTime": "2026-11-12T20:28:24.878099+00:00",
       "status": "OPEN",
       "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "side": "SELL",
+      "entry": 70943.04,
+      "stopLoss": 72007.1856,
+      "takeProfit": 68814.7488,
+      "entryTime": "2026-11-13T01:21:29.804676+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "ZECUSDT",
+      "side": "BUY",
+      "entry": 957.49,
+      "stopLoss": 943.12765,
+      "takeProfit": 986.2147,
+      "entryTime": "2026-11-13T01:21:29.804676+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "NEARUSDT",
+      "side": "BUY",
+      "entry": 3.443,
+      "stopLoss": 3.391355,
+      "takeProfit": 3.54629,
+      "entryTime": "2026-11-13T01:21:29.804676+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
     }
   ],
   "closed": [

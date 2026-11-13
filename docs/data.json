@@ -1,32 +1,46 @@
 {
-  "generatedAt": "2026-11-12 20:28:24 UTC",
+  "generatedAt": "2026-11-13 01:21:29 UTC",
   "interval": "15m candles",
-  "marketSentiment": -38,
-  "overallNewsScore": -27,
+  "marketSentiment": -42,
+  "overallNewsScore": -8,
   "fearGreed": {
-    "value": 28,
-    "label": "Fear",
+    "value": 20,
+    "label": "Extreme Fear",
     "source": "Alternative.me"
   },
   "coins": [
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 71515.16,
-      "change24h": -4.079,
-      "volume24h": 1122337834.0575323,
+      "price": 70943.04,
+      "change24h": -3.729,
+      "volume24h": 1152793353.9224098,
       "technical": {
-        "rsi": 39.6,
-        "ema9": 71690.1025149259,
-        "ema21": 71847.56783224575,
-        "macdBull": true,
+        "rsi": 33.2,
+        "ema9": 71189.62920720704,
+        "ema21": 71374.41838986574,
+        "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.5,
-        "score": 35
+        "volumeRatio": 1.7,
+        "score": 6
       },
-      "newsScore": -10,
+      "newsScore": 10,
       "newsCount": 5,
       "news": [
+        {
+          "title": "Here’s what happened in crypto today",
+          "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Thu, 12 Nov 2026 22:11:41 +0000",
+          "source": "Cointelegraph",
+          "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+        },
+        {
+          "title": "Strategy stock sheds 5% amid MSCI index removal, Bitcoin sell-off",
+          "link": "https://cointelegraph.com/markets/strategy-shares-fall-5-msci-index-removal-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Thu, 12 Nov 2026 21:52:04 +0000",
+          "source": "Cointelegraph",
+          "text": "Strategy stock sheds 5% amid MSCI index removal, Bitcoin sell-off Strategy shares declined Thursday following MSCI’s decision to remove the company from its indexes, as Bitcoin also fell amid a broader crypto market decline."
+        },
         {
           "title": "Bitcoin slides toward $71K as Nvidia stock tumbles after Huang steps down",
           "link": "https://cointelegraph.com/markets/bitcoin-price-drops-71k-stocks-nvidia-huang-resignation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -42,49 +56,35 @@
           "text": "BlackRock Bitcoin ETF outflows hit $2B over nine sessions US spot Bitcoin ETF outflows rose to nearly $300 million on Wednesday, up from $95 million a day earlier, as five-session withdrawals reached $1.44 billion."
         },
         {
-          "title": "Here’s what happened in crypto today",
-          "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Thu, 12 Nov 2026 06:00:00 +0000",
-          "source": "Cointelegraph",
-          "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-        },
-        {
           "title": "US data center restrictions could give Bitcoin miners an edge in AI, though challenges remain",
           "link": "https://cointelegraph.com/news/us-data-center-restrictions-bitcoin-miners-edge-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "published": "Wed, 11 Nov 2026 20:43:19 +0000",
           "source": "Cointelegraph",
           "text": "US data center restrictions could give Bitcoin miners an edge in AI, though challenges remain As US voters push back against new data centers, Bitcoin miners already expanding into AI could benefit from their existing facilities."
-        },
-        {
-          "title": "Bitcoin hovers near $74K as stocks rise despite US bond yield rebound",
-          "link": "https://cointelegraph.com/markets/bitcoin-74k-stocks-us-bond-yield-inflation-cpi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Wed, 11 Nov 2026 16:26:00 +0000",
-          "source": "Cointelegraph",
-          "text": "Bitcoin hovers near $74K as stocks rise despite US bond yield rebound Bitcoin traded in a narrow range as investors bought the dip in tech stocks and US bond yields climbed on high CPI inflation data."
         }
       ],
-      "marketSentiment": -38,
-      "combinedScore": 37,
-      "signal": "WAIT",
-      "reason": "Technical 35/100; News -10; Market sentiment -38."
+      "marketSentiment": -42,
+      "combinedScore": 25,
+      "signal": "SELL",
+      "reason": "Technical 6/100; News +10; Market sentiment -42."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2019.36,
-      "change24h": -3.054,
-      "volume24h": 497515993.977082,
+      "price": 2010.22,
+      "change24h": -1.959,
+      "volume24h": 489476101.5611,
       "technical": {
-        "rsi": 53.2,
-        "ema9": 2015.4635385803713,
-        "ema21": 2014.773680833389,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 1.01,
-        "score": 77
+        "rsi": 43.7,
+        "ema9": 2012.738832860628,
+        "ema21": 2014.3784639379764,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 1.57,
+        "score": 6
       },
-      "newsScore": -25,
-      "newsCount": 4,
+      "newsScore": -33,
+      "newsCount": 3,
       "news": [
         {
           "title": "Are Alt-L1s over? Security, costs drive smaller chains to Ethereum",
@@ -101,13 +101,6 @@
           "text": "Ethlabs drops Hegotá slot proposal in push for 2027 quantum readiness Ethlabs’ roadmap aims to help Ethereum withstand quantum attacks and give users a way to protect their accounts by 2027."
         },
         {
-          "title": "Deutsche Bank launches crypto custody for companies and institutions",
-          "link": "https://cointelegraph.com/news/deutsche-bank-debuts-digital-asset-custody-services-eu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Wed, 11 Nov 2026 14:02:18 +0000",
-          "source": "Cointelegraph",
-          "text": "Deutsche Bank launches crypto custody for companies and institutions Clients can store and transfer Bitcoin, Ether and select stablecoins through the bank, which manages their wallets and private keys."
-        },
-        {
           "title": "Ethereum researchers drop faster blocks to race toward quantum defenses in 2027",
           "link": "https://www.coindesk.com/tech/2026/11/12/ethereum-researchers-drop-faster-blocks-to-race-toward-quantum-defenses-in-2027",
           "published": "Thu, 12 Nov 2026 11:43:41 +0000",
@@ -115,48 +108,71 @@
           "text": "Ethereum researchers drop faster blocks to race toward quantum defenses in 2027 Ethlabs wants quantum-resistant accounts targeted for next year, even if wallet holders still have to switch signing methods themselves."
         }
       ],
-      "marketSentiment": -38,
-      "combinedScore": 56,
-      "signal": "WAIT",
-      "reason": "Technical 77/100; News -25; Market sentiment -38."
+      "marketSentiment": -42,
+      "combinedScore": 19,
+      "signal": "SELL",
+      "reason": "Technical 6/100; News -33; Market sentiment -42."
     },
     {
       "symbol": "NVDABUSDT",
       "coin": "NVDAB",
-      "price": 164.27,
-      "change24h": -6.153,
-      "volume24h": 279133001.26757,
+      "price": 168.54,
+      "change24h": 4.612,
+      "volume24h": 233389736.17329,
       "technical": {
-        "rsi": 49.9,
-        "ema9": 164.54170673062316,
-        "ema21": 164.11211305516636,
+        "rsi": 61.4,
+        "ema9": 167.80993848231216,
+        "ema21": 167.02966302197558,
         "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 0.22,
-        "score": 53
+        "volumeRatio": 1.5,
+        "score": 65
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -38,
-      "combinedScore": 48,
+      "marketSentiment": -42,
+      "combinedScore": 53,
       "signal": "WAIT",
-      "reason": "Technical 53/100; News +0; Market sentiment -38."
+      "reason": "Technical 65/100; News +0; Market sentiment -42."
+    },
+    {
+      "symbol": "USD1USDT",
+      "coin": "USD1",
+      "price": 0.99941,
+      "change24h": 0.001,
+      "volume24h": 161695450.37341,
+      "technical": {
+        "rsi": 46.5,
+        "ema9": 0.9994338215431986,
+        "ema21": 0.9994573684607259,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.46,
+        "score": 23
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -42,
+      "combinedScore": 32,
+      "signal": "SELL",
+      "reason": "Technical 23/100; News +0; Market sentiment -42."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 949.63,
-      "change24h": -5.409,
-      "volume24h": 172767159.99985,
+      "price": 957.49,
+      "change24h": -2.765,
+      "volume24h": 155340328.38671,
       "technical": {
-        "rsi": 50.6,
-        "ema9": 949.3689317106251,
-        "ema21": 952.487917911854,
+        "rsi": 53.7,
+        "ema9": 953.9629222405276,
+        "ema21": 952.406941035516,
         "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.44,
-        "score": 47
+        "emaBull": true,
+        "volumeRatio": 1.44,
+        "score": 77
       },
       "newsScore": 100,
       "newsCount": 1,
@@ -169,25 +185,25 @@
           "text": "Zcash holders to vote on pulling 50,000 ZEC, worth $50 million, from grants treasury The proposal would remove more than half of Zcash Community Grants' ZEC holdings from circulation and redirect its future block rewards into a new development and legal-defense fund."
         }
       ],
-      "marketSentiment": -38,
-      "combinedScore": 60,
-      "signal": "WAIT",
-      "reason": "Technical 47/100; News +100; Market sentiment -38."
+      "marketSentiment": -42,
+      "combinedScore": 74,
+      "signal": "BUY",
+      "reason": "Technical 77/100; News +100; Market sentiment -42."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 81.55,
-      "change24h": -4.081,
-      "volume24h": 162574896.49275,
+      "price": 81.39,
+      "change24h": -2.046,
+      "volume24h": 149339706.49985,
       "technical": {
-        "rsi": 46.6,
-        "ema9": 81.58117014113778,
-        "ema21": 81.60636861138252,
-        "macdBull": true,
+        "rsi": 47.1,
+        "ema9": 81.51684986255898,
+        "ema21": 81.53736213587324,
+        "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 1.07,
-        "score": 47
+        "volumeRatio": 1.37,
+        "score": 23
       },
       "newsScore": 33,
       "newsCount": 3,
@@ -214,48 +230,25 @@
           "text": "Jupiter adds Anchorage-backed USDGO to its $1 billion Solana lending platform OSL offers a yield on USDGO only to professional investors, but Jupiter said its market lets other holders earn onchain at rates set by borrower demand."
         }
       ],
-      "marketSentiment": -38,
-      "combinedScore": 50,
+      "marketSentiment": -42,
+      "combinedScore": 37,
       "signal": "WAIT",
-      "reason": "Technical 47/100; News +33; Market sentiment -38."
-    },
-    {
-      "symbol": "USD1USDT",
-      "coin": "USD1",
-      "price": 0.99951,
-      "change24h": 0.016,
-      "volume24h": 147383174.57836,
-      "technical": {
-        "rsi": 52.9,
-        "ema9": 0.9994881158027497,
-        "ema21": 0.9994685028496869,
-        "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.57,
-        "score": 53
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -38,
-      "combinedScore": 48,
-      "signal": "WAIT",
-      "reason": "Technical 53/100; News +0; Market sentiment -38."
+      "reason": "Technical 23/100; News +33; Market sentiment -42."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 1.0336,
-      "change24h": -2.693,
-      "volume24h": 101870578.38254,
+      "price": 1.0307,
+      "change24h": -1.773,
+      "volume24h": 93116933.9135,
       "technical": {
-        "rsi": 51.8,
-        "ema9": 1.0299399474074087,
-        "ema21": 1.0295617342335521,
-        "macdBull": true,
+        "rsi": 43.6,
+        "ema9": 1.0356983503165862,
+        "ema21": 1.0356751598079454,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 1.1,
-        "score": 77
+        "volumeRatio": 1.02,
+        "score": 41
       },
       "newsScore": 33,
       "newsCount": 1,
@@ -268,71 +261,71 @@
           "text": "Ripple’s bank-lending system moves closer to launch on the XRP Ledger Lending support among the ledger’s 35 validators has climbed from 19 to 22 since mid-October, and no public tracker shows which validators switched."
         }
       ],
-      "marketSentiment": -38,
-      "combinedScore": 65,
-      "signal": "BUY",
-      "reason": "Technical 77/100; News +33; Market sentiment -38."
-    },
-    {
-      "symbol": "PEPEUSDT",
-      "coin": "PEPE",
-      "price": 4.48e-06,
-      "change24h": -7.246,
-      "volume24h": 82475411.6389521,
-      "technical": {
-        "rsi": 69.0,
-        "ema9": 4.428888881539088e-06,
-        "ema21": 4.4020365787925195e-06,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 1.0,
-        "score": 89
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -38,
-      "combinedScore": 66,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment -38."
+      "marketSentiment": -42,
+      "combinedScore": 46,
+      "signal": "WAIT",
+      "reason": "Technical 41/100; News +33; Market sentiment -42."
     },
     {
       "symbol": "BNBUSDT",
       "coin": "BNB",
-      "price": 654.44,
-      "change24h": -4.719,
-      "volume24h": 80307881.10526,
+      "price": 655.14,
+      "change24h": -3.372,
+      "volume24h": 79155197.58488,
       "technical": {
-        "rsi": 43.2,
-        "ema9": 655.1334634742929,
-        "ema21": 655.9930164267123,
+        "rsi": 47.2,
+        "ema9": 655.5312035731529,
+        "ema21": 655.5055949337745,
         "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.55,
-        "score": 35
+        "emaBull": true,
+        "volumeRatio": 1.1,
+        "score": 77
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -38,
-      "combinedScore": 39,
+      "marketSentiment": -42,
+      "combinedScore": 59,
       "signal": "WAIT",
-      "reason": "Technical 35/100; News +0; Market sentiment -38."
+      "reason": "Technical 77/100; News +0; Market sentiment -42."
+    },
+    {
+      "symbol": "PEPEUSDT",
+      "coin": "PEPE",
+      "price": 4.54e-06,
+      "change24h": 0.0,
+      "volume24h": 70489143.39639074,
+      "technical": {
+        "rsi": 65.8,
+        "ema9": 4.547086411904974e-06,
+        "ema21": 4.5222806542792035e-06,
+        "macdBull": false,
+        "emaBull": true,
+        "volumeRatio": 1.04,
+        "score": 65
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -42,
+      "combinedScore": 53,
+      "signal": "WAIT",
+      "reason": "Technical 65/100; News +0; Market sentiment -42."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 3.428,
-      "change24h": -7.849,
-      "volume24h": 68596442.8747,
+      "price": 3.443,
+      "change24h": -3.854,
+      "volume24h": 61722931.2665,
       "technical": {
-        "rsi": 51.5,
-        "ema9": 3.416257913000091,
-        "ema21": 3.414058824356458,
+        "rsi": 56.9,
+        "ema9": 3.4189212913787252,
+        "ema21": 3.416570477322322,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.48,
-        "score": 77
+        "volumeRatio": 1.08,
+        "score": 89
       },
       "newsScore": 0,
       "newsCount": 1,
@@ -345,13 +338,62 @@
           "text": "Bitcoin hovers near $74K as stocks rise despite US bond yield rebound Bitcoin traded in a narrow range as investors bought the dip in tech stocks and US bond yields climbed on high CPI inflation data."
         }
       ],
-      "marketSentiment": -38,
-      "combinedScore": 60,
-      "signal": "WAIT",
-      "reason": "Technical 77/100; News +0; Market sentiment -38."
+      "marketSentiment": -42,
+      "combinedScore": 65,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment -42."
     }
   ],
   "news": [
+    {
+      "title": "Gemini’s quarterly retail trading volume sinks to 3-year low",
+      "link": "https://cointelegraph.com/markets/geminis-quarterly-retail-trading-volume-sinks-to-3-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 13 Nov 2026 00:52:42 +0000",
+      "source": "Cointelegraph",
+      "text": "Gemini’s quarterly retail trading volume sinks to 3-year low Gemini’s third-quarter trading rebound masked a deepening retail slump."
+    },
+    {
+      "title": "Maple Finance’s strategy rift sends co-founder, COO to the exits",
+      "link": "https://cointelegraph.com/news/maple-finance-strategy-rift-co-founder-coo-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 12 Nov 2026 23:12:55 +0000",
+      "source": "Cointelegraph",
+      "text": "Maple Finance’s strategy rift sends co-founder, COO to the exits Maple Finance co-founder Joe Flanagan and COO Ryan O’Shea are leaving over disagreements about the firm’s direction as SYRUP falls despite revenue growth."
+    },
+    {
+      "title": "NK hackers join memecoin trenches, xStocks adds Hong Kong equities: Asia Express",
+      "link": "https://cointelegraph.com/magazine/nk-hackers-join-memecoin-trenches-xstocks-adds-hong-kong-equities-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 12 Nov 2026 22:29:58 +0000",
+      "source": "Cointelegraph",
+      "text": "NK hackers join memecoin trenches, xStocks adds Hong Kong equities: Asia Express North Korean hackers launch memecoins to launder funds stolen in the Binance hack, while xStocks plans to add hundreds of Hong Kong-listed equities in the coming weeks."
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 12 Nov 2026 22:11:41 +0000",
+      "source": "Cointelegraph",
+      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "title": "Kalshi ends Donald Trump Jr. advisory role over Polymarket investment: Reuters",
+      "link": "https://cointelegraph.com/news/kalshi-ends-donald-trump-jr-advisory-role-polymarket-investment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 12 Nov 2026 22:05:01 +0000",
+      "source": "Cointelegraph",
+      "text": "Kalshi ends Donald Trump Jr. advisory role over Polymarket investment: Reuters The prediction market operator said the decision was mutual and followed 1789 Capital’s investment in rival Polymarket, denying political considerations."
+    },
+    {
+      "title": "Strategy stock sheds 5% amid MSCI index removal, Bitcoin sell-off",
+      "link": "https://cointelegraph.com/markets/strategy-shares-fall-5-msci-index-removal-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 12 Nov 2026 21:52:04 +0000",
+      "source": "Cointelegraph",
+      "text": "Strategy stock sheds 5% amid MSCI index removal, Bitcoin sell-off Strategy shares declined Thursday following MSCI’s decision to remove the company from its indexes, as Bitcoin also fell amid a broader crypto market decline."
+    },
+    {
+      "title": "US Justice Department, business groups and DeFi firms challenge Illinois crypto tax",
+      "link": "https://cointelegraph.com/news/us-justice-department-business-groups-defi-illinois-crypto-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 12 Nov 2026 20:58:06 +0000",
+      "source": "Cointelegraph",
+      "text": "US Justice Department, business groups and DeFi firms challenge Illinois crypto tax Industry groups argued in court filings that Illinois’ crypto tax, which applies even when a transaction yields no profit, could raise compliance costs and violate federal law."
+    },
     {
       "title": "DTCC Plans Solana Expansion as Wallet Rules Limit Access",
       "link": "https://cointelegraph.com/news/dtcc-plans-solana-expansion-wallet-rules-limit-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -442,55 +484,6 @@
       "published": "Thu, 12 Nov 2026 08:06:48 +0000",
       "source": "Cointelegraph",
       "text": "BlackRock Bitcoin ETF outflows hit $2B over nine sessions US spot Bitcoin ETF outflows rose to nearly $300 million on Wednesday, up from $95 million a day earlier, as five-session withdrawals reached $1.44 billion."
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 12 Nov 2026 06:00:00 +0000",
-      "source": "Cointelegraph",
-      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-    },
-    {
-      "title": "South Korea to permit crypto withdrawal freezes during hacking threats",
-      "link": "https://cointelegraph.com/news/south-korea-crypto-withdrawal-freezes-suspected-hacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 12 Nov 2026 05:54:48 +0000",
-      "source": "Cointelegraph",
-      "text": "South Korea to permit crypto withdrawal freezes during hacking threats The move follows recent security incidents involving South Korean crypto exchanges, including GOPAX’s precautionary suspension of services and a $70,000 hot-wallet breach at Prabang."
-    },
-    {
-      "title": "Binance CSO unwittingly foreshadowed $6.3B hack tactic months before attack",
-      "link": "https://cointelegraph.com/news/binance-cso-foreshadowed-6b-hack-tactic-months-before-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 12 Nov 2026 05:07:11 +0000",
-      "source": "Cointelegraph",
-      "text": "Binance CSO unwittingly foreshadowed $6.3B hack tactic months before attack In a July interview, Binance chief security officer Jimmy Su explained how fake coding assessments could compromise employee devices, a tactic later used in the exchange’s record-breaking hack."
-    },
-    {
-      "title": "MSCI confirms Strategy’s removal from indexes at end of November",
-      "link": "https://cointelegraph.com/news/msci-confirms-strategys-removal-from-indexes-end-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 12 Nov 2026 00:09:13 +0000",
-      "source": "Cointelegraph",
-      "text": "MSCI confirms Strategy’s removal from indexes at end of November Strategy, Metaplanet and Upexi are marked for deletion in MSCI’s final list, with changes taking effect after the Nov. 30 close."
-    },
-    {
-      "title": "Suiet wallet to shut down in latest exit from Sui ecosystem",
-      "link": "https://cointelegraph.com/news/suiet-wallet-shut-down-latest-exit-sui-ecosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 11 Nov 2026 23:18:44 +0000",
-      "source": "Cointelegraph",
-      "text": "Suiet wallet to shut down in latest exit from Sui ecosystem The self-custodial wallet will keep its API services running through Nov. 14. Sui’s DeFi total value locked has fallen more than 22% over the past month."
-    },
-    {
-      "title": "Nvidia preparing to oust CEO Jensen Huang after affairs: WSJ",
-      "link": "https://cointelegraph.com/news/nvidia-preparing-to-oust-ceo-jensen-huang-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 11 Nov 2026 22:44:47 +0000",
-      "source": "Cointelegraph",
-      "text": "Nvidia preparing to oust CEO Jensen Huang after affairs: WSJ The report about Huang’s possible departure came after the New York Times reported that he had a second extramarital affair."
-    },
-    {
-      "title": "Uncalled US House races could send more crypto allies to Congress",
-      "link": "https://cointelegraph.com/news/uncalled-midterm-races-add-more-crypto-supporters-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 11 Nov 2026 22:05:17 +0000",
-      "source": "Cointelegraph",
-      "text": "Uncalled US House races could send more crypto allies to Congress The remaining races feature pro-crypto candidates and others without a stated position, giving advocacy groups what they see as “an opportunity” for outreach."
     }
   ],
   "paper": {
@@ -702,6 +695,36 @@
         "stopLoss": 4.4128e-06,
         "takeProfit": 4.6144e-06,
         "entryTime": "2026-11-12T20:28:24.878099+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "BTCUSDT",
+        "side": "SELL",
+        "entry": 70943.04,
+        "stopLoss": 72007.1856,
+        "takeProfit": 68814.7488,
+        "entryTime": "2026-11-13T01:21:29.804676+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "ZECUSDT",
+        "side": "BUY",
+        "entry": 957.49,
+        "stopLoss": 943.12765,
+        "takeProfit": 986.2147,
+        "entryTime": "2026-11-13T01:21:29.804676+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "NEARUSDT",
+        "side": "BUY",
+        "entry": 3.443,
+        "stopLoss": 3.391355,
+        "takeProfit": 3.54629,
+        "entryTime": "2026-11-13T01:21:29.804676+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       }
