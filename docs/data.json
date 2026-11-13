@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13 01:21:29 UTC",
+  "generatedAt": "2026-11-13 08:10:28 UTC",
   "interval": "15m candles",
   "marketSentiment": -42,
   "overallNewsScore": -8,
@@ -12,27 +12,34 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 70943.04,
-      "change24h": -3.729,
-      "volume24h": 1152793353.9224098,
+      "price": 68772.19,
+      "change24h": -6.652,
+      "volume24h": 2015131670.5108469,
       "technical": {
-        "rsi": 33.2,
-        "ema9": 71189.62920720704,
-        "ema21": 71374.41838986574,
-        "macdBull": false,
+        "rsi": 34.7,
+        "ema9": 68826.31763564046,
+        "ema21": 69132.41157363115,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 1.7,
-        "score": 6
+        "volumeRatio": 0.73,
+        "score": 35
       },
-      "newsScore": 10,
+      "newsScore": -30,
       "newsCount": 5,
       "news": [
         {
           "title": "Here’s what happened in crypto today",
           "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Thu, 12 Nov 2026 22:11:41 +0000",
+          "published": "Fri, 13 Nov 2026 06:16:46 +0000",
           "source": "Cointelegraph",
           "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+        },
+        {
+          "title": "Bitcoin slides below $70K amid thin liquidity, ETF outflows",
+          "link": "https://cointelegraph.com/markets/bitcoin-falls-below-70k-crypto-extreme-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Fri, 13 Nov 2026 06:00:15 +0000",
+          "source": "Cointelegraph",
+          "text": "Bitcoin slides below $70K amid thin liquidity, ETF outflows Bitcoin fell below $70,000 as crypto sentiment hit its lowest level in more than four months, with analysts warning of institutional outflows, thinning liquidity and elevated leverage."
         },
         {
           "title": "Strategy stock sheds 5% amid MSCI index removal, Bitcoin sell-off",
@@ -54,37 +61,30 @@
           "published": "Thu, 12 Nov 2026 08:06:48 +0000",
           "source": "Cointelegraph",
           "text": "BlackRock Bitcoin ETF outflows hit $2B over nine sessions US spot Bitcoin ETF outflows rose to nearly $300 million on Wednesday, up from $95 million a day earlier, as five-session withdrawals reached $1.44 billion."
-        },
-        {
-          "title": "US data center restrictions could give Bitcoin miners an edge in AI, though challenges remain",
-          "link": "https://cointelegraph.com/news/us-data-center-restrictions-bitcoin-miners-edge-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Wed, 11 Nov 2026 20:43:19 +0000",
-          "source": "Cointelegraph",
-          "text": "US data center restrictions could give Bitcoin miners an edge in AI, though challenges remain As US voters push back against new data centers, Bitcoin miners already expanding into AI could benefit from their existing facilities."
         }
       ],
       "marketSentiment": -42,
-      "combinedScore": 25,
+      "combinedScore": 34,
       "signal": "SELL",
-      "reason": "Technical 6/100; News +10; Market sentiment -42."
+      "reason": "Technical 35/100; News -30; Market sentiment -42."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 2010.22,
-      "change24h": -1.959,
-      "volume24h": 489476101.5611,
+      "price": 1937.5,
+      "change24h": -5.568,
+      "volume24h": 793121971.26,
       "technical": {
-        "rsi": 43.7,
-        "ema9": 2012.738832860628,
-        "ema21": 2014.3784639379764,
-        "macdBull": false,
+        "rsi": 38.1,
+        "ema9": 1936.600163899685,
+        "ema21": 1945.3470340906683,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 1.57,
-        "score": 6
+        "volumeRatio": 0.69,
+        "score": 35
       },
-      "newsScore": -33,
-      "newsCount": 3,
+      "newsScore": -40,
+      "newsCount": 5,
       "news": [
         {
           "title": "Are Alt-L1s over? Security, costs drive smaller chains to Ethereum",
@@ -101,6 +101,20 @@
           "text": "Ethlabs drops Hegotá slot proposal in push for 2027 quantum readiness Ethlabs’ roadmap aims to help Ethereum withstand quantum attacks and give users a way to protect their accounts by 2027."
         },
         {
+          "title": "Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy",
+          "link": "https://www.coindesk.com/markets/2026/11/13/ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-usd64-million-aave-loan-healthy",
+          "published": "Fri, 13 Nov 2026 07:05:29 +0000",
+          "source": "CoinDesk",
+          "text": "Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy The Nasdaq-listed company has 46,676 ETH backing its borrowings, and the loan could become eligible for liquidation if ether slides to around $1,700."
+        },
+        {
+          "title": "Bitcoin dips below $70,000 as Dollar Index hits 19-month high",
+          "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-dips-below-usd70-000-as-selloff-gathers-pace",
+          "published": "Fri, 13 Nov 2026 03:37:00 +0000",
+          "source": "CoinDesk",
+          "text": "Bitcoin dips below $70,000 as Dollar Index hits 19-month high The crypto market selloff gathered pace early Friday. Bitcoin dropped below $70,000 and ether traded below $2,000, triggering large liquidations in futures market."
+        },
+        {
           "title": "Ethereum researchers drop faster blocks to race toward quantum defenses in 2027",
           "link": "https://www.coindesk.com/tech/2026/11/12/ethereum-researchers-drop-faster-blocks-to-race-toward-quantum-defenses-in-2027",
           "published": "Thu, 12 Nov 2026 11:43:41 +0000",
@@ -109,101 +123,24 @@
         }
       ],
       "marketSentiment": -42,
-      "combinedScore": 19,
-      "signal": "SELL",
-      "reason": "Technical 6/100; News -33; Market sentiment -42."
-    },
-    {
-      "symbol": "NVDABUSDT",
-      "coin": "NVDAB",
-      "price": 168.54,
-      "change24h": 4.612,
-      "volume24h": 233389736.17329,
-      "technical": {
-        "rsi": 61.4,
-        "ema9": 167.80993848231216,
-        "ema21": 167.02966302197558,
-        "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 1.5,
-        "score": 65
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -42,
-      "combinedScore": 53,
-      "signal": "WAIT",
-      "reason": "Technical 65/100; News +0; Market sentiment -42."
-    },
-    {
-      "symbol": "USD1USDT",
-      "coin": "USD1",
-      "price": 0.99941,
-      "change24h": 0.001,
-      "volume24h": 161695450.37341,
-      "technical": {
-        "rsi": 46.5,
-        "ema9": 0.9994338215431986,
-        "ema21": 0.9994573684607259,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.46,
-        "score": 23
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -42,
       "combinedScore": 32,
       "signal": "SELL",
-      "reason": "Technical 23/100; News +0; Market sentiment -42."
-    },
-    {
-      "symbol": "ZECUSDT",
-      "coin": "ZEC",
-      "price": 957.49,
-      "change24h": -2.765,
-      "volume24h": 155340328.38671,
-      "technical": {
-        "rsi": 53.7,
-        "ema9": 953.9629222405276,
-        "ema21": 952.406941035516,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 1.44,
-        "score": 77
-      },
-      "newsScore": 100,
-      "newsCount": 1,
-      "news": [
-        {
-          "title": "Zcash holders to vote on pulling 50,000 ZEC, worth $50 million, from grants treasury",
-          "link": "https://www.coindesk.com/tech/2026/11/12/zcash-holders-to-vote-on-pulling-50-000-zec-from-grants-treasury",
-          "published": "Thu, 12 Nov 2026 05:49:44 +0000",
-          "source": "CoinDesk",
-          "text": "Zcash holders to vote on pulling 50,000 ZEC, worth $50 million, from grants treasury The proposal would remove more than half of Zcash Community Grants' ZEC holdings from circulation and redirect its future block rewards into a new development and legal-defense fund."
-        }
-      ],
-      "marketSentiment": -42,
-      "combinedScore": 74,
-      "signal": "BUY",
-      "reason": "Technical 77/100; News +100; Market sentiment -42."
+      "reason": "Technical 35/100; News -40; Market sentiment -42."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 81.39,
-      "change24h": -2.046,
-      "volume24h": 149339706.49985,
+      "price": 80.08,
+      "change24h": -3.518,
+      "volume24h": 256230522.5971,
       "technical": {
-        "rsi": 47.1,
-        "ema9": 81.51684986255898,
-        "ema21": 81.53736213587324,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 1.37,
-        "score": 23
+        "rsi": 48.3,
+        "ema9": 79.81612689602319,
+        "ema21": 79.73726721535817,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.93,
+        "score": 77
       },
       "newsScore": 33,
       "newsCount": 3,
@@ -231,54 +168,23 @@
         }
       ],
       "marketSentiment": -42,
-      "combinedScore": 37,
+      "combinedScore": 64,
       "signal": "WAIT",
-      "reason": "Technical 23/100; News +33; Market sentiment -42."
+      "reason": "Technical 77/100; News +33; Market sentiment -42."
     },
     {
-      "symbol": "XRPUSDT",
-      "coin": "XRP",
-      "price": 1.0307,
-      "change24h": -1.773,
-      "volume24h": 93116933.9135,
+      "symbol": "ZECUSDT",
+      "coin": "ZEC",
+      "price": 946.28,
+      "change24h": -4.136,
+      "volume24h": 232497220.24247,
       "technical": {
-        "rsi": 43.6,
-        "ema9": 1.0356983503165862,
-        "ema21": 1.0356751598079454,
-        "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 1.02,
-        "score": 41
-      },
-      "newsScore": 33,
-      "newsCount": 1,
-      "news": [
-        {
-          "title": "Ripple’s bank-lending system moves closer to launch on the XRP Ledger",
-          "link": "https://www.coindesk.com/tech/2026/11/12/ripple-s-bank-lending-system-moves-closer-to-launch-on-the-xrp-ledger",
-          "published": "Thu, 12 Nov 2026 05:18:43 +0000",
-          "source": "CoinDesk",
-          "text": "Ripple’s bank-lending system moves closer to launch on the XRP Ledger Lending support among the ledger’s 35 validators has climbed from 19 to 22 since mid-October, and no public tracker shows which validators switched."
-        }
-      ],
-      "marketSentiment": -42,
-      "combinedScore": 46,
-      "signal": "WAIT",
-      "reason": "Technical 41/100; News +33; Market sentiment -42."
-    },
-    {
-      "symbol": "BNBUSDT",
-      "coin": "BNB",
-      "price": 655.14,
-      "change24h": -3.372,
-      "volume24h": 79155197.58488,
-      "technical": {
-        "rsi": 47.2,
-        "ema9": 655.5312035731529,
-        "ema21": 655.5055949337745,
+        "rsi": 52.0,
+        "ema9": 939.9439047868957,
+        "ema21": 935.8515135736432,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 1.1,
+        "volumeRatio": 0.34,
         "score": 77
       },
       "newsScore": 0,
@@ -290,61 +196,173 @@
       "reason": "Technical 77/100; News +0; Market sentiment -42."
     },
     {
-      "symbol": "PEPEUSDT",
-      "coin": "PEPE",
-      "price": 4.54e-06,
-      "change24h": 0.0,
-      "volume24h": 70489143.39639074,
+      "symbol": "NVDABUSDT",
+      "coin": "NVDAB",
+      "price": 167.25,
+      "change24h": 3.317,
+      "volume24h": 213973661.57193,
       "technical": {
-        "rsi": 65.8,
-        "ema9": 4.547086411904974e-06,
-        "ema21": 4.5222806542792035e-06,
-        "macdBull": false,
+        "rsi": 58.3,
+        "ema9": 165.45928557007917,
+        "ema21": 165.19313083898652,
+        "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 1.04,
-        "score": 65
+        "volumeRatio": 1.23,
+        "score": 89
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": -42,
-      "combinedScore": 53,
-      "signal": "WAIT",
-      "reason": "Technical 65/100; News +0; Market sentiment -42."
+      "combinedScore": 65,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment -42."
     },
     {
-      "symbol": "NEARUSDT",
-      "coin": "NEAR",
-      "price": 3.443,
-      "change24h": -3.854,
-      "volume24h": 61722931.2665,
+      "symbol": "USD1USDT",
+      "coin": "USD1",
+      "price": 0.99944,
+      "change24h": -0.004,
+      "volume24h": 191725762.15703,
       "technical": {
-        "rsi": 56.9,
-        "ema9": 3.4189212913787252,
-        "ema21": 3.416570477322322,
+        "rsi": 49.4,
+        "ema9": 0.999402654669671,
+        "ema21": 0.9994014048330786,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 1.08,
+        "volumeRatio": 0.8,
+        "score": 77
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -42,
+      "combinedScore": 59,
+      "signal": "WAIT",
+      "reason": "Technical 77/100; News +0; Market sentiment -42."
+    },
+    {
+      "symbol": "BNBUSDT",
+      "coin": "BNB",
+      "price": 629.87,
+      "change24h": -6.625,
+      "volume24h": 140618726.3652,
+      "technical": {
+        "rsi": 34.5,
+        "ema9": 632.7626277143733,
+        "ema21": 635.8493095479812,
+        "macdBull": true,
+        "emaBull": false,
+        "volumeRatio": 0.37,
+        "score": 35
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -42,
+      "combinedScore": 38,
+      "signal": "WAIT",
+      "reason": "Technical 35/100; News +0; Market sentiment -42."
+    },
+    {
+      "symbol": "XRPUSDT",
+      "coin": "XRP",
+      "price": 1.0302,
+      "change24h": -1.397,
+      "volume24h": 134126701.99741,
+      "technical": {
+        "rsi": 55.6,
+        "ema9": 1.0236867085052603,
+        "ema21": 1.0210755231757986,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.26,
         "score": 89
       },
       "newsScore": 0,
-      "newsCount": 1,
-      "news": [
-        {
-          "title": "Bitcoin hovers near $74K as stocks rise despite US bond yield rebound",
-          "link": "https://cointelegraph.com/markets/bitcoin-74k-stocks-us-bond-yield-inflation-cpi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Wed, 11 Nov 2026 16:26:00 +0000",
-          "source": "Cointelegraph",
-          "text": "Bitcoin hovers near $74K as stocks rise despite US bond yield rebound Bitcoin traded in a narrow range as investors bought the dip in tech stocks and US bond yields climbed on high CPI inflation data."
-        }
-      ],
+      "newsCount": 0,
+      "news": [],
       "marketSentiment": -42,
       "combinedScore": 65,
       "signal": "BUY",
       "reason": "Technical 89/100; News +0; Market sentiment -42."
+    },
+    {
+      "symbol": "NEARUSDT",
+      "coin": "NEAR",
+      "price": 3.533,
+      "change24h": 0.856,
+      "volume24h": 87247495.9827,
+      "technical": {
+        "rsi": 67.5,
+        "ema9": 3.470303937913314,
+        "ema21": 3.4259809894913955,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.64,
+        "score": 89
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -42,
+      "combinedScore": 65,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment -42."
+    },
+    {
+      "symbol": "PEPEUSDT",
+      "coin": "PEPE",
+      "price": 4.55e-06,
+      "change24h": 2.018,
+      "volume24h": 84595515.2334627,
+      "technical": {
+        "rsi": 52.6,
+        "ema9": 4.562369012059719e-06,
+        "ema21": 4.547869276078567e-06,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.36,
+        "score": 77
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -42,
+      "combinedScore": 59,
+      "signal": "WAIT",
+      "reason": "Technical 77/100; News +0; Market sentiment -42."
     }
   ],
   "news": [
+    {
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 13 Nov 2026 06:16:46 +0000",
+      "source": "Cointelegraph",
+      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "title": "Bitcoin slides below $70K amid thin liquidity, ETF outflows",
+      "link": "https://cointelegraph.com/markets/bitcoin-falls-below-70k-crypto-extreme-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 13 Nov 2026 06:00:15 +0000",
+      "source": "Cointelegraph",
+      "text": "Bitcoin slides below $70K amid thin liquidity, ETF outflows Bitcoin fell below $70,000 as crypto sentiment hit its lowest level in more than four months, with analysts warning of institutional outflows, thinning liquidity and elevated leverage."
+    },
+    {
+      "title": "Trump nominates Hester Peirce successor among SEC, CFTC picks",
+      "link": "https://cointelegraph.com/news/trump-nominates-hester-peirce-successor-among-sec-cftc-picks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 13 Nov 2026 02:29:27 +0000",
+      "source": "Cointelegraph",
+      "text": "Trump nominates Hester Peirce successor among SEC, CFTC picks The White House also named a former CFTC commissioner and two CLARITY Act veterans as nominees to fill vacancies at the SEC and CFTC."
+    },
+    {
+      "title": "Former Nvidia CEO Huang had third alleged affair: Reuters",
+      "link": "https://cointelegraph.com/news/former-nvidia-ceo-huang-had-third-alleged-affair-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 13 Nov 2026 01:26:27 +0000",
+      "source": "Cointelegraph",
+      "text": "Former Nvidia CEO Huang had third alleged affair: Reuters Reuters reported that Jensen Huang had a relationship with another Nvidia employee, hours after he resigned as CEO."
+    },
     {
       "title": "Gemini’s quarterly retail trading volume sinks to 3-year low",
       "link": "https://cointelegraph.com/markets/geminis-quarterly-retail-trading-volume-sinks-to-3-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -365,13 +383,6 @@
       "published": "Thu, 12 Nov 2026 22:29:58 +0000",
       "source": "Cointelegraph",
       "text": "NK hackers join memecoin trenches, xStocks adds Hong Kong equities: Asia Express North Korean hackers launch memecoins to launder funds stolen in the Binance hack, while xStocks plans to add hundreds of Hong Kong-listed equities in the coming weeks."
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 12 Nov 2026 22:11:41 +0000",
-      "source": "Cointelegraph",
-      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
       "title": "Kalshi ends Donald Trump Jr. advisory role over Polymarket investment: Reuters",
@@ -463,27 +474,6 @@
       "published": "Thu, 12 Nov 2026 11:38:50 +0000",
       "source": "Cointelegraph",
       "text": "Stablecoin supply falls $14.2B in biggest 30-day drop since June 2022 Crypto markets were left with “less fuel” to rally after the market cap of major stablecoins saw its biggest 30-day drop in over four years."
-    },
-    {
-      "title": "Tron and Tether bring in Chainalysis after T3 crime unit folds",
-      "link": "https://cointelegraph.com/news/tron-tether-chainalysis-cybercrime-task-force-laundering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 12 Nov 2026 11:00:00 +0000",
-      "source": "Cointelegraph",
-      "text": "Tron and Tether bring in Chainalysis after T3 crime unit folds The group will focus on illicit USDT activity on Tron and help law enforcement investigate suspicious transfers and freeze funds faster."
-    },
-    {
-      "title": "Ethlabs drops Hegotá slot proposal in push for 2027 quantum readiness",
-      "link": "https://cointelegraph.com/news/ethlabs-ethereum-quantum-security-2027-quick-slots?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 12 Nov 2026 10:30:29 +0000",
-      "source": "Cointelegraph",
-      "text": "Ethlabs drops Hegotá slot proposal in push for 2027 quantum readiness Ethlabs’ roadmap aims to help Ethereum withstand quantum attacks and give users a way to protect their accounts by 2027."
-    },
-    {
-      "title": "BlackRock Bitcoin ETF outflows hit $2B over nine sessions",
-      "link": "https://cointelegraph.com/markets/blackrock-bitcoin-etf-ibit-outflows-nine-day-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 12 Nov 2026 08:06:48 +0000",
-      "source": "Cointelegraph",
-      "text": "BlackRock Bitcoin ETF outflows hit $2B over nine sessions US spot Bitcoin ETF outflows rose to nearly $300 million on Wednesday, up from $95 million a day earlier, as five-session withdrawals reached $1.44 billion."
     }
   ],
   "paper": {
@@ -639,32 +629,12 @@
         "mode": "PAPER ONLY"
       },
       {
-        "symbol": "SOLUSDT",
-        "side": "SELL",
-        "entry": 83.04,
-        "stopLoss": 84.2856,
-        "takeProfit": 80.5488,
-        "entryTime": "2026-11-11T23:38:26.049866+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
         "symbol": "XRPUSDT",
         "side": "SELL",
         "entry": 1.0492,
         "stopLoss": 1.064938,
         "takeProfit": 1.017724,
         "entryTime": "2026-11-11T23:38:26.049866+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
-        "symbol": "ETHUSDT",
-        "side": "SELL",
-        "entry": 2021.22,
-        "stopLoss": 2051.5383,
-        "takeProfit": 1960.5834,
-        "entryTime": "2026-11-12T12:43:13.292273+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       },
@@ -679,32 +649,12 @@
         "mode": "PAPER ONLY"
       },
       {
-        "symbol": "BNBUSDT",
-        "side": "SELL",
-        "entry": 660.14,
-        "stopLoss": 670.0421,
-        "takeProfit": 640.3358,
-        "entryTime": "2026-11-12T12:43:13.292273+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
         "symbol": "PEPEUSDT",
         "side": "BUY",
         "entry": 4.48e-06,
         "stopLoss": 4.4128e-06,
         "takeProfit": 4.6144e-06,
         "entryTime": "2026-11-12T20:28:24.878099+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
-        "symbol": "BTCUSDT",
-        "side": "SELL",
-        "entry": 70943.04,
-        "stopLoss": 72007.1856,
-        "takeProfit": 68814.7488,
-        "entryTime": "2026-11-13T01:21:29.804676+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       },
@@ -725,6 +675,36 @@
         "stopLoss": 3.391355,
         "takeProfit": 3.54629,
         "entryTime": "2026-11-13T01:21:29.804676+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "BTCUSDT",
+        "side": "SELL",
+        "entry": 68772.19,
+        "stopLoss": 69803.77285,
+        "takeProfit": 66709.0243,
+        "entryTime": "2026-11-13T08:10:28.898452+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "ETHUSDT",
+        "side": "SELL",
+        "entry": 1937.5,
+        "stopLoss": 1966.5625,
+        "takeProfit": 1879.375,
+        "entryTime": "2026-11-13T08:10:28.898452+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "NVDABUSDT",
+        "side": "BUY",
+        "entry": 167.25,
+        "stopLoss": 164.74125,
+        "takeProfit": 172.2675,
+        "entryTime": "2026-11-13T08:10:28.898452+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       }
@@ -2718,6 +2698,58 @@
         "exitPrice": 164.27,
         "exitTime": "2026-11-12T20:28:24.878099+00:00",
         "pnlPercent": -2.445
+      },
+      {
+        "symbol": "SOLUSDT",
+        "side": "SELL",
+        "entry": 83.04,
+        "stopLoss": 84.2856,
+        "takeProfit": 80.5488,
+        "entryTime": "2026-11-11T23:38:26.049866+00:00",
+        "status": "TAKE_PROFIT",
+        "mode": "PAPER ONLY",
+        "exitPrice": 80.08,
+        "exitTime": "2026-11-13T08:10:28.898452+00:00",
+        "pnlPercent": 3.565
+      },
+      {
+        "symbol": "ETHUSDT",
+        "side": "SELL",
+        "entry": 2021.22,
+        "stopLoss": 2051.5383,
+        "takeProfit": 1960.5834,
+        "entryTime": "2026-11-12T12:43:13.292273+00:00",
+        "status": "TAKE_PROFIT",
+        "mode": "PAPER ONLY",
+        "exitPrice": 1937.5,
+        "exitTime": "2026-11-13T08:10:28.898452+00:00",
+        "pnlPercent": 4.142
+      },
+      {
+        "symbol": "BNBUSDT",
+        "side": "SELL",
+        "entry": 660.14,
+        "stopLoss": 670.0421,
+        "takeProfit": 640.3358,
+        "entryTime": "2026-11-12T12:43:13.292273+00:00",
+        "status": "TAKE_PROFIT",
+        "mode": "PAPER ONLY",
+        "exitPrice": 629.87,
+        "exitTime": "2026-11-13T08:10:28.898452+00:00",
+        "pnlPercent": 4.585
+      },
+      {
+        "symbol": "BTCUSDT",
+        "side": "SELL",
+        "entry": 70943.04,
+        "stopLoss": 72007.1856,
+        "takeProfit": 68814.7488,
+        "entryTime": "2026-11-13T01:21:29.804676+00:00",
+        "status": "TAKE_PROFIT",
+        "mode": "PAPER ONLY",
+        "exitPrice": 68772.19,
+        "exitTime": "2026-11-13T08:10:28.898452+00:00",
+        "pnlPercent": 3.06
       }
     ]
   },
