@@ -21,16 +21,6 @@
       "mode": "PAPER ONLY"
     },
     {
-      "symbol": "SPCXBUSDT",
-      "side": "SELL",
-      "entry": 157.07,
-      "stopLoss": 159.42605,
-      "takeProfit": 152.3579,
-      "entryTime": "2026-10-21T23:38:50.867319+00:00",
-      "status": "OPEN",
-      "mode": "PAPER ONLY"
-    },
-    {
       "symbol": "RLUSDUSDT",
       "side": "BUY",
       "entry": 1.0008,
@@ -221,16 +211,6 @@
       "mode": "PAPER ONLY"
     },
     {
-      "symbol": "NVDABUSDT",
-      "side": "SELL",
-      "entry": 158.81,
-      "stopLoss": 161.19215,
-      "takeProfit": 154.0457,
-      "entryTime": "2026-11-13T16:18:07.501525+00:00",
-      "status": "OPEN",
-      "mode": "PAPER ONLY"
-    },
-    {
       "symbol": "XRPUSDT",
       "side": "SELL",
       "entry": 1.0116,
@@ -247,6 +227,16 @@
       "stopLoss": 639.4703,
       "takeProfit": 611.1194,
       "entryTime": "2026-11-13T16:18:07.501525+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "SPCXBUSDT",
+      "side": "SELL",
+      "entry": 138.46,
+      "stopLoss": 140.5369,
+      "takeProfit": 134.3062,
+      "entryTime": "2026-11-13T22:01:44.053416+00:00",
       "status": "OPEN",
       "mode": "PAPER ONLY"
     }
@@ -2331,6 +2321,32 @@
       "exitPrice": 158.81,
       "exitTime": "2026-11-13T16:18:07.501525+00:00",
       "pnlPercent": -5.046
+    },
+    {
+      "symbol": "SPCXBUSDT",
+      "side": "SELL",
+      "entry": 157.07,
+      "stopLoss": 159.42605,
+      "takeProfit": 152.3579,
+      "entryTime": "2026-10-21T23:38:50.867319+00:00",
+      "status": "TAKE_PROFIT",
+      "mode": "PAPER ONLY",
+      "exitPrice": 138.46,
+      "exitTime": "2026-11-13T22:01:44.053416+00:00",
+      "pnlPercent": 11.848
+    },
+    {
+      "symbol": "NVDABUSDT",
+      "side": "SELL",
+      "entry": 158.81,
+      "stopLoss": 161.19215,
+      "takeProfit": 154.0457,
+      "entryTime": "2026-11-13T16:18:07.501525+00:00",
+      "status": "STOP_LOSS",
+      "mode": "PAPER ONLY",
+      "exitPrice": 161.71,
+      "exitTime": "2026-11-13T22:01:44.053416+00:00",
+      "pnlPercent": -1.826
     }
   ]
 }

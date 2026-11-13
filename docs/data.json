@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-13 16:18:07 UTC",
+  "generatedAt": "2026-11-13 22:01:44 UTC",
   "interval": "15m candles",
-  "marketSentiment": -39,
-  "overallNewsScore": 0,
+  "marketSentiment": -33,
+  "overallNewsScore": 17,
   "fearGreed": {
     "value": 20,
     "label": "Extreme Fear",
@@ -12,21 +12,42 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 68463.89,
-      "change24h": -4.746,
-      "volume24h": 2077790056.7849438,
+      "price": 68462.0,
+      "change24h": -4.289,
+      "volume24h": 2018259842.9576347,
       "technical": {
-        "rsi": 41.3,
-        "ema9": 68819.2047619887,
-        "ema21": 69008.90228562918,
+        "rsi": 38.0,
+        "ema9": 68615.0620792785,
+        "ema21": 68772.54753978363,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.83,
+        "volumeRatio": 1.05,
         "score": 11
       },
-      "newsScore": -10,
+      "newsScore": 0,
       "newsCount": 5,
       "news": [
+        {
+          "title": "Adam Back makes case for simpler security as Blockstream launches Bitcoin custody system",
+          "link": "https://cointelegraph.com/news/adam-back-simpler-security-blockstream-bitcoin-custody-system?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Fri, 13 Nov 2026 21:49:27 +0000",
+          "source": "Cointelegraph",
+          "text": "Adam Back makes case for simpler security as Blockstream launches Bitcoin custody system Blockstream’s new custody system, developed with Thales, uses dedicated hardware for transaction signing as Adam Back advocates for offline security to reduce cyber risks."
+        },
+        {
+          "title": "Metaplanet swings to $170M loss as Bitcoin sale hits earnings",
+          "link": "https://cointelegraph.com/news/metaplanet-swings-170m-loss-bitcoin-sale-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Fri, 13 Nov 2026 18:28:29 +0000",
+          "source": "Cointelegraph",
+          "text": "Metaplanet swings to $170M loss as Bitcoin sale hits earnings Bitcoin sales, valuation losses and rising borrowing costs weighed on the Japanese company’s earnings despite higher revenue and operating profit."
+        },
+        {
+          "title": "Bitcoin holds below $70K as stocks slip despite a cooler US PPI print",
+          "link": "https://cointelegraph.com/markets/bitcoin-below-70k-stocks-slip-cooler-us-ppi-print?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Fri, 13 Nov 2026 16:39:11 +0000",
+          "source": "Cointelegraph",
+          "text": "Bitcoin holds below $70K as stocks slip despite a cooler US PPI print Bitcoin was down about 4% on the day amid a tepid market reaction to October’s US PPI reading, which came in below expected levels."
+        },
         {
           "title": "Here’s what happened in crypto today",
           "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -39,52 +60,31 @@
           "link": "https://cointelegraph.com/markets/nakamoto-shares-fall-after-negative-q3-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "published": "Fri, 13 Nov 2026 13:04:19 +0000",
           "source": "Cointelegraph",
-          "text": "Nakamoto shares fall 6% premarket after Q3 revenue turns negative A $5.8 million loss on Bitcoin options pushed operating revenue below zero, and higher Bitcoin prices lifted net income to $85.5 million."
-        },
-        {
-          "title": "Bitcoin returns to 200-week trend line as analyst sees risk of $57.7K next",
-          "link": "https://cointelegraph.com/markets/bitcoin-returns-200-week-trend-line-analyst-sees-risk-57k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Fri, 13 Nov 2026 09:39:05 +0000",
-          "source": "Cointelegraph",
-          "text": "Bitcoin returns to 200-week trend line as analyst sees risk of $57.7K next Bitcoin price action interacted with its 200-week simple moving average for the first time since mid-August as it fell below $68,000."
-        },
-        {
-          "title": "Jane Street boosts Fidelity Bitcoin ETF holdings nearly 8x, trims IBIT",
-          "link": "https://cointelegraph.com/news/jane-street-add-fidelity-bitcoin-etf-ibit-cut-q3-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Fri, 13 Nov 2026 09:05:10 +0000",
-          "source": "Cointelegraph",
-          "text": "Jane Street boosts Fidelity Bitcoin ETF holdings nearly 8x, trims IBIT Jane Street ended Q3 with 19% fewer shares in BlackRock’s Bitcoin ETF, and a higher share price lifted the stake’s value to $957 million."
-        },
-        {
-          "title": "Bitcoin slides below $70K amid thin liquidity, ETF outflows",
-          "link": "https://cointelegraph.com/markets/bitcoin-falls-below-70k-crypto-extreme-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Fri, 13 Nov 2026 06:00:15 +0000",
-          "source": "Cointelegraph",
-          "text": "Bitcoin slides below $70K amid thin liquidity, ETF outflows Bitcoin fell below $70,000 as crypto sentiment hit its lowest level in more than four months, with analysts warning of institutional outflows, thinning liquidity and elevated leverage."
+          "text": "Nakamoto shares fall 6% premarket after Q3 revenue turns negative A $5.8 million Bitcoin options loss pushed Nakamoto’s quarterly operating revenue below zero, while the company extended repayment of $60 million in Kraken debt to 2027."
         }
       ],
-      "marketSentiment": -39,
-      "combinedScore": 25,
+      "marketSentiment": -33,
+      "combinedScore": 27,
       "signal": "SELL",
-      "reason": "Technical 11/100; News -10; Market sentiment -39."
+      "reason": "Technical 11/100; News +0; Market sentiment -33."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 1922.72,
-      "change24h": -4.54,
-      "volume24h": 744277076.171133,
+      "price": 1930.52,
+      "change24h": -4.267,
+      "volume24h": 721280059.667573,
       "technical": {
-        "rsi": 39.5,
-        "ema9": 1939.876064334076,
-        "ema21": 1947.161419241371,
+        "rsi": 39.8,
+        "ema9": 1937.2430072351328,
+        "ema21": 1940.8685775171061,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.81,
+        "volumeRatio": 0.87,
         "score": 11
       },
-      "newsScore": -40,
-      "newsCount": 5,
+      "newsScore": -25,
+      "newsCount": 4,
       "news": [
         {
           "title": "Are Alt-L1s over? Security, costs drive smaller chains to Ethereum",
@@ -92,13 +92,6 @@
           "published": "Thu, 12 Nov 2026 13:30:00 +0000",
           "source": "Cointelegraph",
           "text": "Are Alt-L1s over? Security, costs drive smaller chains to Ethereum L1 blockchains Zilliqa, Gnosis and Ronin join the Ethereum ecosystem as the costs of going it alone grow, and the security and liquidity advantages become too hard to resist."
-        },
-        {
-          "title": "Ethlabs drops Hegotá slot proposal in push for 2027 quantum readiness",
-          "link": "https://cointelegraph.com/news/ethlabs-ethereum-quantum-security-2027-quick-slots?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Thu, 12 Nov 2026 10:30:29 +0000",
-          "source": "Cointelegraph",
-          "text": "Ethlabs drops Hegotá slot proposal in push for 2027 quantum readiness Ethlabs’ roadmap aims to help Ethereum withstand quantum attacks and give users a way to protect their accounts by 2027."
         },
         {
           "title": "Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy",
@@ -122,25 +115,25 @@
           "text": "Ethereum researchers drop faster blocks to race toward quantum defenses in 2027 Ethlabs wants quantum-resistant accounts targeted for next year, even if wallet holders still have to switch signing methods themselves."
         }
       ],
-      "marketSentiment": -39,
-      "combinedScore": 21,
+      "marketSentiment": -33,
+      "combinedScore": 23,
       "signal": "SELL",
-      "reason": "Technical 11/100; News -40; Market sentiment -39."
+      "reason": "Technical 11/100; News -25; Market sentiment -33."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 79.44,
-      "change24h": -2.98,
-      "volume24h": 270992054.20932,
+      "price": 78.8,
+      "change24h": -3.218,
+      "volume24h": 275135121.14165,
       "technical": {
-        "rsi": 41.5,
-        "ema9": 80.1618260838314,
-        "ema21": 80.40003974814057,
+        "rsi": 29.0,
+        "ema9": 79.45146895516646,
+        "ema21": 79.78881999254678,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.8,
-        "score": 11
+        "volumeRatio": 6.33,
+        "score": 6
       },
       "newsScore": 33,
       "newsCount": 3,
@@ -167,174 +160,209 @@
           "text": "Jupiter adds Anchorage-backed USDGO to its $1 billion Solana lending platform OSL offers a yield on USDGO only to professional investors, but Jupiter said its market lets other holders earn onchain at rates set by borrower demand."
         }
       ],
-      "marketSentiment": -39,
-      "combinedScore": 32,
+      "marketSentiment": -33,
+      "combinedScore": 30,
       "signal": "SELL",
-      "reason": "Technical 11/100; News +33; Market sentiment -39."
+      "reason": "Technical 6/100; News +33; Market sentiment -33."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 942.03,
-      "change24h": -2.284,
-      "volume24h": 239701693.2555,
+      "price": 939.45,
+      "change24h": -0.672,
+      "volume24h": 235383679.05406,
       "technical": {
-        "rsi": 44.0,
-        "ema9": 950.1079159303868,
-        "ema21": 953.9412079362494,
+        "rsi": 41.0,
+        "ema9": 946.2801941461138,
+        "ema21": 949.4376531950472,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 1.01,
-        "score": 11
+        "volumeRatio": 2.44,
+        "score": 16
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -39,
-      "combinedScore": 27,
+      "marketSentiment": -33,
+      "combinedScore": 30,
       "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment -39."
+      "reason": "Technical 16/100; News +0; Market sentiment -33."
     },
     {
       "symbol": "USD1USDT",
       "coin": "USD1",
-      "price": 0.99915,
-      "change24h": -0.027,
-      "volume24h": 222245953.58846,
+      "price": 0.99933,
+      "change24h": -0.029,
+      "volume24h": 192321054.11178,
       "technical": {
-        "rsi": 46.4,
-        "ema9": 0.9991615021134389,
-        "ema21": 0.9992196471733312,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.35,
-        "score": 23
+        "rsi": 50.0,
+        "ema9": 0.9993375291890229,
+        "ema21": 0.9993093703811408,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.85,
+        "score": 77
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -39,
-      "combinedScore": 33,
-      "signal": "SELL",
-      "reason": "Technical 23/100; News +0; Market sentiment -39."
+      "marketSentiment": -33,
+      "combinedScore": 60,
+      "signal": "WAIT",
+      "reason": "Technical 77/100; News +0; Market sentiment -33."
     },
     {
       "symbol": "NVDABUSDT",
       "coin": "NVDAB",
-      "price": 158.81,
-      "change24h": -4.204,
-      "volume24h": 175278058.28228,
+      "price": 161.71,
+      "change24h": -3.249,
+      "volume24h": 160035991.12461,
       "technical": {
-        "rsi": 20.6,
-        "ema9": 162.2374639675686,
-        "ema21": 164.91599581099086,
-        "macdBull": false,
+        "rsi": 44.9,
+        "ema9": 162.13855601537006,
+        "ema21": 162.39664341265055,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.74,
-        "score": 28
+        "volumeRatio": 0.47,
+        "score": 35
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -39,
-      "combinedScore": 35,
-      "signal": "SELL",
-      "reason": "Technical 28/100; News +0; Market sentiment -39."
+      "marketSentiment": -33,
+      "combinedScore": 39,
+      "signal": "WAIT",
+      "reason": "Technical 35/100; News +0; Market sentiment -33."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 1.0116,
-      "change24h": -1.567,
-      "volume24h": 135727620.63727,
+      "price": 1.0159,
+      "change24h": -1.921,
+      "volume24h": 135707057.87242,
       "technical": {
-        "rsi": 41.5,
-        "ema9": 1.0226238781456565,
-        "ema21": 1.0243969030267799,
+        "rsi": 41.7,
+        "ema9": 1.0172184467365988,
+        "ema21": 1.020330559008749,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.5,
+        "volumeRatio": 0.98,
         "score": 11
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -39,
+      "marketSentiment": -33,
       "combinedScore": 27,
       "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment -39."
+      "reason": "Technical 11/100; News +0; Market sentiment -33."
     },
     {
       "symbol": "BNBUSDT",
       "coin": "BNB",
-      "price": 630.02,
-      "change24h": -4.284,
-      "volume24h": 128461730.18713,
+      "price": 632.09,
+      "change24h": -3.442,
+      "volume24h": 130948895.22958,
       "technical": {
-        "rsi": 38.2,
-        "ema9": 635.0397103009484,
-        "ema21": 637.1243459150553,
+        "rsi": 38.8,
+        "ema9": 634.3167480737388,
+        "ema21": 635.3302689111986,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.66,
+        "volumeRatio": 0.58,
         "score": 11
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -39,
+      "marketSentiment": -33,
       "combinedScore": 27,
       "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment -39."
+      "reason": "Technical 11/100; News +0; Market sentiment -33."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 3.489,
-      "change24h": 1.572,
-      "volume24h": 89897731.2239,
+      "price": 3.492,
+      "change24h": 2.615,
+      "volume24h": 89635222.045,
       "technical": {
-        "rsi": 45.8,
-        "ema9": 3.516231735567459,
-        "ema21": 3.5238668850052592,
+        "rsi": 42.0,
+        "ema9": 3.5098036056697515,
+        "ema21": 3.5163471736550185,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 1.05,
-        "score": 23
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -39,
-      "combinedScore": 33,
-      "signal": "SELL",
-      "reason": "Technical 23/100; News +0; Market sentiment -39."
-    },
-    {
-      "symbol": "PEPEUSDT",
-      "coin": "PEPE",
-      "price": 4.47e-06,
-      "change24h": 2.523,
-      "volume24h": 66961867.43967133,
-      "technical": {
-        "rsi": 42.1,
-        "ema9": 4.506011791695424e-06,
-        "ema21": 4.519947806783994e-06,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.63,
+        "volumeRatio": 0.78,
         "score": 11
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -39,
+      "marketSentiment": -33,
       "combinedScore": 27,
       "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment -39."
+      "reason": "Technical 11/100; News +0; Market sentiment -33."
+    },
+    {
+      "symbol": "SPCXBUSDT",
+      "coin": "SPCXB",
+      "price": 138.46,
+      "change24h": -1.634,
+      "volume24h": 69520289.14216,
+      "technical": {
+        "rsi": 40.8,
+        "ema9": 138.8497146837236,
+        "ema21": 139.1587862011791,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.32,
+        "score": 11
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -33,
+      "combinedScore": 27,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment -33."
     }
   ],
   "news": [
+    {
+      "title": "Adam Back makes case for simpler security as Blockstream launches Bitcoin custody system",
+      "link": "https://cointelegraph.com/news/adam-back-simpler-security-blockstream-bitcoin-custody-system?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 13 Nov 2026 21:49:27 +0000",
+      "source": "Cointelegraph",
+      "text": "Adam Back makes case for simpler security as Blockstream launches Bitcoin custody system Blockstream’s new custody system, developed with Thales, uses dedicated hardware for transaction signing as Adam Back advocates for offline security to reduce cyber risks."
+    },
+    {
+      "title": "Kraken parent Payward gains market share as slower trading weighs on earnings",
+      "link": "https://cointelegraph.com/news/kraken-parent-payward-gains-market-share-slower-trading-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 13 Nov 2026 21:01:39 +0000",
+      "source": "Cointelegraph",
+      "text": "Kraken parent Payward gains market share as slower trading weighs on earnings Payward’s adjusted EBITDA fell 66% year over year to $60 million, even as its share of global spot trading nearly doubled and fee-based services expanded."
+    },
+    {
+      "title": "US regulators move ahead on crypto trust charters as Senate scrutiny grows",
+      "link": "https://cointelegraph.com/news/us-regulators-crypto-trust-charters-senate-scrutiny-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 13 Nov 2026 20:53:20 +0000",
+      "source": "Cointelegraph",
+      "text": "US regulators move ahead on crypto trust charters as Senate scrutiny grows Coinbase’s trust company received final clearance as lawmakers seek records on crypto firms’ compliance and potential conflicts of interest."
+    },
+    {
+      "title": "Metaplanet swings to $170M loss as Bitcoin sale hits earnings",
+      "link": "https://cointelegraph.com/news/metaplanet-swings-170m-loss-bitcoin-sale-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 13 Nov 2026 18:28:29 +0000",
+      "source": "Cointelegraph",
+      "text": "Metaplanet swings to $170M loss as Bitcoin sale hits earnings Bitcoin sales, valuation losses and rising borrowing costs weighed on the Japanese company’s earnings despite higher revenue and operating profit."
+    },
+    {
+      "title": "Bitcoin holds below $70K as stocks slip despite a cooler US PPI print",
+      "link": "https://cointelegraph.com/markets/bitcoin-below-70k-stocks-slip-cooler-us-ppi-print?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 13 Nov 2026 16:39:11 +0000",
+      "source": "Cointelegraph",
+      "text": "Bitcoin holds below $70K as stocks slip despite a cooler US PPI print Bitcoin was down about 4% on the day amid a tepid market reaction to October’s US PPI reading, which came in below expected levels."
+    },
     {
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -354,7 +382,7 @@
       "link": "https://cointelegraph.com/markets/nakamoto-shares-fall-after-negative-q3-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 13 Nov 2026 13:04:19 +0000",
       "source": "Cointelegraph",
-      "text": "Nakamoto shares fall 6% premarket after Q3 revenue turns negative A $5.8 million loss on Bitcoin options pushed operating revenue below zero, and higher Bitcoin prices lifted net income to $85.5 million."
+      "text": "Nakamoto shares fall 6% premarket after Q3 revenue turns negative A $5.8 million Bitcoin options loss pushed Nakamoto’s quarterly operating revenue below zero, while the company extended repayment of $60 million in Kraken debt to 2027."
     },
     {
       "title": "Israeli police arrest five in $5M WhatsApp crypto trading probe",
@@ -439,41 +467,6 @@
       "published": "Thu, 12 Nov 2026 22:29:58 +0000",
       "source": "Cointelegraph",
       "text": "NK hackers join memecoin trenches, xStocks adds Hong Kong equities: Asia Express North Korean hackers launch memecoins to launder funds stolen in the Binance hack, while xStocks plans to add hundreds of Hong Kong-listed equities in the coming weeks."
-    },
-    {
-      "title": "Kalshi ends Donald Trump Jr. advisory role over Polymarket investment: Reuters",
-      "link": "https://cointelegraph.com/news/kalshi-ends-donald-trump-jr-advisory-role-polymarket-investment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 12 Nov 2026 22:05:01 +0000",
-      "source": "Cointelegraph",
-      "text": "Kalshi ends Donald Trump Jr. advisory role over Polymarket investment: Reuters The prediction market operator said the decision was mutual and followed 1789 Capital’s investment in rival Polymarket, denying political considerations."
-    },
-    {
-      "title": "Strategy stock sheds 5% amid MSCI index removal, Bitcoin sell-off",
-      "link": "https://cointelegraph.com/markets/strategy-shares-fall-5-msci-index-removal-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 12 Nov 2026 21:52:04 +0000",
-      "source": "Cointelegraph",
-      "text": "Strategy stock sheds 5% amid MSCI index removal, Bitcoin sell-off Strategy shares declined Thursday following MSCI’s decision to remove the company from its indexes, as Bitcoin also fell amid a broader crypto market decline."
-    },
-    {
-      "title": "US Justice Department, business groups and DeFi firms challenge Illinois crypto tax",
-      "link": "https://cointelegraph.com/news/us-justice-department-business-groups-defi-illinois-crypto-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 12 Nov 2026 20:58:06 +0000",
-      "source": "Cointelegraph",
-      "text": "US Justice Department, business groups and DeFi firms challenge Illinois crypto tax Industry groups argued in court filings that Illinois’ crypto tax, which applies even when a transaction yields no profit, could raise compliance costs and violate federal law."
-    },
-    {
-      "title": "DTCC Plans Solana Expansion as Wallet Rules Limit Access",
-      "link": "https://cointelegraph.com/news/dtcc-plans-solana-expansion-wallet-rules-limit-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 12 Nov 2026 20:07:41 +0000",
-      "source": "Cointelegraph",
-      "text": "DTCC Plans Solana Expansion as Wallet Rules Limit Access The US securities clearinghouse plans to bring tokenized stocks to Solana in 2027, but analysts say restrictions could limit adoption."
-    },
-    {
-      "title": "Bitcoin slides toward $71K as Nvidia stock tumbles after Huang steps down",
-      "link": "https://cointelegraph.com/markets/bitcoin-price-drops-71k-stocks-nvidia-huang-resignation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 12 Nov 2026 15:46:06 +0000",
-      "source": "Cointelegraph",
-      "text": "Bitcoin slides toward $71K as Nvidia stock tumbles after Huang steps down Bitcoin fell to its lowest leve since Aug. 20 as tech stocks slid following the resignation of Nvidia CEO Jensen Huang."
     }
   ],
   "paper": {
@@ -495,16 +488,6 @@
         "stopLoss": 0.9848621,
         "takeProfit": 1.0298558,
         "entryTime": "2026-10-19T23:02:38.643180+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
-        "symbol": "SPCXBUSDT",
-        "side": "SELL",
-        "entry": 157.07,
-        "stopLoss": 159.42605,
-        "takeProfit": 152.3579,
-        "entryTime": "2026-10-21T23:38:50.867319+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       },
@@ -699,16 +682,6 @@
         "mode": "PAPER ONLY"
       },
       {
-        "symbol": "NVDABUSDT",
-        "side": "SELL",
-        "entry": 158.81,
-        "stopLoss": 161.19215,
-        "takeProfit": 154.0457,
-        "entryTime": "2026-11-13T16:18:07.501525+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
         "symbol": "XRPUSDT",
         "side": "SELL",
         "entry": 1.0116,
@@ -725,6 +698,16 @@
         "stopLoss": 639.4703,
         "takeProfit": 611.1194,
         "entryTime": "2026-11-13T16:18:07.501525+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "SPCXBUSDT",
+        "side": "SELL",
+        "entry": 138.46,
+        "stopLoss": 140.5369,
+        "takeProfit": 134.3062,
+        "entryTime": "2026-11-13T22:01:44.053416+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       }
@@ -2809,6 +2792,32 @@
         "exitPrice": 158.81,
         "exitTime": "2026-11-13T16:18:07.501525+00:00",
         "pnlPercent": -5.046
+      },
+      {
+        "symbol": "SPCXBUSDT",
+        "side": "SELL",
+        "entry": 157.07,
+        "stopLoss": 159.42605,
+        "takeProfit": 152.3579,
+        "entryTime": "2026-10-21T23:38:50.867319+00:00",
+        "status": "TAKE_PROFIT",
+        "mode": "PAPER ONLY",
+        "exitPrice": 138.46,
+        "exitTime": "2026-11-13T22:01:44.053416+00:00",
+        "pnlPercent": 11.848
+      },
+      {
+        "symbol": "NVDABUSDT",
+        "side": "SELL",
+        "entry": 158.81,
+        "stopLoss": 161.19215,
+        "takeProfit": 154.0457,
+        "entryTime": "2026-11-13T16:18:07.501525+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 161.71,
+        "exitTime": "2026-11-13T22:01:44.053416+00:00",
+        "pnlPercent": -1.826
       }
     ]
   },
