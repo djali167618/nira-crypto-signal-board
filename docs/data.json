@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14 02:12:54 UTC",
+  "generatedAt": "2026-11-14 08:58:31 UTC",
   "interval": "15m candles",
   "marketSentiment": -42,
   "overallNewsScore": 17,
@@ -12,21 +12,28 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 68211.41,
-      "change24h": -3.568,
-      "volume24h": 1978299699.3007915,
+      "price": 66994.7,
+      "change24h": -2.536,
+      "volume24h": 1459258837.6047769,
       "technical": {
-        "rsi": 44.3,
-        "ema9": 68311.017301075,
-        "ema21": 68390.53080788552,
+        "rsi": 42.9,
+        "ema9": 67211.97302609782,
+        "ema21": 67299.82733557698,
         "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 1.26,
-        "score": 35
+        "volumeRatio": 1.59,
+        "score": 30
       },
       "newsScore": 0,
       "newsCount": 5,
       "news": [
+        {
+          "title": "Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock’s losing streak hits 11",
+          "link": "https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Sat, 14 Nov 2026 06:33:13 +0000",
+          "source": "Cointelegraph",
+          "text": "Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock’s losing streak hits 11 US spot Bitcoin ETFs recorded $185.4 million in net outflows Friday, with BlackRock’s IBIT accounting for $143.5 million and Fidelity’s FBTC shedding $41.9 million."
+        },
         {
           "title": "Here’s what happened in crypto today",
           "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -54,37 +61,30 @@
           "published": "Fri, 13 Nov 2026 16:39:11 +0000",
           "source": "Cointelegraph",
           "text": "Bitcoin holds below $70K as stocks slip despite a cooler US PPI print Bitcoin was down about 4% on the day amid a tepid market reaction to October’s US PPI reading, which came in below expected levels."
-        },
-        {
-          "title": "Nakamoto shares fall 6% premarket after Q3 revenue turns negative",
-          "link": "https://cointelegraph.com/markets/nakamoto-shares-fall-after-negative-q3-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Fri, 13 Nov 2026 13:04:19 +0000",
-          "source": "Cointelegraph",
-          "text": "Nakamoto shares fall 6% premarket after Q3 revenue turns negative A $5.8 million Bitcoin options loss pushed Nakamoto’s quarterly operating revenue below zero, while the company extended repayment of $60 million in Kraken debt to 2027."
         }
       ],
       "marketSentiment": -42,
-      "combinedScore": 38,
+      "combinedScore": 36,
       "signal": "WAIT",
-      "reason": "Technical 35/100; News +0; Market sentiment -42."
+      "reason": "Technical 30/100; News +0; Market sentiment -42."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 1924.54,
-      "change24h": -4.012,
-      "volume24h": 708786615.308166,
+      "price": 1895.79,
+      "change24h": -1.866,
+      "volume24h": 557884844.857801,
       "technical": {
-        "rsi": 45.2,
-        "ema9": 1929.9535324447804,
-        "ema21": 1931.5852646887972,
+        "rsi": 46.6,
+        "ema9": 1901.211791664794,
+        "ema21": 1903.16756028647,
         "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.4,
+        "volumeRatio": 0.41,
         "score": 47
       },
-      "newsScore": -33,
-      "newsCount": 3,
+      "newsScore": -50,
+      "newsCount": 2,
       "news": [
         {
           "title": "Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy",
@@ -99,34 +99,27 @@
           "published": "Fri, 13 Nov 2026 03:37:00 +0000",
           "source": "CoinDesk",
           "text": "Bitcoin dips below $70,000 as Dollar Index hits 19-month high The crypto market selloff gathered pace early Friday. Bitcoin dropped below $70,000 and ether traded below $2,000, triggering large liquidations in futures market."
-        },
-        {
-          "title": "Ethereum researchers drop faster blocks to race toward quantum defenses in 2027",
-          "link": "https://www.coindesk.com/tech/2026/11/12/ethereum-researchers-drop-faster-blocks-to-race-toward-quantum-defenses-in-2027",
-          "published": "Thu, 12 Nov 2026 11:43:41 +0000",
-          "source": "CoinDesk",
-          "text": "Ethereum researchers drop faster blocks to race toward quantum defenses in 2027 Ethlabs wants quantum-resistant accounts targeted for next year, even if wallet holders still have to switch signing methods themselves."
         }
       ],
       "marketSentiment": -42,
-      "combinedScore": 39,
+      "combinedScore": 37,
       "signal": "WAIT",
-      "reason": "Technical 47/100; News -33; Market sentiment -42."
+      "reason": "Technical 47/100; News -50; Market sentiment -42."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 76.69,
-      "change24h": -5.274,
-      "volume24h": 306073769.05911,
+      "price": 75.24,
+      "change24h": -5.691,
+      "volume24h": 270113567.80377,
       "technical": {
-        "rsi": 29.6,
-        "ema9": 77.60814548987099,
-        "ema21": 78.16952547412936,
-        "macdBull": false,
+        "rsi": 39.1,
+        "ema9": 75.43563286443917,
+        "ema21": 75.71164668095253,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 1.31,
-        "score": 11
+        "volumeRatio": 0.42,
+        "score": 35
       },
       "newsScore": 33,
       "newsCount": 3,
@@ -154,23 +147,23 @@
         }
       ],
       "marketSentiment": -42,
-      "combinedScore": 31,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +33; Market sentiment -42."
+      "combinedScore": 43,
+      "signal": "WAIT",
+      "reason": "Technical 35/100; News +33; Market sentiment -42."
     },
     {
-      "symbol": "ZECUSDT",
-      "coin": "ZEC",
-      "price": 930.48,
-      "change24h": -2.772,
-      "volume24h": 228064046.70025,
+      "symbol": "USD1USDT",
+      "coin": "USD1",
+      "price": 0.99909,
+      "change24h": -0.024,
+      "volume24h": 188101815.46071,
       "technical": {
-        "rsi": 47.6,
-        "ema9": 933.0440549975793,
-        "ema21": 935.3537105980433,
+        "rsi": 54.7,
+        "ema9": 0.998888461895918,
+        "ema21": 0.9989262609029805,
         "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.28,
+        "volumeRatio": 0.78,
         "score": 47
       },
       "newsScore": 0,
@@ -182,41 +175,41 @@
       "reason": "Technical 47/100; News +0; Market sentiment -42."
     },
     {
-      "symbol": "USD1USDT",
-      "coin": "USD1",
-      "price": 0.99908,
-      "change24h": -0.034,
-      "volume24h": 192254162.47429,
+      "symbol": "ZECUSDT",
+      "coin": "ZEC",
+      "price": 897.34,
+      "change24h": -4.476,
+      "volume24h": 162611000.73123,
       "technical": {
-        "rsi": 41.6,
-        "ema9": 0.999160854314968,
-        "ema21": 0.9991947870227958,
-        "macdBull": false,
+        "rsi": 39.4,
+        "ema9": 909.8427612789311,
+        "ema21": 913.3357567000922,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.91,
-        "score": 11
+        "volumeRatio": 2.04,
+        "score": 30
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": -42,
-      "combinedScore": 26,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment -42."
+      "combinedScore": 36,
+      "signal": "WAIT",
+      "reason": "Technical 30/100; News +0; Market sentiment -42."
     },
     {
       "symbol": "NVDABUSDT",
       "coin": "NVDAB",
-      "price": 161.86,
-      "change24h": -3.5,
-      "volume24h": 153712470.86674,
+      "price": 162.28,
+      "change24h": -2.54,
+      "volume24h": 140298367.72024,
       "technical": {
-        "rsi": 55.8,
-        "ema9": 161.85606603686378,
-        "ema21": 161.79577968792736,
+        "rsi": 55.3,
+        "ema9": 162.28340762587362,
+        "ema21": 162.12806927517983,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.18,
+        "volumeRatio": 0.97,
         "score": 89
       },
       "newsScore": 0,
@@ -230,62 +223,39 @@
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 1.0018,
-      "change24h": -2.511,
-      "volume24h": 139610108.0257,
+      "price": 0.9836,
+      "change24h": -4.291,
+      "volume24h": 122187970.55944,
       "technical": {
-        "rsi": 39.9,
-        "ema9": 1.0085125188103423,
-        "ema21": 1.0111206961331505,
-        "macdBull": true,
+        "rsi": 37.6,
+        "ema9": 0.9873362065200564,
+        "ema21": 0.9917372842856453,
+        "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 1.55,
-        "score": 30
+        "volumeRatio": 0.75,
+        "score": 11
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": -42,
-      "combinedScore": 36,
-      "signal": "WAIT",
-      "reason": "Technical 30/100; News +0; Market sentiment -42."
+      "combinedScore": 26,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment -42."
     },
     {
       "symbol": "BNBUSDT",
       "coin": "BNB",
-      "price": 629.59,
-      "change24h": -3.495,
-      "volume24h": 129972547.60615,
+      "price": 614.22,
+      "change24h": -2.675,
+      "volume24h": 92004036.35246,
       "technical": {
-        "rsi": 45.7,
-        "ema9": 630.9936752037044,
-        "ema21": 631.6267378377574,
+        "rsi": 38.3,
+        "ema9": 616.9024195110553,
+        "ema21": 618.8208786662786,
         "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.58,
-        "score": 47
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -42,
-      "combinedScore": 44,
-      "signal": "WAIT",
-      "reason": "Technical 47/100; News +0; Market sentiment -42."
-    },
-    {
-      "symbol": "NEARUSDT",
-      "coin": "NEAR",
-      "price": 3.415,
-      "change24h": -0.784,
-      "volume24h": 95474358.541,
-      "technical": {
-        "rsi": 40.7,
-        "ema9": 3.438389025717273,
-        "ema21": 3.453969858248266,
-        "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.26,
+        "volumeRatio": 0.48,
         "score": 35
       },
       "newsScore": 0,
@@ -297,15 +267,38 @@
       "reason": "Technical 35/100; News +0; Market sentiment -42."
     },
     {
-      "symbol": "SPCXBUSDT",
-      "coin": "SPCXB",
-      "price": 136.46,
-      "change24h": -3.8,
-      "volume24h": 71580291.89048,
+      "symbol": "NEARUSDT",
+      "coin": "NEAR",
+      "price": 3.315,
+      "change24h": -5.69,
+      "volume24h": 82958197.8281,
       "technical": {
-        "rsi": 35.8,
-        "ema9": 136.64572675092165,
-        "ema21": 137.33760939344398,
+        "rsi": 37.7,
+        "ema9": 3.3299822955244642,
+        "ema21": 3.351238151531422,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 1.16,
+        "score": 11
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -42,
+      "combinedScore": 26,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment -42."
+    },
+    {
+      "symbol": "RLUSDUSDT",
+      "coin": "RLUSD",
+      "price": 1.0009,
+      "change24h": 0.0,
+      "volume24h": 65315643.7288,
+      "technical": {
+        "rsi": 41.0,
+        "ema9": 1.0008835533820775,
+        "ema21": 1.0008975581625612,
         "macdBull": false,
         "emaBull": false,
         "volumeRatio": 0.03,
@@ -321,6 +314,20 @@
     }
   ],
   "news": [
+    {
+      "title": "MegaETH parent cuts 20% of staff amid restructuring, AI push",
+      "link": "https://cointelegraph.com/news/megaeth-parent-cuts-20-percent-staff-ai-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sat, 14 Nov 2026 08:12:30 +0000",
+      "source": "Cointelegraph",
+      "text": "MegaETH parent cuts 20% of staff amid restructuring, AI push MegaETH co-founder Shuyao Kong said the restructuring affected employees who helped build the project’s blockchain, wallet and ecosystem."
+    },
+    {
+      "title": "Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock’s losing streak hits 11",
+      "link": "https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sat, 14 Nov 2026 06:33:13 +0000",
+      "source": "Cointelegraph",
+      "text": "Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock’s losing streak hits 11 US spot Bitcoin ETFs recorded $185.4 million in net outflows Friday, with BlackRock’s IBIT accounting for $143.5 million and Fidelity’s FBTC shedding $41.9 million."
+    },
     {
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -446,20 +453,6 @@
       "published": "Fri, 13 Nov 2026 01:26:27 +0000",
       "source": "Cointelegraph",
       "text": "Former Nvidia CEO Huang had third alleged affair: Reuters Reuters reported that Jensen Huang had a relationship with another Nvidia employee, hours after he resigned as CEO."
-    },
-    {
-      "title": "Gemini’s quarterly retail trading volume sinks to 3-year low",
-      "link": "https://cointelegraph.com/markets/geminis-quarterly-retail-trading-volume-sinks-to-3-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 13 Nov 2026 00:52:42 +0000",
-      "source": "Cointelegraph",
-      "text": "Gemini’s quarterly retail trading volume sinks to 3-year low Gemini’s third-quarter trading rebound masked a deepening retail slump."
-    },
-    {
-      "title": "Maple Finance’s strategy rift sends co-founder, COO to the exits",
-      "link": "https://cointelegraph.com/news/maple-finance-strategy-rift-co-founder-coo-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 12 Nov 2026 23:12:55 +0000",
-      "source": "Cointelegraph",
-      "text": "Maple Finance’s strategy rift sends co-founder, COO to the exits Maple Finance co-founder Joe Flanagan and COO Ryan O’Shea are leaving over disagreements about the firm’s direction as SYRUP falls despite revenue growth."
     }
   ],
   "paper": {
@@ -625,16 +618,6 @@
         "mode": "PAPER ONLY"
       },
       {
-        "symbol": "NEARUSDT",
-        "side": "BUY",
-        "entry": 3.443,
-        "stopLoss": 3.391355,
-        "takeProfit": 3.54629,
-        "entryTime": "2026-11-13T01:21:29.804676+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
         "symbol": "BTCUSDT",
         "side": "SELL",
         "entry": 68772.19,
@@ -651,16 +634,6 @@
         "stopLoss": 1966.5625,
         "takeProfit": 1879.375,
         "entryTime": "2026-11-13T08:10:28.898452+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
-        "symbol": "ZECUSDT",
-        "side": "SELL",
-        "entry": 942.03,
-        "stopLoss": 956.16045,
-        "takeProfit": 913.7691,
-        "entryTime": "2026-11-13T16:18:07.501525+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       },
@@ -711,6 +684,16 @@
         "stopLoss": 159.4321,
         "takeProfit": 166.7158,
         "entryTime": "2026-11-14T02:12:54.066149+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "NEARUSDT",
+        "side": "SELL",
+        "entry": 3.315,
+        "stopLoss": 3.364725,
+        "takeProfit": 3.21555,
+        "entryTime": "2026-11-14T08:58:31.996772+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       }
@@ -2834,6 +2817,32 @@
         "exitPrice": 76.69,
         "exitTime": "2026-11-14T02:12:54.066149+00:00",
         "pnlPercent": 3.462
+      },
+      {
+        "symbol": "NEARUSDT",
+        "side": "BUY",
+        "entry": 3.443,
+        "stopLoss": 3.391355,
+        "takeProfit": 3.54629,
+        "entryTime": "2026-11-13T01:21:29.804676+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 3.315,
+        "exitTime": "2026-11-14T08:58:31.996772+00:00",
+        "pnlPercent": -3.718
+      },
+      {
+        "symbol": "ZECUSDT",
+        "side": "SELL",
+        "entry": 942.03,
+        "stopLoss": 956.16045,
+        "takeProfit": 913.7691,
+        "entryTime": "2026-11-13T16:18:07.501525+00:00",
+        "status": "TAKE_PROFIT",
+        "mode": "PAPER ONLY",
+        "exitPrice": 897.34,
+        "exitTime": "2026-11-14T08:58:31.996772+00:00",
+        "pnlPercent": 4.744
       }
     ]
   },
