@@ -161,62 +161,12 @@
       "mode": "PAPER ONLY"
     },
     {
-      "symbol": "BTCUSDT",
-      "side": "SELL",
-      "entry": 68772.19,
-      "stopLoss": 69803.77285,
-      "takeProfit": 66709.0243,
-      "entryTime": "2026-11-13T08:10:28.898452+00:00",
-      "status": "OPEN",
-      "mode": "PAPER ONLY"
-    },
-    {
-      "symbol": "ETHUSDT",
-      "side": "SELL",
-      "entry": 1937.5,
-      "stopLoss": 1966.5625,
-      "takeProfit": 1879.375,
-      "entryTime": "2026-11-13T08:10:28.898452+00:00",
-      "status": "OPEN",
-      "mode": "PAPER ONLY"
-    },
-    {
-      "symbol": "XRPUSDT",
-      "side": "SELL",
-      "entry": 1.0116,
-      "stopLoss": 1.026774,
-      "takeProfit": 0.981252,
-      "entryTime": "2026-11-13T16:18:07.501525+00:00",
-      "status": "OPEN",
-      "mode": "PAPER ONLY"
-    },
-    {
-      "symbol": "BNBUSDT",
-      "side": "SELL",
-      "entry": 630.02,
-      "stopLoss": 639.4703,
-      "takeProfit": 611.1194,
-      "entryTime": "2026-11-13T16:18:07.501525+00:00",
-      "status": "OPEN",
-      "mode": "PAPER ONLY"
-    },
-    {
       "symbol": "SPCXBUSDT",
       "side": "SELL",
       "entry": 138.46,
       "stopLoss": 140.5369,
       "takeProfit": 134.3062,
       "entryTime": "2026-11-13T22:01:44.053416+00:00",
-      "status": "OPEN",
-      "mode": "PAPER ONLY"
-    },
-    {
-      "symbol": "SOLUSDT",
-      "side": "SELL",
-      "entry": 76.69,
-      "stopLoss": 77.84035,
-      "takeProfit": 74.3893,
-      "entryTime": "2026-11-14T02:12:54.066149+00:00",
       "status": "OPEN",
       "mode": "PAPER ONLY"
     },
@@ -231,12 +181,62 @@
       "mode": "PAPER ONLY"
     },
     {
+      "symbol": "BTCUSDT",
+      "side": "SELL",
+      "entry": 65361.63,
+      "stopLoss": 66342.05445,
+      "takeProfit": 63400.7811,
+      "entryTime": "2026-11-14T15:38:15.526287+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "ETHUSDT",
+      "side": "SELL",
+      "entry": 1836.23,
+      "stopLoss": 1863.77345,
+      "takeProfit": 1781.1431,
+      "entryTime": "2026-11-14T15:38:15.526287+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "ZECUSDT",
+      "side": "SELL",
+      "entry": 869.71,
+      "stopLoss": 882.75565,
+      "takeProfit": 843.6187,
+      "entryTime": "2026-11-14T15:38:15.526287+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "XRPUSDT",
+      "side": "SELL",
+      "entry": 0.9709,
+      "stopLoss": 0.9854635,
+      "takeProfit": 0.941773,
+      "entryTime": "2026-11-14T15:38:15.526287+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "BNBUSDT",
+      "side": "SELL",
+      "entry": 596.39,
+      "stopLoss": 605.33585,
+      "takeProfit": 578.4983,
+      "entryTime": "2026-11-14T15:38:15.526287+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
+    },
+    {
       "symbol": "NEARUSDT",
       "side": "SELL",
-      "entry": 3.315,
-      "stopLoss": 3.364725,
-      "takeProfit": 3.21555,
-      "entryTime": "2026-11-14T08:58:31.996772+00:00",
+      "entry": 3.2,
+      "stopLoss": 3.248,
+      "takeProfit": 3.104,
+      "entryTime": "2026-11-14T15:38:15.526287+00:00",
       "status": "OPEN",
       "mode": "PAPER ONLY"
     }
@@ -2386,6 +2386,84 @@
       "exitPrice": 897.34,
       "exitTime": "2026-11-14T08:58:31.996772+00:00",
       "pnlPercent": 4.744
+    },
+    {
+      "symbol": "BTCUSDT",
+      "side": "SELL",
+      "entry": 68772.19,
+      "stopLoss": 69803.77285,
+      "takeProfit": 66709.0243,
+      "entryTime": "2026-11-13T08:10:28.898452+00:00",
+      "status": "TAKE_PROFIT",
+      "mode": "PAPER ONLY",
+      "exitPrice": 65361.63,
+      "exitTime": "2026-11-14T15:38:15.526287+00:00",
+      "pnlPercent": 4.959
+    },
+    {
+      "symbol": "ETHUSDT",
+      "side": "SELL",
+      "entry": 1937.5,
+      "stopLoss": 1966.5625,
+      "takeProfit": 1879.375,
+      "entryTime": "2026-11-13T08:10:28.898452+00:00",
+      "status": "TAKE_PROFIT",
+      "mode": "PAPER ONLY",
+      "exitPrice": 1836.23,
+      "exitTime": "2026-11-14T15:38:15.526287+00:00",
+      "pnlPercent": 5.227
+    },
+    {
+      "symbol": "XRPUSDT",
+      "side": "SELL",
+      "entry": 1.0116,
+      "stopLoss": 1.026774,
+      "takeProfit": 0.981252,
+      "entryTime": "2026-11-13T16:18:07.501525+00:00",
+      "status": "TAKE_PROFIT",
+      "mode": "PAPER ONLY",
+      "exitPrice": 0.9709,
+      "exitTime": "2026-11-14T15:38:15.526287+00:00",
+      "pnlPercent": 4.023
+    },
+    {
+      "symbol": "BNBUSDT",
+      "side": "SELL",
+      "entry": 630.02,
+      "stopLoss": 639.4703,
+      "takeProfit": 611.1194,
+      "entryTime": "2026-11-13T16:18:07.501525+00:00",
+      "status": "TAKE_PROFIT",
+      "mode": "PAPER ONLY",
+      "exitPrice": 596.39,
+      "exitTime": "2026-11-14T15:38:15.526287+00:00",
+      "pnlPercent": 5.338
+    },
+    {
+      "symbol": "SOLUSDT",
+      "side": "SELL",
+      "entry": 76.69,
+      "stopLoss": 77.84035,
+      "takeProfit": 74.3893,
+      "entryTime": "2026-11-14T02:12:54.066149+00:00",
+      "status": "TAKE_PROFIT",
+      "mode": "PAPER ONLY",
+      "exitPrice": 73.68,
+      "exitTime": "2026-11-14T15:38:15.526287+00:00",
+      "pnlPercent": 3.925
+    },
+    {
+      "symbol": "NEARUSDT",
+      "side": "SELL",
+      "entry": 3.315,
+      "stopLoss": 3.364725,
+      "takeProfit": 3.21555,
+      "entryTime": "2026-11-14T08:58:31.996772+00:00",
+      "status": "TAKE_PROFIT",
+      "mode": "PAPER ONLY",
+      "exitPrice": 3.2,
+      "exitTime": "2026-11-14T15:38:15.526287+00:00",
+      "pnlPercent": 3.469
     }
   ]
 }
