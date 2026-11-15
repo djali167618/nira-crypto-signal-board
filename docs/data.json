@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-14 23:50:29 UTC",
+  "generatedAt": "2026-11-15 03:12:23 UTC",
   "interval": "15m candles",
-  "marketSentiment": -43,
+  "marketSentiment": -47,
   "overallNewsScore": 14,
   "fearGreed": {
-    "value": 13,
+    "value": 10,
     "label": "Extreme Fear",
     "source": "Alternative.me"
   },
@@ -12,17 +12,17 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 64089.99,
-      "change24h": -6.002,
-      "volume24h": 2143927018.5574613,
+      "price": 65397.0,
+      "change24h": -3.348,
+      "volume24h": 2576979967.6555443,
       "technical": {
-        "rsi": 28.8,
-        "ema9": 63996.03547310329,
-        "ema21": 64565.95931245883,
-        "macdBull": false,
+        "rsi": 58.0,
+        "ema9": 63982.283732980635,
+        "ema21": 64000.77290191806,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 1.03,
-        "score": 11
+        "volumeRatio": 0.67,
+        "score": 59
       },
       "newsScore": 0,
       "newsCount": 5,
@@ -63,25 +63,25 @@
           "text": "Bitcoin holds below $70K as stocks slip despite a cooler US PPI print Bitcoin was down about 4% on the day amid a tepid market reaction to October’s US PPI reading, which came in below expected levels."
         }
       ],
-      "marketSentiment": -43,
-      "combinedScore": 26,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment -43."
+      "marketSentiment": -47,
+      "combinedScore": 50,
+      "signal": "WAIT",
+      "reason": "Technical 59/100; News +0; Market sentiment -47."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 1766.77,
-      "change24h": -8.232,
-      "volume24h": 860889239.726426,
+      "price": 1828.18,
+      "change24h": -4.434,
+      "volume24h": 1032625827.123448,
       "technical": {
-        "rsi": 29.0,
-        "ema9": 1760.7326475206269,
-        "ema21": 1785.0234945258683,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.57,
-        "score": 11
+        "rsi": 61.9,
+        "ema9": 1777.7830717595862,
+        "ema21": 1772.9621103294967,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.82,
+        "score": 89
       },
       "newsScore": -25,
       "newsCount": 4,
@@ -115,28 +115,28 @@
           "text": "Bitcoin dips below $70,000 as Dollar Index hits 19-month high The crypto market selloff gathered pace early Friday. Bitcoin dropped below $70,000 and ether traded below $2,000, triggering large liquidations in futures market."
         }
       ],
-      "marketSentiment": -43,
-      "combinedScore": 22,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News -25; Market sentiment -43."
+      "marketSentiment": -47,
+      "combinedScore": 61,
+      "signal": "WAIT",
+      "reason": "Technical 89/100; News -25; Market sentiment -47."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 69.95,
-      "change24h": -10.321,
-      "volume24h": 340853637.1799,
+      "price": 71.91,
+      "change24h": -5.704,
+      "volume24h": 377524613.77991,
       "technical": {
-        "rsi": 30.9,
-        "ema9": 69.7181575646642,
-        "ema21": 70.6273088050414,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.61,
-        "score": 11
+        "rsi": 58.0,
+        "ema9": 70.07171806130694,
+        "ema21": 70.06246295412328,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.89,
+        "score": 89
       },
-      "newsScore": 50,
-      "newsCount": 2,
+      "newsScore": 100,
+      "newsCount": 1,
       "news": [
         {
           "title": "DTCC Plans Solana Expansion as Wallet Rules Limit Access",
@@ -144,180 +144,181 @@
           "published": "Thu, 12 Nov 2026 20:07:41 +0000",
           "source": "Cointelegraph",
           "text": "DTCC Plans Solana Expansion as Wallet Rules Limit Access The US securities clearinghouse plans to bring tokenized stocks to Solana in 2027, but analysts say restrictions could limit adoption."
-        },
-        {
-          "title": "DTCC adds Solana to Wall Street tokenization plans, targeting 2027 rollout",
-          "link": "https://www.coindesk.com/business/2026/11/12/dtcc-adds-solana-to-wall-street-tokenization-plans-targeting-2027-rollout",
-          "published": "Thu, 12 Nov 2026 15:45:48 +0000",
-          "source": "CoinDesk",
-          "text": "DTCC adds Solana to Wall Street tokenization plans, targeting 2027 rollout The securities infrastructure giant plans to bring tokenized stocks, ETFs and U.S. Treasuries to Solana as it expands next year's roadmap beyond Stellar and Arc."
         }
       ],
-      "marketSentiment": -43,
-      "combinedScore": 34,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +50; Market sentiment -43."
+      "marketSentiment": -47,
+      "combinedScore": 80,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +100; Market sentiment -47."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 0.9078,
-      "change24h": -10.048,
-      "volume24h": 222120836.95389,
+      "price": 0.9629,
+      "change24h": -3.912,
+      "volume24h": 251375818.50036,
       "technical": {
-        "rsi": 20.6,
-        "ema9": 0.9068188484924398,
-        "ema21": 0.9223973074840428,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.49,
-        "score": 28
+        "rsi": 63.7,
+        "ema9": 0.9336040836726013,
+        "ema21": 0.9276575546757065,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.79,
+        "score": 89
       },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -43,
-      "combinedScore": 35,
-      "signal": "SELL",
-      "reason": "Technical 28/100; News +0; Market sentiment -43."
+      "newsScore": -100,
+      "newsCount": 1,
+      "news": [
+        {
+          "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
+          "link": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
+          "published": "Sun, 15 Nov 2026 02:50:57 +0000",
+          "source": "CoinDesk",
+          "text": "XRP crashes to its lowest since November 2024 as money leaves crypto XRP tanked to its lowest level since November 2024 as ETF outflows and shrinking stablecoin supply add to pressure on crypto markets."
+        }
+      ],
+      "marketSentiment": -47,
+      "combinedScore": 50,
+      "signal": "WAIT",
+      "reason": "Technical 89/100; News -100; Market sentiment -47."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 857.03,
-      "change24h": -7.775,
-      "volume24h": 190166674.56544,
+      "price": 922.41,
+      "change24h": -0.928,
+      "volume24h": 226633230.22106,
       "technical": {
-        "rsi": 50.2,
-        "ema9": 845.3456294825479,
-        "ema21": 848.0677200995056,
+        "rsi": 69.8,
+        "ema9": 882.173638050075,
+        "ema21": 867.8129955278416,
         "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.45,
-        "score": 47
+        "emaBull": true,
+        "volumeRatio": 1.07,
+        "score": 89
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -43,
-      "combinedScore": 44,
-      "signal": "WAIT",
-      "reason": "Technical 47/100; News +0; Market sentiment -43."
+      "marketSentiment": -47,
+      "combinedScore": 65,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment -47."
     },
     {
       "symbol": "USD1USDT",
       "coin": "USD1",
-      "price": 0.99892,
-      "change24h": -0.027,
-      "volume24h": 172220020.90252,
+      "price": 0.99861,
+      "change24h": -0.058,
+      "volume24h": 197196552.2979,
       "technical": {
-        "rsi": 58.0,
-        "ema9": 0.9988576037295455,
-        "ema21": 0.9988687258475611,
-        "macdBull": true,
+        "rsi": 42.3,
+        "ema9": 0.9986438423407209,
+        "ema21": 0.99872996417981,
+        "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.86,
-        "score": 59
+        "volumeRatio": 0.62,
+        "score": 11
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -43,
-      "combinedScore": 50,
-      "signal": "WAIT",
-      "reason": "Technical 59/100; News +0; Market sentiment -43."
+      "marketSentiment": -47,
+      "combinedScore": 26,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment -47."
     },
     {
       "symbol": "BNBUSDT",
       "coin": "BNB",
-      "price": 581.0,
-      "change24h": -7.675,
-      "volume24h": 163287211.5938,
+      "price": 597.28,
+      "change24h": -4.522,
+      "volume24h": 174928587.84626,
       "technical": {
-        "rsi": 36.2,
-        "ema9": 578.1253423566745,
-        "ema21": 582.1500345643076,
+        "rsi": 63.5,
+        "ema9": 583.5588192433938,
+        "ema21": 581.5753327925698,
         "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.45,
-        "score": 35
+        "emaBull": true,
+        "volumeRatio": 1.14,
+        "score": 89
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -43,
-      "combinedScore": 38,
-      "signal": "WAIT",
-      "reason": "Technical 35/100; News +0; Market sentiment -43."
+      "marketSentiment": -47,
+      "combinedScore": 65,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment -47."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 3.014,
-      "change24h": -12.256,
-      "volume24h": 118646533.4001,
+      "price": 3.156,
+      "change24h": -7.476,
+      "volume24h": 133757447.6333,
       "technical": {
-        "rsi": 39.2,
-        "ema9": 2.9720613515065524,
-        "ema21": 3.011638118005912,
+        "rsi": 61.9,
+        "ema9": 3.0691163470270486,
+        "ema21": 3.0421716236850296,
         "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.24,
-        "score": 35
+        "emaBull": true,
+        "volumeRatio": 0.82,
+        "score": 89
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -43,
-      "combinedScore": 38,
-      "signal": "WAIT",
-      "reason": "Technical 35/100; News +0; Market sentiment -43."
+      "marketSentiment": -47,
+      "combinedScore": 65,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment -47."
     },
     {
       "symbol": "HYPEUSDT",
       "coin": "HYPE",
-      "price": 64.09,
-      "change24h": -10.439,
-      "volume24h": 92739651.72155,
+      "price": 66.51,
+      "change24h": -5.445,
+      "volume24h": 106152560.43684,
       "technical": {
-        "rsi": 43.7,
-        "ema9": 62.991150098905244,
-        "ema21": 63.67073435636591,
+        "rsi": 62.1,
+        "ema9": 64.7918705714966,
+        "ema21": 64.29614608322461,
         "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.26,
-        "score": 35
+        "emaBull": true,
+        "volumeRatio": 0.41,
+        "score": 89
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -43,
-      "combinedScore": 38,
-      "signal": "WAIT",
-      "reason": "Technical 35/100; News +0; Market sentiment -43."
+      "marketSentiment": -47,
+      "combinedScore": 65,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment -47."
     },
     {
       "symbol": "DOGEUSDT",
       "coin": "DOGE",
-      "price": 0.05696,
-      "change24h": -11.539,
-      "volume24h": 78629221.11706,
+      "price": 0.05905,
+      "change24h": -6.699,
+      "volume24h": 86802029.10139,
       "technical": {
-        "rsi": 27.1,
-        "ema9": 0.056735847120378005,
-        "ema21": 0.05775358208018257,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.53,
-        "score": 28
+        "rsi": 58.4,
+        "ema9": 0.0575602028476829,
+        "ema21": 0.057473724726954896,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.44,
+        "score": 89
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -43,
-      "combinedScore": 35,
-      "signal": "SELL",
-      "reason": "Technical 28/100; News +0; Market sentiment -43."
+      "marketSentiment": -47,
+      "combinedScore": 65,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +0; Market sentiment -47."
     }
   ],
   "news": [
@@ -635,16 +636,6 @@
         "mode": "PAPER ONLY"
       },
       {
-        "symbol": "ZECUSDT",
-        "side": "SELL",
-        "entry": 869.71,
-        "stopLoss": 882.75565,
-        "takeProfit": 843.6187,
-        "entryTime": "2026-11-14T15:38:15.526287+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
         "symbol": "BNBUSDT",
         "side": "SELL",
         "entry": 596.39,
@@ -655,42 +646,52 @@
         "mode": "PAPER ONLY"
       },
       {
-        "symbol": "ETHUSDT",
-        "side": "SELL",
-        "entry": 1766.77,
-        "stopLoss": 1793.27155,
-        "takeProfit": 1713.7669,
-        "entryTime": "2026-11-14T23:50:29.743619+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
         "symbol": "SOLUSDT",
-        "side": "SELL",
-        "entry": 69.95,
-        "stopLoss": 70.99925,
-        "takeProfit": 67.8515,
-        "entryTime": "2026-11-14T23:50:29.743619+00:00",
+        "side": "BUY",
+        "entry": 71.91,
+        "stopLoss": 70.83135,
+        "takeProfit": 74.0673,
+        "entryTime": "2026-11-15T03:12:23.757009+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       },
       {
-        "symbol": "XRPUSDT",
-        "side": "SELL",
-        "entry": 0.9078,
-        "stopLoss": 0.921417,
-        "takeProfit": 0.880566,
-        "entryTime": "2026-11-14T23:50:29.743619+00:00",
+        "symbol": "ZECUSDT",
+        "side": "BUY",
+        "entry": 922.41,
+        "stopLoss": 908.57385,
+        "takeProfit": 950.0823,
+        "entryTime": "2026-11-15T03:12:23.757009+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "NEARUSDT",
+        "side": "BUY",
+        "entry": 3.156,
+        "stopLoss": 3.10866,
+        "takeProfit": 3.25068,
+        "entryTime": "2026-11-15T03:12:23.757009+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "HYPEUSDT",
+        "side": "BUY",
+        "entry": 66.51,
+        "stopLoss": 65.51235,
+        "takeProfit": 68.5053,
+        "entryTime": "2026-11-15T03:12:23.757009+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       },
       {
         "symbol": "DOGEUSDT",
-        "side": "SELL",
-        "entry": 0.05696,
-        "stopLoss": 0.0578144,
-        "takeProfit": 0.0552512,
-        "entryTime": "2026-11-14T23:50:29.743619+00:00",
+        "side": "BUY",
+        "entry": 0.05905,
+        "stopLoss": 0.05816425,
+        "takeProfit": 0.0608215,
+        "entryTime": "2026-11-15T03:12:23.757009+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       }
@@ -2983,6 +2984,71 @@
         "exitPrice": 0.9078,
         "exitTime": "2026-11-14T23:50:29.743619+00:00",
         "pnlPercent": 6.499
+      },
+      {
+        "symbol": "ZECUSDT",
+        "side": "SELL",
+        "entry": 869.71,
+        "stopLoss": 882.75565,
+        "takeProfit": 843.6187,
+        "entryTime": "2026-11-14T15:38:15.526287+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 922.41,
+        "exitTime": "2026-11-15T03:12:23.757009+00:00",
+        "pnlPercent": -6.059
+      },
+      {
+        "symbol": "ETHUSDT",
+        "side": "SELL",
+        "entry": 1766.77,
+        "stopLoss": 1793.27155,
+        "takeProfit": 1713.7669,
+        "entryTime": "2026-11-14T23:50:29.743619+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 1828.18,
+        "exitTime": "2026-11-15T03:12:23.757009+00:00",
+        "pnlPercent": -3.476
+      },
+      {
+        "symbol": "SOLUSDT",
+        "side": "SELL",
+        "entry": 69.95,
+        "stopLoss": 70.99925,
+        "takeProfit": 67.8515,
+        "entryTime": "2026-11-14T23:50:29.743619+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 71.91,
+        "exitTime": "2026-11-15T03:12:23.757009+00:00",
+        "pnlPercent": -2.802
+      },
+      {
+        "symbol": "XRPUSDT",
+        "side": "SELL",
+        "entry": 0.9078,
+        "stopLoss": 0.921417,
+        "takeProfit": 0.880566,
+        "entryTime": "2026-11-14T23:50:29.743619+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 0.9629,
+        "exitTime": "2026-11-15T03:12:23.757009+00:00",
+        "pnlPercent": -6.07
+      },
+      {
+        "symbol": "DOGEUSDT",
+        "side": "SELL",
+        "entry": 0.05696,
+        "stopLoss": 0.0578144,
+        "takeProfit": 0.0552512,
+        "entryTime": "2026-11-14T23:50:29.743619+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 0.05905,
+        "exitTime": "2026-11-15T03:12:23.757009+00:00",
+        "pnlPercent": -3.669
       }
     ]
   },

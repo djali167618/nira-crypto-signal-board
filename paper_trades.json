@@ -171,16 +171,6 @@
       "mode": "PAPER ONLY"
     },
     {
-      "symbol": "ZECUSDT",
-      "side": "SELL",
-      "entry": 869.71,
-      "stopLoss": 882.75565,
-      "takeProfit": 843.6187,
-      "entryTime": "2026-11-14T15:38:15.526287+00:00",
-      "status": "OPEN",
-      "mode": "PAPER ONLY"
-    },
-    {
       "symbol": "BNBUSDT",
       "side": "SELL",
       "entry": 596.39,
@@ -191,42 +181,52 @@
       "mode": "PAPER ONLY"
     },
     {
-      "symbol": "ETHUSDT",
-      "side": "SELL",
-      "entry": 1766.77,
-      "stopLoss": 1793.27155,
-      "takeProfit": 1713.7669,
-      "entryTime": "2026-11-14T23:50:29.743619+00:00",
-      "status": "OPEN",
-      "mode": "PAPER ONLY"
-    },
-    {
       "symbol": "SOLUSDT",
-      "side": "SELL",
-      "entry": 69.95,
-      "stopLoss": 70.99925,
-      "takeProfit": 67.8515,
-      "entryTime": "2026-11-14T23:50:29.743619+00:00",
+      "side": "BUY",
+      "entry": 71.91,
+      "stopLoss": 70.83135,
+      "takeProfit": 74.0673,
+      "entryTime": "2026-11-15T03:12:23.757009+00:00",
       "status": "OPEN",
       "mode": "PAPER ONLY"
     },
     {
-      "symbol": "XRPUSDT",
-      "side": "SELL",
-      "entry": 0.9078,
-      "stopLoss": 0.921417,
-      "takeProfit": 0.880566,
-      "entryTime": "2026-11-14T23:50:29.743619+00:00",
+      "symbol": "ZECUSDT",
+      "side": "BUY",
+      "entry": 922.41,
+      "stopLoss": 908.57385,
+      "takeProfit": 950.0823,
+      "entryTime": "2026-11-15T03:12:23.757009+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "NEARUSDT",
+      "side": "BUY",
+      "entry": 3.156,
+      "stopLoss": 3.10866,
+      "takeProfit": 3.25068,
+      "entryTime": "2026-11-15T03:12:23.757009+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "HYPEUSDT",
+      "side": "BUY",
+      "entry": 66.51,
+      "stopLoss": 65.51235,
+      "takeProfit": 68.5053,
+      "entryTime": "2026-11-15T03:12:23.757009+00:00",
       "status": "OPEN",
       "mode": "PAPER ONLY"
     },
     {
       "symbol": "DOGEUSDT",
-      "side": "SELL",
-      "entry": 0.05696,
-      "stopLoss": 0.0578144,
-      "takeProfit": 0.0552512,
-      "entryTime": "2026-11-14T23:50:29.743619+00:00",
+      "side": "BUY",
+      "entry": 0.05905,
+      "stopLoss": 0.05816425,
+      "takeProfit": 0.0608215,
+      "entryTime": "2026-11-15T03:12:23.757009+00:00",
       "status": "OPEN",
       "mode": "PAPER ONLY"
     }
@@ -2519,6 +2519,71 @@
       "exitPrice": 0.9078,
       "exitTime": "2026-11-14T23:50:29.743619+00:00",
       "pnlPercent": 6.499
+    },
+    {
+      "symbol": "ZECUSDT",
+      "side": "SELL",
+      "entry": 869.71,
+      "stopLoss": 882.75565,
+      "takeProfit": 843.6187,
+      "entryTime": "2026-11-14T15:38:15.526287+00:00",
+      "status": "STOP_LOSS",
+      "mode": "PAPER ONLY",
+      "exitPrice": 922.41,
+      "exitTime": "2026-11-15T03:12:23.757009+00:00",
+      "pnlPercent": -6.059
+    },
+    {
+      "symbol": "ETHUSDT",
+      "side": "SELL",
+      "entry": 1766.77,
+      "stopLoss": 1793.27155,
+      "takeProfit": 1713.7669,
+      "entryTime": "2026-11-14T23:50:29.743619+00:00",
+      "status": "STOP_LOSS",
+      "mode": "PAPER ONLY",
+      "exitPrice": 1828.18,
+      "exitTime": "2026-11-15T03:12:23.757009+00:00",
+      "pnlPercent": -3.476
+    },
+    {
+      "symbol": "SOLUSDT",
+      "side": "SELL",
+      "entry": 69.95,
+      "stopLoss": 70.99925,
+      "takeProfit": 67.8515,
+      "entryTime": "2026-11-14T23:50:29.743619+00:00",
+      "status": "STOP_LOSS",
+      "mode": "PAPER ONLY",
+      "exitPrice": 71.91,
+      "exitTime": "2026-11-15T03:12:23.757009+00:00",
+      "pnlPercent": -2.802
+    },
+    {
+      "symbol": "XRPUSDT",
+      "side": "SELL",
+      "entry": 0.9078,
+      "stopLoss": 0.921417,
+      "takeProfit": 0.880566,
+      "entryTime": "2026-11-14T23:50:29.743619+00:00",
+      "status": "STOP_LOSS",
+      "mode": "PAPER ONLY",
+      "exitPrice": 0.9629,
+      "exitTime": "2026-11-15T03:12:23.757009+00:00",
+      "pnlPercent": -6.07
+    },
+    {
+      "symbol": "DOGEUSDT",
+      "side": "SELL",
+      "entry": 0.05696,
+      "stopLoss": 0.0578144,
+      "takeProfit": 0.0552512,
+      "entryTime": "2026-11-14T23:50:29.743619+00:00",
+      "status": "STOP_LOSS",
+      "mode": "PAPER ONLY",
+      "exitPrice": 0.05905,
+      "exitTime": "2026-11-15T03:12:23.757009+00:00",
+      "pnlPercent": -3.669
     }
   ]
 }
