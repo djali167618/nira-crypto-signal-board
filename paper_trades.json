@@ -249,16 +249,6 @@
       "entryTime": "2026-11-16T01:38:43.024815+00:00",
       "status": "OPEN",
       "mode": "PAPER ONLY"
-    },
-    {
-      "symbol": "ASTERUSDT",
-      "side": "SELL",
-      "entry": 0.5184,
-      "stopLoss": 0.526176,
-      "takeProfit": 0.502848,
-      "entryTime": "2026-11-16T01:38:43.024815+00:00",
-      "status": "OPEN",
-      "mode": "PAPER ONLY"
     }
   ],
   "closed": [
@@ -2640,6 +2630,19 @@
       "exitPrice": 0.9653,
       "exitTime": "2026-11-15T21:58:57.708602+00:00",
       "pnlPercent": -1.536
+    },
+    {
+      "symbol": "ASTERUSDT",
+      "side": "SELL",
+      "entry": 0.5184,
+      "stopLoss": 0.526176,
+      "takeProfit": 0.502848,
+      "entryTime": "2026-11-16T01:38:43.024815+00:00",
+      "status": "STOP_LOSS",
+      "mode": "PAPER ONLY",
+      "exitPrice": 0.544,
+      "exitTime": "2026-11-16T08:34:13.917119+00:00",
+      "pnlPercent": -4.938
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-16 01:38:43 UTC",
+  "generatedAt": "2026-11-16 08:34:13 UTC",
   "interval": "15m candles",
-  "marketSentiment": -50,
-  "overallNewsScore": 7,
+  "marketSentiment": -57,
+  "overallNewsScore": -14,
   "fearGreed": {
     "value": 10,
     "label": "Extreme Fear",
@@ -12,21 +12,42 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 64769.69,
-      "change24h": 3.823,
-      "volume24h": 1729986138.5631788,
+      "price": 64595.64,
+      "change24h": -0.203,
+      "volume24h": 1336686413.6258261,
       "technical": {
-        "rsi": 45.4,
-        "ema9": 64976.73575848013,
-        "ema21": 65005.739012706785,
-        "macdBull": false,
+        "rsi": 44.1,
+        "ema9": 64713.72385115237,
+        "ema21": 64764.417859042376,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.75,
-        "score": 23
+        "volumeRatio": 0.89,
+        "score": 35
       },
       "newsScore": 10,
       "newsCount": 5,
       "news": [
+        {
+          "title": "Harvard, Dartmouth keep Bitcoin ETF stakes steady as fund gains 42% in Q3",
+          "link": "https://cointelegraph.com/news/harvard-dartmouth-bitcoin-etf-ibit-up-q3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Mon, 16 Nov 2026 08:27:39 +0000",
+          "source": "Cointelegraph",
+          "text": "Harvard, Dartmouth keep Bitcoin ETF stakes steady as fund gains 42% in Q3 Harvard’s gold ETF share count rose nearly 20-fold in Q3, while Dartmouth kept its positions in Solana and Ether staking ETFs unchanged."
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Mon, 16 Nov 2026 06:00:00 +0000",
+          "source": "Cointelegraph",
+          "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+        },
+        {
+          "title": "Luxor CEO warns of AI ‘dark forest’ following Bitcoin miner hijack",
+          "link": "https://cointelegraph.com/news/luxor-ceo-warns-of-ai-dark-forest-after-bitcoin-miner-hijack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Mon, 16 Nov 2026 02:33:07 +0000",
+          "source": "Cointelegraph",
+          "text": "Luxor CEO warns of AI ‘dark forest’ following Bitcoin miner hijack Attackers redirected customers’ Bitcoin mining power through Luxor’s Commander platform over the weekend, prompting its CEO to issue a warning to crypto businesses."
+        },
         {
           "title": "US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodler’s Digest",
           "link": "https://cointelegraph.com/magazine/us-sellers-drive-bitcoin-crash-jensen-plots-comeback-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -35,63 +56,56 @@
           "text": "US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodler’s Digest Anchorage Digital data suggests the Bitcoin selloff is being driven by US investors. A “war room” has been set up by supporters to reinstate Nvidia boss Jensen Huang."
         },
         {
-          "title": "Here’s what happened in crypto today",
-          "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Sun, 15 Nov 2026 11:18:48 +0000",
-          "source": "Cointelegraph",
-          "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-        },
-        {
-          "title": "Bitcoin falls to four-month low near $62K as crypto selloff deepens",
+          "title": "Bitcoin falls to 4-month low near $62K as crypto selloff deepens",
           "link": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "published": "Sun, 15 Nov 2026 10:23:17 +0000",
           "source": "Cointelegraph",
-          "text": "Bitcoin falls to four-month low near $62K as crypto selloff deepens The global cryptocurrency market capitalization fell 4% to $2.26 trillion over 24 hours, while Ether and Solana posted double-digit weekly losses."
-        },
-        {
-          "title": "Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock’s losing streak hits 11",
-          "link": "https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Sat, 14 Nov 2026 06:33:13 +0000",
-          "source": "Cointelegraph",
-          "text": "Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock’s losing streak hits 11 US spot Bitcoin ETFs recorded $185.4 million in net outflows Friday, with BlackRock’s IBIT accounting for $143.5 million and Fidelity’s FBTC shedding $41.9 million."
-        },
-        {
-          "title": "Adam Back makes case for simpler security as Blockstream launches Bitcoin custody system",
-          "link": "https://cointelegraph.com/news/adam-back-simpler-security-blockstream-bitcoin-custody-system?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Fri, 13 Nov 2026 21:49:27 +0000",
-          "source": "Cointelegraph",
-          "text": "Adam Back makes case for simpler security as Blockstream launches Bitcoin custody system Blockstream’s new custody system, developed with Thales, uses dedicated hardware for transaction signing as Adam Back advocates for offline security to reduce cyber risks."
+          "text": "Bitcoin falls to 4-month low near $62K as crypto selloff deepens The global cryptocurrency market capitalization fell 4% to $2.26 trillion over 24 hours, while Ether and Solana posted double-digit weekly losses."
         }
       ],
-      "marketSentiment": -50,
-      "combinedScore": 33,
-      "signal": "SELL",
-      "reason": "Technical 23/100; News +10; Market sentiment -50."
+      "marketSentiment": -57,
+      "combinedScore": 38,
+      "signal": "WAIT",
+      "reason": "Technical 35/100; News +10; Market sentiment -57."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 1808.19,
-      "change24h": 4.993,
-      "volume24h": 726572972.549971,
+      "price": 1809.56,
+      "change24h": 0.455,
+      "volume24h": 560250890.171125,
       "technical": {
-        "rsi": 41.2,
-        "ema9": 1818.9429567116472,
-        "ema21": 1821.340964454128,
+        "rsi": 42.5,
+        "ema9": 1814.203143953941,
+        "ema21": 1816.2539102008848,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.59,
-        "score": 11
+        "volumeRatio": 1.6,
+        "score": 6
       },
-      "newsScore": -20,
+      "newsScore": 17,
       "newsCount": 5,
       "news": [
         {
-          "title": "Bitcoin falls to four-month low near $62K as crypto selloff deepens",
+          "title": "Harvard, Dartmouth keep Bitcoin ETF stakes steady as fund gains 42% in Q3",
+          "link": "https://cointelegraph.com/news/harvard-dartmouth-bitcoin-etf-ibit-up-q3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Mon, 16 Nov 2026 08:27:39 +0000",
+          "source": "Cointelegraph",
+          "text": "Harvard, Dartmouth keep Bitcoin ETF stakes steady as fund gains 42% in Q3 Harvard’s gold ETF share count rose nearly 20-fold in Q3, while Dartmouth kept its positions in Solana and Ether staking ETFs unchanged."
+        },
+        {
+          "title": "Bitcoin falls to 4-month low near $62K as crypto selloff deepens",
           "link": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "published": "Sun, 15 Nov 2026 10:23:17 +0000",
           "source": "Cointelegraph",
-          "text": "Bitcoin falls to four-month low near $62K as crypto selloff deepens The global cryptocurrency market capitalization fell 4% to $2.26 trillion over 24 hours, while Ether and Solana posted double-digit weekly losses."
+          "text": "Bitcoin falls to 4-month low near $62K as crypto selloff deepens The global cryptocurrency market capitalization fell 4% to $2.26 trillion over 24 hours, while Ether and Solana posted double-digit weekly losses."
+        },
+        {
+          "title": "Vitalik Buterin flips to ‘total bull’ on a faster route to quantum-safe Ethereum",
+          "link": "https://www.coindesk.com/tech/2026/11/16/vitalik-buterin-flips-to-total-bull-on-a-faster-route-to-quantum-safe-ethereum",
+          "published": "Mon, 16 Nov 2026 08:18:03 +0000",
+          "source": "CoinDesk",
+          "text": "Vitalik Buterin flips to ‘total bull’ on a faster route to quantum-safe Ethereum A proposed system would combine bulky digital signatures into a shared proof, helping protect wallets without making every payment much more expensive."
         },
         {
           "title": "Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business",
@@ -106,95 +120,111 @@
           "published": "Sat, 14 Nov 2026 12:57:00 +0000",
           "source": "CoinDesk",
           "text": "A behind the scenes force may amplify bitcoin and ether price volatility Both bitcoin and ether are trading in price ranges where market makers and dealers may add to market volatility."
-        },
-        {
-          "title": "Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy",
-          "link": "https://www.coindesk.com/markets/2026/11/13/ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-usd64-million-aave-loan-healthy",
-          "published": "Fri, 13 Nov 2026 07:05:29 +0000",
-          "source": "CoinDesk",
-          "text": "Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy The Nasdaq-listed company has 46,676 ETH backing its borrowings, and the loan could become eligible for liquidation if ether slides to around $1,700."
-        },
-        {
-          "title": "Bitcoin dips below $70,000 as Dollar Index hits 19-month high",
-          "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-dips-below-usd70-000-as-selloff-gathers-pace",
-          "published": "Fri, 13 Nov 2026 03:37:00 +0000",
-          "source": "CoinDesk",
-          "text": "Bitcoin dips below $70,000 as Dollar Index hits 19-month high The crypto market selloff gathered pace early Friday. Bitcoin dropped below $70,000 and ether traded below $2,000, triggering large liquidations in futures market."
         }
       ],
-      "marketSentiment": -50,
-      "combinedScore": 22,
+      "marketSentiment": -57,
+      "combinedScore": 25,
       "signal": "SELL",
-      "reason": "Technical 11/100; News -20; Market sentiment -50."
+      "reason": "Technical 6/100; News +17; Market sentiment -57."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 71.31,
-      "change24h": 4.514,
-      "volume24h": 312358595.50963,
+      "price": 70.93,
+      "change24h": 0.311,
+      "volume24h": 236726907.94285,
       "technical": {
-        "rsi": 41.7,
-        "ema9": 71.87478007541631,
-        "ema21": 71.94100616186826,
+        "rsi": 40.2,
+        "ema9": 71.10988726832237,
+        "ema21": 71.33903456694343,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.86,
+        "volumeRatio": 0.71,
         "score": 11
       },
-      "newsScore": 0,
-      "newsCount": 1,
+      "newsScore": 50,
+      "newsCount": 2,
       "news": [
         {
-          "title": "Bitcoin falls to four-month low near $62K as crypto selloff deepens",
+          "title": "Harvard, Dartmouth keep Bitcoin ETF stakes steady as fund gains 42% in Q3",
+          "link": "https://cointelegraph.com/news/harvard-dartmouth-bitcoin-etf-ibit-up-q3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Mon, 16 Nov 2026 08:27:39 +0000",
+          "source": "Cointelegraph",
+          "text": "Harvard, Dartmouth keep Bitcoin ETF stakes steady as fund gains 42% in Q3 Harvard’s gold ETF share count rose nearly 20-fold in Q3, while Dartmouth kept its positions in Solana and Ether staking ETFs unchanged."
+        },
+        {
+          "title": "Bitcoin falls to 4-month low near $62K as crypto selloff deepens",
           "link": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "published": "Sun, 15 Nov 2026 10:23:17 +0000",
           "source": "Cointelegraph",
-          "text": "Bitcoin falls to four-month low near $62K as crypto selloff deepens The global cryptocurrency market capitalization fell 4% to $2.26 trillion over 24 hours, while Ether and Solana posted double-digit weekly losses."
+          "text": "Bitcoin falls to 4-month low near $62K as crypto selloff deepens The global cryptocurrency market capitalization fell 4% to $2.26 trillion over 24 hours, while Ether and Solana posted double-digit weekly losses."
         }
       ],
-      "marketSentiment": -50,
-      "combinedScore": 26,
+      "marketSentiment": -57,
+      "combinedScore": 32,
       "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment -50."
+      "reason": "Technical 11/100; News +50; Market sentiment -57."
     },
     {
-      "symbol": "ZECUSDT",
-      "coin": "ZEC",
-      "price": 885.67,
-      "change24h": 4.7,
-      "volume24h": 156515468.98197,
+      "symbol": "USD1USDT",
+      "coin": "USD1",
+      "price": 0.99953,
+      "change24h": 0.092,
+      "volume24h": 128569934.99615,
       "technical": {
-        "rsi": 41.0,
-        "ema9": 900.2494755223773,
-        "ema21": 902.6714768059801,
+        "rsi": 56.4,
+        "ema9": 0.9993418631084662,
+        "ema21": 0.9993175272054794,
         "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.8,
-        "score": 11
+        "emaBull": true,
+        "volumeRatio": 1.18,
+        "score": 65
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -50,
-      "combinedScore": 26,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment -50."
+      "marketSentiment": -57,
+      "combinedScore": 52,
+      "signal": "WAIT",
+      "reason": "Technical 65/100; News +0; Market sentiment -57."
+    },
+    {
+      "symbol": "ZECUSDT",
+      "coin": "ZEC",
+      "price": 890.95,
+      "change24h": -0.609,
+      "volume24h": 123949392.00166,
+      "technical": {
+        "rsi": 47.7,
+        "ema9": 891.1251974754069,
+        "ema21": 891.0894281921169,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.34,
+        "score": 77
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -57,
+      "combinedScore": 58,
+      "signal": "WAIT",
+      "reason": "Technical 77/100; News +0; Market sentiment -57."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 0.9603,
-      "change24h": 5.69,
-      "volume24h": 136966992.05827,
+      "price": 0.9562,
+      "change24h": 0.168,
+      "volume24h": 101882256.54622,
       "technical": {
-        "rsi": 44.8,
-        "ema9": 0.964083458795198,
-        "ema21": 0.9643203827483702,
-        "macdBull": false,
+        "rsi": 43.9,
+        "ema9": 0.955682206071837,
+        "ema21": 0.9572338568101467,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.63,
-        "score": 11
+        "volumeRatio": 1.13,
+        "score": 35
       },
       "newsScore": -100,
       "newsCount": 1,
@@ -207,136 +237,156 @@
           "text": "XRP crashes to its lowest since November 2024 as money leaves crypto XRP tanked to its lowest level since November 2024 as ETF outflows and shrinking stablecoin supply add to pressure on crypto markets."
         }
       ],
-      "marketSentiment": -50,
-      "combinedScore": 10,
+      "marketSentiment": -57,
+      "combinedScore": 22,
       "signal": "SELL",
-      "reason": "Technical 11/100; News -100; Market sentiment -50."
-    },
-    {
-      "symbol": "USD1USDT",
-      "coin": "USD1",
-      "price": 0.99911,
-      "change24h": 0.045,
-      "volume24h": 135308320.93655,
-      "technical": {
-        "rsi": 53.4,
-        "ema9": 0.9991196614408394,
-        "ema21": 0.9990775029616679,
-        "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.75,
-        "score": 53
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -50,
-      "combinedScore": 46,
-      "signal": "WAIT",
-      "reason": "Technical 53/100; News +0; Market sentiment -50."
+      "reason": "Technical 35/100; News -100; Market sentiment -57."
     },
     {
       "symbol": "BNBUSDT",
       "coin": "BNB",
-      "price": 591.6,
-      "change24h": 4.01,
-      "volume24h": 78633779.93073,
+      "price": 590.52,
+      "change24h": 0.12,
+      "volume24h": 64172240.18107,
       "technical": {
-        "rsi": 45.8,
-        "ema9": 594.0914979176821,
-        "ema21": 594.0225979664069,
-        "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.72,
-        "score": 53
+        "rsi": 43.8,
+        "ema9": 591.213174806026,
+        "ema21": 591.5719498964818,
+        "macdBull": true,
+        "emaBull": false,
+        "volumeRatio": 1.31,
+        "score": 35
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -50,
-      "combinedScore": 46,
+      "marketSentiment": -57,
+      "combinedScore": 37,
       "signal": "WAIT",
-      "reason": "Technical 53/100; News +0; Market sentiment -50."
+      "reason": "Technical 35/100; News +0; Market sentiment -57."
+    },
+    {
+      "symbol": "ASTERUSDT",
+      "coin": "ASTER",
+      "price": 0.544,
+      "change24h": 3.837,
+      "volume24h": 57340641.31496,
+      "technical": {
+        "rsi": 50.0,
+        "ema9": 0.5486278683109546,
+        "ema21": 0.5459452158679898,
+        "macdBull": false,
+        "emaBull": true,
+        "volumeRatio": 1.05,
+        "score": 53
+      },
+      "newsScore": -100,
+      "newsCount": 1,
+      "news": [
+        {
+          "title": "Aster CEO suspects foul play after token plunges 32% in minutes",
+          "link": "https://cointelegraph.com/markets/aster-ceo-suspects-foul-play-after-token-plunges-32-in-minutes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Mon, 16 Nov 2026 05:28:40 +0000",
+          "source": "Cointelegraph",
+          "text": "Aster CEO suspects foul play after token plunges 32% in minutes Aster’s CEO attributed the extreme volatility to highly leveraged liquidations but said the exchange remained operational."
+        }
+      ],
+      "marketSentiment": -57,
+      "combinedScore": 31,
+      "signal": "WAIT",
+      "reason": "Technical 53/100; News -100; Market sentiment -57."
+    },
+    {
+      "symbol": "NVDABUSDT",
+      "coin": "NVDAB",
+      "price": 162.72,
+      "change24h": 1.687,
+      "volume24h": 50347896.12136,
+      "technical": {
+        "rsi": 55.0,
+        "ema9": 162.12837861307293,
+        "ema21": 162.08292810611837,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.7,
+        "score": 89
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -57,
+      "combinedScore": 64,
+      "signal": "WAIT",
+      "reason": "Technical 89/100; News +0; Market sentiment -57."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 3.136,
-      "change24h": 5.803,
-      "volume24h": 60821837.1622,
+      "price": 3.189,
+      "change24h": 2.015,
+      "volume24h": 43819366.8055,
       "technical": {
-        "rsi": 41.4,
-        "ema9": 3.1711277473525814,
-        "ema21": 3.1766546306608356,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 1.06,
-        "score": 11
+        "rsi": 51.3,
+        "ema9": 3.174532290254284,
+        "ema21": 3.1739110900141263,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.88,
+        "score": 77
       },
       "newsScore": 0,
       "newsCount": 1,
       "news": [
         {
-          "title": "Bitcoin falls to four-month low near $62K as crypto selloff deepens",
+          "title": "Bitcoin falls to 4-month low near $62K as crypto selloff deepens",
           "link": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "published": "Sun, 15 Nov 2026 10:23:17 +0000",
           "source": "Cointelegraph",
-          "text": "Bitcoin falls to four-month low near $62K as crypto selloff deepens The global cryptocurrency market capitalization fell 4% to $2.26 trillion over 24 hours, while Ether and Solana posted double-digit weekly losses."
+          "text": "Bitcoin falls to 4-month low near $62K as crypto selloff deepens The global cryptocurrency market capitalization fell 4% to $2.26 trillion over 24 hours, while Ether and Solana posted double-digit weekly losses."
         }
       ],
-      "marketSentiment": -50,
-      "combinedScore": 26,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment -50."
-    },
-    {
-      "symbol": "ASTERUSDT",
-      "coin": "ASTER",
-      "price": 0.5184,
-      "change24h": 1.987,
-      "volume24h": 53543272.294059,
-      "technical": {
-        "rsi": 45.6,
-        "ema9": 0.5118461490325764,
-        "ema21": 0.5219983396996171,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.23,
-        "score": 23
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -50,
-      "combinedScore": 32,
-      "signal": "SELL",
-      "reason": "Technical 23/100; News +0; Market sentiment -50."
-    },
-    {
-      "symbol": "DOGEUSDT",
-      "coin": "DOGE",
-      "price": 0.05865,
-      "change24h": 4.826,
-      "volume24h": 50444948.19087,
-      "technical": {
-        "rsi": 43.9,
-        "ema9": 0.05922387861559217,
-        "ema21": 0.05919946602704381,
-        "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.67,
-        "score": 41
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -50,
-      "combinedScore": 40,
+      "marketSentiment": -57,
+      "combinedScore": 58,
       "signal": "WAIT",
-      "reason": "Technical 41/100; News +0; Market sentiment -50."
+      "reason": "Technical 77/100; News +0; Market sentiment -57."
     }
   ],
   "news": [
+    {
+      "title": "Harvard, Dartmouth keep Bitcoin ETF stakes steady as fund gains 42% in Q3",
+      "link": "https://cointelegraph.com/news/harvard-dartmouth-bitcoin-etf-ibit-up-q3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 16 Nov 2026 08:27:39 +0000",
+      "source": "Cointelegraph",
+      "text": "Harvard, Dartmouth keep Bitcoin ETF stakes steady as fund gains 42% in Q3 Harvard’s gold ETF share count rose nearly 20-fold in Q3, while Dartmouth kept its positions in Solana and Ether staking ETFs unchanged."
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 16 Nov 2026 06:00:00 +0000",
+      "source": "Cointelegraph",
+      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "title": "Aster CEO suspects foul play after token plunges 32% in minutes",
+      "link": "https://cointelegraph.com/markets/aster-ceo-suspects-foul-play-after-token-plunges-32-in-minutes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 16 Nov 2026 05:28:40 +0000",
+      "source": "Cointelegraph",
+      "text": "Aster CEO suspects foul play after token plunges 32% in minutes Aster’s CEO attributed the extreme volatility to highly leveraged liquidations but said the exchange remained operational."
+    },
+    {
+      "title": "Asian chip stocks tumble ahead of Nvidia Q3 earnings",
+      "link": "https://cointelegraph.com/markets/asian-chip-stocks-tumble-ahead-of-nvidia-q3-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 16 Nov 2026 04:42:07 +0000",
+      "source": "Cointelegraph",
+      "text": "Asian chip stocks tumble ahead of Nvidia Q3 earnings The weakness came amid a wider sell-off in regional equity markets, with Japan’s Nikkei 225 down 2% and South Korea’s Kospi losing 2.6%."
+    },
+    {
+      "title": "Luxor CEO warns of AI ‘dark forest’ following Bitcoin miner hijack",
+      "link": "https://cointelegraph.com/news/luxor-ceo-warns-of-ai-dark-forest-after-bitcoin-miner-hijack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 16 Nov 2026 02:33:07 +0000",
+      "source": "Cointelegraph",
+      "text": "Luxor CEO warns of AI ‘dark forest’ following Bitcoin miner hijack Attackers redirected customers’ Bitcoin mining power through Luxor’s Commander platform over the weekend, prompting its CEO to issue a warning to crypto businesses."
+    },
     {
       "title": "Jensen Huang weighs Nvidia comeback days after shock exit: FT",
       "link": "https://cointelegraph.com/news/jensen-huang-weighs-nvidia-comeback-days-after-shock-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -359,18 +409,11 @@
       "text": "Enterprise blockchain is going to come back from the dead With scalability, privacy tools and onchain liquidity improving, businesses may finally have the infrastructure to make enterprise blockchain work."
     },
     {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 15 Nov 2026 11:18:48 +0000",
-      "source": "Cointelegraph",
-      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-    },
-    {
-      "title": "Bitcoin falls to four-month low near $62K as crypto selloff deepens",
+      "title": "Bitcoin falls to 4-month low near $62K as crypto selloff deepens",
       "link": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sun, 15 Nov 2026 10:23:17 +0000",
       "source": "Cointelegraph",
-      "text": "Bitcoin falls to four-month low near $62K as crypto selloff deepens The global cryptocurrency market capitalization fell 4% to $2.26 trillion over 24 hours, while Ether and Solana posted double-digit weekly losses."
+      "text": "Bitcoin falls to 4-month low near $62K as crypto selloff deepens The global cryptocurrency market capitalization fell 4% to $2.26 trillion over 24 hours, while Ether and Solana posted double-digit weekly losses."
     },
     {
       "title": "Coinone warns of phishing, identity theft after customer data breach",
@@ -380,11 +423,11 @@
       "text": "Coinone warns of phishing, identity theft after customer data breach The South Korean crypto exchange said potentially exposed information includes passwords, bank account numbers, national identification numbers and crypto wallet addresses."
     },
     {
-      "title": "RWA protocol stUSDT winds down three years after $2.3B TVL peak",
+      "title": "RWA protocol stUSDT winds down 3 years after $2.3B TVL peak",
       "link": "https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sun, 15 Nov 2026 06:27:26 +0000",
       "source": "Cointelegraph",
-      "text": "RWA protocol stUSDT winds down three years after $2.3B TVL peak The stUSDT team did not disclose a reason for winding down the RWA protocol but assured holders that all underlying assets remain fully backed."
+      "text": "RWA protocol stUSDT winds down 3 years after $2.3B TVL peak The stUSDT team did not disclose a reason for winding down the RWA protocol but assured holders that all underlying assets remain fully backed."
     },
     {
       "title": "Microsoft confirms global outage resolved, rules out cyberattack",
@@ -448,34 +491,6 @@
       "published": "Fri, 13 Nov 2026 16:39:11 +0000",
       "source": "Cointelegraph",
       "text": "Bitcoin holds below $70K as stocks slip despite a cooler US PPI print Bitcoin was down about 4% on the day amid a tepid market reaction to October’s US PPI reading, which came in below expected levels."
-    },
-    {
-      "title": "Arthur Hayes ‘flattered’ as Coinbase backs US stock perps",
-      "link": "https://cointelegraph.com/news/arthur-hayes-coinbase-us-stock-perps-cftc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 13 Nov 2026 13:41:26 +0000",
-      "source": "Cointelegraph",
-      "text": "Arthur Hayes ‘flattered’ as Coinbase backs US stock perps Arthur Hayes said he was “flattered” by Coinbase’s defense of US stock perpetual futures, a decade after BitMEX launched perpetual swaps."
-    },
-    {
-      "title": "Nakamoto shares fall 6% premarket after Q3 revenue turns negative",
-      "link": "https://cointelegraph.com/markets/nakamoto-shares-fall-after-negative-q3-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 13 Nov 2026 13:04:19 +0000",
-      "source": "Cointelegraph",
-      "text": "Nakamoto shares fall 6% premarket after Q3 revenue turns negative A $5.8 million Bitcoin options loss pushed Nakamoto’s quarterly operating revenue below zero, while the company extended repayment of $60 million in Kraken debt to 2027."
-    },
-    {
-      "title": "Israeli police arrest five in $5M WhatsApp crypto trading probe",
-      "link": "https://cointelegraph.com/news/israel-police-arrest-five-5m-whatsapp-crypto-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 13 Nov 2026 12:19:01 +0000",
-      "source": "Cointelegraph",
-      "text": "Israeli police arrest five in $5M WhatsApp crypto trading probe Police suspect the group drew up fictitious loan agreements to disguise crypto trading proceeds it transferred directly into bank accounts."
-    },
-    {
-      "title": "Unocoin keeps deposits and withdrawals halted over suspect transfers",
-      "link": "https://cointelegraph.com/news/unocoin-withdrawals-halted-bitgo-wallet-transfer-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 13 Nov 2026 09:58:21 +0000",
-      "source": "Cointelegraph",
-      "text": "Unocoin keeps deposits and withdrawals halted over suspect transfers Unocoin said the transfers were signed and broadcast outside BitGo’s platform, and BitGo said the account freeze worked as intended."
     }
   ],
   "paper": {
@@ -726,16 +741,6 @@
         "entry": 0.9603,
         "stopLoss": 0.9747045,
         "takeProfit": 0.931491,
-        "entryTime": "2026-11-16T01:38:43.024815+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
-        "symbol": "ASTERUSDT",
-        "side": "SELL",
-        "entry": 0.5184,
-        "stopLoss": 0.526176,
-        "takeProfit": 0.502848,
         "entryTime": "2026-11-16T01:38:43.024815+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
@@ -3120,6 +3125,19 @@
         "exitPrice": 0.9653,
         "exitTime": "2026-11-15T21:58:57.708602+00:00",
         "pnlPercent": -1.536
+      },
+      {
+        "symbol": "ASTERUSDT",
+        "side": "SELL",
+        "entry": 0.5184,
+        "stopLoss": 0.526176,
+        "takeProfit": 0.502848,
+        "entryTime": "2026-11-16T01:38:43.024815+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 0.544,
+        "exitTime": "2026-11-16T08:34:13.917119+00:00",
+        "pnlPercent": -4.938
       }
     ]
   },
