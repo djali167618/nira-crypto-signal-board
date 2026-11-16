@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-15 21:58:57 UTC",
+  "generatedAt": "2026-11-16 01:38:43 UTC",
   "interval": "15m candles",
-  "marketSentiment": -49,
-  "overallNewsScore": 8,
+  "marketSentiment": -50,
+  "overallNewsScore": 7,
   "fearGreed": {
     "value": 10,
     "label": "Extreme Fear",
@@ -12,21 +12,28 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 65061.47,
-      "change24h": 0.959,
-      "volume24h": 2106875487.7546518,
+      "price": 64769.69,
+      "change24h": 3.823,
+      "volume24h": 1729986138.5631788,
       "technical": {
-        "rsi": 54.3,
-        "ema9": 64975.08134099969,
-        "ema21": 64916.63293871837,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.65,
-        "score": 77
+        "rsi": 45.4,
+        "ema9": 64976.73575848013,
+        "ema21": 65005.739012706785,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.75,
+        "score": 23
       },
-      "newsScore": 0,
+      "newsScore": 10,
       "newsCount": 5,
       "news": [
+        {
+          "title": "US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodler’s Digest",
+          "link": "https://cointelegraph.com/magazine/us-sellers-drive-bitcoin-crash-jensen-plots-comeback-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Sun, 15 Nov 2026 22:50:59 +0000",
+          "source": "Cointelegraph",
+          "text": "US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodler’s Digest Anchorage Digital data suggests the Bitcoin selloff is being driven by US investors. A “war room” has been set up by supporters to reinstate Nvidia boss Jensen Huang."
+        },
         {
           "title": "Here’s what happened in crypto today",
           "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -54,34 +61,27 @@
           "published": "Fri, 13 Nov 2026 21:49:27 +0000",
           "source": "Cointelegraph",
           "text": "Adam Back makes case for simpler security as Blockstream launches Bitcoin custody system Blockstream’s new custody system, developed with Thales, uses dedicated hardware for transaction signing as Adam Back advocates for offline security to reduce cyber risks."
-        },
-        {
-          "title": "Metaplanet swings to $170M loss as Bitcoin sale hits earnings",
-          "link": "https://cointelegraph.com/news/metaplanet-swings-170m-loss-bitcoin-sale-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Fri, 13 Nov 2026 18:28:29 +0000",
-          "source": "Cointelegraph",
-          "text": "Metaplanet swings to $170M loss as Bitcoin sale hits earnings Bitcoin sales, valuation losses and rising borrowing costs weighed on the Japanese company’s earnings despite higher revenue and operating profit."
         }
       ],
-      "marketSentiment": -49,
-      "combinedScore": 59,
-      "signal": "WAIT",
-      "reason": "Technical 77/100; News +0; Market sentiment -49."
+      "marketSentiment": -50,
+      "combinedScore": 33,
+      "signal": "SELL",
+      "reason": "Technical 23/100; News +10; Market sentiment -50."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 1820.27,
-      "change24h": 2.744,
-      "volume24h": 865121706.879101,
+      "price": 1808.19,
+      "change24h": 4.993,
+      "volume24h": 726572972.549971,
       "technical": {
-        "rsi": 49.9,
-        "ema9": 1821.437767276349,
-        "ema21": 1820.1641294456706,
+        "rsi": 41.2,
+        "ema9": 1818.9429567116472,
+        "ema21": 1821.340964454128,
         "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.77,
-        "score": 53
+        "emaBull": false,
+        "volumeRatio": 0.59,
+        "score": 11
       },
       "newsScore": -20,
       "newsCount": 5,
@@ -122,25 +122,25 @@
           "text": "Bitcoin dips below $70,000 as Dollar Index hits 19-month high The crypto market selloff gathered pace early Friday. Bitcoin dropped below $70,000 and ether traded below $2,000, triggering large liquidations in futures market."
         }
       ],
-      "marketSentiment": -49,
-      "combinedScore": 44,
-      "signal": "WAIT",
-      "reason": "Technical 53/100; News -20; Market sentiment -49."
+      "marketSentiment": -50,
+      "combinedScore": 22,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News -20; Market sentiment -50."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 71.98,
-      "change24h": 2.99,
-      "volume24h": 357792207.7607,
+      "price": 71.31,
+      "change24h": 4.514,
+      "volume24h": 312358595.50963,
       "technical": {
-        "rsi": 55.9,
-        "ema9": 71.75530127963827,
-        "ema21": 71.64410382279063,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.35,
-        "score": 89
+        "rsi": 41.7,
+        "ema9": 71.87478007541631,
+        "ema21": 71.94100616186826,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.86,
+        "score": 11
       },
       "newsScore": 0,
       "newsCount": 1,
@@ -153,25 +153,48 @@
           "text": "Bitcoin falls to four-month low near $62K as crypto selloff deepens The global cryptocurrency market capitalization fell 4% to $2.26 trillion over 24 hours, while Ether and Solana posted double-digit weekly losses."
         }
       ],
-      "marketSentiment": -49,
-      "combinedScore": 65,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment -49."
+      "marketSentiment": -50,
+      "combinedScore": 26,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment -50."
+    },
+    {
+      "symbol": "ZECUSDT",
+      "coin": "ZEC",
+      "price": 885.67,
+      "change24h": 4.7,
+      "volume24h": 156515468.98197,
+      "technical": {
+        "rsi": 41.0,
+        "ema9": 900.2494755223773,
+        "ema21": 902.6714768059801,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.8,
+        "score": 11
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -50,
+      "combinedScore": 26,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment -50."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 0.9653,
-      "change24h": 6.042,
-      "volume24h": 179161854.48881,
+      "price": 0.9603,
+      "change24h": 5.69,
+      "volume24h": 136966992.05827,
       "technical": {
-        "rsi": 61.0,
-        "ema9": 0.9607514313642255,
-        "ema21": 0.9586989797475983,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.4,
-        "score": 89
+        "rsi": 44.8,
+        "ema9": 0.964083458795198,
+        "ema21": 0.9643203827483702,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.63,
+        "score": 11
       },
       "newsScore": -100,
       "newsCount": 1,
@@ -184,94 +207,71 @@
           "text": "XRP crashes to its lowest since November 2024 as money leaves crypto XRP tanked to its lowest level since November 2024 as ETF outflows and shrinking stablecoin supply add to pressure on crypto markets."
         }
       ],
-      "marketSentiment": -49,
-      "combinedScore": 50,
-      "signal": "WAIT",
-      "reason": "Technical 89/100; News -100; Market sentiment -49."
-    },
-    {
-      "symbol": "ZECUSDT",
-      "coin": "ZEC",
-      "price": 903.84,
-      "change24h": 8.313,
-      "volume24h": 175927378.42285,
-      "technical": {
-        "rsi": 50.2,
-        "ema9": 902.931758268751,
-        "ema21": 901.846217502168,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.44,
-        "score": 77
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -49,
-      "combinedScore": 59,
-      "signal": "WAIT",
-      "reason": "Technical 77/100; News +0; Market sentiment -49."
+      "marketSentiment": -50,
+      "combinedScore": 10,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News -100; Market sentiment -50."
     },
     {
       "symbol": "USD1USDT",
       "coin": "USD1",
-      "price": 0.99901,
-      "change24h": 0.023,
-      "volume24h": 162667989.44877,
+      "price": 0.99911,
+      "change24h": 0.045,
+      "volume24h": 135308320.93655,
       "technical": {
-        "rsi": 58.6,
-        "ema9": 0.9989764284006906,
-        "ema21": 0.9988871537393509,
-        "macdBull": true,
+        "rsi": 53.4,
+        "ema9": 0.9991196614408394,
+        "ema21": 0.9990775029616679,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 0.11,
-        "score": 89
+        "volumeRatio": 0.75,
+        "score": 53
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -49,
-      "combinedScore": 65,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment -49."
+      "marketSentiment": -50,
+      "combinedScore": 46,
+      "signal": "WAIT",
+      "reason": "Technical 53/100; News +0; Market sentiment -50."
     },
     {
       "symbol": "BNBUSDT",
       "coin": "BNB",
-      "price": 593.98,
-      "change24h": 2.713,
-      "volume24h": 98657002.04245,
+      "price": 591.6,
+      "change24h": 4.01,
+      "volume24h": 78633779.93073,
       "technical": {
-        "rsi": 54.4,
-        "ema9": 592.9537145436836,
-        "ema21": 592.4774221926622,
-        "macdBull": true,
+        "rsi": 45.8,
+        "ema9": 594.0914979176821,
+        "ema21": 594.0225979664069,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 0.47,
-        "score": 77
+        "volumeRatio": 0.72,
+        "score": 53
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -49,
-      "combinedScore": 59,
+      "marketSentiment": -50,
+      "combinedScore": 46,
       "signal": "WAIT",
-      "reason": "Technical 77/100; News +0; Market sentiment -49."
+      "reason": "Technical 53/100; News +0; Market sentiment -50."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 3.175,
-      "change24h": 7.191,
-      "volume24h": 73533950.5129,
+      "price": 3.136,
+      "change24h": 5.803,
+      "volume24h": 60821837.1622,
       "technical": {
-        "rsi": 56.9,
-        "ema9": 3.1757783983174215,
-        "ema21": 3.1641073013092593,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.79,
-        "score": 89
+        "rsi": 41.4,
+        "ema9": 3.1711277473525814,
+        "ema21": 3.1766546306608356,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 1.06,
+        "score": 11
       },
       "newsScore": 0,
       "newsCount": 1,
@@ -284,59 +284,73 @@
           "text": "Bitcoin falls to four-month low near $62K as crypto selloff deepens The global cryptocurrency market capitalization fell 4% to $2.26 trillion over 24 hours, while Ether and Solana posted double-digit weekly losses."
         }
       ],
-      "marketSentiment": -49,
-      "combinedScore": 65,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment -49."
+      "marketSentiment": -50,
+      "combinedScore": 26,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment -50."
+    },
+    {
+      "symbol": "ASTERUSDT",
+      "coin": "ASTER",
+      "price": 0.5184,
+      "change24h": 1.987,
+      "volume24h": 53543272.294059,
+      "technical": {
+        "rsi": 45.6,
+        "ema9": 0.5118461490325764,
+        "ema21": 0.5219983396996171,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.23,
+        "score": 23
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -50,
+      "combinedScore": 32,
+      "signal": "SELL",
+      "reason": "Technical 23/100; News +0; Market sentiment -50."
     },
     {
       "symbol": "DOGEUSDT",
       "coin": "DOGE",
-      "price": 0.05902,
-      "change24h": 3.762,
-      "volume24h": 61322597.35905,
+      "price": 0.05865,
+      "change24h": 4.826,
+      "volume24h": 50444948.19087,
       "technical": {
-        "rsi": 54.5,
-        "ema9": 0.058910694106832584,
-        "ema21": 0.058834770930311114,
-        "macdBull": true,
+        "rsi": 43.9,
+        "ema9": 0.05922387861559217,
+        "ema21": 0.05919946602704381,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 0.96,
-        "score": 77
+        "volumeRatio": 0.67,
+        "score": 41
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -49,
-      "combinedScore": 59,
+      "marketSentiment": -50,
+      "combinedScore": 40,
       "signal": "WAIT",
-      "reason": "Technical 77/100; News +0; Market sentiment -49."
-    },
-    {
-      "symbol": "HYPEUSDT",
-      "coin": "HYPE",
-      "price": 67.75,
-      "change24h": 8.21,
-      "volume24h": 55082037.62328,
-      "technical": {
-        "rsi": 59.5,
-        "ema9": 67.51476928283627,
-        "ema21": 67.31337747896869,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.79,
-        "score": 89
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -49,
-      "combinedScore": 65,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment -49."
+      "reason": "Technical 41/100; News +0; Market sentiment -50."
     }
   ],
   "news": [
+    {
+      "title": "Jensen Huang weighs Nvidia comeback days after shock exit: FT",
+      "link": "https://cointelegraph.com/news/jensen-huang-weighs-nvidia-comeback-days-after-shock-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sun, 15 Nov 2026 23:47:45 +0000",
+      "source": "Cointelegraph",
+      "text": "Jensen Huang weighs Nvidia comeback days after shock exit: FT Silicon Valley executives are reportedly organizing a campaign to bring Huang back and are looking to gain White House support."
+    },
+    {
+      "title": "US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodler’s Digest",
+      "link": "https://cointelegraph.com/magazine/us-sellers-drive-bitcoin-crash-jensen-plots-comeback-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sun, 15 Nov 2026 22:50:59 +0000",
+      "source": "Cointelegraph",
+      "text": "US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodler’s Digest Anchorage Digital data suggests the Bitcoin selloff is being driven by US investors. A “war room” has been set up by supporters to reinstate Nvidia boss Jensen Huang."
+    },
     {
       "title": "Enterprise blockchain is going to come back from the dead",
       "link": "https://cointelegraph.com/opinion/enterprise-blockchain-come-back-from-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -462,20 +476,6 @@
       "published": "Fri, 13 Nov 2026 09:58:21 +0000",
       "source": "Cointelegraph",
       "text": "Unocoin keeps deposits and withdrawals halted over suspect transfers Unocoin said the transfers were signed and broadcast outside BitGo’s platform, and BitGo said the account freeze worked as intended."
-    },
-    {
-      "title": "Bitcoin returns to 200-week trend line as analyst sees risk of $57.7K next",
-      "link": "https://cointelegraph.com/markets/bitcoin-returns-200-week-trend-line-analyst-sees-risk-57k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 13 Nov 2026 09:39:05 +0000",
-      "source": "Cointelegraph",
-      "text": "Bitcoin returns to 200-week trend line as analyst sees risk of $57.7K next Bitcoin price action interacted with its 200-week simple moving average for the first time since mid-August as it fell below $68,000."
-    },
-    {
-      "title": "DOJ moves to seize $1.2B from Binance hack, disrupts FaceStealer scam",
-      "link": "https://cointelegraph.com/news/doj-12b-north-korean-crypto-seizure-400m-facestealer-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 13 Nov 2026 09:27:14 +0000",
-      "source": "Cointelegraph",
-      "text": "DOJ moves to seize $1.2B from Binance hack, disrupts FaceStealer scam Authorities froze over $2.7 billion in Binance hack proceeds, while the separate FaceStealer scam stole over $400 million in 18 months."
     }
   ],
   "paper": {
@@ -707,6 +707,36 @@
         "stopLoss": 1844.6204,
         "takeProfit": 1762.8392,
         "entryTime": "2026-11-15T17:28:01.530657+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "ZECUSDT",
+        "side": "SELL",
+        "entry": 885.67,
+        "stopLoss": 898.95505,
+        "takeProfit": 859.0999,
+        "entryTime": "2026-11-16T01:38:43.024815+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "XRPUSDT",
+        "side": "SELL",
+        "entry": 0.9603,
+        "stopLoss": 0.9747045,
+        "takeProfit": 0.931491,
+        "entryTime": "2026-11-16T01:38:43.024815+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "ASTERUSDT",
+        "side": "SELL",
+        "entry": 0.5184,
+        "stopLoss": 0.526176,
+        "takeProfit": 0.502848,
+        "entryTime": "2026-11-16T01:38:43.024815+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       }
