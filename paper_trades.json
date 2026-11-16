@@ -91,16 +91,6 @@
       "mode": "PAPER ONLY"
     },
     {
-      "symbol": "SOXLBUSDT",
-      "side": "SELL",
-      "entry": 46.01,
-      "stopLoss": 46.70015,
-      "takeProfit": 44.6297,
-      "entryTime": "2026-11-06T16:57:55.704110+00:00",
-      "status": "OPEN",
-      "mode": "PAPER ONLY"
-    },
-    {
       "symbol": "ONEUSDT",
       "side": "SELL",
       "entry": 0.00179,
@@ -147,16 +137,6 @@
       "stopLoss": 140.5369,
       "takeProfit": 134.3062,
       "entryTime": "2026-11-13T22:01:44.053416+00:00",
-      "status": "OPEN",
-      "mode": "PAPER ONLY"
-    },
-    {
-      "symbol": "NVDABUSDT",
-      "side": "BUY",
-      "entry": 161.86,
-      "stopLoss": 159.4321,
-      "takeProfit": 166.7158,
-      "entryTime": "2026-11-14T02:12:54.066149+00:00",
       "status": "OPEN",
       "mode": "PAPER ONLY"
     },
@@ -247,6 +227,26 @@
       "stopLoss": 0.9747045,
       "takeProfit": 0.931491,
       "entryTime": "2026-11-16T01:38:43.024815+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "NVDABUSDT",
+      "side": "SELL",
+      "entry": 156.47,
+      "stopLoss": 158.81705,
+      "takeProfit": 151.7759,
+      "entryTime": "2026-11-16T18:51:21.607994+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "SOXLBUSDT",
+      "side": "SELL",
+      "entry": 50.52,
+      "stopLoss": 51.2778,
+      "takeProfit": 49.0044,
+      "entryTime": "2026-11-16T18:51:21.607994+00:00",
       "status": "OPEN",
       "mode": "PAPER ONLY"
     }
@@ -2643,6 +2643,32 @@
       "exitPrice": 0.544,
       "exitTime": "2026-11-16T08:34:13.917119+00:00",
       "pnlPercent": -4.938
+    },
+    {
+      "symbol": "SOXLBUSDT",
+      "side": "SELL",
+      "entry": 46.01,
+      "stopLoss": 46.70015,
+      "takeProfit": 44.6297,
+      "entryTime": "2026-11-06T16:57:55.704110+00:00",
+      "status": "STOP_LOSS",
+      "mode": "PAPER ONLY",
+      "exitPrice": 50.52,
+      "exitTime": "2026-11-16T18:51:21.607994+00:00",
+      "pnlPercent": -9.802
+    },
+    {
+      "symbol": "NVDABUSDT",
+      "side": "BUY",
+      "entry": 161.86,
+      "stopLoss": 159.4321,
+      "takeProfit": 166.7158,
+      "entryTime": "2026-11-14T02:12:54.066149+00:00",
+      "status": "STOP_LOSS",
+      "mode": "PAPER ONLY",
+      "exitPrice": 156.47,
+      "exitTime": "2026-11-16T18:51:21.607994+00:00",
+      "pnlPercent": -3.33
     }
   ]
 }

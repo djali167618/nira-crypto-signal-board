@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-16 08:34:13 UTC",
+  "generatedAt": "2026-11-16 18:51:21 UTC",
   "interval": "15m candles",
-  "marketSentiment": -57,
-  "overallNewsScore": -14,
+  "marketSentiment": -52,
+  "overallNewsScore": 0,
   "fearGreed": {
     "value": 10,
     "label": "Extreme Fear",
@@ -12,80 +12,87 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 64595.64,
-      "change24h": -0.203,
-      "volume24h": 1336686413.6258261,
+      "price": 65085.95,
+      "change24h": 0.705,
+      "volume24h": 1360709178.3924522,
       "technical": {
-        "rsi": 44.1,
-        "ema9": 64713.72385115237,
-        "ema21": 64764.417859042376,
+        "rsi": 56.3,
+        "ema9": 64858.4111206679,
+        "ema21": 64735.032629343936,
         "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.89,
-        "score": 35
+        "emaBull": true,
+        "volumeRatio": 0.88,
+        "score": 89
       },
-      "newsScore": 10,
+      "newsScore": 20,
       "newsCount": 5,
       "news": [
         {
-          "title": "Harvard, Dartmouth keep Bitcoin ETF stakes steady as fund gains 42% in Q3",
-          "link": "https://cointelegraph.com/news/harvard-dartmouth-bitcoin-etf-ibit-up-q3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Mon, 16 Nov 2026 08:27:39 +0000",
+          "title": "Nvidia turmoil tests Bitcoin miners’ AI funding plans",
+          "link": "https://cointelegraph.com/news/nvidia-turmoil-tests-bitcoin-miners-ai-funding-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Mon, 16 Nov 2026 18:07:49 +0000",
           "source": "Cointelegraph",
-          "text": "Harvard, Dartmouth keep Bitcoin ETF stakes steady as fund gains 42% in Q3 Harvard’s gold ETF share count rose nearly 20-fold in Q3, while Dartmouth kept its positions in Solana and Ether staking ETFs unchanged."
+          "text": "Nvidia turmoil tests Bitcoin miners’ AI funding plans Nvidia’s leadership upheaval and Texas permit restrictions sharpen the divide between miners with funded projects and those still seeking capital and approvals."
+        },
+        {
+          "title": "Bitcoin price fails to hold $65K as US stocks drop further on AI nerves",
+          "link": "https://cointelegraph.com/markets/bitcoin-price-fails-to-hold-65k-us-stocks-drop-on-ai-nerves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Mon, 16 Nov 2026 16:26:52 +0000",
+          "source": "Cointelegraph",
+          "text": "Bitcoin price fails to hold $65K as US stocks drop further on AI nerves Bitcoin and US equities saw pressure to start the week as traders weighed the impact of forthcoming Nvidia Q3 earnings and Anthropic’s IPO announcement."
         },
         {
           "title": "Here’s what happened in crypto today",
           "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Mon, 16 Nov 2026 06:00:00 +0000",
+          "published": "Mon, 16 Nov 2026 13:31:49 +0000",
           "source": "Cointelegraph",
           "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
         },
         {
-          "title": "Luxor CEO warns of AI ‘dark forest’ following Bitcoin miner hijack",
-          "link": "https://cointelegraph.com/news/luxor-ceo-warns-of-ai-dark-forest-after-bitcoin-miner-hijack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Mon, 16 Nov 2026 02:33:07 +0000",
+          "title": "Strategy buys $33M in Bitcoin, spends $228M on STRC buybacks",
+          "link": "https://cointelegraph.com/news/strategy-buy-485-bitcoin-228-million-strc-buyback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Mon, 16 Nov 2026 13:29:11 +0000",
           "source": "Cointelegraph",
-          "text": "Luxor CEO warns of AI ‘dark forest’ following Bitcoin miner hijack Attackers redirected customers’ Bitcoin mining power through Luxor’s Commander platform over the weekend, prompting its CEO to issue a warning to crypto businesses."
+          "text": "Strategy buys $33M in Bitcoin, spends $228M on STRC buybacks Strategy bought 485 Bitcoin for $33.4 million and spent $228.1 million repurchasing STRC preferred shares, largely funded by new common stock sales."
         },
         {
-          "title": "US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodler’s Digest",
-          "link": "https://cointelegraph.com/magazine/us-sellers-drive-bitcoin-crash-jensen-plots-comeback-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Sun, 15 Nov 2026 22:50:59 +0000",
+          "title": "Binance Pay Later offers credit backed by Bitcoin, Ether and BNB holdings",
+          "link": "https://cointelegraph.com/news/binance-pay-later-crypto-backed-credit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Mon, 16 Nov 2026 13:00:00 +0000",
           "source": "Cointelegraph",
-          "text": "US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodler’s Digest Anchorage Digital data suggests the Bitcoin selloff is being driven by US investors. A “war room” has been set up by supporters to reinstate Nvidia boss Jensen Huang."
-        },
-        {
-          "title": "Bitcoin falls to 4-month low near $62K as crypto selloff deepens",
-          "link": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Sun, 15 Nov 2026 10:23:17 +0000",
-          "source": "Cointelegraph",
-          "text": "Bitcoin falls to 4-month low near $62K as crypto selloff deepens The global cryptocurrency market capitalization fell 4% to $2.26 trillion over 24 hours, while Ether and Solana posted double-digit weekly losses."
+          "text": "Binance Pay Later offers credit backed by Bitcoin, Ether and BNB holdings Eligible users can access up to 1,000 USDC in credit against their Bitcoin, Ether or BNB for purchases via Binance Card or QR Pay."
         }
       ],
-      "marketSentiment": -57,
-      "combinedScore": 38,
-      "signal": "WAIT",
-      "reason": "Technical 35/100; News +10; Market sentiment -57."
+      "marketSentiment": -52,
+      "combinedScore": 67,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +20; Market sentiment -52."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 1809.56,
-      "change24h": 0.455,
-      "volume24h": 560250890.171125,
+      "price": 1824.16,
+      "change24h": 0.606,
+      "volume24h": 571069696.444213,
       "technical": {
-        "rsi": 42.5,
-        "ema9": 1814.203143953941,
-        "ema21": 1816.2539102008848,
+        "rsi": 49.9,
+        "ema9": 1820.8625556060326,
+        "ema21": 1819.575159557331,
         "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 1.6,
-        "score": 6
+        "emaBull": true,
+        "volumeRatio": 0.76,
+        "score": 53
       },
-      "newsScore": 17,
+      "newsScore": 20,
       "newsCount": 5,
       "news": [
+        {
+          "title": "Binance Pay Later offers credit backed by Bitcoin, Ether and BNB holdings",
+          "link": "https://cointelegraph.com/news/binance-pay-later-crypto-backed-credit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Mon, 16 Nov 2026 13:00:00 +0000",
+          "source": "Cointelegraph",
+          "text": "Binance Pay Later offers credit backed by Bitcoin, Ether and BNB holdings Eligible users can access up to 1,000 USDC in credit against their Bitcoin, Ether or BNB for purchases via Binance Card or QR Pay."
+        },
         {
           "title": "Harvard, Dartmouth keep Bitcoin ETF stakes steady as fund gains 42% in Q3",
           "link": "https://cointelegraph.com/news/harvard-dartmouth-bitcoin-etf-ibit-up-q3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -113,38 +120,38 @@
           "published": "Sat, 14 Nov 2026 16:33:23 +0000",
           "source": "CoinDesk",
           "text": "Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business Decentralized Finance total value locked on MegaETH dropped significantly from over $245 million to $8.8 million."
-        },
-        {
-          "title": "A behind the scenes force may amplify bitcoin and ether price volatility",
-          "link": "https://www.coindesk.com/markets/2026/11/14/a-behind-the-scenes-force-may-amplify-bitcoin-and-ether-price-volatility",
-          "published": "Sat, 14 Nov 2026 12:57:00 +0000",
-          "source": "CoinDesk",
-          "text": "A behind the scenes force may amplify bitcoin and ether price volatility Both bitcoin and ether are trading in price ranges where market makers and dealers may add to market volatility."
         }
       ],
-      "marketSentiment": -57,
-      "combinedScore": 25,
-      "signal": "SELL",
-      "reason": "Technical 6/100; News +17; Market sentiment -57."
+      "marketSentiment": -52,
+      "combinedScore": 49,
+      "signal": "WAIT",
+      "reason": "Technical 53/100; News +20; Market sentiment -52."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 70.93,
-      "change24h": 0.311,
-      "volume24h": 236726907.94285,
+      "price": 71.52,
+      "change24h": 0.775,
+      "volume24h": 211128108.54709,
       "technical": {
-        "rsi": 40.2,
-        "ema9": 71.10988726832237,
-        "ema21": 71.33903456694343,
-        "macdBull": false,
-        "emaBull": false,
+        "rsi": 49.9,
+        "ema9": 71.24054622531466,
+        "ema21": 71.18057441882002,
+        "macdBull": true,
+        "emaBull": true,
         "volumeRatio": 0.71,
-        "score": 11
+        "score": 77
       },
-      "newsScore": 50,
-      "newsCount": 2,
+      "newsScore": 25,
+      "newsCount": 4,
       "news": [
+        {
+          "title": "Zelle picks Solana for ZelleUSD stablecoin and international payments",
+          "link": "https://cointelegraph.com/news/zelle-solana-zelleusd-stablecoin-international-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Mon, 16 Nov 2026 14:55:46 +0000",
+          "source": "Cointelegraph",
+          "text": "Zelle picks Solana for ZelleUSD stablecoin and international payments Zelle plans to use Solana for its ZelleUSD stablecoin and international payments, with confidential transfers designed to hide payment amounts."
+        },
         {
           "title": "Harvard, Dartmouth keep Bitcoin ETF stakes steady as fund gains 42% in Q3",
           "link": "https://cointelegraph.com/news/harvard-dartmouth-bitcoin-etf-ibit-up-q3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -158,73 +165,80 @@
           "published": "Sun, 15 Nov 2026 10:23:17 +0000",
           "source": "Cointelegraph",
           "text": "Bitcoin falls to 4-month low near $62K as crypto selloff deepens The global cryptocurrency market capitalization fell 4% to $2.26 trillion over 24 hours, while Ether and Solana posted double-digit weekly losses."
+        },
+        {
+          "title": "Solana drops ‘beta’ label after more than six years",
+          "link": "https://www.coindesk.com/tech/2026/11/16/solana-drops-beta-label-after-more-than-six-years",
+          "published": "Mon, 16 Nov 2026 13:03:16 +0000",
+          "source": "CoinDesk",
+          "text": "Solana drops ‘beta’ label after more than six years The blockchain is getting a shared version number. Wallets, transactions and apps remain unchanged."
         }
       ],
-      "marketSentiment": -57,
-      "combinedScore": 32,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +50; Market sentiment -57."
+      "marketSentiment": -52,
+      "combinedScore": 62,
+      "signal": "WAIT",
+      "reason": "Technical 77/100; News +25; Market sentiment -52."
     },
     {
       "symbol": "USD1USDT",
       "coin": "USD1",
-      "price": 0.99953,
-      "change24h": 0.092,
-      "volume24h": 128569934.99615,
+      "price": 0.9995,
+      "change24h": 0.056,
+      "volume24h": 203462657.7815,
       "technical": {
-        "rsi": 56.4,
-        "ema9": 0.9993418631084662,
-        "ema21": 0.9993175272054794,
+        "rsi": 48.5,
+        "ema9": 0.9996109823997109,
+        "ema21": 0.9995953355064094,
         "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 1.18,
-        "score": 65
+        "volumeRatio": 0.35,
+        "score": 53
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -57,
-      "combinedScore": 52,
+      "marketSentiment": -52,
+      "combinedScore": 46,
       "signal": "WAIT",
-      "reason": "Technical 65/100; News +0; Market sentiment -57."
+      "reason": "Technical 53/100; News +0; Market sentiment -52."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 890.95,
-      "change24h": -0.609,
-      "volume24h": 123949392.00166,
+      "price": 897.58,
+      "change24h": 0.422,
+      "volume24h": 132183950.05347,
       "technical": {
-        "rsi": 47.7,
-        "ema9": 891.1251974754069,
-        "ema21": 891.0894281921169,
+        "rsi": 57.0,
+        "ema9": 886.5639687009289,
+        "ema21": 882.2377325586333,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.34,
-        "score": 77
+        "volumeRatio": 0.79,
+        "score": 89
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -57,
-      "combinedScore": 58,
+      "marketSentiment": -52,
+      "combinedScore": 64,
       "signal": "WAIT",
-      "reason": "Technical 77/100; News +0; Market sentiment -57."
+      "reason": "Technical 89/100; News +0; Market sentiment -52."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 0.9562,
-      "change24h": 0.168,
-      "volume24h": 101882256.54622,
+      "price": 0.9613,
+      "change24h": 1.094,
+      "volume24h": 114673088.18838,
       "technical": {
-        "rsi": 43.9,
-        "ema9": 0.955682206071837,
-        "ema21": 0.9572338568101467,
+        "rsi": 52.2,
+        "ema9": 0.9578213078627423,
+        "ema21": 0.9564597548111403,
         "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 1.13,
-        "score": 35
+        "emaBull": true,
+        "volumeRatio": 0.62,
+        "score": 77
       },
       "newsScore": -100,
       "newsCount": 1,
@@ -237,105 +251,105 @@
           "text": "XRP crashes to its lowest since November 2024 as money leaves crypto XRP tanked to its lowest level since November 2024 as ETF outflows and shrinking stablecoin supply add to pressure on crypto markets."
         }
       ],
-      "marketSentiment": -57,
-      "combinedScore": 22,
-      "signal": "SELL",
-      "reason": "Technical 35/100; News -100; Market sentiment -57."
-    },
-    {
-      "symbol": "BNBUSDT",
-      "coin": "BNB",
-      "price": 590.52,
-      "change24h": 0.12,
-      "volume24h": 64172240.18107,
-      "technical": {
-        "rsi": 43.8,
-        "ema9": 591.213174806026,
-        "ema21": 591.5719498964818,
-        "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 1.31,
-        "score": 35
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -57,
-      "combinedScore": 37,
+      "marketSentiment": -52,
+      "combinedScore": 43,
       "signal": "WAIT",
-      "reason": "Technical 35/100; News +0; Market sentiment -57."
-    },
-    {
-      "symbol": "ASTERUSDT",
-      "coin": "ASTER",
-      "price": 0.544,
-      "change24h": 3.837,
-      "volume24h": 57340641.31496,
-      "technical": {
-        "rsi": 50.0,
-        "ema9": 0.5486278683109546,
-        "ema21": 0.5459452158679898,
-        "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 1.05,
-        "score": 53
-      },
-      "newsScore": -100,
-      "newsCount": 1,
-      "news": [
-        {
-          "title": "Aster CEO suspects foul play after token plunges 32% in minutes",
-          "link": "https://cointelegraph.com/markets/aster-ceo-suspects-foul-play-after-token-plunges-32-in-minutes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Mon, 16 Nov 2026 05:28:40 +0000",
-          "source": "Cointelegraph",
-          "text": "Aster CEO suspects foul play after token plunges 32% in minutes Aster’s CEO attributed the extreme volatility to highly leveraged liquidations but said the exchange remained operational."
-        }
-      ],
-      "marketSentiment": -57,
-      "combinedScore": 31,
-      "signal": "WAIT",
-      "reason": "Technical 53/100; News -100; Market sentiment -57."
+      "reason": "Technical 77/100; News -100; Market sentiment -52."
     },
     {
       "symbol": "NVDABUSDT",
       "coin": "NVDAB",
-      "price": 162.72,
-      "change24h": 1.687,
-      "volume24h": 50347896.12136,
+      "price": 156.47,
+      "change24h": -2.218,
+      "volume24h": 99199122.84801,
       "technical": {
-        "rsi": 55.0,
-        "ema9": 162.12837861307293,
-        "ema21": 162.08292810611837,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.7,
-        "score": 89
+        "rsi": 38.4,
+        "ema9": 156.95540759437947,
+        "ema21": 157.93916915945283,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.71,
+        "score": 11
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -57,
-      "combinedScore": 64,
-      "signal": "WAIT",
-      "reason": "Technical 89/100; News +0; Market sentiment -57."
+      "marketSentiment": -52,
+      "combinedScore": 25,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment -52."
     },
     {
-      "symbol": "NEARUSDT",
-      "coin": "NEAR",
-      "price": 3.189,
-      "change24h": 2.015,
-      "volume24h": 43819366.8055,
+      "symbol": "BNBUSDT",
+      "coin": "BNB",
+      "price": 591.76,
+      "change24h": 0.239,
+      "volume24h": 71176238.08429,
       "technical": {
-        "rsi": 51.3,
-        "ema9": 3.174532290254284,
-        "ema21": 3.1739110900141263,
+        "rsi": 53.0,
+        "ema9": 589.8231168575563,
+        "ema21": 589.5278490457745,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.88,
+        "volumeRatio": 0.37,
         "score": 77
       },
       "newsScore": 0,
       "newsCount": 1,
+      "news": [
+        {
+          "title": "Binance Pay Later offers credit backed by Bitcoin, Ether and BNB holdings",
+          "link": "https://cointelegraph.com/news/binance-pay-later-crypto-backed-credit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Mon, 16 Nov 2026 13:00:00 +0000",
+          "source": "Cointelegraph",
+          "text": "Binance Pay Later offers credit backed by Bitcoin, Ether and BNB holdings Eligible users can access up to 1,000 USDC in credit against their Bitcoin, Ether or BNB for purchases via Binance Card or QR Pay."
+        }
+      ],
+      "marketSentiment": -52,
+      "combinedScore": 58,
+      "signal": "WAIT",
+      "reason": "Technical 77/100; News +0; Market sentiment -52."
+    },
+    {
+      "symbol": "SOXLBUSDT",
+      "coin": "SOXLB",
+      "price": 50.52,
+      "change24h": -8.842,
+      "volume24h": 67905282.61931,
+      "technical": {
+        "rsi": 41.2,
+        "ema9": 50.28591552907143,
+        "ema21": 50.723705130650345,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.45,
+        "score": 11
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -52,
+      "combinedScore": 25,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment -52."
+    },
+    {
+      "symbol": "NEARUSDT",
+      "coin": "NEAR",
+      "price": 3.178,
+      "change24h": 1.696,
+      "volume24h": 64988846.1167,
+      "technical": {
+        "rsi": 49.8,
+        "ema9": 3.160887978391615,
+        "ema21": 3.162057538186674,
+        "macdBull": true,
+        "emaBull": false,
+        "volumeRatio": 0.24,
+        "score": 47
+      },
+      "newsScore": 0,
+      "newsCount": 2,
       "news": [
         {
           "title": "Bitcoin falls to 4-month low near $62K as crypto selloff deepens",
@@ -343,28 +357,119 @@
           "published": "Sun, 15 Nov 2026 10:23:17 +0000",
           "source": "Cointelegraph",
           "text": "Bitcoin falls to 4-month low near $62K as crypto selloff deepens The global cryptocurrency market capitalization fell 4% to $2.26 trillion over 24 hours, while Ether and Solana posted double-digit weekly losses."
+        },
+        {
+          "title": "Live updates: Bitcoin holds near weekend lows as Nasdaq extends decline to more than 2%",
+          "link": "https://www.coindesk.com/tech/2026/11/16/live-news-bitcoin-posts-sixth-weekly-loss-as-tech-stocks-and-metals-slide",
+          "published": "Mon, 16 Nov 2026 09:34:18 +0000",
+          "source": "CoinDesk",
+          "text": "Live updates: Bitcoin holds near weekend lows as Nasdaq extends decline to more than 2% Strategy and Strive might be the only buyers left in BTC, and each — constrained by weak stock prices — made only modest purchases last week."
         }
       ],
-      "marketSentiment": -57,
-      "combinedScore": 58,
+      "marketSentiment": -52,
+      "combinedScore": 43,
       "signal": "WAIT",
-      "reason": "Technical 77/100; News +0; Market sentiment -57."
+      "reason": "Technical 47/100; News +0; Market sentiment -52."
     }
   ],
   "news": [
+    {
+      "title": "Nvidia turmoil tests Bitcoin miners’ AI funding plans",
+      "link": "https://cointelegraph.com/news/nvidia-turmoil-tests-bitcoin-miners-ai-funding-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 16 Nov 2026 18:07:49 +0000",
+      "source": "Cointelegraph",
+      "text": "Nvidia turmoil tests Bitcoin miners’ AI funding plans Nvidia’s leadership upheaval and Texas permit restrictions sharpen the divide between miners with funded projects and those still seeking capital and approvals."
+    },
+    {
+      "title": "Safe wallet reportedly loses $6.5M as Zodiac suspects key compromise",
+      "link": "https://cointelegraph.com/news/safe-wallet-reportedly-loses-millions-after-key-compromise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 16 Nov 2026 17:49:13 +0000",
+      "source": "Cointelegraph",
+      "text": "Safe wallet reportedly loses $6.5M as Zodiac suspects key compromise Zodiac’s co-founder said a likely compromised key and overly permissive wallet settings enabled the theft, rather than a flaw in its smart contracts."
+    },
+    {
+      "title": "Bitcoin price fails to hold $65K as US stocks drop further on AI nerves",
+      "link": "https://cointelegraph.com/markets/bitcoin-price-fails-to-hold-65k-us-stocks-drop-on-ai-nerves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 16 Nov 2026 16:26:52 +0000",
+      "source": "Cointelegraph",
+      "text": "Bitcoin price fails to hold $65K as US stocks drop further on AI nerves Bitcoin and US equities saw pressure to start the week as traders weighed the impact of forthcoming Nvidia Q3 earnings and Anthropic’s IPO announcement."
+    },
+    {
+      "title": "Zelle picks Solana for ZelleUSD stablecoin and international payments",
+      "link": "https://cointelegraph.com/news/zelle-solana-zelleusd-stablecoin-international-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 16 Nov 2026 14:55:46 +0000",
+      "source": "Cointelegraph",
+      "text": "Zelle picks Solana for ZelleUSD stablecoin and international payments Zelle plans to use Solana for its ZelleUSD stablecoin and international payments, with confidential transfers designed to hide payment amounts."
+    },
+    {
+      "title": "Lighter pauses withdrawals after reported $10M account theft",
+      "link": "https://cointelegraph.com/news/lighter-dex-pauses-withdrawals-10m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 16 Nov 2026 14:19:50 +0000",
+      "source": "Cointelegraph",
+      "text": "Lighter pauses withdrawals after reported $10M account theft Lighter has paused withdrawals after reporting a leaked trader API key, with Bubblemaps tracking $10.4 million withdrawn."
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 16 Nov 2026 13:31:49 +0000",
+      "source": "Cointelegraph",
+      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "title": "Banks are banning AI agents over security... and competition concerns",
+      "link": "https://cointelegraph.com/magazine/banks-are-banning-ai-agents-over-security-and-competition-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 16 Nov 2026 13:30:00 +0000",
+      "source": "Cointelegraph",
+      "text": "Banks are banning AI agents over security... and competition concerns AI agents are set to automate everyday banking tasks — but banks aren’t ready to give up control of the customer relationship just yet."
+    },
+    {
+      "title": "Strategy buys $33M in Bitcoin, spends $228M on STRC buybacks",
+      "link": "https://cointelegraph.com/news/strategy-buy-485-bitcoin-228-million-strc-buyback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 16 Nov 2026 13:29:11 +0000",
+      "source": "Cointelegraph",
+      "text": "Strategy buys $33M in Bitcoin, spends $228M on STRC buybacks Strategy bought 485 Bitcoin for $33.4 million and spent $228.1 million repurchasing STRC preferred shares, largely funded by new common stock sales."
+    },
+    {
+      "title": "Binance Pay Later offers credit backed by Bitcoin, Ether and BNB holdings",
+      "link": "https://cointelegraph.com/news/binance-pay-later-crypto-backed-credit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 16 Nov 2026 13:00:00 +0000",
+      "source": "Cointelegraph",
+      "text": "Binance Pay Later offers credit backed by Bitcoin, Ether and BNB holdings Eligible users can access up to 1,000 USDC in credit against their Bitcoin, Ether or BNB for purchases via Binance Card or QR Pay."
+    },
+    {
+      "title": "HKMA, Swift explore tokenized deposits for cross-border bank payments",
+      "link": "https://cointelegraph.com/news/hkma-swift-tokenized-deposits-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 16 Nov 2026 12:54:51 +0000",
+      "source": "Cointelegraph",
+      "text": "HKMA, Swift explore tokenized deposits for cross-border bank payments HKMA and Swift will explore linking Project Ensemble with Swift’s ledger for cross-border payments using tokenized deposits in multiple currencies."
+    },
+    {
+      "title": "Singapore, Germany test cross-border FX settlement with CBDCs",
+      "link": "https://cointelegraph.com/news/singapore-german-central-banks-settlement-cbdcs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 16 Nov 2026 10:49:12 +0000",
+      "source": "Cointelegraph",
+      "text": "Singapore, Germany test cross-border FX settlement with CBDCs Project Simbolon aims to reduce the cost and time of cross-border settlement and promote common standards for payments and FX"
+    },
+    {
+      "title": "BTC price tags 18-week low into Nvidia earnings: Three things to know in Bitcoin this week",
+      "link": "https://cointelegraph.com/markets/btc-price-18-week-low-nvidia-three-things-know-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 16 Nov 2026 10:39:05 +0000",
+      "source": "Cointelegraph",
+      "text": "BTC price tags 18-week low into Nvidia earnings: Three things to know in Bitcoin this week Bitcoin traders awaited Nvidia Q3 earnings after BTC price selling pressure saw a dip below $62,000 at the weekend."
+    },
+    {
+      "title": "DBS, JPMorgan’s Kinexys launch 24/7 transfers of tokenized deposits",
+      "link": "https://cointelegraph.com/news/dbs-jpmorgans-kinexys-launch-tokenized-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 16 Nov 2026 08:50:50 +0000",
+      "source": "Cointelegraph",
+      "text": "DBS, JPMorgan’s Kinexys launch 24/7 transfers of tokenized deposits Ant International is the first customer to use the service, which lets clients transfer US dollar deposits between Singapore and the US."
+    },
     {
       "title": "Harvard, Dartmouth keep Bitcoin ETF stakes steady as fund gains 42% in Q3",
       "link": "https://cointelegraph.com/news/harvard-dartmouth-bitcoin-etf-ibit-up-q3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 16 Nov 2026 08:27:39 +0000",
       "source": "Cointelegraph",
       "text": "Harvard, Dartmouth keep Bitcoin ETF stakes steady as fund gains 42% in Q3 Harvard’s gold ETF share count rose nearly 20-fold in Q3, while Dartmouth kept its positions in Solana and Ether staking ETFs unchanged."
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 16 Nov 2026 06:00:00 +0000",
-      "source": "Cointelegraph",
-      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
       "title": "Aster CEO suspects foul play after token plunges 32% in minutes",
@@ -407,90 +512,6 @@
       "published": "Sun, 15 Nov 2026 14:30:00 +0000",
       "source": "Cointelegraph",
       "text": "Enterprise blockchain is going to come back from the dead With scalability, privacy tools and onchain liquidity improving, businesses may finally have the infrastructure to make enterprise blockchain work."
-    },
-    {
-      "title": "Bitcoin falls to 4-month low near $62K as crypto selloff deepens",
-      "link": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 15 Nov 2026 10:23:17 +0000",
-      "source": "Cointelegraph",
-      "text": "Bitcoin falls to 4-month low near $62K as crypto selloff deepens The global cryptocurrency market capitalization fell 4% to $2.26 trillion over 24 hours, while Ether and Solana posted double-digit weekly losses."
-    },
-    {
-      "title": "Coinone warns of phishing, identity theft after customer data breach",
-      "link": "https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 15 Nov 2026 08:07:58 +0000",
-      "source": "Cointelegraph",
-      "text": "Coinone warns of phishing, identity theft after customer data breach The South Korean crypto exchange said potentially exposed information includes passwords, bank account numbers, national identification numbers and crypto wallet addresses."
-    },
-    {
-      "title": "RWA protocol stUSDT winds down 3 years after $2.3B TVL peak",
-      "link": "https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 15 Nov 2026 06:27:26 +0000",
-      "source": "Cointelegraph",
-      "text": "RWA protocol stUSDT winds down 3 years after $2.3B TVL peak The stUSDT team did not disclose a reason for winding down the RWA protocol but assured holders that all underlying assets remain fully backed."
-    },
-    {
-      "title": "Microsoft confirms global outage resolved, rules out cyberattack",
-      "link": "https://cointelegraph.com/news/microsoft-365-outage-resolved-cyberattack-ruled-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 14 Nov 2026 10:34:06 +0000",
-      "source": "Cointelegraph",
-      "text": "Microsoft confirms global outage resolved, rules out cyberattack Microsoft attributed the outage to a network capacity upgrade issue, confirming that the disruption was unrelated to cyberattacks or AI agents."
-    },
-    {
-      "title": "MegaETH parent cuts 20% of staff amid restructuring, AI push",
-      "link": "https://cointelegraph.com/news/megaeth-parent-cuts-20-percent-staff-ai-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 14 Nov 2026 08:12:30 +0000",
-      "source": "Cointelegraph",
-      "text": "MegaETH parent cuts 20% of staff amid restructuring, AI push MegaETH co-founder Shuyao Kong said the restructuring affected employees who helped build the project’s blockchain, wallet and ecosystem."
-    },
-    {
-      "title": "Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock’s losing streak hits 11",
-      "link": "https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 14 Nov 2026 06:33:13 +0000",
-      "source": "Cointelegraph",
-      "text": "Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock’s losing streak hits 11 US spot Bitcoin ETFs recorded $185.4 million in net outflows Friday, with BlackRock’s IBIT accounting for $143.5 million and Fidelity’s FBTC shedding $41.9 million."
-    },
-    {
-      "title": "OpenAI launches AI payments in ChatGPT with Visa, Mastercard and Amex",
-      "link": "https://cointelegraph.com/news/openai-ai-payments-chatgpt-wallet-visa-mastercard-amex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 13 Nov 2026 22:01:03 +0000",
-      "source": "Cointelegraph",
-      "text": "OpenAI launches AI payments in ChatGPT with Visa, Mastercard and Amex OpenAI’s new payment wallet lets AI agents complete purchases using existing card networks, with plans to eventually allow preauthorized transactions."
-    },
-    {
-      "title": "Adam Back makes case for simpler security as Blockstream launches Bitcoin custody system",
-      "link": "https://cointelegraph.com/news/adam-back-simpler-security-blockstream-bitcoin-custody-system?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 13 Nov 2026 21:49:27 +0000",
-      "source": "Cointelegraph",
-      "text": "Adam Back makes case for simpler security as Blockstream launches Bitcoin custody system Blockstream’s new custody system, developed with Thales, uses dedicated hardware for transaction signing as Adam Back advocates for offline security to reduce cyber risks."
-    },
-    {
-      "title": "Kraken parent Payward gains market share as slower trading weighs on earnings",
-      "link": "https://cointelegraph.com/news/kraken-parent-payward-gains-market-share-slower-trading-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 13 Nov 2026 21:01:39 +0000",
-      "source": "Cointelegraph",
-      "text": "Kraken parent Payward gains market share as slower trading weighs on earnings Payward’s adjusted EBITDA fell 66% year over year to $60 million, even as its share of global spot trading nearly doubled and fee-based services expanded."
-    },
-    {
-      "title": "US regulators move ahead on crypto trust charters as Senate scrutiny grows",
-      "link": "https://cointelegraph.com/news/us-regulators-crypto-trust-charters-senate-scrutiny-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 13 Nov 2026 20:53:20 +0000",
-      "source": "Cointelegraph",
-      "text": "US regulators move ahead on crypto trust charters as Senate scrutiny grows Coinbase’s trust company received final clearance as lawmakers seek records on crypto firms’ compliance and potential conflicts of interest."
-    },
-    {
-      "title": "Metaplanet swings to $170M loss as Bitcoin sale hits earnings",
-      "link": "https://cointelegraph.com/news/metaplanet-swings-170m-loss-bitcoin-sale-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 13 Nov 2026 18:28:29 +0000",
-      "source": "Cointelegraph",
-      "text": "Metaplanet swings to $170M loss as Bitcoin sale hits earnings Bitcoin sales, valuation losses and rising borrowing costs weighed on the Japanese company’s earnings despite higher revenue and operating profit."
-    },
-    {
-      "title": "Bitcoin holds below $70K as stocks slip despite a cooler US PPI print",
-      "link": "https://cointelegraph.com/markets/bitcoin-below-70k-stocks-slip-cooler-us-ppi-print?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 13 Nov 2026 16:39:11 +0000",
-      "source": "Cointelegraph",
-      "text": "Bitcoin holds below $70K as stocks slip despite a cooler US PPI print Bitcoin was down about 4% on the day amid a tepid market reaction to October’s US PPI reading, which came in below expected levels."
     }
   ],
   "paper": {
@@ -586,16 +607,6 @@
         "mode": "PAPER ONLY"
       },
       {
-        "symbol": "SOXLBUSDT",
-        "side": "SELL",
-        "entry": 46.01,
-        "stopLoss": 46.70015,
-        "takeProfit": 44.6297,
-        "entryTime": "2026-11-06T16:57:55.704110+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
         "symbol": "ONEUSDT",
         "side": "SELL",
         "entry": 0.00179,
@@ -642,16 +653,6 @@
         "stopLoss": 140.5369,
         "takeProfit": 134.3062,
         "entryTime": "2026-11-13T22:01:44.053416+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
-        "symbol": "NVDABUSDT",
-        "side": "BUY",
-        "entry": 161.86,
-        "stopLoss": 159.4321,
-        "takeProfit": 166.7158,
-        "entryTime": "2026-11-14T02:12:54.066149+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       },
@@ -742,6 +743,26 @@
         "stopLoss": 0.9747045,
         "takeProfit": 0.931491,
         "entryTime": "2026-11-16T01:38:43.024815+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "NVDABUSDT",
+        "side": "SELL",
+        "entry": 156.47,
+        "stopLoss": 158.81705,
+        "takeProfit": 151.7759,
+        "entryTime": "2026-11-16T18:51:21.607994+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "SOXLBUSDT",
+        "side": "SELL",
+        "entry": 50.52,
+        "stopLoss": 51.2778,
+        "takeProfit": 49.0044,
+        "entryTime": "2026-11-16T18:51:21.607994+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       }
@@ -3138,6 +3159,32 @@
         "exitPrice": 0.544,
         "exitTime": "2026-11-16T08:34:13.917119+00:00",
         "pnlPercent": -4.938
+      },
+      {
+        "symbol": "SOXLBUSDT",
+        "side": "SELL",
+        "entry": 46.01,
+        "stopLoss": 46.70015,
+        "takeProfit": 44.6297,
+        "entryTime": "2026-11-06T16:57:55.704110+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 50.52,
+        "exitTime": "2026-11-16T18:51:21.607994+00:00",
+        "pnlPercent": -9.802
+      },
+      {
+        "symbol": "NVDABUSDT",
+        "side": "BUY",
+        "entry": 161.86,
+        "stopLoss": 159.4321,
+        "takeProfit": 166.7158,
+        "entryTime": "2026-11-14T02:12:54.066149+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 156.47,
+        "exitTime": "2026-11-16T18:51:21.607994+00:00",
+        "pnlPercent": -3.33
       }
     ]
   },
