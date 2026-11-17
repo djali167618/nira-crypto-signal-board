@@ -223,10 +223,10 @@
     {
       "symbol": "SOXLBUSDT",
       "side": "SELL",
-      "entry": 50.52,
-      "stopLoss": 51.2778,
-      "takeProfit": 49.0044,
-      "entryTime": "2026-11-16T18:51:21.607994+00:00",
+      "entry": 47.71,
+      "stopLoss": 48.42565,
+      "takeProfit": 46.2787,
+      "entryTime": "2026-11-17T10:39:34.979443+00:00",
       "status": "OPEN",
       "mode": "PAPER ONLY"
     }
@@ -2675,6 +2675,19 @@
       "exitPrice": 908.13,
       "exitTime": "2026-11-17T02:09:17.703278+00:00",
       "pnlPercent": -2.536
+    },
+    {
+      "symbol": "SOXLBUSDT",
+      "side": "SELL",
+      "entry": 50.52,
+      "stopLoss": 51.2778,
+      "takeProfit": 49.0044,
+      "entryTime": "2026-11-16T18:51:21.607994+00:00",
+      "status": "TAKE_PROFIT",
+      "mode": "PAPER ONLY",
+      "exitPrice": 47.71,
+      "exitTime": "2026-11-17T10:39:34.979443+00:00",
+      "pnlPercent": 5.562
     }
   ]
 }
