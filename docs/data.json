@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-18 01:43:22 UTC",
+  "generatedAt": "2026-11-18 09:11:14 UTC",
   "interval": "15m candles",
-  "marketSentiment": -54,
-  "overallNewsScore": -8,
+  "marketSentiment": -59,
+  "overallNewsScore": -23,
   "fearGreed": {
     "value": 11,
     "label": "Extreme Fear",
@@ -12,25 +12,39 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 64435.36,
-      "change24h": -0.59,
-      "volume24h": 1780018313.8626018,
+      "price": 64703.43,
+      "change24h": 0.726,
+      "volume24h": 1492145532.8607996,
       "technical": {
-        "rsi": 51.5,
-        "ema9": 64719.53952858401,
-        "ema21": 64600.50552749682,
+        "rsi": 51.8,
+        "ema9": 64702.85564908882,
+        "ema21": 64656.135140367514,
         "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 1.08,
+        "volumeRatio": 1.03,
         "score": 53
       },
-      "newsScore": 20,
+      "newsScore": 0,
       "newsCount": 5,
       "news": [
         {
+          "title": "SOL comes out of Breakpoint 7% higher as Solana exits beta",
+          "link": "https://cointelegraph.com/markets/solana-sol-gains-7-percent-breakpoint-beta-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Wed, 18 Nov 2026 08:41:16 +0000",
+          "source": "Cointelegraph",
+          "text": "SOL comes out of Breakpoint 7% higher as Solana exits beta Solana’s token reached $75.12 on Tuesday, outpacing Bitcoin and Ether after the network retired the beta label it had used since its 2020 launch."
+        },
+        {
+          "title": "Bitcoin ETFs lose $240M as CryptoQuant flags bearish market phase",
+          "link": "https://cointelegraph.com/markets/bitcoin-etf-240-million-outflow-bearish-phase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Wed, 18 Nov 2026 08:09:23 +0000",
+          "source": "Cointelegraph",
+          "text": "Bitcoin ETFs lose $240M as CryptoQuant flags bearish market phase Bitcoin ETF outflows returned after a one-day pause as CryptoQuant warned that Bitcoin had returned to a bearish market phase."
+        },
+        {
           "title": "Here’s what happened in crypto today",
           "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Tue, 17 Nov 2026 22:37:51 +0000",
+          "published": "Wed, 18 Nov 2026 06:00:00 +0000",
           "source": "Cointelegraph",
           "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
         },
@@ -47,45 +61,38 @@
           "published": "Tue, 17 Nov 2026 13:30:00 +0000",
           "source": "Cointelegraph",
           "text": "Bitcoin to $1M by 2030? ‘Almost certainly not,’ says Dragonfly’s Qureshi Dragonfly’s Haseeb Qureshi says Bitcoin could reach $400,000 by 2030 but doubts it will return to $100,000 by year-end with the rout in AI stocks weighing on crypto."
-        },
-        {
-          "title": "BlackRock’s Bitcoin ETF snaps $2.35B outflow streak amid extreme fear",
-          "link": "https://cointelegraph.com/markets/blackrock-ibit-outflow-streak-end-extreme-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Tue, 17 Nov 2026 11:18:18 +0000",
-          "source": "Cointelegraph",
-          "text": "BlackRock’s Bitcoin ETF snaps $2.35B outflow streak amid extreme fear BlackRock’s Bitcoin ETF ended 11 sessions of withdrawals totaling $2.35 billion, but CryptoQuant says one day of inflows is too early to signal a recovery."
-        },
-        {
-          "title": "Bitcoin realized loss metric beats June high as open interest eyes 2-year low",
-          "link": "https://cointelegraph.com/markets/bitcoin-realized-loss-metric-beats-june-high-open-interest-eyes-2-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Tue, 17 Nov 2026 11:14:05 +0000",
-          "source": "Cointelegraph",
-          "text": "Bitcoin realized loss metric beats June high as open interest eyes 2-year low Bitcoin short-term holders’ onchain spending notched the largest proportion of realized losses since February after BTC/USD dropped to $62,000."
         }
       ],
-      "marketSentiment": -54,
-      "combinedScore": 49,
+      "marketSentiment": -59,
+      "combinedScore": 46,
       "signal": "WAIT",
-      "reason": "Technical 53/100; News +20; Market sentiment -54."
+      "reason": "Technical 53/100; News +0; Market sentiment -59."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 1807.0,
-      "change24h": -0.882,
-      "volume24h": 651391391.230688,
+      "price": 1812.02,
+      "change24h": -0.047,
+      "volume24h": 642530508.9942,
       "technical": {
-        "rsi": 50.0,
-        "ema9": 1817.0904794178734,
-        "ema21": 1813.2856121622956,
+        "rsi": 50.8,
+        "ema9": 1812.4479004034183,
+        "ema21": 1811.581090569576,
         "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 0.47,
+        "volumeRatio": 1.24,
         "score": 53
       },
-      "newsScore": 11,
+      "newsScore": 8,
       "newsCount": 5,
       "news": [
+        {
+          "title": "SOL comes out of Breakpoint 7% higher as Solana exits beta",
+          "link": "https://cointelegraph.com/markets/solana-sol-gains-7-percent-breakpoint-beta-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Wed, 18 Nov 2026 08:41:16 +0000",
+          "source": "Cointelegraph",
+          "text": "SOL comes out of Breakpoint 7% higher as Solana exits beta Solana’s token reached $75.12 on Tuesday, outpacing Bitcoin and Ether after the network retired the beta label it had used since its 2020 launch."
+        },
         {
           "title": "ARK sells $85M in Nvidia shares ahead of chipmaker’s Q3 earnings results",
           "link": "https://cointelegraph.com/news/ark-crypto-stock-purchases-nvidia-staking-etf-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -113,38 +120,38 @@
           "published": "Mon, 16 Nov 2026 20:45:47 +0000",
           "source": "Cointelegraph",
           "text": "Bitmine edges toward 5% of ETH supply as treasuries report buys amid market slump Strategy, Strive, Bitmine and Cypherpunk disclosed fresh additions to their crypto treasuries, spanning Bitcoin, Ether and Zcash."
-        },
-        {
-          "title": "Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps",
-          "link": "https://www.coindesk.com/tech/2026/11/17/ethereum-s-glamsterdam-upgrade-risks-breaking-up-to-15-000-contracts",
-          "published": "Tue, 17 Nov 2026 13:02:56 +0000",
-          "source": "CoinDesk",
-          "text": "Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps In addition to that broader estimate, independent audits have uncovered hundreds of separate compatibility problems, with core developers set to reconsider the changes Thursday."
         }
       ],
-      "marketSentiment": -54,
-      "combinedScore": 48,
+      "marketSentiment": -59,
+      "combinedScore": 47,
       "signal": "WAIT",
-      "reason": "Technical 53/100; News +11; Market sentiment -54."
+      "reason": "Technical 53/100; News +8; Market sentiment -59."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 74.35,
-      "change24h": 3.494,
-      "volume24h": 233718620.57459,
+      "price": 74.83,
+      "change24h": 3.7,
+      "volume24h": 215649760.66435,
       "technical": {
-        "rsi": 55.1,
-        "ema9": 74.75865000291152,
-        "ema21": 74.32497059223724,
+        "rsi": 48.8,
+        "ema9": 74.91399003266591,
+        "ema21": 74.90376527924217,
         "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 0.63,
-        "score": 65
+        "volumeRatio": 1.02,
+        "score": 53
       },
-      "newsScore": 0,
-      "newsCount": 3,
+      "newsScore": 20,
+      "newsCount": 5,
       "news": [
+        {
+          "title": "SOL comes out of Breakpoint 7% higher as Solana exits beta",
+          "link": "https://cointelegraph.com/markets/solana-sol-gains-7-percent-breakpoint-beta-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Wed, 18 Nov 2026 08:41:16 +0000",
+          "source": "Cointelegraph",
+          "text": "SOL comes out of Breakpoint 7% higher as Solana exits beta Solana’s token reached $75.12 on Tuesday, outpacing Bitcoin and Ether after the network retired the beta label it had used since its 2020 launch."
+        },
         {
           "title": "Solana Foundation takes majority interest in crypto data firm CoinGecko",
           "link": "https://cointelegraph.com/news/coingecko-solana-foundation-majority-stake?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -160,6 +167,13 @@
           "text": "ARK sells $85M in Nvidia shares ahead of chipmaker’s Q3 earnings results ARK bought shares in Block, Circle and Coinbase worth about $39.9 million at Monday’s close while selling Nvidia and Solana and Ether staking ETFs."
         },
         {
+          "title": "Live updates: Bitcoin stuck near $65,000 as popular 'basis trade' returns dry up",
+          "link": "https://www.coindesk.com/business/2026/11/18/live-updates-bitcoin-stuck-near-usd65-000-as-popular-basis-trade-returns-dry-up",
+          "published": "Wed, 18 Nov 2026 07:27:48 +0000",
+          "source": "CoinDesk",
+          "text": "Live updates: Bitcoin stuck near $65,000 as popular 'basis trade' returns dry up XRP edged toward $1 and SOL rose 3%, while a Talos report showed crypto’s favorite carry trade now pays about what Treasuries do."
+        },
+        {
           "title": "Solana Foundation takes majority stake in crypto data provider CoinGecko",
           "link": "https://www.coindesk.com/business/2026/11/17/solana-foundation-takes-majority-stake-in-crypto-data-provider-coingecko",
           "published": "Tue, 17 Nov 2026 11:29:51 +0000",
@@ -167,129 +181,143 @@
           "text": "Solana Foundation takes majority stake in crypto data provider CoinGecko The foundation plans Solana-powered trading on CoinGecko's website, GeckoTerminal and app."
         }
       ],
-      "marketSentiment": -54,
-      "combinedScore": 52,
+      "marketSentiment": -59,
+      "combinedScore": 49,
       "signal": "WAIT",
-      "reason": "Technical 65/100; News +0; Market sentiment -54."
-    },
-    {
-      "symbol": "ZECUSDT",
-      "coin": "ZEC",
-      "price": 953.62,
-      "change24h": 4.805,
-      "volume24h": 171063623.12451,
-      "technical": {
-        "rsi": 57.8,
-        "ema9": 959.3320428380753,
-        "ema21": 951.4676089855009,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.45,
-        "score": 89
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -54,
-      "combinedScore": 64,
-      "signal": "WAIT",
-      "reason": "Technical 89/100; News +0; Market sentiment -54."
+      "reason": "Technical 53/100; News +20; Market sentiment -59."
     },
     {
       "symbol": "USD1USDT",
       "coin": "USD1",
-      "price": 0.99988,
-      "change24h": 0.063,
-      "volume24h": 161463156.05038,
+      "price": 0.99978,
+      "change24h": 0.032,
+      "volume24h": 161545356.31866,
       "technical": {
-        "rsi": 52.6,
-        "ema9": 0.99989193569916,
-        "ema21": 0.9998857910534995,
+        "rsi": 37.2,
+        "ema9": 0.9997885663179797,
+        "ema21": 0.9998370443308622,
         "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.9,
-        "score": 53
+        "emaBull": false,
+        "volumeRatio": 1.36,
+        "score": 11
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -54,
-      "combinedScore": 46,
-      "signal": "WAIT",
-      "reason": "Technical 53/100; News +0; Market sentiment -54."
+      "marketSentiment": -59,
+      "combinedScore": 25,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment -59."
+    },
+    {
+      "symbol": "ZECUSDT",
+      "coin": "ZEC",
+      "price": 947.57,
+      "change24h": 3.693,
+      "volume24h": 157137118.18344,
+      "technical": {
+        "rsi": 44.0,
+        "ema9": 951.4434338375617,
+        "ema21": 953.5358450748228,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 1.14,
+        "score": 11
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -59,
+      "combinedScore": 25,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment -59."
     },
     {
       "symbol": "NVDABUSDT",
       "coin": "NVDAB",
-      "price": 159.43,
-      "change24h": 1.367,
-      "volume24h": 141398894.18832,
+      "price": 160.12,
+      "change24h": 3.011,
+      "volume24h": 123638092.54253,
       "technical": {
-        "rsi": 55.9,
-        "ema9": 161.51381903243686,
-        "ema21": 160.10469990516583,
-        "macdBull": false,
+        "rsi": 57.5,
+        "ema9": 159.71233174872282,
+        "ema21": 159.15946570548292,
+        "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.32,
-        "score": 65
+        "volumeRatio": 2.62,
+        "score": 84
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -54,
-      "combinedScore": 52,
+      "marketSentiment": -59,
+      "combinedScore": 61,
       "signal": "WAIT",
-      "reason": "Technical 65/100; News +0; Market sentiment -54."
+      "reason": "Technical 84/100; News +0; Market sentiment -59."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 0.9743,
-      "change24h": 1.691,
-      "volume24h": 97597633.16921,
+      "price": 0.9987,
+      "change24h": 4.412,
+      "volume24h": 105861137.22178,
       "technical": {
-        "rsi": 50.8,
-        "ema9": 0.9783421400042638,
-        "ema21": 0.9757663193385543,
-        "macdBull": false,
+        "rsi": 66.8,
+        "ema9": 0.9972095831589914,
+        "ema21": 0.9910307121154323,
+        "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.7,
-        "score": 53
+        "volumeRatio": 0.74,
+        "score": 89
       },
-      "newsScore": 100,
-      "newsCount": 1,
+      "newsScore": 0,
+      "newsCount": 2,
       "news": [
         {
-          "title": "Ripple-backed Evernorth has written down its pre-listing XRP holdings by 60%",
-          "link": "https://www.coindesk.com/markets/2026/11/17/ripple-backed-evernorth-has-written-down-its-pre-listing-xrp-holdings-by-60",
-          "published": "Tue, 17 Nov 2026 05:02:05 +0000",
+          "title": "Live updates: Bitcoin stuck near $65,000 as popular 'basis trade' returns dry up",
+          "link": "https://www.coindesk.com/business/2026/11/18/live-updates-bitcoin-stuck-near-usd65-000-as-popular-basis-trade-returns-dry-up",
+          "published": "Wed, 18 Nov 2026 07:27:48 +0000",
           "source": "CoinDesk",
-          "text": "Ripple-backed Evernorth has written down its pre-listing XRP holdings by 60% The company’s accounting policy requires it to record price declines without reversing those write-downs when XRP recovers."
+          "text": "Live updates: Bitcoin stuck near $65,000 as popular 'basis trade' returns dry up XRP edged toward $1 and SOL rose 3%, while a Talos report showed crypto’s favorite carry trade now pays about what Treasuries do."
+        },
+        {
+          "title": "XRP whales moved $270 million during the selloff. The coins didn’t go to exchanges",
+          "link": "https://www.coindesk.com/markets/2026/11/18/xrp-whales-moved-usd270-million-during-the-selloff-the-coins-didn-t-go-to-exchanges",
+          "published": "Wed, 18 Nov 2026 04:28:37 +0000",
+          "source": "CoinDesk",
+          "text": "XRP whales moved $270 million during the selloff. The coins didn’t go to exchanges A holder whose wallets trace back to a 2020 Bitstamp withdrawal has moved 281 million XRP into two vaults three weeks apart, a behavior indicative of custody rather than a large investor heading for the exit."
         }
       ],
-      "marketSentiment": -54,
-      "combinedScore": 61,
+      "marketSentiment": -59,
+      "combinedScore": 64,
       "signal": "WAIT",
-      "reason": "Technical 53/100; News +100; Market sentiment -54."
+      "reason": "Technical 89/100; News +0; Market sentiment -59."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 3.362,
-      "change24h": 6.527,
-      "volume24h": 91848435.5426,
+      "price": 3.357,
+      "change24h": 4.029,
+      "volume24h": 88739317.6652,
       "technical": {
-        "rsi": 64.1,
-        "ema9": 3.3750389281749404,
-        "ema21": 3.335055088529399,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.64,
-        "score": 89
+        "rsi": 42.7,
+        "ema9": 3.362205061335137,
+        "ema21": 3.3708603058310276,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 2.73,
+        "score": 6
       },
-      "newsScore": -100,
-      "newsCount": 1,
+      "newsScore": -50,
+      "newsCount": 2,
       "news": [
+        {
+          "title": "Live updates: Bitcoin stuck near $65,000 as popular 'basis trade' returns dry up",
+          "link": "https://www.coindesk.com/business/2026/11/18/live-updates-bitcoin-stuck-near-usd65-000-as-popular-basis-trade-returns-dry-up",
+          "published": "Wed, 18 Nov 2026 07:27:48 +0000",
+          "source": "CoinDesk",
+          "text": "Live updates: Bitcoin stuck near $65,000 as popular 'basis trade' returns dry up XRP edged toward $1 and SOL rose 3%, while a Talos report showed crypto’s favorite carry trade now pays about what Treasuries do."
+        },
         {
           "title": "Bitcoin remains penned in near $64,000 even as ETF outflow streak ends",
           "link": "https://www.coindesk.com/markets/2026/11/17/bitcoin-remains-penned-in-near-usd64-000-even-as-etf-outflow-streak-ends",
@@ -298,72 +326,93 @@
           "text": "Bitcoin remains penned in near $64,000 even as ETF outflow streak ends Bitcoin (BTC) is down a further 1.0% since midnight UTC at around $64,200, with its bounce from the weekend selloff stalled and pressure building on all fronts."
         }
       ],
-      "marketSentiment": -54,
-      "combinedScore": 49,
-      "signal": "WAIT",
-      "reason": "Technical 89/100; News -100; Market sentiment -54."
-    },
-    {
-      "symbol": "SOXLBUSDT",
-      "coin": "SOXLB",
-      "price": 51.29,
-      "change24h": 1.928,
-      "volume24h": 82717041.14105,
-      "technical": {
-        "rsi": 52.6,
-        "ema9": 53.48171760370387,
-        "ema21": 52.40939729420727,
-        "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.45,
-        "score": 53
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -54,
-      "combinedScore": 46,
-      "signal": "WAIT",
-      "reason": "Technical 53/100; News +0; Market sentiment -54."
+      "marketSentiment": -59,
+      "combinedScore": 15,
+      "signal": "SELL",
+      "reason": "Technical 6/100; News -50; Market sentiment -59."
     },
     {
       "symbol": "BNBUSDT",
       "coin": "BNB",
-      "price": 593.18,
-      "change24h": 0.046,
-      "volume24h": 79013876.90308,
+      "price": 592.17,
+      "change24h": 0.366,
+      "volume24h": 86219335.4331,
       "technical": {
-        "rsi": 52.8,
-        "ema9": 595.2869940223889,
-        "ema21": 593.9144460313629,
+        "rsi": 44.5,
+        "ema9": 592.5379963899941,
+        "ema21": 592.6141715625375,
         "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.5,
-        "score": 53
+        "emaBull": false,
+        "volumeRatio": 1.57,
+        "score": 6
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -54,
-      "combinedScore": 46,
+      "marketSentiment": -59,
+      "combinedScore": 22,
+      "signal": "SELL",
+      "reason": "Technical 6/100; News +0; Market sentiment -59."
+    },
+    {
+      "symbol": "SOXLBUSDT",
+      "coin": "SOXLB",
+      "price": 52.48,
+      "change24h": 9.539,
+      "volume24h": 70593290.75088,
+      "technical": {
+        "rsi": 53.7,
+        "ema9": 52.35645116278555,
+        "ema21": 52.05210983731009,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.44,
+        "score": 77
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -59,
+      "combinedScore": 58,
       "signal": "WAIT",
-      "reason": "Technical 53/100; News +0; Market sentiment -54."
+      "reason": "Technical 77/100; News +0; Market sentiment -59."
     }
   ],
   "news": [
+    {
+      "title": "SOL comes out of Breakpoint 7% higher as Solana exits beta",
+      "link": "https://cointelegraph.com/markets/solana-sol-gains-7-percent-breakpoint-beta-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 18 Nov 2026 08:41:16 +0000",
+      "source": "Cointelegraph",
+      "text": "SOL comes out of Breakpoint 7% higher as Solana exits beta Solana’s token reached $75.12 on Tuesday, outpacing Bitcoin and Ether after the network retired the beta label it had used since its 2020 launch."
+    },
+    {
+      "title": "Bitcoin ETFs lose $240M as CryptoQuant flags bearish market phase",
+      "link": "https://cointelegraph.com/markets/bitcoin-etf-240-million-outflow-bearish-phase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 18 Nov 2026 08:09:23 +0000",
+      "source": "Cointelegraph",
+      "text": "Bitcoin ETFs lose $240M as CryptoQuant flags bearish market phase Bitcoin ETF outflows returned after a one-day pause as CryptoQuant warned that Bitcoin had returned to a bearish market phase."
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 18 Nov 2026 06:00:00 +0000",
+      "source": "Cointelegraph",
+      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "title": "Ledger hardware implant saga reaches Dubai’s Virgin Megastore",
+      "link": "https://cointelegraph.com/news/ledger-hardware-implant-saga-reaches-dubais-virgin-megastore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 18 Nov 2026 02:39:52 +0000",
+      "source": "Cointelegraph",
+      "text": "Ledger hardware implant saga reaches Dubai’s Virgin Megastore Two Ledger owners reported losing a combined $604,000 in crypto from hardware wallets they said were purchased at authorized retailer Virgin Megastore in Dubai."
+    },
     {
       "title": "Nvidia board rejects Huang comeback despite record $116B quarter",
       "link": "https://cointelegraph.com/markets/nvidia-board-rejects-huang-comeback-amid-record-116b-quarter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 18 Nov 2026 00:16:43 +0000",
       "source": "Cointelegraph",
       "text": "Nvidia board rejects Huang comeback despite record $116B quarter Nvidia beat Wall Street’s revenue expectations by 5.6% and issued a stronger-than-expected sales forecast, while its board resisted growing calls for Jensen Huang’s reinstatement."
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 17 Nov 2026 22:37:51 +0000",
-      "source": "Cointelegraph",
-      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
       "title": "CFTC halts some Kalshi Trump mention markets over manipulation concerns",
@@ -469,27 +518,6 @@
       "published": "Tue, 17 Nov 2026 09:30:05 +0000",
       "source": "Cointelegraph",
       "text": "US judge clears brothers in $25M Ethereum MEV case after mistrial Judge Jessica Clarke said the transactions did not involve false promises, but the ruling did not determine whether the brothers’ conduct was ethical or violated other laws."
-    },
-    {
-      "title": "Goldman Sachs reports $1.22B in Ether ETFs as ETHA share count jumps",
-      "link": "https://cointelegraph.com/news/goldman-sachs-reports-122b-ether-etfs-etha-shares-jumps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 17 Nov 2026 09:08:32 +0000",
-      "source": "Cointelegraph",
-      "text": "Goldman Sachs reports $1.22B in Ether ETFs as ETHA share count jumps Goldman Sachs increased its Ether ETF shares in Q3, bringing its reported holdings to $1.22 billion, while reshuffling its Bitcoin ETF positions."
-    },
-    {
-      "title": "Ex-Robinhood engineer pleads guilty to $125K Hyperliquid trading scheme",
-      "link": "https://cointelegraph.com/news/ex-robinhood-engineer-pleads-guilty-125k-crypto-trading-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 17 Nov 2026 06:35:19 +0000",
-      "source": "Cointelegraph",
-      "text": "Ex-Robinhood engineer pleads guilty to $125K Hyperliquid trading scheme The former Robinhood engineer used confidential information about upcoming Robinhood token listings to trade on Hyperliquid."
-    },
-    {
-      "title": "Trezor customer data exposed in 3rd partner breach this year",
-      "link": "https://cointelegraph.com/news/trezor-customer-data-exposed-in-3rd-partner-breach-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 17 Nov 2026 03:46:22 +0000",
-      "source": "Cointelegraph",
-      "text": "Trezor customer data exposed in 3rd partner breach this year Trezor warned an attacker has been able to access customer names, phone numbers and delivery addresses linked to 27,000 orders from one of its shipping providers."
     }
   ],
   "paper": {
@@ -675,12 +703,22 @@
         "mode": "PAPER ONLY"
       },
       {
-        "symbol": "XRPUSDT",
+        "symbol": "ZECUSDT",
         "side": "SELL",
-        "entry": 0.9603,
-        "stopLoss": 0.9747045,
-        "takeProfit": 0.931491,
-        "entryTime": "2026-11-16T01:38:43.024815+00:00",
+        "entry": 947.57,
+        "stopLoss": 961.78355,
+        "takeProfit": 919.1429,
+        "entryTime": "2026-11-18T09:11:14.762733+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "NEARUSDT",
+        "side": "SELL",
+        "entry": 3.357,
+        "stopLoss": 3.407355,
+        "takeProfit": 3.25629,
+        "entryTime": "2026-11-18T09:11:14.762733+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       }
@@ -3207,6 +3245,19 @@
         "exitPrice": 953.62,
         "exitTime": "2026-11-18T01:43:22.726138+00:00",
         "pnlPercent": -3.303
+      },
+      {
+        "symbol": "XRPUSDT",
+        "side": "SELL",
+        "entry": 0.9603,
+        "stopLoss": 0.9747045,
+        "takeProfit": 0.931491,
+        "entryTime": "2026-11-16T01:38:43.024815+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 0.9987,
+        "exitTime": "2026-11-18T09:11:14.762733+00:00",
+        "pnlPercent": -3.999
       }
     ]
   },
