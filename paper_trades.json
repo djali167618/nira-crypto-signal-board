@@ -141,16 +141,6 @@
       "mode": "PAPER ONLY"
     },
     {
-      "symbol": "BTCUSDT",
-      "side": "SELL",
-      "entry": 65361.63,
-      "stopLoss": 66342.05445,
-      "takeProfit": 63400.7811,
-      "entryTime": "2026-11-14T15:38:15.526287+00:00",
-      "status": "OPEN",
-      "mode": "PAPER ONLY"
-    },
-    {
       "symbol": "BNBUSDT",
       "side": "SELL",
       "entry": 596.39,
@@ -191,12 +181,22 @@
       "mode": "PAPER ONLY"
     },
     {
-      "symbol": "NEARUSDT",
+      "symbol": "BTCUSDT",
       "side": "SELL",
-      "entry": 3.357,
-      "stopLoss": 3.407355,
-      "takeProfit": 3.25629,
-      "entryTime": "2026-11-18T09:11:14.762733+00:00",
+      "entry": 63107.58,
+      "stopLoss": 64054.1937,
+      "takeProfit": 61214.3526,
+      "entryTime": "2026-11-18T18:01:57.023857+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "NVDABUSDT",
+      "side": "SELL",
+      "entry": 151.8,
+      "stopLoss": 154.077,
+      "takeProfit": 147.246,
+      "entryTime": "2026-11-18T18:01:57.023857+00:00",
       "status": "OPEN",
       "mode": "PAPER ONLY"
     }
@@ -2736,6 +2736,32 @@
       "exitPrice": 0.9987,
       "exitTime": "2026-11-18T09:11:14.762733+00:00",
       "pnlPercent": -3.999
+    },
+    {
+      "symbol": "BTCUSDT",
+      "side": "SELL",
+      "entry": 65361.63,
+      "stopLoss": 66342.05445,
+      "takeProfit": 63400.7811,
+      "entryTime": "2026-11-14T15:38:15.526287+00:00",
+      "status": "TAKE_PROFIT",
+      "mode": "PAPER ONLY",
+      "exitPrice": 63107.58,
+      "exitTime": "2026-11-18T18:01:57.023857+00:00",
+      "pnlPercent": 3.449
+    },
+    {
+      "symbol": "NEARUSDT",
+      "side": "SELL",
+      "entry": 3.357,
+      "stopLoss": 3.407355,
+      "takeProfit": 3.25629,
+      "entryTime": "2026-11-18T09:11:14.762733+00:00",
+      "status": "TAKE_PROFIT",
+      "mode": "PAPER ONLY",
+      "exitPrice": 3.245,
+      "exitTime": "2026-11-18T18:01:57.023857+00:00",
+      "pnlPercent": 3.336
     }
   ]
 }
