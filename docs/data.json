@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-19 00:13:16 UTC",
+  "generatedAt": "2026-11-19 07:26:14 UTC",
   "interval": "15m candles",
-  "marketSentiment": -57,
-  "overallNewsScore": -14,
+  "marketSentiment": -54,
+  "overallNewsScore": -7,
   "fearGreed": {
     "value": 10,
     "label": "Extreme Fear",
@@ -12,25 +12,32 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 62842.37,
-      "change24h": -3.166,
-      "volume24h": 1193854794.538193,
+      "price": 63592.47,
+      "change24h": -1.757,
+      "volume24h": 1218669120.0336583,
       "technical": {
-        "rsi": 57.2,
-        "ema9": 62734.89453502257,
-        "ema21": 62744.709215692026,
+        "rsi": 62.4,
+        "ema9": 63511.30602365614,
+        "ema21": 63316.73802405,
         "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 1.24,
-        "score": 59
+        "emaBull": true,
+        "volumeRatio": 1.83,
+        "score": 84
       },
-      "newsScore": -10,
+      "newsScore": 0,
       "newsCount": 5,
       "news": [
         {
+          "title": "Bitcoin carry trades could beat Treasury bills in 2027, Sygnum predicts",
+          "link": "https://cointelegraph.com/markets/sygnum-bitcoin-carry-trades-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Thu, 19 Nov 2026 06:00:00 +0000",
+          "source": "Cointelegraph",
+          "text": "Bitcoin carry trades could beat Treasury bills in 2027, Sygnum predicts Sygnum predicts that Bitcoin carry trades may offer higher returns than Treasury bills in 2027, following a sharp drop in funding rates that made the strategy less compelling in 2026."
+        },
+        {
           "title": "Here’s what happened in crypto today",
           "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Wed, 18 Nov 2026 22:09:15 +0000",
+          "published": "Thu, 19 Nov 2026 06:00:00 +0000",
           "source": "Cointelegraph",
           "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
         },
@@ -54,36 +61,29 @@
           "published": "Wed, 18 Nov 2026 14:04:50 +0000",
           "source": "Cointelegraph",
           "text": "Bitcoin Covenants Part 6: FE Covenants — Enforcing covenants through cryptographically restricted signing keys FE covenants encode spending constraints into the signing key, so only transactions that satisfy a predefined condition can be signed."
-        },
-        {
-          "title": "Bitcoin steadies after Nvidia’s earnings beat as $60K bids stand out",
-          "link": "https://cointelegraph.com/markets/bitcoin-60k-liquidity-stocks-gain-nvidia-1158b-earnings-beat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Wed, 18 Nov 2026 10:31:20 +0000",
-          "source": "Cointelegraph",
-          "text": "Bitcoin steadies after Nvidia’s earnings beat as $60K bids stand out Bitcoin halted downside as Nvidia confidence returned, with its stock gaining 3% premarket and South Korea’s tech-heavy KOSPI reclaiming 5,000 points."
         }
       ],
-      "marketSentiment": -57,
-      "combinedScore": 47,
+      "marketSentiment": -54,
+      "combinedScore": 62,
       "signal": "WAIT",
-      "reason": "Technical 59/100; News -10; Market sentiment -57."
+      "reason": "Technical 84/100; News +0; Market sentiment -54."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 1772.83,
-      "change24h": -2.73,
-      "volume24h": 524714258.620347,
+      "price": 1803.92,
+      "change24h": -0.627,
+      "volume24h": 534969461.358224,
       "technical": {
-        "rsi": 58.5,
-        "ema9": 1769.864653926079,
-        "ema21": 1766.7006727918383,
+        "rsi": 63.9,
+        "ema9": 1801.6918149267713,
+        "ema21": 1794.3493858019601,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 1.76,
-        "score": 84
+        "volumeRatio": 0.84,
+        "score": 89
       },
-      "newsScore": 0,
+      "newsScore": -7,
       "newsCount": 5,
       "news": [
         {
@@ -108,11 +108,11 @@
           "text": "SOL comes out of Breakpoint 7% higher as Solana exits beta Solana’s token reached $75.12 on Tuesday, outpacing Bitcoin and Ether after the network retired the beta label it had used since its 2020 launch."
         },
         {
-          "title": "ARK sells $85M in Nvidia shares ahead of chipmaker’s Q3 earnings results",
-          "link": "https://cointelegraph.com/news/ark-crypto-stock-purchases-nvidia-staking-etf-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Tue, 17 Nov 2026 13:12:10 +0000",
-          "source": "Cointelegraph",
-          "text": "ARK sells $85M in Nvidia shares ahead of chipmaker’s Q3 earnings results ARK bought shares in Block, Circle and Coinbase worth about $39.9 million at Monday’s close while selling Nvidia and Solana and Ether staking ETFs."
+          "title": "Ethereum block builders received the most in a $3.4 million vault hack, data shows",
+          "link": "https://www.coindesk.com/tech/2026/11/19/ethereum-block-builders-received-the-most-in-a-usd3-4-million-vault-hack-data-shows",
+          "published": "Thu, 19 Nov 2026 05:39:06 +0000",
+          "source": "CoinDesk",
+          "text": "Ethereum block builders received the most in a $3.4 million vault hack, data shows An automated trading bot copied the attack on K3 Capital's sBOLD vault, taking more than half the funds and paying most of its proceeds to get its transactions processed first."
         },
         {
           "title": "U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud",
@@ -122,51 +122,51 @@
           "text": "U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud A federal judge acquitted Anton and James Peraire-Bueno, ruling that their 2023 trade against Ethereum trading bots involved no lie that anyone relied on, and closing the U.S. government’s first criminal case over the practice known as MEV."
         }
       ],
-      "marketSentiment": -57,
-      "combinedScore": 61,
+      "marketSentiment": -54,
+      "combinedScore": 63,
       "signal": "WAIT",
-      "reason": "Technical 84/100; News +0; Market sentiment -57."
+      "reason": "Technical 89/100; News -7; Market sentiment -54."
     },
     {
       "symbol": "USD1USDT",
       "coin": "USD1",
-      "price": 0.9999,
-      "change24h": -0.001,
-      "volume24h": 163885277.99054,
+      "price": 0.99997,
+      "change24h": 0.02,
+      "volume24h": 167569668.89258,
       "technical": {
-        "rsi": 41.9,
-        "ema9": 0.9999207263457209,
-        "ema21": 0.999948594750194,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.4,
-        "score": 11
+        "rsi": 55.1,
+        "ema9": 0.9999488247348592,
+        "ema21": 0.999935065117918,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.94,
+        "score": 89
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -57,
-      "combinedScore": 25,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment -57."
+      "marketSentiment": -54,
+      "combinedScore": 64,
+      "signal": "WAIT",
+      "reason": "Technical 89/100; News +0; Market sentiment -54."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 73.41,
-      "change24h": -2.094,
-      "volume24h": 163061111.54144,
+      "price": 74.8,
+      "change24h": -0.452,
+      "volume24h": 158902466.90862,
       "technical": {
-        "rsi": 56.2,
-        "ema9": 73.28884816194022,
-        "ema21": 73.25974721887995,
+        "rsi": 67.1,
+        "ema9": 74.7817893490137,
+        "ema21": 74.39345639568737,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 1.38,
+        "volumeRatio": 1.25,
         "score": 89
       },
-      "newsScore": 25,
-      "newsCount": 4,
+      "newsScore": 50,
+      "newsCount": 2,
       "news": [
         {
           "title": "CoinShares sells all treasury ETH, halves SOL holdings for buybacks",
@@ -181,64 +181,27 @@
           "published": "Wed, 18 Nov 2026 08:41:16 +0000",
           "source": "Cointelegraph",
           "text": "SOL comes out of Breakpoint 7% higher as Solana exits beta Solana’s token reached $75.12 on Tuesday, outpacing Bitcoin and Ether after the network retired the beta label it had used since its 2020 launch."
-        },
-        {
-          "title": "Solana Foundation takes majority interest in crypto data firm CoinGecko",
-          "link": "https://cointelegraph.com/news/coingecko-solana-foundation-majority-stake?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Tue, 17 Nov 2026 14:45:49 +0000",
-          "source": "Cointelegraph",
-          "text": "Solana Foundation takes majority interest in crypto data firm CoinGecko Solana Foundation now holds a majority interest in CoinGecko, its product chief said, as the crypto data platform explores trading features."
-        },
-        {
-          "title": "ARK sells $85M in Nvidia shares ahead of chipmaker’s Q3 earnings results",
-          "link": "https://cointelegraph.com/news/ark-crypto-stock-purchases-nvidia-staking-etf-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Tue, 17 Nov 2026 13:12:10 +0000",
-          "source": "Cointelegraph",
-          "text": "ARK sells $85M in Nvidia shares ahead of chipmaker’s Q3 earnings results ARK bought shares in Block, Circle and Coinbase worth about $39.9 million at Monday’s close while selling Nvidia and Solana and Ether staking ETFs."
         }
       ],
-      "marketSentiment": -57,
-      "combinedScore": 68,
+      "marketSentiment": -54,
+      "combinedScore": 72,
       "signal": "BUY",
-      "reason": "Technical 89/100; News +25; Market sentiment -57."
-    },
-    {
-      "symbol": "NVDABUSDT",
-      "coin": "NVDAB",
-      "price": 152.1,
-      "change24h": -5.826,
-      "volume24h": 116260690.08449,
-      "technical": {
-        "rsi": 49.9,
-        "ema9": 151.6554855821351,
-        "ema21": 151.7487534134446,
-        "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.68,
-        "score": 47
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -57,
-      "combinedScore": 43,
-      "signal": "WAIT",
-      "reason": "Technical 47/100; News +0; Market sentiment -57."
+      "reason": "Technical 89/100; News +50; Market sentiment -54."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 910.76,
-      "change24h": -5.336,
-      "volume24h": 115088993.23536,
+      "price": 938.54,
+      "change24h": -1.916,
+      "volume24h": 129225289.79547,
       "technical": {
-        "rsi": 48.5,
-        "ema9": 911.0864589151297,
-        "ema21": 913.5043623198667,
+        "rsi": 62.3,
+        "ema9": 937.395807028485,
+        "ema21": 929.697630744041,
         "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 1.22,
-        "score": 47
+        "emaBull": true,
+        "volumeRatio": 0.26,
+        "score": 89
       },
       "newsScore": 100,
       "newsCount": 1,
@@ -251,48 +214,48 @@
           "text": "Bitwise seeks Texas Stock Exchange listing for Zcash ETF Coinbase Custody would safeguard the fund’s ZEC holdings, while Bitwise Investment Advisers would serve as its manager and sponsor."
         }
       ],
-      "marketSentiment": -57,
-      "combinedScore": 58,
-      "signal": "WAIT",
-      "reason": "Technical 47/100; News +100; Market sentiment -57."
+      "marketSentiment": -54,
+      "combinedScore": 79,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +100; Market sentiment -54."
     },
     {
-      "symbol": "RLUSDUSDT",
-      "coin": "RLUSD",
-      "price": 1.0013,
-      "change24h": 0.03,
-      "volume24h": 99889838.1736,
+      "symbol": "NVDABUSDT",
+      "coin": "NVDAB",
+      "price": 153.61,
+      "change24h": -3.844,
+      "volume24h": 114804561.87814,
       "technical": {
-        "rsi": 55.4,
-        "ema9": 1.0013749449494989,
-        "ema21": 1.001323337640936,
-        "macdBull": false,
+        "rsi": 65.8,
+        "ema9": 152.8066125686359,
+        "ema21": 152.43050838698102,
+        "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.0,
-        "score": 65
+        "volumeRatio": 0.78,
+        "score": 89
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -57,
-      "combinedScore": 52,
+      "marketSentiment": -54,
+      "combinedScore": 64,
       "signal": "WAIT",
-      "reason": "Technical 65/100; News +0; Market sentiment -57."
+      "reason": "Technical 89/100; News +0; Market sentiment -54."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 0.9653,
-      "change24h": -1.671,
-      "volume24h": 99507919.41394,
+      "price": 0.9801,
+      "change24h": -1.259,
+      "volume24h": 106617610.29968,
       "technical": {
-        "rsi": 46.5,
-        "ema9": 0.966945638515547,
-        "ema21": 0.9688328264010283,
+        "rsi": 65.5,
+        "ema9": 0.9783721961205328,
+        "ema21": 0.9739724191304534,
         "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.63,
-        "score": 47
+        "emaBull": true,
+        "volumeRatio": 0.5,
+        "score": 89
       },
       "newsScore": 0,
       "newsCount": 1,
@@ -305,48 +268,48 @@
           "text": "XRP whales moved $270 million during the selloff. The coins didn’t go to exchanges A holder whose wallets trace back to a 2020 Bitstamp withdrawal has moved 281 million XRP into two vaults three weeks apart, a behavior indicative of custody rather than a large investor heading for the exit."
         }
       ],
-      "marketSentiment": -57,
-      "combinedScore": 43,
+      "marketSentiment": -54,
+      "combinedScore": 64,
       "signal": "WAIT",
-      "reason": "Technical 47/100; News +0; Market sentiment -57."
+      "reason": "Technical 89/100; News +0; Market sentiment -54."
     },
     {
-      "symbol": "BNBUSDT",
-      "coin": "BNB",
-      "price": 581.38,
-      "change24h": -2.727,
-      "volume24h": 68913541.37979,
+      "symbol": "RLUSDUSDT",
+      "coin": "RLUSD",
+      "price": 1.0012,
+      "change24h": 0.01,
+      "volume24h": 96110275.734,
       "technical": {
-        "rsi": 56.3,
-        "ema9": 580.7173850076023,
-        "ema21": 580.5056123700848,
+        "rsi": 51.8,
+        "ema9": 1.0011733001810266,
+        "ema21": 1.0011680692107447,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 1.04,
-        "score": 89
+        "volumeRatio": 0.0,
+        "score": 77
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -57,
-      "combinedScore": 64,
+      "marketSentiment": -54,
+      "combinedScore": 58,
       "signal": "WAIT",
-      "reason": "Technical 89/100; News +0; Market sentiment -57."
+      "reason": "Technical 77/100; News +0; Market sentiment -54."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 3.291,
-      "change24h": -2.662,
-      "volume24h": 65085147.0912,
+      "price": 3.411,
+      "change24h": 0.738,
+      "volume24h": 71229780.0038,
       "technical": {
-        "rsi": 57.7,
-        "ema9": 3.279286105226107,
-        "ema21": 3.2688639842353755,
-        "macdBull": true,
+        "rsi": 64.6,
+        "ema9": 3.404639814404069,
+        "ema21": 3.3807874371276943,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 1.09,
-        "score": 89
+        "volumeRatio": 0.87,
+        "score": 65
       },
       "newsScore": 0,
       "newsCount": 1,
@@ -359,19 +322,85 @@
           "text": "Bitcoin outpaces gold even as both assets tumble ahead of a likely Fed rate hike Bitcoin held near $64,000 as gold fell 2%, lifting the ratio between the two above its 200-day moving average and extending a series of higher lows since March."
         }
       ],
-      "marketSentiment": -57,
-      "combinedScore": 64,
+      "marketSentiment": -54,
+      "combinedScore": 52,
       "signal": "WAIT",
-      "reason": "Technical 89/100; News +0; Market sentiment -57."
+      "reason": "Technical 65/100; News +0; Market sentiment -54."
+    },
+    {
+      "symbol": "BNBUSDT",
+      "coin": "BNB",
+      "price": 588.65,
+      "change24h": -0.675,
+      "volume24h": 63496455.44212,
+      "technical": {
+        "rsi": 65.2,
+        "ema9": 587.9940207406397,
+        "ema21": 586.0118869764476,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 1.51,
+        "score": 84
+      },
+      "newsScore": -100,
+      "newsCount": 1,
+      "news": [
+        {
+          "title": "CZ says tokenized Anthropic is coming to BNB Chain on IPO day",
+          "link": "https://www.coindesk.com/markets/2026/11/19/cz-says-tokenized-anthropic-is-coming-to-bnb-chain-on-ipo-day",
+          "published": "Thu, 19 Nov 2026 03:40:48 +0000",
+          "source": "CoinDesk",
+          "text": "CZ says tokenized Anthropic is coming to BNB Chain on IPO day Changpeng Zhao says Anthropic-linked tokens from bStocks, Ondo and xStocks will hit BNB Chain on day one of the AI giant’s Nasdaq debut. This follows a $500 million pre-IPO rush that comes with notable fine print."
+        }
+      ],
+      "marketSentiment": -54,
+      "combinedScore": 47,
+      "signal": "WAIT",
+      "reason": "Technical 84/100; News -100; Market sentiment -54."
     }
   ],
   "news": [
     {
+      "title": "Bitcoin carry trades could beat Treasury bills in 2027, Sygnum predicts",
+      "link": "https://cointelegraph.com/markets/sygnum-bitcoin-carry-trades-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 19 Nov 2026 06:00:00 +0000",
+      "source": "Cointelegraph",
+      "text": "Bitcoin carry trades could beat Treasury bills in 2027, Sygnum predicts Sygnum predicts that Bitcoin carry trades may offer higher returns than Treasury bills in 2027, following a sharp drop in funding rates that made the strategy less compelling in 2026."
+    },
+    {
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 18 Nov 2026 22:09:15 +0000",
+      "published": "Thu, 19 Nov 2026 06:00:00 +0000",
       "source": "Cointelegraph",
       "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "title": "Senators warn GENIUS Act rules could push stablecoin firms toward federal oversight",
+      "link": "https://cointelegraph.com/news/us-senators-genius-act-rules-favor-federal-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 19 Nov 2026 05:27:45 +0000",
+      "source": "Cointelegraph",
+      "text": "Senators warn GENIUS Act rules could push stablecoin firms toward federal oversight The lawmakers urged Treasury to extend safe harbor protections to stablecoin issuers in states expected to establish qualifying regulatory frameworks before January 2028."
+    },
+    {
+      "title": "Binance hackers stole 192 tokens across 11 networks, court docs show",
+      "link": "https://cointelegraph.com/news/binance-hackers-stole-192-tokens-across-11-networks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 19 Nov 2026 05:09:45 +0000",
+      "source": "Cointelegraph",
+      "text": "Binance hackers stole 192 tokens across 11 networks, court docs show Stablecoins accounted for at least $3.46 billion of the $6.3 billion stolen, while the hackers also took memecoins, tokenized gold and gaming tokens."
+    },
+    {
+      "title": "Trump administration unveils new center to choke off scam payments",
+      "link": "https://cointelegraph.com/news/trump-administration-unveils-new-center-choke-off-scam-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 19 Nov 2026 01:45:33 +0000",
+      "source": "Cointelegraph",
+      "text": "Trump administration unveils new center to choke off scam payments Americans reported more than $17.7 billion in online fraud losses in 2025."
+    },
+    {
+      "title": "Fed officials saw October rate hold as a ‘close call,’ minutes show",
+      "link": "https://cointelegraph.com/markets/fed-officials-saw-october-rate-hold-as-close-call-minutes-show?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 19 Nov 2026 00:35:49 +0000",
+      "source": "Cointelegraph",
+      "text": "Fed officials saw October rate hold as a ‘close call,’ minutes show The latest FOMC minutes suggest greater appetite for higher rates than the Fed’s 10–2 vote indicated, with markets now pricing in a December hike."
     },
     {
       "title": "Tether invokes The Big Short in swipe at S&P over USDT reserve risks",
@@ -470,41 +499,6 @@
       "published": "Wed, 18 Nov 2026 10:33:07 +0000",
       "source": "Cointelegraph",
       "text": "Bitwise seeks Texas Stock Exchange listing for Zcash ETF Coinbase Custody would safeguard the fund’s ZEC holdings, while Bitwise Investment Advisers would serve as its manager and sponsor."
-    },
-    {
-      "title": "Bitcoin steadies after Nvidia’s earnings beat as $60K bids stand out",
-      "link": "https://cointelegraph.com/markets/bitcoin-60k-liquidity-stocks-gain-nvidia-1158b-earnings-beat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 18 Nov 2026 10:31:20 +0000",
-      "source": "Cointelegraph",
-      "text": "Bitcoin steadies after Nvidia’s earnings beat as $60K bids stand out Bitcoin halted downside as Nvidia confidence returned, with its stock gaining 3% premarket and South Korea’s tech-heavy KOSPI reclaiming 5,000 points."
-    },
-    {
-      "title": "World Bank partners with Circle, Citi to explore stablecoins for payments",
-      "link": "https://cointelegraph.com/news/world-bank-circle-citi-explore-stablecoins-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 18 Nov 2026 09:17:18 +0000",
-      "source": "Cointelegraph",
-      "text": "World Bank partners with Circle, Citi to explore stablecoins for payments The initiative builds on the World Bank’s existing blockchain platform, which aims to create more fund traceability for investments in developing countries."
-    },
-    {
-      "title": "SOL comes out of Breakpoint 7% higher as Solana exits beta",
-      "link": "https://cointelegraph.com/markets/solana-sol-gains-7-percent-breakpoint-beta-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 18 Nov 2026 08:41:16 +0000",
-      "source": "Cointelegraph",
-      "text": "SOL comes out of Breakpoint 7% higher as Solana exits beta Solana’s token reached $75.12 on Tuesday, outpacing Bitcoin and Ether after the network retired the beta label it had used since its 2020 launch."
-    },
-    {
-      "title": "Bitcoin ETFs lose $240M as CryptoQuant flags bearish market phase",
-      "link": "https://cointelegraph.com/markets/bitcoin-etf-240-million-outflow-bearish-phase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 18 Nov 2026 08:09:23 +0000",
-      "source": "Cointelegraph",
-      "text": "Bitcoin ETFs lose $240M as CryptoQuant flags bearish market phase Bitcoin ETF outflows returned after a one-day pause as CryptoQuant warned that Bitcoin had returned to a bearish market phase."
-    },
-    {
-      "title": "Ledger hardware implant saga reaches Dubai’s Virgin Megastore",
-      "link": "https://cointelegraph.com/news/ledger-hardware-implant-saga-reaches-dubais-virgin-megastore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 18 Nov 2026 02:39:52 +0000",
-      "source": "Cointelegraph",
-      "text": "Ledger hardware implant saga reaches Dubai’s Virgin Megastore Two Ledger owners reported losing a combined $604,000 in crypto from hardware wallets they said were purchased at authorized retailer Virgin Megastore in Dubai."
     }
   ],
   "paper": {
@@ -706,6 +700,16 @@
         "stopLoss": 72.30885,
         "takeProfit": 75.6123,
         "entryTime": "2026-11-19T00:13:16.209404+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "ZECUSDT",
+        "side": "BUY",
+        "entry": 938.54,
+        "stopLoss": 924.4619,
+        "takeProfit": 966.6962,
+        "entryTime": "2026-11-19T07:26:14.446983+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       }
