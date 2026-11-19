@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-18 18:01:57 UTC",
+  "generatedAt": "2026-11-19 00:13:16 UTC",
   "interval": "15m candles",
-  "marketSentiment": -56,
+  "marketSentiment": -57,
   "overallNewsScore": -14,
   "fearGreed": {
-    "value": 11,
+    "value": 10,
     "label": "Extreme Fear",
     "source": "Alternative.me"
   },
@@ -12,21 +12,35 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 63107.58,
-      "change24h": -1.072,
-      "volume24h": 1254808550.580399,
+      "price": 62842.37,
+      "change24h": -3.166,
+      "volume24h": 1193854794.538193,
       "technical": {
-        "rsi": 42.2,
-        "ema9": 63069.64007002383,
-        "ema21": 63352.43510445461,
+        "rsi": 57.2,
+        "ema9": 62734.89453502257,
+        "ema21": 62744.709215692026,
         "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.43,
-        "score": 35
+        "volumeRatio": 1.24,
+        "score": 59
       },
       "newsScore": -10,
       "newsCount": 5,
       "news": [
+        {
+          "title": "Here’s what happened in crypto today",
+          "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Wed, 18 Nov 2026 22:09:15 +0000",
+          "source": "Cointelegraph",
+          "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+        },
+        {
+          "title": "MARA prices $185M debt offering after $1.1B Bitcoin sale",
+          "link": "https://cointelegraph.com/markets/mara-long-ridge-debt-offering-bitcoin-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Wed, 18 Nov 2026 18:27:52 +0000",
+          "source": "Cointelegraph",
+          "text": "MARA prices $185M debt offering after $1.1B Bitcoin sale The Bitcoin miner is taking on new debt to finance its AI infrastructure expansion, with the Long Ridge acquisition adding nearly $69 million in annual interest costs."
+        },
         {
           "title": "Bitcoin, stocks wobble as Fed’s Waller talks of ‘shock’ 50-point rate hike",
           "link": "https://cointelegraph.com/markets/bitcoin-stocks-wobble-waller-talks-shock-50-point-rate-hike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -42,48 +56,34 @@
           "text": "Bitcoin Covenants Part 6: FE Covenants — Enforcing covenants through cryptographically restricted signing keys FE covenants encode spending constraints into the signing key, so only transactions that satisfy a predefined condition can be signed."
         },
         {
-          "title": "Here’s what happened in crypto today",
-          "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Wed, 18 Nov 2026 13:34:00 +0000",
-          "source": "Cointelegraph",
-          "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-        },
-        {
           "title": "Bitcoin steadies after Nvidia’s earnings beat as $60K bids stand out",
           "link": "https://cointelegraph.com/markets/bitcoin-60k-liquidity-stocks-gain-nvidia-1158b-earnings-beat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "published": "Wed, 18 Nov 2026 10:31:20 +0000",
           "source": "Cointelegraph",
           "text": "Bitcoin steadies after Nvidia’s earnings beat as $60K bids stand out Bitcoin halted downside as Nvidia confidence returned, with its stock gaining 3% premarket and South Korea’s tech-heavy KOSPI reclaiming 5,000 points."
-        },
-        {
-          "title": "SOL comes out of Breakpoint 7% higher as Solana exits beta",
-          "link": "https://cointelegraph.com/markets/solana-sol-gains-7-percent-breakpoint-beta-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Wed, 18 Nov 2026 08:41:16 +0000",
-          "source": "Cointelegraph",
-          "text": "SOL comes out of Breakpoint 7% higher as Solana exits beta Solana’s token reached $75.12 on Tuesday, outpacing Bitcoin and Ether after the network retired the beta label it had used since its 2020 launch."
         }
       ],
-      "marketSentiment": -56,
-      "combinedScore": 35,
-      "signal": "SELL",
-      "reason": "Technical 35/100; News -10; Market sentiment -56."
+      "marketSentiment": -57,
+      "combinedScore": 47,
+      "signal": "WAIT",
+      "reason": "Technical 59/100; News -10; Market sentiment -57."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 1768.04,
-      "change24h": -1.016,
-      "volume24h": 557060490.169858,
+      "price": 1772.83,
+      "change24h": -2.73,
+      "volume24h": 524714258.620347,
       "technical": {
-        "rsi": 45.0,
-        "ema9": 1765.4308755507213,
-        "ema21": 1773.0577760133772,
+        "rsi": 58.5,
+        "ema9": 1769.864653926079,
+        "ema21": 1766.7006727918383,
         "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.96,
-        "score": 47
+        "emaBull": true,
+        "volumeRatio": 1.76,
+        "score": 84
       },
-      "newsScore": 17,
+      "newsScore": 0,
       "newsCount": 5,
       "news": [
         {
@@ -122,25 +122,48 @@
           "text": "U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud A federal judge acquitted Anton and James Peraire-Bueno, ruling that their 2023 trade against Ethereum trading bots involved no lie that anyone relied on, and closing the U.S. government’s first criminal case over the practice known as MEV."
         }
       ],
-      "marketSentiment": -56,
-      "combinedScore": 45,
+      "marketSentiment": -57,
+      "combinedScore": 61,
       "signal": "WAIT",
-      "reason": "Technical 47/100; News +17; Market sentiment -56."
+      "reason": "Technical 84/100; News +0; Market sentiment -57."
+    },
+    {
+      "symbol": "USD1USDT",
+      "coin": "USD1",
+      "price": 0.9999,
+      "change24h": -0.001,
+      "volume24h": 163885277.99054,
+      "technical": {
+        "rsi": 41.9,
+        "ema9": 0.9999207263457209,
+        "ema21": 0.999948594750194,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.4,
+        "score": 11
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -57,
+      "combinedScore": 25,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment -57."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 73.61,
-      "change24h": 1.826,
-      "volume24h": 177354608.43798,
+      "price": 73.41,
+      "change24h": -2.094,
+      "volume24h": 163061111.54144,
       "technical": {
-        "rsi": 46.6,
-        "ema9": 73.4442042429289,
-        "ema21": 73.69083853717089,
+        "rsi": 56.2,
+        "ema9": 73.28884816194022,
+        "ema21": 73.25974721887995,
         "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.81,
-        "score": 47
+        "emaBull": true,
+        "volumeRatio": 1.38,
+        "score": 89
       },
       "newsScore": 25,
       "newsCount": 4,
@@ -174,71 +197,48 @@
           "text": "ARK sells $85M in Nvidia shares ahead of chipmaker’s Q3 earnings results ARK bought shares in Block, Circle and Coinbase worth about $39.9 million at Monday’s close while selling Nvidia and Solana and Ether staking ETFs."
         }
       ],
-      "marketSentiment": -56,
-      "combinedScore": 47,
-      "signal": "WAIT",
-      "reason": "Technical 47/100; News +25; Market sentiment -56."
-    },
-    {
-      "symbol": "USD1USDT",
-      "coin": "USD1",
-      "price": 1.00003,
-      "change24h": 0.034,
-      "volume24h": 159664598.52095,
-      "technical": {
-        "rsi": 55.6,
-        "ema9": 1.0000151483443922,
-        "ema21": 0.9999940403682592,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.73,
-        "score": 89
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -56,
-      "combinedScore": 64,
-      "signal": "WAIT",
-      "reason": "Technical 89/100; News +0; Market sentiment -56."
+      "marketSentiment": -57,
+      "combinedScore": 68,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +25; Market sentiment -57."
     },
     {
       "symbol": "NVDABUSDT",
       "coin": "NVDAB",
-      "price": 151.8,
-      "change24h": -1.403,
-      "volume24h": 135751878.98129,
+      "price": 152.1,
+      "change24h": -5.826,
+      "volume24h": 116260690.08449,
       "technical": {
-        "rsi": 30.2,
-        "ema9": 152.64291759393464,
-        "ema21": 154.54903176537326,
-        "macdBull": false,
+        "rsi": 49.9,
+        "ema9": 151.6554855821351,
+        "ema21": 151.7487534134446,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.95,
-        "score": 11
+        "volumeRatio": 0.68,
+        "score": 47
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -56,
-      "combinedScore": 25,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment -56."
+      "marketSentiment": -57,
+      "combinedScore": 43,
+      "signal": "WAIT",
+      "reason": "Technical 47/100; News +0; Market sentiment -57."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 923.49,
-      "change24h": -0.384,
-      "volume24h": 121579520.33892,
+      "price": 910.76,
+      "change24h": -5.336,
+      "volume24h": 115088993.23536,
       "technical": {
-        "rsi": 43.4,
-        "ema9": 929.3613215584894,
-        "ema21": 931.3002048497503,
+        "rsi": 48.5,
+        "ema9": 911.0864589151297,
+        "ema21": 913.5043623198667,
         "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 1.15,
-        "score": 35
+        "volumeRatio": 1.22,
+        "score": 47
       },
       "newsScore": 100,
       "newsCount": 1,
@@ -251,24 +251,47 @@
           "text": "Bitwise seeks Texas Stock Exchange listing for Zcash ETF Coinbase Custody would safeguard the fund’s ZEC holdings, while Bitwise Investment Advisers would serve as its manager and sponsor."
         }
       ],
-      "marketSentiment": -56,
+      "marketSentiment": -57,
+      "combinedScore": 58,
+      "signal": "WAIT",
+      "reason": "Technical 47/100; News +100; Market sentiment -57."
+    },
+    {
+      "symbol": "RLUSDUSDT",
+      "coin": "RLUSD",
+      "price": 1.0013,
+      "change24h": 0.03,
+      "volume24h": 99889838.1736,
+      "technical": {
+        "rsi": 55.4,
+        "ema9": 1.0013749449494989,
+        "ema21": 1.001323337640936,
+        "macdBull": false,
+        "emaBull": true,
+        "volumeRatio": 0.0,
+        "score": 65
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -57,
       "combinedScore": 52,
       "signal": "WAIT",
-      "reason": "Technical 35/100; News +100; Market sentiment -56."
+      "reason": "Technical 65/100; News +0; Market sentiment -57."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 0.9784,
-      "change24h": 2.236,
-      "volume24h": 105361268.79979,
+      "price": 0.9653,
+      "change24h": -1.671,
+      "volume24h": 99507919.41394,
       "technical": {
-        "rsi": 47.1,
-        "ema9": 0.9775614474100339,
-        "ema21": 0.9801431467214878,
+        "rsi": 46.5,
+        "ema9": 0.966945638515547,
+        "ema21": 0.9688328264010283,
         "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.65,
+        "volumeRatio": 0.63,
         "score": 47
       },
       "newsScore": 0,
@@ -282,25 +305,48 @@
           "text": "XRP whales moved $270 million during the selloff. The coins didn’t go to exchanges A holder whose wallets trace back to a 2020 Bitstamp withdrawal has moved 281 million XRP into two vaults three weeks apart, a behavior indicative of custody rather than a large investor heading for the exit."
         }
       ],
-      "marketSentiment": -56,
+      "marketSentiment": -57,
       "combinedScore": 43,
       "signal": "WAIT",
-      "reason": "Technical 47/100; News +0; Market sentiment -56."
+      "reason": "Technical 47/100; News +0; Market sentiment -57."
+    },
+    {
+      "symbol": "BNBUSDT",
+      "coin": "BNB",
+      "price": 581.38,
+      "change24h": -2.727,
+      "volume24h": 68913541.37979,
+      "technical": {
+        "rsi": 56.3,
+        "ema9": 580.7173850076023,
+        "ema21": 580.5056123700848,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 1.04,
+        "score": 89
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -57,
+      "combinedScore": 64,
+      "signal": "WAIT",
+      "reason": "Technical 89/100; News +0; Market sentiment -57."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 3.245,
-      "change24h": 2.657,
-      "volume24h": 77441331.0679,
+      "price": 3.291,
+      "change24h": -2.662,
+      "volume24h": 65085147.0912,
       "technical": {
-        "rsi": 43.3,
-        "ema9": 3.2487723264500357,
-        "ema21": 3.2707055884314427,
+        "rsi": 57.7,
+        "ema9": 3.279286105226107,
+        "ema21": 3.2688639842353755,
         "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.6,
-        "score": 35
+        "emaBull": true,
+        "volumeRatio": 1.09,
+        "score": 89
       },
       "newsScore": 0,
       "newsCount": 1,
@@ -313,59 +359,55 @@
           "text": "Bitcoin outpaces gold even as both assets tumble ahead of a likely Fed rate hike Bitcoin held near $64,000 as gold fell 2%, lifting the ratio between the two above its 200-day moving average and extending a series of higher lows since March."
         }
       ],
-      "marketSentiment": -56,
-      "combinedScore": 37,
+      "marketSentiment": -57,
+      "combinedScore": 64,
       "signal": "WAIT",
-      "reason": "Technical 35/100; News +0; Market sentiment -56."
-    },
-    {
-      "symbol": "BNBUSDT",
-      "coin": "BNB",
-      "price": 582.9,
-      "change24h": -0.621,
-      "volume24h": 76737933.27258,
-      "technical": {
-        "rsi": 44.3,
-        "ema9": 582.8168895698714,
-        "ema21": 584.5671764023564,
-        "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.42,
-        "score": 35
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -56,
-      "combinedScore": 37,
-      "signal": "WAIT",
-      "reason": "Technical 35/100; News +0; Market sentiment -56."
-    },
-    {
-      "symbol": "RLUSDUSDT",
-      "coin": "RLUSD",
-      "price": 1.0011,
-      "change24h": 0.0,
-      "volume24h": 67435291.0682,
-      "technical": {
-        "rsi": 49.3,
-        "ema9": 1.0011075952443693,
-        "ema21": 1.001109140420384,
-        "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.0,
-        "score": 47
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -56,
-      "combinedScore": 43,
-      "signal": "WAIT",
-      "reason": "Technical 47/100; News +0; Market sentiment -56."
+      "reason": "Technical 89/100; News +0; Market sentiment -57."
     }
   ],
   "news": [
+    {
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 18 Nov 2026 22:09:15 +0000",
+      "source": "Cointelegraph",
+      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "title": "Tether invokes The Big Short in swipe at S&P over USDT reserve risks",
+      "link": "https://cointelegraph.com/news/tether-usdt-sp-stability-assessment-reserve-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 18 Nov 2026 21:57:35 +0000",
+      "source": "Cointelegraph",
+      "text": "Tether invokes The Big Short in swipe at S&P over USDT reserve risks S&P Global made no downward adjustment in its latest Stablecoin Stability Assessment, as 5 is the lowest available score."
+    },
+    {
+      "title": "Ledger warns Berlin customers as hardware wallet tampering investigation expands",
+      "link": "https://cointelegraph.com/news/ledger-warns-berlin-customers-hardware-wallet-investigation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 18 Nov 2026 21:13:58 +0000",
+      "source": "Cointelegraph",
+      "text": "Ledger warns Berlin customers as hardware wallet tampering investigation expands Ledger advised customers who purchased devices in Berlin since January 2026 to contact support as it investigates suspected hardware implants in Germany and Dubai."
+    },
+    {
+      "title": "Bain Capital Crypto leads $110M Variational round at $1.5B valuation",
+      "link": "https://cointelegraph.com/news/variational-series-b-bain-capital-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 18 Nov 2026 20:32:06 +0000",
+      "source": "Cointelegraph",
+      "text": "Bain Capital Crypto leads $110M Variational round at $1.5B valuation Variational raised $110 million at a $1.5 billion valuation to expand Omni’s derivatives markets and increase trading limits."
+    },
+    {
+      "title": "Binance says it obtained $6.5B worldwide freezing order after hack",
+      "link": "https://cointelegraph.com/news/binance-says-won-65b-worldwide-freezing-order-after-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 18 Nov 2026 20:20:37 +0000",
+      "source": "Cointelegraph",
+      "text": "Binance says it obtained $6.5B worldwide freezing order after hack The court orders allow legal notices to be served via blockchain and provide for a continuously updated list of 26,000 wallet addresses linked to stolen assets, Binance’s lawyers said."
+    },
+    {
+      "title": "MARA prices $185M debt offering after $1.1B Bitcoin sale",
+      "link": "https://cointelegraph.com/markets/mara-long-ridge-debt-offering-bitcoin-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 18 Nov 2026 18:27:52 +0000",
+      "source": "Cointelegraph",
+      "text": "MARA prices $185M debt offering after $1.1B Bitcoin sale The Bitcoin miner is taking on new debt to finance its AI infrastructure expansion, with the Long Ridge acquisition adding nearly $69 million in annual interest costs."
+    },
     {
       "title": "$25M Ethereum MEV acquittal tests criminal enforcement limits",
       "link": "https://cointelegraph.com/news/25m-ethereum-mev-acquittal-tests-criminal-enforcement-limits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -400,13 +442,6 @@
       "published": "Wed, 18 Nov 2026 13:42:37 +0000",
       "source": "Cointelegraph",
       "text": "CoinShares sells all treasury ETH, halves SOL holdings for buybacks The October sales raised $19.3 million, nearly half the $40 million CoinShares can spend on buybacks before its next annual meeting."
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 18 Nov 2026 13:34:00 +0000",
-      "source": "Cointelegraph",
-      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
       "title": "Sanctions fears loom over Russia’s regulated crypto trading launch",
@@ -470,41 +505,6 @@
       "published": "Wed, 18 Nov 2026 02:39:52 +0000",
       "source": "Cointelegraph",
       "text": "Ledger hardware implant saga reaches Dubai’s Virgin Megastore Two Ledger owners reported losing a combined $604,000 in crypto from hardware wallets they said were purchased at authorized retailer Virgin Megastore in Dubai."
-    },
-    {
-      "title": "Nvidia board rejects Huang comeback despite record $116B quarter",
-      "link": "https://cointelegraph.com/markets/nvidia-board-rejects-huang-comeback-amid-record-116b-quarter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 18 Nov 2026 00:16:43 +0000",
-      "source": "Cointelegraph",
-      "text": "Nvidia board rejects Huang comeback despite record $116B quarter Nvidia beat Wall Street’s revenue expectations by 5.6% and issued a stronger-than-expected sales forecast, while its board resisted growing calls for Jensen Huang’s reinstatement."
-    },
-    {
-      "title": "CFTC halts some Kalshi Trump mention markets over manipulation concerns",
-      "link": "https://cointelegraph.com/news/cftc-kalshi-trump-mention-markets-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 17 Nov 2026 22:20:04 +0000",
-      "source": "Cointelegraph",
-      "text": "CFTC halts some Kalshi Trump mention markets over manipulation concerns The CFTC stayed Kalshi’s Trump-related mention markets after raising concerns about manipulation risks, giving the platform until Dec. 11 to defend its contracts."
-    },
-    {
-      "title": "Maple Finance CEO targets up to $15B in assets by the end of 2027",
-      "link": "https://cointelegraph.com/news/maple-finance-15b-assets-target-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 17 Nov 2026 21:56:35 +0000",
-      "source": "Cointelegraph",
-      "text": "Maple Finance CEO targets up to $15B in assets by the end of 2027 Sidney Powell aims to reach $15 billion in assets under management by the end of 2027 as the firm looks to expand into tokenized lending and traditional finance."
-    },
-    {
-      "title": "Eastern Europe crypto flows fall 7.9% as Ukraine draws $12B in stablecoins",
-      "link": "https://cointelegraph.com/news/eastern-europe-crypto-activity-decline-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 17 Nov 2026 20:05:04 +0000",
-      "source": "Cointelegraph",
-      "text": "Eastern Europe crypto flows fall 7.9% as Ukraine draws $12B in stablecoins Chainalysis found that Eastern Europe recorded the steepest decline in crypto activity of any region, while cross-border stablecoin transfers to Ukraine continued amid the ongoing war."
-    },
-    {
-      "title": "Lighter incident exposes risks beyond withdrawal controls",
-      "link": "https://cointelegraph.com/news/lighter-incident-exposes-risks-beyond-withdrawal-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 17 Nov 2026 17:51:53 +0000",
-      "source": "Cointelegraph",
-      "text": "Lighter incident exposes risks beyond withdrawal controls Crypto platforms need enforceable limits on every route an API key can use to transfer value, including trades, internal transfers and shared pools."
     }
   ],
   "paper": {
@@ -680,16 +680,6 @@
         "mode": "PAPER ONLY"
       },
       {
-        "symbol": "ZECUSDT",
-        "side": "SELL",
-        "entry": 947.57,
-        "stopLoss": 961.78355,
-        "takeProfit": 919.1429,
-        "entryTime": "2026-11-18T09:11:14.762733+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
         "symbol": "BTCUSDT",
         "side": "SELL",
         "entry": 63107.58,
@@ -706,6 +696,16 @@
         "stopLoss": 154.077,
         "takeProfit": 147.246,
         "entryTime": "2026-11-18T18:01:57.023857+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "SOLUSDT",
+        "side": "BUY",
+        "entry": 73.41,
+        "stopLoss": 72.30885,
+        "takeProfit": 75.6123,
+        "entryTime": "2026-11-19T00:13:16.209404+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       }
@@ -3271,6 +3271,19 @@
         "exitPrice": 3.245,
         "exitTime": "2026-11-18T18:01:57.023857+00:00",
         "pnlPercent": 3.336
+      },
+      {
+        "symbol": "ZECUSDT",
+        "side": "SELL",
+        "entry": 947.57,
+        "stopLoss": 961.78355,
+        "takeProfit": 919.1429,
+        "entryTime": "2026-11-18T09:11:14.762733+00:00",
+        "status": "TAKE_PROFIT",
+        "mode": "PAPER ONLY",
+        "exitPrice": 910.76,
+        "exitTime": "2026-11-19T00:13:16.209404+00:00",
+        "pnlPercent": 3.885
       }
     ]
   },
