@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-19 16:41:48 UTC",
+  "generatedAt": "2026-11-19 23:14:32 UTC",
   "interval": "15m candles",
-  "marketSentiment": -50,
-  "overallNewsScore": 7,
+  "marketSentiment": -55,
+  "overallNewsScore": -8,
   "fearGreed": {
     "value": 10,
     "label": "Extreme Fear",
@@ -12,27 +12,41 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 63355.33,
-      "change24h": 1.568,
-      "volume24h": 1091165281.101148,
+      "price": 62026.0,
+      "change24h": -0.857,
+      "volume24h": 1254813967.7322698,
       "technical": {
-        "rsi": 36.1,
-        "ema9": 63327.7455628888,
-        "ema21": 63526.68554958702,
-        "macdBull": false,
+        "rsi": 45.1,
+        "ema9": 62055.20459707913,
+        "ema21": 62292.20775790502,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 1.01,
-        "score": 11
+        "volumeRatio": 0.71,
+        "score": 47
       },
-      "newsScore": 0,
+      "newsScore": 10,
       "newsCount": 5,
       "news": [
         {
           "title": "Here’s what happened in crypto today",
           "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Thu, 19 Nov 2026 13:48:14 +0000",
+          "published": "Thu, 19 Nov 2026 21:42:20 +0000",
           "source": "Cointelegraph",
           "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+        },
+        {
+          "title": "Why higher rates could slow Bitcoin buying at treasury firms",
+          "link": "https://cointelegraph.com/news/why-higher-rates-could-slow-bitcoin-buying-at-treasury-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Thu, 19 Nov 2026 18:09:32 +0000",
+          "source": "Cointelegraph",
+          "text": "Why higher rates could slow Bitcoin buying at treasury firms A treasury company can have years of dividends covered and still struggle to sell new shares on terms that make another Bitcoin purchase worthwhile."
+        },
+        {
+          "title": "Bitcoin price ignores Anthropic debut as ANT share price dips below $100",
+          "link": "https://cointelegraph.com/markets/bitcoin-price-ignores-anthropic-debut-ant-share-price-dips-below-100?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Thu, 19 Nov 2026 18:06:50 +0000",
+          "source": "Cointelegraph",
+          "text": "Bitcoin price ignores Anthropic debut as ANT share price dips below $100 Bitcoin dropped toward a third retest of $62,000 as Anthropic debuted on the Nasdaq, hitting highs of $115 per share before dropping below $100."
         },
         {
           "title": "Sweden’s H100 could tap Bitcoin trading pool to fund share buybacks",
@@ -47,45 +61,38 @@
           "published": "Thu, 19 Nov 2026 08:26:19 +0000",
           "source": "Cointelegraph",
           "text": "Bitcoin ETF assets fall to three-month low as 2026 net outflows top $2.5B US spot Bitcoin ETFs lost $306.4 million Wednesday, pushing their combined assets to $77.7 billion as Bitcoin briefly traded below $63,000."
-        },
-        {
-          "title": "Bitcoin retests $62K as Nasdaq futures rise ahead of Anthropic debut",
-          "link": "https://cointelegraph.com/markets/bitcoin-retests-62k-nasdaq-futures-anthropic-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Thu, 19 Nov 2026 07:55:56 +0000",
-          "source": "Cointelegraph",
-          "text": "Bitcoin retests $62K as Nasdaq futures rise ahead of Anthropic debut Bitcoin climbed back above $63,500 after its second dip to $62,000 this week, while Anthropic priced its record $81.3 billion IPO at $83 a share."
-        },
-        {
-          "title": "Bitcoin carry trades could beat Treasury bills in 2027, Sygnum predicts",
-          "link": "https://cointelegraph.com/markets/sygnum-bitcoin-carry-trades-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Thu, 19 Nov 2026 06:00:00 +0000",
-          "source": "Cointelegraph",
-          "text": "Bitcoin carry trades could beat Treasury bills in 2027, Sygnum predicts Sygnum predicts that Bitcoin carry trades may offer higher returns than Treasury bills in 2027, following a sharp drop in funding rates that made the strategy less compelling in 2026."
         }
       ],
-      "marketSentiment": -50,
-      "combinedScore": 26,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment -50."
+      "marketSentiment": -55,
+      "combinedScore": 44,
+      "signal": "WAIT",
+      "reason": "Technical 47/100; News +10; Market sentiment -55."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 1788.03,
-      "change24h": 2.839,
-      "volume24h": 510915750.7497,
+      "price": 1756.36,
+      "change24h": -0.625,
+      "volume24h": 541789360.910954,
       "technical": {
-        "rsi": 32.7,
-        "ema9": 1788.4540735631176,
-        "ema21": 1795.6424303959736,
-        "macdBull": false,
+        "rsi": 46.0,
+        "ema9": 1757.1024347884047,
+        "ema21": 1763.2141472678659,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 1.2,
-        "score": 11
+        "volumeRatio": 0.59,
+        "score": 47
       },
-      "newsScore": -8,
+      "newsScore": 17,
       "newsCount": 4,
       "news": [
+        {
+          "title": "Ethereum’s Glamsterdam upgrade could slip to May 2027 over compatibility concerns",
+          "link": "https://cointelegraph.com/news/ethereum-glamsterdam-could-slip-to-may-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Thu, 19 Nov 2026 18:20:49 +0000",
+          "source": "Cointelegraph",
+          "text": "Ethereum’s Glamsterdam upgrade could slip to May 2027 over compatibility concerns Ethereum developers are weighing changes to gas pricing proposals that could disrupt existing smart contracts, after contacting at least 50 affected companies."
+        },
         {
           "title": "Ethereum’s new DeFi security tool raises questions over censorship",
           "link": "https://cointelegraph.com/magazine/ethereums-new-defi-security-tool-raises-questions-over-censorship?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -101,13 +108,6 @@
           "text": "$25M Ethereum MEV acquittal tests criminal enforcement limits BlackRock’s staked Ether ETF earns a cut of what traders pay for priority on Ethereum, the acquittal left the legal risk to that income unresolved."
         },
         {
-          "title": "CoinShares sells all treasury ETH, halves SOL holdings for buybacks",
-          "link": "https://cointelegraph.com/news/coinshares-sells-eth-treasury-holdings-halves-sol-share-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Wed, 18 Nov 2026 13:42:37 +0000",
-          "source": "Cointelegraph",
-          "text": "CoinShares sells all treasury ETH, halves SOL holdings for buybacks The October sales raised $19.3 million, nearly half the $40 million CoinShares can spend on buybacks before its next annual meeting."
-        },
-        {
           "title": "Ethereum block builders received the most in a $3.4 million vault hack, data shows",
           "link": "https://www.coindesk.com/tech/2026/11/19/ethereum-block-builders-received-the-most-in-a-usd3-4-million-vault-hack-data-shows",
           "published": "Thu, 19 Nov 2026 05:39:06 +0000",
@@ -115,51 +115,74 @@
           "text": "Ethereum block builders received the most in a $3.4 million vault hack, data shows An automated trading bot copied the attack on K3 Capital's sBOLD vault, taking more than half the funds and paying most of its proceeds to get its transactions processed first."
         }
       ],
-      "marketSentiment": -50,
-      "combinedScore": 24,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News -8; Market sentiment -50."
+      "marketSentiment": -55,
+      "combinedScore": 46,
+      "signal": "WAIT",
+      "reason": "Technical 47/100; News +17; Market sentiment -55."
     },
     {
       "symbol": "USD1USDT",
       "coin": "USD1",
-      "price": 1.0,
-      "change24h": 0.013,
-      "volume24h": 173171858.06937,
+      "price": 1.00019,
+      "change24h": 0.032,
+      "volume24h": 199802672.19983,
       "technical": {
-        "rsi": 39.3,
-        "ema9": 1.000056325925298,
-        "ema21": 1.0000718584719006,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 1.34,
-        "score": 11
+        "rsi": 57.0,
+        "ema9": 1.000177846262966,
+        "ema21": 1.000154867839901,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.36,
+        "score": 89
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -50,
-      "combinedScore": 26,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment -50."
+      "marketSentiment": -55,
+      "combinedScore": 64,
+      "signal": "WAIT",
+      "reason": "Technical 89/100; News +0; Market sentiment -55."
+    },
+    {
+      "symbol": "ZECUSDT",
+      "coin": "ZEC",
+      "price": 892.73,
+      "change24h": -1.543,
+      "volume24h": 185728662.98004,
+      "technical": {
+        "rsi": 41.9,
+        "ema9": 889.4188689475391,
+        "ema21": 897.2492573075153,
+        "macdBull": true,
+        "emaBull": false,
+        "volumeRatio": 0.16,
+        "score": 35
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -55,
+      "combinedScore": 37,
+      "signal": "WAIT",
+      "reason": "Technical 35/100; News +0; Market sentiment -55."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 74.05,
-      "change24h": 2.265,
-      "volume24h": 147304770.57894,
+      "price": 73.08,
+      "change24h": -0.123,
+      "volume24h": 157590533.65101,
       "technical": {
-        "rsi": 34.2,
-        "ema9": 74.17738840761311,
-        "ema21": 74.45952106483664,
-        "macdBull": false,
+        "rsi": 48.3,
+        "ema9": 72.97095497013129,
+        "ema21": 73.22510665905845,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 1.88,
-        "score": 6
+        "volumeRatio": 0.73,
+        "score": 47
       },
-      "newsScore": 67,
-      "newsCount": 3,
+      "newsScore": 100,
+      "newsCount": 2,
       "news": [
         {
           "title": "IOSCO warns quantum upgrades could slow blockchains, leave security gaps",
@@ -169,12 +192,36 @@
           "text": "IOSCO warns quantum upgrades could slow blockchains, leave security gaps A Solana test network ran about 90% slower with quantum-resistant signatures, and wallets that keep using older keys could remain vulnerable."
         },
         {
-          "title": "CoinShares sells all treasury ETH, halves SOL holdings for buybacks",
-          "link": "https://cointelegraph.com/news/coinshares-sells-eth-treasury-holdings-halves-sol-share-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Wed, 18 Nov 2026 13:42:37 +0000",
-          "source": "Cointelegraph",
-          "text": "CoinShares sells all treasury ETH, halves SOL holdings for buybacks The October sales raised $19.3 million, nearly half the $40 million CoinShares can spend on buybacks before its next annual meeting."
-        },
+          "title": "Roundhill scraps Solana and XRP income ETFs as rival funds indicate low demand",
+          "link": "https://www.coindesk.com/markets/2026/11/19/roundhill-scraps-solana-and-xrp-income-etfs-as-rival-funds-attract-just-usd12-million",
+          "published": "Thu, 19 Nov 2026 10:22:12 +0000",
+          "source": "CoinDesk",
+          "text": "Roundhill scraps Solana and XRP income ETFs as rival funds indicate low demand Roundhill withdrew plans for two funds designed to generate income from SOL and XRP, highlighting the gap between billions invested in spot crypto ETFs and limited demand for more specialized strategies."
+        }
+      ],
+      "marketSentiment": -55,
+      "combinedScore": 58,
+      "signal": "WAIT",
+      "reason": "Technical 47/100; News +100; Market sentiment -55."
+    },
+    {
+      "symbol": "XRPUSDT",
+      "coin": "XRP",
+      "price": 0.9614,
+      "change24h": -0.311,
+      "volume24h": 112785183.07323,
+      "technical": {
+        "rsi": 44.2,
+        "ema9": 0.9607949024413414,
+        "ema21": 0.9643644307031862,
+        "macdBull": true,
+        "emaBull": false,
+        "volumeRatio": 0.51,
+        "score": 35
+      },
+      "newsScore": 100,
+      "newsCount": 1,
+      "news": [
         {
           "title": "Roundhill scraps Solana and XRP income ETFs as rival funds indicate low demand",
           "link": "https://www.coindesk.com/markets/2026/11/19/roundhill-scraps-solana-and-xrp-income-etfs-as-rival-funds-attract-just-usd12-million",
@@ -183,156 +230,94 @@
           "text": "Roundhill scraps Solana and XRP income ETFs as rival funds indicate low demand Roundhill withdrew plans for two funds designed to generate income from SOL and XRP, highlighting the gap between billions invested in spot crypto ETFs and limited demand for more specialized strategies."
         }
       ],
-      "marketSentiment": -50,
-      "combinedScore": 33,
-      "signal": "SELL",
-      "reason": "Technical 6/100; News +67; Market sentiment -50."
-    },
-    {
-      "symbol": "ZECUSDT",
-      "coin": "ZEC",
-      "price": 927.05,
-      "change24h": 0.972,
-      "volume24h": 116940690.18311,
-      "technical": {
-        "rsi": 31.7,
-        "ema9": 930.0090754477643,
-        "ema21": 936.8449528441246,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 2.75,
-        "score": 16
-      },
-      "newsScore": 100,
-      "newsCount": 1,
-      "news": [
-        {
-          "title": "Bitwise seeks Texas Stock Exchange listing for Zcash ETF",
-          "link": "https://cointelegraph.com/news/bitwise-zcash-etf-texas-stock-exchange-listing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Wed, 18 Nov 2026 10:33:07 +0000",
-          "source": "Cointelegraph",
-          "text": "Bitwise seeks Texas Stock Exchange listing for Zcash ETF Coinbase Custody would safeguard the fund’s ZEC holdings, while Bitwise Investment Advisers would serve as its manager and sponsor."
-        }
-      ],
-      "marketSentiment": -50,
-      "combinedScore": 43,
+      "marketSentiment": -55,
+      "combinedScore": 52,
       "signal": "WAIT",
-      "reason": "Technical 16/100; News +100; Market sentiment -50."
+      "reason": "Technical 35/100; News +100; Market sentiment -55."
     },
     {
-      "symbol": "NVDABUSDT",
-      "coin": "NVDAB",
-      "price": 153.72,
-      "change24h": 1.345,
-      "volume24h": 116006022.08285,
+      "symbol": "NEARUSDT",
+      "coin": "NEAR",
+      "price": 3.191,
+      "change24h": -2.296,
+      "volume24h": 85155664.7552,
       "technical": {
-        "rsi": 48.0,
-        "ema9": 153.73133896922087,
-        "ema21": 153.73807889736625,
+        "rsi": 37.6,
+        "ema9": 3.20565763396599,
+        "ema21": 3.236005344034136,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.26,
+        "volumeRatio": 0.89,
+        "score": 11
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -55,
+      "combinedScore": 25,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment -55."
+    },
+    {
+      "symbol": "RLUSDUSDT",
+      "coin": "RLUSD",
+      "price": 1.001,
+      "change24h": -0.04,
+      "volume24h": 71552161.8589,
+      "technical": {
+        "rsi": 50.9,
+        "ema9": 1.0010861164116236,
+        "ema21": 1.0010922866801408,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 1.12,
         "score": 23
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -50,
-      "combinedScore": 32,
+      "marketSentiment": -55,
+      "combinedScore": 31,
       "signal": "SELL",
-      "reason": "Technical 23/100; News +0; Market sentiment -50."
+      "reason": "Technical 23/100; News +0; Market sentiment -55."
     },
     {
-      "symbol": "XRPUSDT",
-      "coin": "XRP",
-      "price": 0.9789,
-      "change24h": 1.367,
-      "volume24h": 103680993.58819,
+      "symbol": "NVDABUSDT",
+      "coin": "NVDAB",
+      "price": 145.99,
+      "change24h": -3.796,
+      "volume24h": 71316654.82711,
       "technical": {
-        "rsi": 37.3,
-        "ema9": 0.9782422197497295,
-        "ema21": 0.9818557670159413,
-        "macdBull": false,
+        "rsi": 37.6,
+        "ema9": 146.61386182686587,
+        "ema21": 147.65758929778306,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.43,
-        "score": 11
+        "volumeRatio": 0.95,
+        "score": 35
       },
-      "newsScore": 100,
-      "newsCount": 1,
-      "news": [
-        {
-          "title": "Roundhill scraps Solana and XRP income ETFs as rival funds indicate low demand",
-          "link": "https://www.coindesk.com/markets/2026/11/19/roundhill-scraps-solana-and-xrp-income-etfs-as-rival-funds-attract-just-usd12-million",
-          "published": "Thu, 19 Nov 2026 10:22:12 +0000",
-          "source": "CoinDesk",
-          "text": "Roundhill scraps Solana and XRP income ETFs as rival funds indicate low demand Roundhill withdrew plans for two funds designed to generate income from SOL and XRP, highlighting the gap between billions invested in spot crypto ETFs and limited demand for more specialized strategies."
-        }
-      ],
-      "marketSentiment": -50,
-      "combinedScore": 40,
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -55,
+      "combinedScore": 37,
       "signal": "WAIT",
-      "reason": "Technical 11/100; News +100; Market sentiment -50."
-    },
-    {
-      "symbol": "RLUSDUSDT",
-      "coin": "RLUSD",
-      "price": 1.0009,
-      "change24h": -0.01,
-      "volume24h": 77501405.9533,
-      "technical": {
-        "rsi": 37.7,
-        "ema9": 1.000959673317655,
-        "ema21": 1.0010076774759538,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.55,
-        "score": 11
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -50,
-      "combinedScore": 26,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment -50."
-    },
-    {
-      "symbol": "NEARUSDT",
-      "coin": "NEAR",
-      "price": 3.301,
-      "change24h": 3.382,
-      "volume24h": 73562650.0884,
-      "technical": {
-        "rsi": 25.7,
-        "ema9": 3.3120465380297315,
-        "ema21": 3.3483168450995717,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.58,
-        "score": 28
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -50,
-      "combinedScore": 34,
-      "signal": "SELL",
-      "reason": "Technical 28/100; News +0; Market sentiment -50."
+      "reason": "Technical 35/100; News +0; Market sentiment -55."
     },
     {
       "symbol": "BNBUSDT",
       "coin": "BNB",
-      "price": 588.26,
-      "change24h": 1.916,
-      "volume24h": 59372578.13083,
+      "price": 581.0,
+      "change24h": 0.162,
+      "volume24h": 59314691.01676,
       "technical": {
-        "rsi": 36.2,
-        "ema9": 588.4049980879064,
-        "ema21": 589.7210364478736,
-        "macdBull": false,
+        "rsi": 45.1,
+        "ema9": 580.2904633688458,
+        "ema21": 582.009343815677,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.71,
-        "score": 11
+        "volumeRatio": 1.2,
+        "score": 47
       },
       "newsScore": -100,
       "newsCount": 1,
@@ -345,26 +330,75 @@
           "text": "CZ says tokenized Anthropic is coming to BNB Chain on IPO day Changpeng Zhao says Anthropic-linked tokens from bStocks, Ondo and xStocks will hit BNB Chain on day one of the AI giant’s Nasdaq debut. This follows a $500 million pre-IPO rush that comes with notable fine print."
         }
       ],
-      "marketSentiment": -50,
-      "combinedScore": 10,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News -100; Market sentiment -50."
+      "marketSentiment": -55,
+      "combinedScore": 28,
+      "signal": "WAIT",
+      "reason": "Technical 47/100; News -100; Market sentiment -55."
     }
   ],
   "news": [
     {
-      "title": "Anthropic shares expected to open at $105, 26.5% above $83 IPO price",
-      "link": "https://cointelegraph.com/markets/anthropic-shares-expected-to-open-above-83-ipo-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 19 Nov 2026 16:07:51 +0000",
+      "title": "Binance’s $6.5B freeze order, Hong Kong ‘suspicious’ of HYPE: Asia Express",
+      "link": "https://cointelegraph.com/magazine/binances-65b-freeze-order-hong-kong-suspicious-of-hype-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 19 Nov 2026 22:25:18 +0000",
       "source": "Cointelegraph",
-      "text": "Anthropic shares expected to open at $105, 26.5% above $83 IPO price The Claude maker’s $81.3 billion offering comes as OKX reports a premium in its pre-IPO contract ahead of the Nasdaq debut."
+      "text": "Binance’s $6.5B freeze order, Hong Kong ‘suspicious’ of HYPE: Asia Express Binance obtains court orders freezing assets stolen in October’s hack. Hong Kong warns citizens about Hyperliquid, and Thai police arrest four foreigners linked to a crypto scam."
     },
     {
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 19 Nov 2026 13:48:14 +0000",
+      "published": "Thu, 19 Nov 2026 21:42:20 +0000",
       "source": "Cointelegraph",
       "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "title": "MoonPay seeks US bank charter for stablecoin, custody services",
+      "link": "https://cointelegraph.com/news/moonpay-seeks-us-bank-charter-for-stablecoin-custody-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 19 Nov 2026 21:01:42 +0000",
+      "source": "Cointelegraph",
+      "text": "MoonPay seeks US bank charter for stablecoin, custody services MoonPay’s proposed national trust bank would offer stablecoin issuance and redemption, reserve management and digital asset custody under federal oversight."
+    },
+    {
+      "title": "Hyperliquid Anthropic futures priced within 1% of Nasdaq opening price",
+      "link": "https://cointelegraph.com/markets/hyperliquid-anthropic-futures-nasdaq-opening-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 19 Nov 2026 20:33:24 +0000",
+      "source": "Cointelegraph",
+      "text": "Hyperliquid Anthropic futures priced within 1% of Nasdaq opening price Hyperliquid traders priced Anthropic futures within 1% of the stock’s Nasdaq opening price, as trading surged ahead of the AI company’s IPO."
+    },
+    {
+      "title": "Trump’s SEC nominee Johnson backs formal rulemaking for tokenized stock trading",
+      "link": "https://cointelegraph.com/news/sec-nominees-johnson-levine-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 19 Nov 2026 20:06:34 +0000",
+      "source": "Cointelegraph",
+      "text": "Trump’s SEC nominee Johnson backs formal rulemaking for tokenized stock trading Former CFTC Commissioner and Democrat Kristin Johnson and ex-SEC aide Steven Levine appeared before lawmakers Thursday."
+    },
+    {
+      "title": "Ethereum’s Glamsterdam upgrade could slip to May 2027 over compatibility concerns",
+      "link": "https://cointelegraph.com/news/ethereum-glamsterdam-could-slip-to-may-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 19 Nov 2026 18:20:49 +0000",
+      "source": "Cointelegraph",
+      "text": "Ethereum’s Glamsterdam upgrade could slip to May 2027 over compatibility concerns Ethereum developers are weighing changes to gas pricing proposals that could disrupt existing smart contracts, after contacting at least 50 affected companies."
+    },
+    {
+      "title": "Why higher rates could slow Bitcoin buying at treasury firms",
+      "link": "https://cointelegraph.com/news/why-higher-rates-could-slow-bitcoin-buying-at-treasury-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 19 Nov 2026 18:09:32 +0000",
+      "source": "Cointelegraph",
+      "text": "Why higher rates could slow Bitcoin buying at treasury firms A treasury company can have years of dividends covered and still struggle to sell new shares on terms that make another Bitcoin purchase worthwhile."
+    },
+    {
+      "title": "Bitcoin price ignores Anthropic debut as ANT share price dips below $100",
+      "link": "https://cointelegraph.com/markets/bitcoin-price-ignores-anthropic-debut-ant-share-price-dips-below-100?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 19 Nov 2026 18:06:50 +0000",
+      "source": "Cointelegraph",
+      "text": "Bitcoin price ignores Anthropic debut as ANT share price dips below $100 Bitcoin dropped toward a third retest of $62,000 as Anthropic debuted on the Nasdaq, hitting highs of $115 per share before dropping below $100."
+    },
+    {
+      "title": "Anthropic shares open at $111.50, 34.3% above $83 IPO price",
+      "link": "https://cointelegraph.com/markets/anthropic-shares-expected-to-open-above-83-ipo-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 19 Nov 2026 16:07:51 +0000",
+      "source": "Cointelegraph",
+      "text": "Anthropic shares open at $111.50, 34.3% above $83 IPO price The Claude chatbot maker began trading under the ticker ANT, with the company’s valuation at around $2 trillion at the opening price."
     },
     {
       "title": "Ethereum’s new DeFi security tool raises questions over censorship",
@@ -442,55 +476,6 @@
       "published": "Thu, 19 Nov 2026 05:27:45 +0000",
       "source": "Cointelegraph",
       "text": "Senators warn GENIUS Act rules could push stablecoin firms toward federal oversight The lawmakers urged Treasury to extend safe harbor protections to stablecoin issuers in states expected to establish qualifying regulatory frameworks before January 2028."
-    },
-    {
-      "title": "Binance hackers stole 192 tokens across 11 networks, court docs show",
-      "link": "https://cointelegraph.com/news/binance-hackers-stole-192-tokens-across-11-networks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 19 Nov 2026 05:09:45 +0000",
-      "source": "Cointelegraph",
-      "text": "Binance hackers stole 192 tokens across 11 networks, court docs show Stablecoins accounted for at least $3.46 billion of the $6.3 billion stolen, while the hackers also took memecoins, tokenized gold and gaming tokens."
-    },
-    {
-      "title": "Trump administration unveils new center to choke off scam payments",
-      "link": "https://cointelegraph.com/news/trump-administration-unveils-new-center-choke-off-scam-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 19 Nov 2026 01:45:33 +0000",
-      "source": "Cointelegraph",
-      "text": "Trump administration unveils new center to choke off scam payments Americans reported more than $17.7 billion in online fraud losses in 2025."
-    },
-    {
-      "title": "Fed officials saw October rate hold as a ‘close call,’ minutes show",
-      "link": "https://cointelegraph.com/markets/fed-officials-saw-october-rate-hold-as-close-call-minutes-show?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 19 Nov 2026 00:35:49 +0000",
-      "source": "Cointelegraph",
-      "text": "Fed officials saw October rate hold as a ‘close call,’ minutes show The latest FOMC minutes suggest greater appetite for higher rates than the Fed’s 10–2 vote indicated, with markets now pricing in a December hike."
-    },
-    {
-      "title": "Tether invokes The Big Short in swipe at S&P over USDT reserve risks",
-      "link": "https://cointelegraph.com/news/tether-usdt-sp-stability-assessment-reserve-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 18 Nov 2026 21:57:35 +0000",
-      "source": "Cointelegraph",
-      "text": "Tether invokes The Big Short in swipe at S&P over USDT reserve risks S&P Global made no downward adjustment in its latest Stablecoin Stability Assessment, as 5 is the lowest available score."
-    },
-    {
-      "title": "Ledger warns Berlin customers as hardware wallet tampering investigation expands",
-      "link": "https://cointelegraph.com/news/ledger-warns-berlin-customers-hardware-wallet-investigation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 18 Nov 2026 21:13:58 +0000",
-      "source": "Cointelegraph",
-      "text": "Ledger warns Berlin customers as hardware wallet tampering investigation expands Ledger advised customers who purchased devices in Berlin since January 2026 to contact support as it investigates suspected hardware implants in Germany and Dubai."
-    },
-    {
-      "title": "Bain Capital Crypto leads $110M Variational round at $1.5B valuation",
-      "link": "https://cointelegraph.com/news/variational-series-b-bain-capital-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 18 Nov 2026 20:32:06 +0000",
-      "source": "Cointelegraph",
-      "text": "Bain Capital Crypto leads $110M Variational round at $1.5B valuation Variational raised $110 million at a $1.5 billion valuation to expand Omni’s derivatives markets and increase trading limits."
-    },
-    {
-      "title": "Binance says it obtained $6.5B worldwide freezing order after hack",
-      "link": "https://cointelegraph.com/news/binance-says-won-65b-worldwide-freezing-order-after-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 18 Nov 2026 20:20:37 +0000",
-      "source": "Cointelegraph",
-      "text": "Binance says it obtained $6.5B worldwide freezing order after hack The court orders allow legal notices to be served via blockchain and provide for a continuously updated list of 26,000 wallet addresses linked to stolen assets, Binance’s lawyers said."
     }
   ],
   "paper": {
@@ -656,31 +641,11 @@
         "mode": "PAPER ONLY"
       },
       {
-        "symbol": "ETHUSDT",
-        "side": "SELL",
-        "entry": 1817.36,
-        "stopLoss": 1844.6204,
-        "takeProfit": 1762.8392,
-        "entryTime": "2026-11-15T17:28:01.530657+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
         "symbol": "BTCUSDT",
         "side": "SELL",
         "entry": 63107.58,
         "stopLoss": 64054.1937,
         "takeProfit": 61214.3526,
-        "entryTime": "2026-11-18T18:01:57.023857+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
-        "symbol": "NVDABUSDT",
-        "side": "SELL",
-        "entry": 151.8,
-        "stopLoss": 154.077,
-        "takeProfit": 147.246,
         "entryTime": "2026-11-18T18:01:57.023857+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
@@ -696,22 +661,12 @@
         "mode": "PAPER ONLY"
       },
       {
-        "symbol": "ZECUSDT",
-        "side": "BUY",
-        "entry": 938.54,
-        "stopLoss": 924.4619,
-        "takeProfit": 966.6962,
-        "entryTime": "2026-11-19T07:26:14.446983+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
         "symbol": "NEARUSDT",
         "side": "SELL",
-        "entry": 3.301,
-        "stopLoss": 3.350515,
-        "takeProfit": 3.20197,
-        "entryTime": "2026-11-19T16:41:48.014634+00:00",
+        "entry": 3.191,
+        "stopLoss": 3.238865,
+        "takeProfit": 3.09527,
+        "entryTime": "2026-11-19T23:14:32.353338+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       }
@@ -3290,6 +3245,58 @@
         "exitPrice": 910.76,
         "exitTime": "2026-11-19T00:13:16.209404+00:00",
         "pnlPercent": 3.885
+      },
+      {
+        "symbol": "ETHUSDT",
+        "side": "SELL",
+        "entry": 1817.36,
+        "stopLoss": 1844.6204,
+        "takeProfit": 1762.8392,
+        "entryTime": "2026-11-15T17:28:01.530657+00:00",
+        "status": "TAKE_PROFIT",
+        "mode": "PAPER ONLY",
+        "exitPrice": 1756.36,
+        "exitTime": "2026-11-19T23:14:32.353338+00:00",
+        "pnlPercent": 3.357
+      },
+      {
+        "symbol": "NVDABUSDT",
+        "side": "SELL",
+        "entry": 151.8,
+        "stopLoss": 154.077,
+        "takeProfit": 147.246,
+        "entryTime": "2026-11-18T18:01:57.023857+00:00",
+        "status": "TAKE_PROFIT",
+        "mode": "PAPER ONLY",
+        "exitPrice": 145.99,
+        "exitTime": "2026-11-19T23:14:32.353338+00:00",
+        "pnlPercent": 3.827
+      },
+      {
+        "symbol": "ZECUSDT",
+        "side": "BUY",
+        "entry": 938.54,
+        "stopLoss": 924.4619,
+        "takeProfit": 966.6962,
+        "entryTime": "2026-11-19T07:26:14.446983+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 892.73,
+        "exitTime": "2026-11-19T23:14:32.353338+00:00",
+        "pnlPercent": -4.881
+      },
+      {
+        "symbol": "NEARUSDT",
+        "side": "SELL",
+        "entry": 3.301,
+        "stopLoss": 3.350515,
+        "takeProfit": 3.20197,
+        "entryTime": "2026-11-19T16:41:48.014634+00:00",
+        "status": "TAKE_PROFIT",
+        "mode": "PAPER ONLY",
+        "exitPrice": 3.191,
+        "exitTime": "2026-11-19T23:14:32.353338+00:00",
+        "pnlPercent": 3.332
       }
     ]
   },
