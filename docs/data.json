@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-19 23:14:32 UTC",
+  "generatedAt": "2026-11-20 03:59:40 UTC",
   "interval": "15m candles",
-  "marketSentiment": -55,
+  "marketSentiment": -52,
   "overallNewsScore": -8,
   "fearGreed": {
-    "value": 10,
+    "value": 12,
     "label": "Extreme Fear",
     "source": "Alternative.me"
   },
@@ -12,27 +12,27 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 62026.0,
-      "change24h": -0.857,
-      "volume24h": 1254813967.7322698,
+      "price": 62134.21,
+      "change24h": -1.652,
+      "volume24h": 1350066601.070799,
       "technical": {
-        "rsi": 45.1,
-        "ema9": 62055.20459707913,
-        "ema21": 62292.20775790502,
+        "rsi": 51.5,
+        "ema9": 61995.05471430898,
+        "ema21": 62033.12366072367,
         "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.71,
+        "volumeRatio": 0.94,
         "score": 47
       },
-      "newsScore": 10,
+      "newsScore": 20,
       "newsCount": 5,
       "news": [
         {
-          "title": "Here’s what happened in crypto today",
-          "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Thu, 19 Nov 2026 21:42:20 +0000",
+          "title": "Institutions pile back into US Bitcoin ETFs in Q3 after selling streak",
+          "link": "https://cointelegraph.com/markets/institutional-bitcoin-etf-holdings-clock-record-quarter-after-selling-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Fri, 20 Nov 2026 03:33:22 +0000",
           "source": "Cointelegraph",
-          "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+          "text": "Institutions pile back into US Bitcoin ETFs in Q3 after selling streak Asset managers added the equivalent of 49,229 Bitcoin to their US Bitcoin ETF holdings in the third quarter, reversing three quarters of net selling."
         },
         {
           "title": "Why higher rates could slow Bitcoin buying at treasury firms",
@@ -63,24 +63,24 @@
           "text": "Bitcoin ETF assets fall to three-month low as 2026 net outflows top $2.5B US spot Bitcoin ETFs lost $306.4 million Wednesday, pushing their combined assets to $77.7 billion as Bitcoin briefly traded below $63,000."
         }
       ],
-      "marketSentiment": -55,
-      "combinedScore": 44,
+      "marketSentiment": -52,
+      "combinedScore": 46,
       "signal": "WAIT",
-      "reason": "Technical 47/100; News +10; Market sentiment -55."
+      "reason": "Technical 47/100; News +20; Market sentiment -52."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 1756.36,
-      "change24h": -0.625,
-      "volume24h": 541789360.910954,
+      "price": 1745.81,
+      "change24h": -2.601,
+      "volume24h": 598783788.560065,
       "technical": {
-        "rsi": 46.0,
-        "ema9": 1757.1024347884047,
-        "ema21": 1763.2141472678659,
+        "rsi": 48.7,
+        "ema9": 1745.2446198859818,
+        "ema21": 1749.7995736408889,
         "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.59,
+        "volumeRatio": 0.63,
         "score": 47
       },
       "newsScore": 17,
@@ -115,70 +115,70 @@
           "text": "Ethereum block builders received the most in a $3.4 million vault hack, data shows An automated trading bot copied the attack on K3 Capital's sBOLD vault, taking more than half the funds and paying most of its proceeds to get its transactions processed first."
         }
       ],
-      "marketSentiment": -55,
+      "marketSentiment": -52,
       "combinedScore": 46,
       "signal": "WAIT",
-      "reason": "Technical 47/100; News +17; Market sentiment -55."
+      "reason": "Technical 47/100; News +17; Market sentiment -52."
     },
     {
       "symbol": "USD1USDT",
       "coin": "USD1",
-      "price": 1.00019,
-      "change24h": 0.032,
-      "volume24h": 199802672.19983,
+      "price": 1.00005,
+      "change24h": 0.012,
+      "volume24h": 210759567.12148,
       "technical": {
-        "rsi": 57.0,
-        "ema9": 1.000177846262966,
-        "ema21": 1.000154867839901,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.36,
-        "score": 89
+        "rsi": 43.3,
+        "ema9": 1.0000313070930962,
+        "ema21": 1.0000762322294534,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.67,
+        "score": 11
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -55,
-      "combinedScore": 64,
-      "signal": "WAIT",
-      "reason": "Technical 89/100; News +0; Market sentiment -55."
+      "marketSentiment": -52,
+      "combinedScore": 25,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment -52."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 892.73,
-      "change24h": -1.543,
-      "volume24h": 185728662.98004,
+      "price": 865.59,
+      "change24h": -5.872,
+      "volume24h": 190048970.10276,
       "technical": {
-        "rsi": 41.9,
-        "ema9": 889.4188689475391,
-        "ema21": 897.2492573075153,
-        "macdBull": true,
+        "rsi": 38.1,
+        "ema9": 871.4123833196309,
+        "ema21": 879.4525627079325,
+        "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.16,
-        "score": 35
+        "volumeRatio": 0.56,
+        "score": 11
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -55,
-      "combinedScore": 37,
-      "signal": "WAIT",
-      "reason": "Technical 35/100; News +0; Market sentiment -55."
+      "marketSentiment": -52,
+      "combinedScore": 25,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment -52."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 73.08,
-      "change24h": -0.123,
-      "volume24h": 157590533.65101,
+      "price": 72.89,
+      "change24h": -1.739,
+      "volume24h": 178915541.54137,
       "technical": {
-        "rsi": 48.3,
-        "ema9": 72.97095497013129,
-        "ema21": 73.22510665905845,
+        "rsi": 51.6,
+        "ema9": 72.6797317838636,
+        "ema21": 72.79299883931053,
         "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.73,
+        "volumeRatio": 1.42,
         "score": 47
       },
       "newsScore": 100,
@@ -199,25 +199,25 @@
           "text": "Roundhill scraps Solana and XRP income ETFs as rival funds indicate low demand Roundhill withdrew plans for two funds designed to generate income from SOL and XRP, highlighting the gap between billions invested in spot crypto ETFs and limited demand for more specialized strategies."
         }
       ],
-      "marketSentiment": -55,
+      "marketSentiment": -52,
       "combinedScore": 58,
       "signal": "WAIT",
-      "reason": "Technical 47/100; News +100; Market sentiment -55."
+      "reason": "Technical 47/100; News +100; Market sentiment -52."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 0.9614,
-      "change24h": -0.311,
-      "volume24h": 112785183.07323,
+      "price": 0.9634,
+      "change24h": -0.588,
+      "volume24h": 112700090.42298,
       "technical": {
-        "rsi": 44.2,
-        "ema9": 0.9607949024413414,
-        "ema21": 0.9643644307031862,
+        "rsi": 53.9,
+        "ema9": 0.9584172409653927,
+        "ema21": 0.9596837820341034,
         "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.51,
-        "score": 35
+        "volumeRatio": 1.33,
+        "score": 47
       },
       "newsScore": 100,
       "newsCount": 1,
@@ -230,94 +230,94 @@
           "text": "Roundhill scraps Solana and XRP income ETFs as rival funds indicate low demand Roundhill withdrew plans for two funds designed to generate income from SOL and XRP, highlighting the gap between billions invested in spot crypto ETFs and limited demand for more specialized strategies."
         }
       ],
-      "marketSentiment": -55,
-      "combinedScore": 52,
+      "marketSentiment": -52,
+      "combinedScore": 58,
       "signal": "WAIT",
-      "reason": "Technical 35/100; News +100; Market sentiment -55."
+      "reason": "Technical 47/100; News +100; Market sentiment -52."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 3.191,
-      "change24h": -2.296,
-      "volume24h": 85155664.7552,
+      "price": 3.05,
+      "change24h": -9.923,
+      "volume24h": 92712499.275,
       "technical": {
-        "rsi": 37.6,
-        "ema9": 3.20565763396599,
-        "ema21": 3.236005344034136,
+        "rsi": 34.4,
+        "ema9": 3.0790114957283126,
+        "ema21": 3.12752344772353,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.89,
+        "volumeRatio": 0.63,
         "score": 11
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -55,
+      "marketSentiment": -52,
       "combinedScore": 25,
       "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment -55."
+      "reason": "Technical 11/100; News +0; Market sentiment -52."
     },
     {
       "symbol": "RLUSDUSDT",
       "coin": "RLUSD",
-      "price": 1.001,
-      "change24h": -0.04,
-      "volume24h": 71552161.8589,
+      "price": 1.0011,
+      "change24h": 0.0,
+      "volume24h": 82091472.7149,
       "technical": {
-        "rsi": 50.9,
-        "ema9": 1.0010861164116236,
-        "ema21": 1.0010922866801408,
+        "rsi": 47.7,
+        "ema9": 1.0011298640938315,
+        "ema21": 1.0011260071284822,
         "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 1.12,
-        "score": 23
+        "emaBull": true,
+        "volumeRatio": 0.34,
+        "score": 53
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -55,
-      "combinedScore": 31,
-      "signal": "SELL",
-      "reason": "Technical 23/100; News +0; Market sentiment -55."
+      "marketSentiment": -52,
+      "combinedScore": 46,
+      "signal": "WAIT",
+      "reason": "Technical 53/100; News +0; Market sentiment -52."
     },
     {
       "symbol": "NVDABUSDT",
       "coin": "NVDAB",
-      "price": 145.99,
-      "change24h": -3.796,
-      "volume24h": 71316654.82711,
+      "price": 144.75,
+      "change24h": -4.989,
+      "volume24h": 70499514.31462,
       "technical": {
-        "rsi": 37.6,
-        "ema9": 146.61386182686587,
-        "ema21": 147.65758929778306,
+        "rsi": 43.8,
+        "ema9": 144.44432256000516,
+        "ema21": 145.13263524339084,
         "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.95,
+        "volumeRatio": 0.32,
         "score": 35
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -55,
+      "marketSentiment": -52,
       "combinedScore": 37,
       "signal": "WAIT",
-      "reason": "Technical 35/100; News +0; Market sentiment -55."
+      "reason": "Technical 35/100; News +0; Market sentiment -52."
     },
     {
       "symbol": "BNBUSDT",
       "coin": "BNB",
-      "price": 581.0,
-      "change24h": 0.162,
-      "volume24h": 59314691.01676,
+      "price": 574.95,
+      "change24h": -1.514,
+      "volume24h": 65598493.80418,
       "technical": {
-        "rsi": 45.1,
-        "ema9": 580.2904633688458,
-        "ema21": 582.009343815677,
+        "rsi": 43.9,
+        "ema9": 574.8653104458958,
+        "ema21": 576.8106560867243,
         "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 1.2,
-        "score": 47
+        "volumeRatio": 0.78,
+        "score": 35
       },
       "newsScore": -100,
       "newsCount": 1,
@@ -330,26 +330,33 @@
           "text": "CZ says tokenized Anthropic is coming to BNB Chain on IPO day Changpeng Zhao says Anthropic-linked tokens from bStocks, Ondo and xStocks will hit BNB Chain on day one of the AI giant’s Nasdaq debut. This follows a $500 million pre-IPO rush that comes with notable fine print."
         }
       ],
-      "marketSentiment": -55,
-      "combinedScore": 28,
-      "signal": "WAIT",
-      "reason": "Technical 47/100; News -100; Market sentiment -55."
+      "marketSentiment": -52,
+      "combinedScore": 22,
+      "signal": "SELL",
+      "reason": "Technical 35/100; News -100; Market sentiment -52."
     }
   ],
   "news": [
+    {
+      "title": "Institutions pile back into US Bitcoin ETFs in Q3 after selling streak",
+      "link": "https://cointelegraph.com/markets/institutional-bitcoin-etf-holdings-clock-record-quarter-after-selling-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 20 Nov 2026 03:33:22 +0000",
+      "source": "Cointelegraph",
+      "text": "Institutions pile back into US Bitcoin ETFs in Q3 after selling streak Asset managers added the equivalent of 49,229 Bitcoin to their US Bitcoin ETF holdings in the third quarter, reversing three quarters of net selling."
+    },
+    {
+      "title": "Ledger CTO Charles Guillemet to leave after nine years at company",
+      "link": "https://cointelegraph.com/news/ledger-cto-charles-guillemet-to-leave-after-nine-years-at-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 19 Nov 2026 23:44:02 +0000",
+      "source": "Cointelegraph",
+      "text": "Ledger CTO Charles Guillemet to leave after nine years at company Guillemet helped establish Ledger’s Donjon security lab and says his departure has been planned for months."
+    },
     {
       "title": "Binance’s $6.5B freeze order, Hong Kong ‘suspicious’ of HYPE: Asia Express",
       "link": "https://cointelegraph.com/magazine/binances-65b-freeze-order-hong-kong-suspicious-of-hype-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 19 Nov 2026 22:25:18 +0000",
       "source": "Cointelegraph",
       "text": "Binance’s $6.5B freeze order, Hong Kong ‘suspicious’ of HYPE: Asia Express Binance obtains court orders freezing assets stolen in October’s hack. Hong Kong warns citizens about Hyperliquid, and Thai police arrest four foreigners linked to a crypto scam."
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 19 Nov 2026 21:42:20 +0000",
-      "source": "Cointelegraph",
-      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
       "title": "MoonPay seeks US bank charter for stablecoin, custody services",
@@ -469,13 +476,6 @@
       "published": "Thu, 19 Nov 2026 06:00:00 +0000",
       "source": "Cointelegraph",
       "text": "Bitcoin carry trades could beat Treasury bills in 2027, Sygnum predicts Sygnum predicts that Bitcoin carry trades may offer higher returns than Treasury bills in 2027, following a sharp drop in funding rates that made the strategy less compelling in 2026."
-    },
-    {
-      "title": "Senators warn GENIUS Act rules could push stablecoin firms toward federal oversight",
-      "link": "https://cointelegraph.com/news/us-senators-genius-act-rules-favor-federal-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 19 Nov 2026 05:27:45 +0000",
-      "source": "Cointelegraph",
-      "text": "Senators warn GENIUS Act rules could push stablecoin firms toward federal oversight The lawmakers urged Treasury to extend safe harbor protections to stablecoin issuers in states expected to establish qualifying regulatory frameworks before January 2028."
     }
   ],
   "paper": {
@@ -621,16 +621,6 @@
         "mode": "PAPER ONLY"
       },
       {
-        "symbol": "BNBUSDT",
-        "side": "SELL",
-        "entry": 596.39,
-        "stopLoss": 605.33585,
-        "takeProfit": 578.4983,
-        "entryTime": "2026-11-14T15:38:15.526287+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
         "symbol": "DOGEUSDT",
         "side": "BUY",
         "entry": 0.05905,
@@ -661,12 +651,32 @@
         "mode": "PAPER ONLY"
       },
       {
+        "symbol": "ZECUSDT",
+        "side": "SELL",
+        "entry": 865.59,
+        "stopLoss": 878.57385,
+        "takeProfit": 839.6223,
+        "entryTime": "2026-11-20T03:59:40.126016+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
         "symbol": "NEARUSDT",
         "side": "SELL",
-        "entry": 3.191,
-        "stopLoss": 3.238865,
-        "takeProfit": 3.09527,
-        "entryTime": "2026-11-19T23:14:32.353338+00:00",
+        "entry": 3.05,
+        "stopLoss": 3.09575,
+        "takeProfit": 2.9585,
+        "entryTime": "2026-11-20T03:59:40.126016+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "BNBUSDT",
+        "side": "SELL",
+        "entry": 574.95,
+        "stopLoss": 583.57425,
+        "takeProfit": 557.7015,
+        "entryTime": "2026-11-20T03:59:40.126016+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       }
@@ -3297,6 +3307,32 @@
         "exitPrice": 3.191,
         "exitTime": "2026-11-19T23:14:32.353338+00:00",
         "pnlPercent": 3.332
+      },
+      {
+        "symbol": "BNBUSDT",
+        "side": "SELL",
+        "entry": 596.39,
+        "stopLoss": 605.33585,
+        "takeProfit": 578.4983,
+        "entryTime": "2026-11-14T15:38:15.526287+00:00",
+        "status": "TAKE_PROFIT",
+        "mode": "PAPER ONLY",
+        "exitPrice": 574.95,
+        "exitTime": "2026-11-20T03:59:40.126016+00:00",
+        "pnlPercent": 3.595
+      },
+      {
+        "symbol": "NEARUSDT",
+        "side": "SELL",
+        "entry": 3.191,
+        "stopLoss": 3.238865,
+        "takeProfit": 3.09527,
+        "entryTime": "2026-11-19T23:14:32.353338+00:00",
+        "status": "TAKE_PROFIT",
+        "mode": "PAPER ONLY",
+        "exitPrice": 3.05,
+        "exitTime": "2026-11-20T03:59:40.126016+00:00",
+        "pnlPercent": 4.419
       }
     ]
   },
