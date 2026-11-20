@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-20 03:59:40 UTC",
+  "generatedAt": "2026-11-20 12:39:12 UTC",
   "interval": "15m candles",
-  "marketSentiment": -52,
-  "overallNewsScore": -8,
+  "marketSentiment": -57,
+  "overallNewsScore": -23,
   "fearGreed": {
     "value": 12,
     "label": "Extreme Fear",
@@ -12,21 +12,42 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 62134.21,
-      "change24h": -1.652,
-      "volume24h": 1350066601.070799,
+      "price": 61595.31,
+      "change24h": -3.483,
+      "volume24h": 1452697621.9979997,
       "technical": {
-        "rsi": 51.5,
-        "ema9": 61995.05471430898,
-        "ema21": 62033.12366072367,
-        "macdBull": true,
+        "rsi": 45.8,
+        "ema9": 61752.436125022796,
+        "ema21": 61806.472687915055,
+        "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.94,
-        "score": 47
+        "volumeRatio": 0.82,
+        "score": 23
       },
-      "newsScore": 20,
+      "newsScore": 10,
       "newsCount": 5,
       "news": [
+        {
+          "title": "Bitcoin nears repeat of chart pattern that preceded 2023’s $25K retest",
+          "link": "https://cointelegraph.com/markets/bitcoin-first-death-cross-repeat-2023-bottom-25k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Fri, 20 Nov 2026 10:29:10 +0000",
+          "source": "Cointelegraph",
+          "text": "Bitcoin nears repeat of chart pattern that preceded 2023’s $25K retest Bitcoin’s 21-day moving average fell below its 200-day average, and analyst Keith Alan expects a second bearish crossover by Sunday."
+        },
+        {
+          "title": "BlackRock’s IBIT loses record $541M amid Anthropic market debut",
+          "link": "https://cointelegraph.com/markets/blackrock-ibit-record-single-day-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Fri, 20 Nov 2026 08:18:42 +0000",
+          "source": "Cointelegraph",
+          "text": "BlackRock’s IBIT loses record $541M amid Anthropic market debut BlackRock’s IBIT posted its largest daily outflow on record, taking three-session outflows near $900 million as BTC dipped amid a broader market selloff."
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Fri, 20 Nov 2026 06:00:00 +0000",
+          "source": "Cointelegraph",
+          "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+        },
         {
           "title": "Institutions pile back into US Bitcoin ETFs in Q3 after selling streak",
           "link": "https://cointelegraph.com/markets/institutional-bitcoin-etf-holdings-clock-record-quarter-after-selling-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -40,52 +61,38 @@
           "published": "Thu, 19 Nov 2026 18:09:32 +0000",
           "source": "Cointelegraph",
           "text": "Why higher rates could slow Bitcoin buying at treasury firms A treasury company can have years of dividends covered and still struggle to sell new shares on terms that make another Bitcoin purchase worthwhile."
-        },
-        {
-          "title": "Bitcoin price ignores Anthropic debut as ANT share price dips below $100",
-          "link": "https://cointelegraph.com/markets/bitcoin-price-ignores-anthropic-debut-ant-share-price-dips-below-100?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Thu, 19 Nov 2026 18:06:50 +0000",
-          "source": "Cointelegraph",
-          "text": "Bitcoin price ignores Anthropic debut as ANT share price dips below $100 Bitcoin dropped toward a third retest of $62,000 as Anthropic debuted on the Nasdaq, hitting highs of $115 per share before dropping below $100."
-        },
-        {
-          "title": "Sweden’s H100 could tap Bitcoin trading pool to fund share buybacks",
-          "link": "https://cointelegraph.com/news/swedens-h100-13m-q3-loss-share-buyback-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Thu, 19 Nov 2026 11:19:58 +0000",
-          "source": "Cointelegraph",
-          "text": "Sweden’s H100 could tap Bitcoin trading pool to fund share buybacks Shareholders will vote Dec. 7 on whether H100 can buy back up to 10% of its shares, potentially using a Bitcoin pool that lost about 30 BTC in Q3."
-        },
-        {
-          "title": "Bitcoin ETF assets fall to three-month low as 2026 net outflows top $2.5B",
-          "link": "https://cointelegraph.com/markets/bitcoin-etf-assets-three-month-low-78-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Thu, 19 Nov 2026 08:26:19 +0000",
-          "source": "Cointelegraph",
-          "text": "Bitcoin ETF assets fall to three-month low as 2026 net outflows top $2.5B US spot Bitcoin ETFs lost $306.4 million Wednesday, pushing their combined assets to $77.7 billion as Bitcoin briefly traded below $63,000."
         }
       ],
-      "marketSentiment": -52,
-      "combinedScore": 46,
-      "signal": "WAIT",
-      "reason": "Technical 47/100; News +20; Market sentiment -52."
+      "marketSentiment": -57,
+      "combinedScore": 32,
+      "signal": "SELL",
+      "reason": "Technical 23/100; News +10; Market sentiment -57."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 1745.81,
-      "change24h": -2.601,
-      "volume24h": 598783788.560065,
+      "price": 1740.13,
+      "change24h": -3.294,
+      "volume24h": 632551685.367521,
       "technical": {
-        "rsi": 48.7,
-        "ema9": 1745.2446198859818,
-        "ema21": 1749.7995736408889,
-        "macdBull": true,
+        "rsi": 45.6,
+        "ema9": 1746.7902529996181,
+        "ema21": 1747.945036520415,
+        "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.63,
-        "score": 47
+        "volumeRatio": 1.18,
+        "score": 23
       },
-      "newsScore": 17,
-      "newsCount": 4,
+      "newsScore": 53,
+      "newsCount": 5,
       "news": [
+        {
+          "title": "Binance hacker moves nearly $600M in ETH, routes funds through THORChain, Chainflip",
+          "link": "https://cointelegraph.com/news/binance-hacker-600m-eth-routes-thorchain-chainflip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Fri, 20 Nov 2026 11:31:41 +0000",
+          "source": "Cointelegraph",
+          "text": "Binance hacker moves nearly $600M in ETH, routes funds through THORChain, Chainflip OnChain Lens tracked nearly $600 million in ETH transfers over two days as the Binance hackers moved the stolen funds through fresh wallets and cross-chain protocols to obscure their trail."
+        },
         {
           "title": "Ethereum’s Glamsterdam upgrade could slip to May 2027 over compatibility concerns",
           "link": "https://cointelegraph.com/news/ethereum-glamsterdam-could-slip-to-may-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -101,85 +108,85 @@
           "text": "Ethereum’s new DeFi security tool raises questions over censorship Phylax’s system lets decentralized protocols block potentially harmful transactions, but raises questions about potential censorship and Ethereum’s concentrated builder market."
         },
         {
-          "title": "$25M Ethereum MEV acquittal tests criminal enforcement limits",
-          "link": "https://cointelegraph.com/news/25m-ethereum-mev-acquittal-tests-criminal-enforcement-limits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Wed, 18 Nov 2026 17:05:04 +0000",
-          "source": "Cointelegraph",
-          "text": "$25M Ethereum MEV acquittal tests criminal enforcement limits BlackRock’s staked Ether ETF earns a cut of what traders pay for priority on Ethereum, the acquittal left the legal risk to that income unresolved."
+          "title": "Ethereum’s next big upgrade is pushed into 2027 by apps it would break",
+          "link": "https://www.coindesk.com/tech/2026/11/20/ethereum-s-next-big-upgrade-is-pushed-into-2027-by-apps-it-would-break",
+          "published": "Fri, 20 Nov 2026 04:58:08 +0000",
+          "source": "CoinDesk",
+          "text": "Ethereum’s next big upgrade is pushed into 2027 by apps it would break Glamsterdam was originally targeted for December, but developers now say January is the earliest possible date as companies work to fix affected smart contracts."
         },
         {
-          "title": "Ethereum block builders received the most in a $3.4 million vault hack, data shows",
-          "link": "https://www.coindesk.com/tech/2026/11/19/ethereum-block-builders-received-the-most-in-a-usd3-4-million-vault-hack-data-shows",
-          "published": "Thu, 19 Nov 2026 05:39:06 +0000",
+          "title": "VanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs",
+          "link": "https://www.coindesk.com/markets/2026/11/20/vaneck-drops-gemini-as-custodian-of-its-bitcoin-ether-and-sol-etfs",
+          "published": "Fri, 20 Nov 2026 04:28:52 +0000",
           "source": "CoinDesk",
-          "text": "Ethereum block builders received the most in a $3.4 million vault hack, data shows An automated trading bot copied the attack on K3 Capital's sBOLD vault, taking more than half the funds and paying most of its proceeds to get its transactions processed first."
+          "text": "VanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs Coinbase Custody will continue serving all three funds after Gemini's contracts end in February."
         }
       ],
-      "marketSentiment": -52,
-      "combinedScore": 46,
+      "marketSentiment": -57,
+      "combinedScore": 39,
       "signal": "WAIT",
-      "reason": "Technical 47/100; News +17; Market sentiment -52."
+      "reason": "Technical 23/100; News +53; Market sentiment -57."
     },
     {
       "symbol": "USD1USDT",
       "coin": "USD1",
-      "price": 1.00005,
-      "change24h": 0.012,
-      "volume24h": 210759567.12148,
+      "price": 0.99984,
+      "change24h": -0.027,
+      "volume24h": 212668459.42226,
       "technical": {
-        "rsi": 43.3,
-        "ema9": 1.0000313070930962,
-        "ema21": 1.0000762322294534,
+        "rsi": 36.9,
+        "ema9": 0.9999128726522516,
+        "ema21": 0.9999583983830325,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.67,
+        "volumeRatio": 1.06,
         "score": 11
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -52,
+      "marketSentiment": -57,
       "combinedScore": 25,
       "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment -52."
+      "reason": "Technical 11/100; News +0; Market sentiment -57."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 865.59,
-      "change24h": -5.872,
-      "volume24h": 190048970.10276,
+      "price": 812.1,
+      "change24h": -14.192,
+      "volume24h": 210215172.69881,
       "technical": {
-        "rsi": 38.1,
-        "ema9": 871.4123833196309,
-        "ema21": 879.4525627079325,
+        "rsi": 24.6,
+        "ema9": 826.2541682242627,
+        "ema21": 836.3199639767656,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.56,
-        "score": 11
+        "volumeRatio": 0.94,
+        "score": 28
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -52,
-      "combinedScore": 25,
+      "marketSentiment": -57,
+      "combinedScore": 33,
       "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment -52."
+      "reason": "Technical 28/100; News +0; Market sentiment -57."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 72.89,
-      "change24h": -1.739,
-      "volume24h": 178915541.54137,
+      "price": 71.25,
+      "change24h": -4.272,
+      "volume24h": 189499562.70839,
       "technical": {
-        "rsi": 51.6,
-        "ema9": 72.6797317838636,
-        "ema21": 72.79299883931053,
-        "macdBull": true,
+        "rsi": 34.8,
+        "ema9": 71.76142374638286,
+        "ema21": 72.0803689654468,
+        "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 1.42,
-        "score": 47
+        "volumeRatio": 2.07,
+        "score": 16
       },
       "newsScore": 100,
       "newsCount": 2,
@@ -192,151 +199,192 @@
           "text": "IOSCO warns quantum upgrades could slow blockchains, leave security gaps A Solana test network ran about 90% slower with quantum-resistant signatures, and wallets that keep using older keys could remain vulnerable."
         },
         {
-          "title": "Roundhill scraps Solana and XRP income ETFs as rival funds indicate low demand",
-          "link": "https://www.coindesk.com/markets/2026/11/19/roundhill-scraps-solana-and-xrp-income-etfs-as-rival-funds-attract-just-usd12-million",
-          "published": "Thu, 19 Nov 2026 10:22:12 +0000",
+          "title": "VanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs",
+          "link": "https://www.coindesk.com/markets/2026/11/20/vaneck-drops-gemini-as-custodian-of-its-bitcoin-ether-and-sol-etfs",
+          "published": "Fri, 20 Nov 2026 04:28:52 +0000",
           "source": "CoinDesk",
-          "text": "Roundhill scraps Solana and XRP income ETFs as rival funds indicate low demand Roundhill withdrew plans for two funds designed to generate income from SOL and XRP, highlighting the gap between billions invested in spot crypto ETFs and limited demand for more specialized strategies."
+          "text": "VanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs Coinbase Custody will continue serving all three funds after Gemini's contracts end in February."
         }
       ],
-      "marketSentiment": -52,
-      "combinedScore": 58,
+      "marketSentiment": -57,
+      "combinedScore": 42,
       "signal": "WAIT",
-      "reason": "Technical 47/100; News +100; Market sentiment -52."
+      "reason": "Technical 16/100; News +100; Market sentiment -57."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 0.9634,
-      "change24h": -0.588,
-      "volume24h": 112700090.42298,
+      "price": 0.9472,
+      "change24h": -3.563,
+      "volume24h": 119365792.31572,
       "technical": {
-        "rsi": 53.9,
-        "ema9": 0.9584172409653927,
-        "ema21": 0.9596837820341034,
-        "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 1.33,
-        "score": 47
-      },
-      "newsScore": 100,
-      "newsCount": 1,
-      "news": [
-        {
-          "title": "Roundhill scraps Solana and XRP income ETFs as rival funds indicate low demand",
-          "link": "https://www.coindesk.com/markets/2026/11/19/roundhill-scraps-solana-and-xrp-income-etfs-as-rival-funds-attract-just-usd12-million",
-          "published": "Thu, 19 Nov 2026 10:22:12 +0000",
-          "source": "CoinDesk",
-          "text": "Roundhill scraps Solana and XRP income ETFs as rival funds indicate low demand Roundhill withdrew plans for two funds designed to generate income from SOL and XRP, highlighting the gap between billions invested in spot crypto ETFs and limited demand for more specialized strategies."
-        }
-      ],
-      "marketSentiment": -52,
-      "combinedScore": 58,
-      "signal": "WAIT",
-      "reason": "Technical 47/100; News +100; Market sentiment -52."
-    },
-    {
-      "symbol": "NEARUSDT",
-      "coin": "NEAR",
-      "price": 3.05,
-      "change24h": -9.923,
-      "volume24h": 92712499.275,
-      "technical": {
-        "rsi": 34.4,
-        "ema9": 3.0790114957283126,
-        "ema21": 3.12752344772353,
+        "rsi": 36.5,
+        "ema9": 0.9541549811980655,
+        "ema21": 0.9580005927976415,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.63,
+        "volumeRatio": 1.29,
         "score": 11
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -52,
+      "marketSentiment": -57,
       "combinedScore": 25,
       "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment -52."
+      "reason": "Technical 11/100; News +0; Market sentiment -57."
     },
     {
       "symbol": "RLUSDUSDT",
       "coin": "RLUSD",
-      "price": 1.0011,
+      "price": 1.001,
       "change24h": 0.0,
-      "volume24h": 82091472.7149,
+      "volume24h": 105227540.5291,
       "technical": {
-        "rsi": 47.7,
-        "ema9": 1.0011298640938315,
-        "ema21": 1.0011260071284822,
+        "rsi": 50.5,
+        "ema9": 1.0010046639380261,
+        "ema21": 1.0009875336917373,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.17,
+        "score": 77
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -57,
+      "combinedScore": 58,
+      "signal": "WAIT",
+      "reason": "Technical 77/100; News +0; Market sentiment -57."
+    },
+    {
+      "symbol": "NEARUSDT",
+      "coin": "NEAR",
+      "price": 2.956,
+      "change24h": -12.699,
+      "volume24h": 88615122.143,
+      "technical": {
+        "rsi": 29.1,
+        "ema9": 2.984112149555977,
+        "ema21": 3.0053117725080654,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 1.12,
+        "score": 11
+      },
+      "newsScore": 0,
+      "newsCount": 1,
+      "news": [
+        {
+          "title": "BlackRock’s IBIT loses record $541M amid Anthropic market debut",
+          "link": "https://cointelegraph.com/markets/blackrock-ibit-record-single-day-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Fri, 20 Nov 2026 08:18:42 +0000",
+          "source": "Cointelegraph",
+          "text": "BlackRock’s IBIT loses record $541M amid Anthropic market debut BlackRock’s IBIT posted its largest daily outflow on record, taking three-session outflows near $900 million as BTC dipped amid a broader market selloff."
+        }
+      ],
+      "marketSentiment": -57,
+      "combinedScore": 25,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment -57."
+    },
+    {
+      "symbol": "XAUTUSDT",
+      "coin": "XAUT",
+      "price": 3567.39,
+      "change24h": -3.865,
+      "volume24h": 79699224.698286,
+      "technical": {
+        "rsi": 51.5,
+        "ema9": 3576.6250444021653,
+        "ema21": 3573.183838594239,
         "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 0.34,
+        "volumeRatio": 0.3,
         "score": 53
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -52,
+      "marketSentiment": -57,
       "combinedScore": 46,
       "signal": "WAIT",
-      "reason": "Technical 53/100; News +0; Market sentiment -52."
+      "reason": "Technical 53/100; News +0; Market sentiment -57."
     },
     {
-      "symbol": "NVDABUSDT",
-      "coin": "NVDAB",
-      "price": 144.75,
-      "change24h": -4.989,
-      "volume24h": 70499514.31462,
+      "symbol": "SOXLBUSDT",
+      "coin": "SOXLB",
+      "price": 40.96,
+      "change24h": -24.637,
+      "volume24h": 72669697.9082,
       "technical": {
-        "rsi": 43.8,
-        "ema9": 144.44432256000516,
-        "ema21": 145.13263524339084,
+        "rsi": 44.3,
+        "ema9": 41.16828843303756,
+        "ema21": 41.52321349511719,
         "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.32,
+        "volumeRatio": 1.16,
         "score": 35
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -52,
+      "marketSentiment": -57,
       "combinedScore": 37,
       "signal": "WAIT",
-      "reason": "Technical 35/100; News +0; Market sentiment -52."
-    },
-    {
-      "symbol": "BNBUSDT",
-      "coin": "BNB",
-      "price": 574.95,
-      "change24h": -1.514,
-      "volume24h": 65598493.80418,
-      "technical": {
-        "rsi": 43.9,
-        "ema9": 574.8653104458958,
-        "ema21": 576.8106560867243,
-        "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.78,
-        "score": 35
-      },
-      "newsScore": -100,
-      "newsCount": 1,
-      "news": [
-        {
-          "title": "CZ says tokenized Anthropic is coming to BNB Chain on IPO day",
-          "link": "https://www.coindesk.com/markets/2026/11/19/cz-says-tokenized-anthropic-is-coming-to-bnb-chain-on-ipo-day",
-          "published": "Thu, 19 Nov 2026 03:40:48 +0000",
-          "source": "CoinDesk",
-          "text": "CZ says tokenized Anthropic is coming to BNB Chain on IPO day Changpeng Zhao says Anthropic-linked tokens from bStocks, Ondo and xStocks will hit BNB Chain on day one of the AI giant’s Nasdaq debut. This follows a $500 million pre-IPO rush that comes with notable fine print."
-        }
-      ],
-      "marketSentiment": -52,
-      "combinedScore": 22,
-      "signal": "SELL",
-      "reason": "Technical 35/100; News -100; Market sentiment -52."
+      "reason": "Technical 35/100; News +0; Market sentiment -57."
     }
   ],
   "news": [
+    {
+      "title": "Binance hacker moves nearly $600M in ETH, routes funds through THORChain, Chainflip",
+      "link": "https://cointelegraph.com/news/binance-hacker-600m-eth-routes-thorchain-chainflip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 20 Nov 2026 11:31:41 +0000",
+      "source": "Cointelegraph",
+      "text": "Binance hacker moves nearly $600M in ETH, routes funds through THORChain, Chainflip OnChain Lens tracked nearly $600 million in ETH transfers over two days as the Binance hackers moved the stolen funds through fresh wallets and cross-chain protocols to obscure their trail."
+    },
+    {
+      "title": "VanEck to end Gemini ETF custody deals, keeps Coinbase",
+      "link": "https://cointelegraph.com/news/vaneck-gemini-etf-custody-end-keep-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 20 Nov 2026 10:54:38 +0000",
+      "source": "Cointelegraph",
+      "text": "VanEck to end Gemini ETF custody deals, keeps Coinbase VanEck plans to end Gemini’s custody agreements for three crypto ETFs in February 2027, while Coinbase will continue serving as a custodian for the funds."
+    },
+    {
+      "title": "Bitcoin nears repeat of chart pattern that preceded 2023’s $25K retest",
+      "link": "https://cointelegraph.com/markets/bitcoin-first-death-cross-repeat-2023-bottom-25k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 20 Nov 2026 10:29:10 +0000",
+      "source": "Cointelegraph",
+      "text": "Bitcoin nears repeat of chart pattern that preceded 2023’s $25K retest Bitcoin’s 21-day moving average fell below its 200-day average, and analyst Keith Alan expects a second bearish crossover by Sunday."
+    },
+    {
+      "title": "BlackRock’s IBIT loses record $541M amid Anthropic market debut",
+      "link": "https://cointelegraph.com/markets/blackrock-ibit-record-single-day-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 20 Nov 2026 08:18:42 +0000",
+      "source": "Cointelegraph",
+      "text": "BlackRock’s IBIT loses record $541M amid Anthropic market debut BlackRock’s IBIT posted its largest daily outflow on record, taking three-session outflows near $900 million as BTC dipped amid a broader market selloff."
+    },
+    {
+      "title": "SEC charges eight firms over fake crypto platforms tied to $37M fraud",
+      "link": "https://cointelegraph.com/news/sec-charges-eight-fake-crypto-platforms-37m-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 20 Nov 2026 08:03:34 +0000",
+      "source": "Cointelegraph",
+      "text": "SEC charges eight firms over fake crypto platforms tied to $37M fraud Fraudsters allegedly used social media ads, chat groups and forged SEC filings to defraud US investors of approximately $37 million."
+    },
+    {
+      "title": "Anthropic’s $81B IPO draws half the net retail buying of SpaceX’s",
+      "link": "https://cointelegraph.com/markets/anthropic-ipo-spacex-retail-buying-first-day-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 20 Nov 2026 06:24:41 +0000",
+      "source": "Cointelegraph",
+      "text": "Anthropic’s $81B IPO draws half the net retail buying of SpaceX’s Retail investors traded $772 million in Anthropic shares on Thursday, the most Vanda Research has recorded for a market debut since 2012."
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 20 Nov 2026 06:00:00 +0000",
+      "source": "Cointelegraph",
+      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
     {
       "title": "Institutions pile back into US Bitcoin ETFs in Q3 after selling streak",
       "link": "https://cointelegraph.com/markets/institutional-bitcoin-etf-holdings-clock-record-quarter-after-selling-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -427,55 +475,6 @@
       "published": "Thu, 19 Nov 2026 12:33:46 +0000",
       "source": "Cointelegraph",
       "text": "GTA VI publisher racks up nearly 3x Nvidia’s tokenized stock volume Tokenized Take-Two shares drew $249.5 million in DEX volume Wednesday, nearly three times the $88.1 million for tokenized Nvidia shares."
-    },
-    {
-      "title": "Sweden’s H100 could tap Bitcoin trading pool to fund share buybacks",
-      "link": "https://cointelegraph.com/news/swedens-h100-13m-q3-loss-share-buyback-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 19 Nov 2026 11:19:58 +0000",
-      "source": "Cointelegraph",
-      "text": "Sweden’s H100 could tap Bitcoin trading pool to fund share buybacks Shareholders will vote Dec. 7 on whether H100 can buy back up to 10% of its shares, potentially using a Bitcoin pool that lost about 30 BTC in Q3."
-    },
-    {
-      "title": "IOSCO warns quantum upgrades could slow blockchains, leave security gaps",
-      "link": "https://cointelegraph.com/news/iosco-quantum-blockchain-upgrades-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 19 Nov 2026 10:32:05 +0000",
-      "source": "Cointelegraph",
-      "text": "IOSCO warns quantum upgrades could slow blockchains, leave security gaps A Solana test network ran about 90% slower with quantum-resistant signatures, and wallets that keep using older keys could remain vulnerable."
-    },
-    {
-      "title": "Singapore settles $77.5M tokenized bill sale with wholesale CBDC",
-      "link": "https://cointelegraph.com/news/mas-issues-77m-tokenized-bills-singapore-dollar-test-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 19 Nov 2026 08:54:58 +0000",
-      "source": "Cointelegraph",
-      "text": "Singapore settles $77.5M tokenized bill sale with wholesale CBDC MAS issued the bills directly on its test network, which it plans to rename SG Digital Ledger and use for settlement beyond the trials."
-    },
-    {
-      "title": "Bitcoin ETF assets fall to three-month low as 2026 net outflows top $2.5B",
-      "link": "https://cointelegraph.com/markets/bitcoin-etf-assets-three-month-low-78-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 19 Nov 2026 08:26:19 +0000",
-      "source": "Cointelegraph",
-      "text": "Bitcoin ETF assets fall to three-month low as 2026 net outflows top $2.5B US spot Bitcoin ETFs lost $306.4 million Wednesday, pushing their combined assets to $77.7 billion as Bitcoin briefly traded below $63,000."
-    },
-    {
-      "title": "BTCPay Server issues emergency update for 5 security flaws",
-      "link": "https://cointelegraph.com/news/btcpay-server-emergency-update-nginx-security-flaws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 19 Nov 2026 08:04:37 +0000",
-      "source": "Cointelegraph",
-      "text": "BTCPay Server issues emergency update for 5 security flaws The EU’s cybersecurity service said the flaws could let attackers to run malicious code remotely on vulnerable servers without logging in."
-    },
-    {
-      "title": "Bitcoin retests $62K as Nasdaq futures rise ahead of Anthropic debut",
-      "link": "https://cointelegraph.com/markets/bitcoin-retests-62k-nasdaq-futures-anthropic-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 19 Nov 2026 07:55:56 +0000",
-      "source": "Cointelegraph",
-      "text": "Bitcoin retests $62K as Nasdaq futures rise ahead of Anthropic debut Bitcoin climbed back above $63,500 after its second dip to $62,000 this week, while Anthropic priced its record $81.3 billion IPO at $83 a share."
-    },
-    {
-      "title": "Bitcoin carry trades could beat Treasury bills in 2027, Sygnum predicts",
-      "link": "https://cointelegraph.com/markets/sygnum-bitcoin-carry-trades-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 19 Nov 2026 06:00:00 +0000",
-      "source": "Cointelegraph",
-      "text": "Bitcoin carry trades could beat Treasury bills in 2027, Sygnum predicts Sygnum predicts that Bitcoin carry trades may offer higher returns than Treasury bills in 2027, following a sharp drop in funding rates that made the strategy less compelling in 2026."
     }
   ],
   "paper": {
@@ -507,16 +506,6 @@
         "stopLoss": 0.985788,
         "takeProfit": 1.030824,
         "entryTime": "2026-10-22T01:50:39.829276+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
-        "symbol": "XAUTUSDT",
-        "side": "SELL",
-        "entry": 4046.96,
-        "stopLoss": 4107.6644,
-        "takeProfit": 3925.5512,
-        "entryTime": "2026-10-22T17:27:00.895700+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       },
@@ -641,42 +630,42 @@
         "mode": "PAPER ONLY"
       },
       {
-        "symbol": "SOLUSDT",
-        "side": "BUY",
-        "entry": 73.41,
-        "stopLoss": 72.30885,
-        "takeProfit": 75.6123,
-        "entryTime": "2026-11-19T00:13:16.209404+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
-        "symbol": "ZECUSDT",
-        "side": "SELL",
-        "entry": 865.59,
-        "stopLoss": 878.57385,
-        "takeProfit": 839.6223,
-        "entryTime": "2026-11-20T03:59:40.126016+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
-        "symbol": "NEARUSDT",
-        "side": "SELL",
-        "entry": 3.05,
-        "stopLoss": 3.09575,
-        "takeProfit": 2.9585,
-        "entryTime": "2026-11-20T03:59:40.126016+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
         "symbol": "BNBUSDT",
         "side": "SELL",
         "entry": 574.95,
         "stopLoss": 583.57425,
         "takeProfit": 557.7015,
         "entryTime": "2026-11-20T03:59:40.126016+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "ZECUSDT",
+        "side": "SELL",
+        "entry": 812.1,
+        "stopLoss": 824.2815,
+        "takeProfit": 787.737,
+        "entryTime": "2026-11-20T12:39:12.787863+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "XRPUSDT",
+        "side": "SELL",
+        "entry": 0.9472,
+        "stopLoss": 0.961408,
+        "takeProfit": 0.918784,
+        "entryTime": "2026-11-20T12:39:12.787863+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "NEARUSDT",
+        "side": "SELL",
+        "entry": 2.956,
+        "stopLoss": 3.00034,
+        "takeProfit": 2.86732,
+        "entryTime": "2026-11-20T12:39:12.787863+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       }
@@ -3333,6 +3322,58 @@
         "exitPrice": 3.05,
         "exitTime": "2026-11-20T03:59:40.126016+00:00",
         "pnlPercent": 4.419
+      },
+      {
+        "symbol": "XAUTUSDT",
+        "side": "SELL",
+        "entry": 4046.96,
+        "stopLoss": 4107.6644,
+        "takeProfit": 3925.5512,
+        "entryTime": "2026-10-22T17:27:00.895700+00:00",
+        "status": "TAKE_PROFIT",
+        "mode": "PAPER ONLY",
+        "exitPrice": 3567.39,
+        "exitTime": "2026-11-20T12:39:12.787863+00:00",
+        "pnlPercent": 11.85
+      },
+      {
+        "symbol": "SOLUSDT",
+        "side": "BUY",
+        "entry": 73.41,
+        "stopLoss": 72.30885,
+        "takeProfit": 75.6123,
+        "entryTime": "2026-11-19T00:13:16.209404+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 71.25,
+        "exitTime": "2026-11-20T12:39:12.787863+00:00",
+        "pnlPercent": -2.942
+      },
+      {
+        "symbol": "ZECUSDT",
+        "side": "SELL",
+        "entry": 865.59,
+        "stopLoss": 878.57385,
+        "takeProfit": 839.6223,
+        "entryTime": "2026-11-20T03:59:40.126016+00:00",
+        "status": "TAKE_PROFIT",
+        "mode": "PAPER ONLY",
+        "exitPrice": 812.1,
+        "exitTime": "2026-11-20T12:39:12.787863+00:00",
+        "pnlPercent": 6.18
+      },
+      {
+        "symbol": "NEARUSDT",
+        "side": "SELL",
+        "entry": 3.05,
+        "stopLoss": 3.09575,
+        "takeProfit": 2.9585,
+        "entryTime": "2026-11-20T03:59:40.126016+00:00",
+        "status": "TAKE_PROFIT",
+        "mode": "PAPER ONLY",
+        "exitPrice": 2.956,
+        "exitTime": "2026-11-20T12:39:12.787863+00:00",
+        "pnlPercent": 3.082
       }
     ]
   },
