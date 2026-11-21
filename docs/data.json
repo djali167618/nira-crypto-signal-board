@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21 16:26:01 UTC",
+  "generatedAt": "2026-11-21 21:46:28 UTC",
   "interval": "15m candles",
   "marketSentiment": -58,
   "overallNewsScore": -25,
@@ -12,17 +12,17 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 59987.37,
-      "change24h": 1.186,
-      "volume24h": 3509357328.8704867,
+      "price": 60434.04,
+      "change24h": 2.368,
+      "volume24h": 2890092551.4461055,
       "technical": {
-        "rsi": 62.6,
-        "ema9": 60001.28806270585,
-        "ema21": 59540.064018570454,
+        "rsi": 63.7,
+        "ema9": 60413.65776617237,
+        "ema21": 60253.433179786574,
         "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 0.41,
-        "score": 65
+        "volumeRatio": 2.02,
+        "score": 60
       },
       "newsScore": -10,
       "newsCount": 5,
@@ -64,26 +64,26 @@
         }
       ],
       "marketSentiment": -58,
-      "combinedScore": 50,
+      "combinedScore": 48,
       "signal": "WAIT",
-      "reason": "Technical 65/100; News -10; Market sentiment -58."
+      "reason": "Technical 60/100; News -10; Market sentiment -58."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 1681.35,
-      "change24h": 2.581,
-      "volume24h": 1354497490.864346,
+      "price": 1687.42,
+      "change24h": 4.112,
+      "volume24h": 1042140198.484644,
       "technical": {
-        "rsi": 58.9,
-        "ema9": 1685.2548662327483,
-        "ema21": 1674.6669579186166,
+        "rsi": 58.7,
+        "ema9": 1687.006098776568,
+        "ema21": 1684.806380213634,
         "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 0.49,
+        "volumeRatio": 0.99,
         "score": 65
       },
-      "newsScore": 38,
+      "newsScore": 13,
       "newsCount": 5,
       "news": [
         {
@@ -123,54 +123,46 @@
         }
       ],
       "marketSentiment": -58,
-      "combinedScore": 57,
+      "combinedScore": 54,
       "signal": "WAIT",
-      "reason": "Technical 65/100; News +38; Market sentiment -58."
+      "reason": "Technical 65/100; News +13; Market sentiment -58."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 70.38,
-      "change24h": 2.267,
-      "volume24h": 340308539.14441,
+      "price": 70.46,
+      "change24h": 2.562,
+      "volume24h": 279317281.98946,
       "technical": {
-        "rsi": 62.4,
-        "ema9": 70.39531703965147,
-        "ema21": 69.84995808564965,
+        "rsi": 50.6,
+        "ema9": 70.58449834796843,
+        "ema21": 70.53532331221125,
         "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 0.88,
-        "score": 65
+        "volumeRatio": 0.79,
+        "score": 53
       },
-      "newsScore": 100,
-      "newsCount": 1,
-      "news": [
-        {
-          "title": "VanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs",
-          "link": "https://www.coindesk.com/markets/2026/11/20/vaneck-drops-gemini-as-custodian-of-its-bitcoin-ether-and-sol-etfs",
-          "published": "Fri, 20 Nov 2026 04:28:52 +0000",
-          "source": "CoinDesk",
-          "text": "VanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs Coinbase Custody will continue serving all three funds after Gemini's contracts end in February."
-        }
-      ],
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
       "marketSentiment": -58,
-      "combinedScore": 67,
-      "signal": "BUY",
-      "reason": "Technical 65/100; News +100; Market sentiment -58."
+      "combinedScore": 46,
+      "signal": "WAIT",
+      "reason": "Technical 53/100; News +0; Market sentiment -58."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 786.4,
-      "change24h": 1.536,
-      "volume24h": 334333525.89893,
+      "price": 794.07,
+      "change24h": 6.109,
+      "volume24h": 268225695.2316,
       "technical": {
-        "rsi": 60.5,
-        "ema9": 789.8330712083331,
-        "ema21": 779.5989010803679,
+        "rsi": 58.9,
+        "ema9": 793.0752808768079,
+        "ema21": 790.2542962771906,
         "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 0.38,
+        "volumeRatio": 0.34,
         "score": 65
       },
       "newsScore": 0,
@@ -184,40 +176,40 @@
     {
       "symbol": "USD1USDT",
       "coin": "USD1",
-      "price": 1.00078,
-      "change24h": 0.089,
-      "volume24h": 277661541.17112,
+      "price": 1.00077,
+      "change24h": 0.056,
+      "volume24h": 227483775.51113,
       "technical": {
-        "rsi": 52.8,
-        "ema9": 1.000834018931275,
-        "ema21": 1.0007742604681282,
-        "macdBull": false,
+        "rsi": 52.5,
+        "ema9": 1.0007540093124605,
+        "ema21": 1.0007298107601963,
+        "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 1.27,
-        "score": 53
+        "volumeRatio": 0.26,
+        "score": 77
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": -58,
-      "combinedScore": 46,
+      "combinedScore": 58,
       "signal": "WAIT",
-      "reason": "Technical 53/100; News +0; Market sentiment -58."
+      "reason": "Technical 77/100; News +0; Market sentiment -58."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 0.9285,
-      "change24h": 1.664,
-      "volume24h": 174654415.69271,
+      "price": 0.9303,
+      "change24h": 2.659,
+      "volume24h": 136900213.29127,
       "technical": {
-        "rsi": 63.0,
-        "ema9": 0.9251093115548115,
-        "ema21": 0.9180271001386787,
+        "rsi": 49.8,
+        "ema9": 0.9327080251489654,
+        "ema21": 0.93151211077148,
         "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 0.88,
-        "score": 65
+        "volumeRatio": 1.44,
+        "score": 53
       },
       "newsScore": -100,
       "newsCount": 1,
@@ -231,47 +223,24 @@
         }
       ],
       "marketSentiment": -58,
-      "combinedScore": 37,
+      "combinedScore": 31,
       "signal": "WAIT",
-      "reason": "Technical 65/100; News -100; Market sentiment -58."
-    },
-    {
-      "symbol": "BNBUSDT",
-      "coin": "BNB",
-      "price": 546.67,
-      "change24h": -0.126,
-      "volume24h": 157220233.98031,
-      "technical": {
-        "rsi": 65.5,
-        "ema9": 545.7776745185611,
-        "ema21": 541.0541948133915,
-        "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.69,
-        "score": 65
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -58,
-      "combinedScore": 52,
-      "signal": "WAIT",
-      "reason": "Technical 65/100; News +0; Market sentiment -58."
+      "reason": "Technical 53/100; News -100; Market sentiment -58."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 2.854,
-      "change24h": 0.176,
-      "volume24h": 144420067.6204,
+      "price": 2.897,
+      "change24h": 2.476,
+      "volume24h": 134864314.7211,
       "technical": {
-        "rsi": 58.7,
-        "ema9": 2.8730019216585467,
-        "ema21": 2.8447020588896845,
-        "macdBull": false,
+        "rsi": 59.7,
+        "ema9": 2.8909947725657745,
+        "ema21": 2.8761857443120857,
+        "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.63,
-        "score": 65
+        "volumeRatio": 0.31,
+        "score": 89
       },
       "newsScore": 0,
       "newsCount": 1,
@@ -285,23 +254,46 @@
         }
       ],
       "marketSentiment": -58,
+      "combinedScore": 64,
+      "signal": "WAIT",
+      "reason": "Technical 89/100; News +0; Market sentiment -58."
+    },
+    {
+      "symbol": "BNBUSDT",
+      "coin": "BNB",
+      "price": 549.31,
+      "change24h": 1.692,
+      "volume24h": 119919141.67913,
+      "technical": {
+        "rsi": 59.7,
+        "ema9": 549.5740372516291,
+        "ema21": 548.3158502742499,
+        "macdBull": false,
+        "emaBull": true,
+        "volumeRatio": 0.56,
+        "score": 65
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -58,
       "combinedScore": 52,
       "signal": "WAIT",
       "reason": "Technical 65/100; News +0; Market sentiment -58."
     },
     {
-      "symbol": "SOXLBUSDT",
-      "coin": "SOXLB",
-      "price": 32.84,
-      "change24h": -7.153,
-      "volume24h": 141504552.94627,
+      "symbol": "RLUSDUSDT",
+      "coin": "RLUSD",
+      "price": 1.0021,
+      "change24h": 0.02,
+      "volume24h": 109624072.4347,
       "technical": {
-        "rsi": 60.5,
-        "ema9": 32.5608207534593,
-        "ema21": 32.33225571922178,
+        "rsi": 58.0,
+        "ema9": 1.0021934727699622,
+        "ema21": 1.0020590661305493,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 1.02,
+        "volumeRatio": 0.27,
         "score": 89
       },
       "newsScore": 0,
@@ -313,27 +305,35 @@
       "reason": "Technical 89/100; News +0; Market sentiment -58."
     },
     {
-      "symbol": "RLUSDUSDT",
-      "coin": "RLUSD",
-      "price": 1.0021,
-      "change24h": 0.09,
-      "volume24h": 137007856.3944,
+      "symbol": "HYPEUSDT",
+      "coin": "HYPE",
+      "price": 61.6,
+      "change24h": 0.342,
+      "volume24h": 94743775.31479,
       "technical": {
-        "rsi": 66.2,
-        "ema9": 1.0016898266551442,
-        "ema21": 1.0016604946865972,
-        "macdBull": true,
+        "rsi": 63.0,
+        "ema9": 61.565738360920435,
+        "ema21": 61.267495517987314,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 26.8,
-        "score": 94
+        "volumeRatio": 0.8,
+        "score": 65
       },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
+      "newsScore": -100,
+      "newsCount": 1,
+      "news": [
+        {
+          "title": "Binance’s $6.5B freeze order, Hong Kong ‘suspicious’ of HYPE: Asia Express",
+          "link": "https://cointelegraph.com/magazine/binances-65b-freeze-order-hong-kong-suspicious-of-hype-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Thu, 19 Nov 2026 22:25:18 +0000",
+          "source": "Cointelegraph",
+          "text": "Binance’s $6.5B freeze order, Hong Kong ‘suspicious’ of HYPE: Asia Express Binance obtains court orders freezing assets stolen in October’s hack. Hong Kong warns citizens about Hyperliquid, and Thai police arrest four foreigners linked to a crypto scam."
+        }
+      ],
       "marketSentiment": -58,
-      "combinedScore": 66,
-      "signal": "BUY",
-      "reason": "Technical 94/100; News +0; Market sentiment -58."
+      "combinedScore": 37,
+      "signal": "WAIT",
+      "reason": "Technical 65/100; News -100; Market sentiment -58."
     }
   ],
   "news": [
