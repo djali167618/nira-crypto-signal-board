@@ -151,12 +151,22 @@
       "mode": "PAPER ONLY"
     },
     {
-      "symbol": "SOXLBUSDT",
+      "symbol": "SOLUSDT",
+      "side": "BUY",
+      "entry": 68.92,
+      "stopLoss": 67.8862,
+      "takeProfit": 70.9876,
+      "entryTime": "2026-11-21T01:45:17.131992+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "NEARUSDT",
       "side": "SELL",
-      "entry": 31.16,
-      "stopLoss": 31.6274,
-      "takeProfit": 30.2252,
-      "entryTime": "2026-11-20T20:42:55.359977+00:00",
+      "entry": 2.797,
+      "stopLoss": 2.838955,
+      "takeProfit": 2.71309,
+      "entryTime": "2026-11-21T01:45:17.131992+00:00",
       "status": "OPEN",
       "mode": "PAPER ONLY"
     }
@@ -2930,6 +2940,19 @@
       "exitPrice": 2.793,
       "exitTime": "2026-11-20T20:42:55.359977+00:00",
       "pnlPercent": 5.514
+    },
+    {
+      "symbol": "SOXLBUSDT",
+      "side": "SELL",
+      "entry": 31.16,
+      "stopLoss": 31.6274,
+      "takeProfit": 30.2252,
+      "entryTime": "2026-11-20T20:42:55.359977+00:00",
+      "status": "STOP_LOSS",
+      "mode": "PAPER ONLY",
+      "exitPrice": 33.51,
+      "exitTime": "2026-11-21T01:45:17.131992+00:00",
+      "pnlPercent": -7.542
     }
   ]
 }
