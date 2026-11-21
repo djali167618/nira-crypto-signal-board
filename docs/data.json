@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21 01:45:17 UTC",
+  "generatedAt": "2026-11-21 08:49:07 UTC",
   "interval": "15m candles",
   "marketSentiment": -58,
   "overallNewsScore": -25,
@@ -12,19 +12,19 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 58989.02,
-      "change24h": -4.902,
-      "volume24h": 2331160230.0511193,
+      "price": 57984.72,
+      "change24h": -6.336,
+      "volume24h": 3444672496.5092206,
       "technical": {
-        "rsi": 46.7,
-        "ema9": 59036.60423366839,
-        "ema21": 59049.08846894789,
+        "rsi": 54.6,
+        "ema9": 57653.38015746411,
+        "ema21": 57492.37899690351,
         "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.57,
-        "score": 47
+        "emaBull": true,
+        "volumeRatio": 0.4,
+        "score": 77
       },
-      "newsScore": -10,
+      "newsScore": 0,
       "newsCount": 5,
       "news": [
         {
@@ -64,24 +64,24 @@
         }
       ],
       "marketSentiment": -58,
-      "combinedScore": 41,
+      "combinedScore": 58,
       "signal": "WAIT",
-      "reason": "Technical 47/100; News -10; Market sentiment -58."
+      "reason": "Technical 77/100; News +0; Market sentiment -58."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 1624.0,
-      "change24h": -7.464,
-      "volume24h": 1128991516.265261,
+      "price": 1631.92,
+      "change24h": -7.039,
+      "volume24h": 1454263570.764833,
       "technical": {
-        "rsi": 47.1,
-        "ema9": 1623.4500658018371,
-        "ema21": 1624.393084605559,
+        "rsi": 59.8,
+        "ema9": 1620.273978692442,
+        "ema21": 1608.7938751309907,
         "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 1.01,
-        "score": 47
+        "emaBull": true,
+        "volumeRatio": 0.57,
+        "score": 89
       },
       "newsScore": 44,
       "newsCount": 5,
@@ -123,58 +123,28 @@
         }
       ],
       "marketSentiment": -58,
-      "combinedScore": 49,
-      "signal": "WAIT",
-      "reason": "Technical 47/100; News +44; Market sentiment -58."
-    },
-    {
-      "symbol": "ZECUSDT",
-      "coin": "ZEC",
-      "price": 746.48,
-      "change24h": -15.503,
-      "volume24h": 283420913.08129,
-      "technical": {
-        "rsi": 41.7,
-        "ema9": 752.1512982491876,
-        "ema21": 754.3692454527832,
-        "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 1.15,
-        "score": 35
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -58,
-      "combinedScore": 37,
-      "signal": "WAIT",
-      "reason": "Technical 35/100; News +0; Market sentiment -58."
+      "combinedScore": 70,
+      "signal": "BUY",
+      "reason": "Technical 89/100; News +44; Market sentiment -58."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 68.92,
-      "change24h": -5.278,
-      "volume24h": 269499247.04811,
+      "price": 67.42,
+      "change24h": -7.212,
+      "volume24h": 365514394.07249,
       "technical": {
-        "rsi": 48.5,
-        "ema9": 68.96716633831987,
-        "ema21": 68.95349769661881,
+        "rsi": 49.2,
+        "ema9": 67.21273127998764,
+        "ema21": 67.16388733727031,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.82,
+        "volumeRatio": 0.28,
         "score": 77
       },
       "newsScore": 100,
-      "newsCount": 2,
+      "newsCount": 1,
       "news": [
-        {
-          "title": "IOSCO warns quantum upgrades could slow blockchains, leave security gaps",
-          "link": "https://cointelegraph.com/news/iosco-quantum-blockchain-upgrades-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Thu, 19 Nov 2026 10:32:05 +0000",
-          "source": "Cointelegraph",
-          "text": "IOSCO warns quantum upgrades could slow blockchains, leave security gaps A Solana test network ran about 90% slower with quantum-resistant signatures, and wallets that keep using older keys could remain vulnerable."
-        },
         {
           "title": "VanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs",
           "link": "https://www.coindesk.com/markets/2026/11/20/vaneck-drops-gemini-as-custodian-of-its-bitcoin-ether-and-sol-etfs",
@@ -189,38 +159,115 @@
       "reason": "Technical 77/100; News +100; Market sentiment -58."
     },
     {
-      "symbol": "USD1USDT",
-      "coin": "USD1",
-      "price": 1.00039,
-      "change24h": 0.023,
-      "volume24h": 237016556.61002,
+      "symbol": "ZECUSDT",
+      "coin": "ZEC",
+      "price": 726.3,
+      "change24h": -14.59,
+      "volume24h": 355522819.5046,
       "technical": {
-        "rsi": 55.2,
-        "ema9": 1.0004326048190912,
-        "ema21": 1.0003248448274031,
-        "macdBull": false,
+        "rsi": 51.4,
+        "ema9": 722.2512462610248,
+        "ema21": 719.8381723670145,
+        "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.38,
-        "score": 65
+        "volumeRatio": 0.42,
+        "score": 77
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": -58,
-      "combinedScore": 52,
+      "combinedScore": 58,
       "signal": "WAIT",
-      "reason": "Technical 65/100; News +0; Market sentiment -58."
+      "reason": "Technical 77/100; News +0; Market sentiment -58."
+    },
+    {
+      "symbol": "USD1USDT",
+      "coin": "USD1",
+      "price": 1.00033,
+      "change24h": 0.029,
+      "volume24h": 291026414.24124,
+      "technical": {
+        "rsi": 54.4,
+        "ema9": 1.0003288578071068,
+        "ema21": 1.0003032679733028,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.52,
+        "score": 77
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -58,
+      "combinedScore": 58,
+      "signal": "WAIT",
+      "reason": "Technical 77/100; News +0; Market sentiment -58."
+    },
+    {
+      "symbol": "XRPUSDT",
+      "coin": "XRP",
+      "price": 0.8889,
+      "change24h": -7.647,
+      "volume24h": 195498021.34439,
+      "technical": {
+        "rsi": 46.6,
+        "ema9": 0.8885535609309078,
+        "ema21": 0.8886478213602337,
+        "macdBull": true,
+        "emaBull": false,
+        "volumeRatio": 0.47,
+        "score": 47
+      },
+      "newsScore": -100,
+      "newsCount": 1,
+      "news": [
+        {
+          "title": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
+          "link": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion",
+          "published": "Sat, 21 Nov 2026 05:59:19 +0000",
+          "source": "CoinDesk",
+          "text": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion The token broke its previous November lows during Saturday's crypto selloff, with long positions accounting for most XRP liquidations and technical indicators showing further weakness."
+        }
+      ],
+      "marketSentiment": -58,
+      "combinedScore": 28,
+      "signal": "WAIT",
+      "reason": "Technical 47/100; News -100; Market sentiment -58."
+    },
+    {
+      "symbol": "BNBUSDT",
+      "coin": "BNB",
+      "price": 523.08,
+      "change24h": -8.679,
+      "volume24h": 178078435.64833,
+      "technical": {
+        "rsi": 47.3,
+        "ema9": 522.0931581259094,
+        "ema21": 522.4407433215517,
+        "macdBull": true,
+        "emaBull": false,
+        "volumeRatio": 0.31,
+        "score": 47
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -58,
+      "combinedScore": 43,
+      "signal": "WAIT",
+      "reason": "Technical 47/100; News +0; Market sentiment -58."
     },
     {
       "symbol": "SOXLBUSDT",
       "coin": "SOXLB",
-      "price": 33.51,
-      "change24h": -21.742,
-      "volume24h": 157038642.73397,
+      "price": 32.16,
+      "change24h": -24.043,
+      "volume24h": 177920550.06545,
       "technical": {
-        "rsi": 48.7,
-        "ema9": 33.356098991513036,
-        "ema21": 33.39933794825953,
+        "rsi": 45.3,
+        "ema9": 32.09308885630346,
+        "ema21": 32.22579923679731,
         "macdBull": true,
         "emaBull": false,
         "volumeRatio": 0.04,
@@ -235,88 +282,42 @@
       "reason": "Technical 47/100; News +0; Market sentiment -58."
     },
     {
-      "symbol": "XRPUSDT",
-      "coin": "XRP",
-      "price": 0.9082,
-      "change24h": -5.72,
-      "volume24h": 153939733.6566,
-      "technical": {
-        "rsi": 47.8,
-        "ema9": 0.9095536996585529,
-        "ema21": 0.9091054230479128,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.75,
-        "score": 77
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -58,
-      "combinedScore": 58,
-      "signal": "WAIT",
-      "reason": "Technical 77/100; News +0; Market sentiment -58."
-    },
-    {
       "symbol": "RLUSDUSDT",
       "coin": "RLUSD",
-      "price": 1.0022,
-      "change24h": 0.1,
-      "volume24h": 148859695.8335,
+      "price": 1.0019,
+      "change24h": 0.08,
+      "volume24h": 164487009.2837,
       "technical": {
-        "rsi": 58.0,
-        "ema9": 1.0021985050983182,
-        "ema21": 1.0020490790623608,
-        "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 1.01,
-        "score": 65
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -58,
-      "combinedScore": 52,
-      "signal": "WAIT",
-      "reason": "Technical 65/100; News +0; Market sentiment -58."
-    },
-    {
-      "symbol": "BNBUSDT",
-      "coin": "BNB",
-      "price": 540.0,
-      "change24h": -6.464,
-      "volume24h": 133613752.22984,
-      "technical": {
-        "rsi": 45.9,
-        "ema9": 540.1963297724366,
-        "ema21": 540.547168848913,
+        "rsi": 56.4,
+        "ema9": 1.0017940969077657,
+        "ema21": 1.0017311712156793,
         "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.53,
-        "score": 47
+        "emaBull": true,
+        "volumeRatio": 0.08,
+        "score": 89
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": -58,
-      "combinedScore": 43,
+      "combinedScore": 64,
       "signal": "WAIT",
-      "reason": "Technical 47/100; News +0; Market sentiment -58."
+      "reason": "Technical 89/100; News +0; Market sentiment -58."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 2.797,
-      "change24h": -11.375,
-      "volume24h": 111075756.8781,
+      "price": 2.679,
+      "change24h": -11.291,
+      "volume24h": 148272541.8415,
       "technical": {
-        "rsi": 35.5,
-        "ema9": 2.820284522069291,
-        "ema21": 2.833318919423729,
-        "macdBull": false,
+        "rsi": 46.5,
+        "ema9": 2.6696724023262366,
+        "ema21": 2.675176603123285,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.75,
-        "score": 11
+        "volumeRatio": 0.25,
+        "score": 47
       },
       "newsScore": 0,
       "newsCount": 1,
@@ -330,12 +331,26 @@
         }
       ],
       "marketSentiment": -58,
-      "combinedScore": 25,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment -58."
+      "combinedScore": 43,
+      "signal": "WAIT",
+      "reason": "Technical 47/100; News +0; Market sentiment -58."
     }
   ],
   "news": [
+    {
+      "title": "US lawmakers propose up to 30% rewards for prediction market whistleblowers",
+      "link": "https://cointelegraph.com/news/us-prediction-market-whistleblower-rewards-30-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sat, 21 Nov 2026 07:51:47 +0000",
+      "source": "Cointelegraph",
+      "text": "US lawmakers propose up to 30% rewards for prediction market whistleblowers Whistleblowers could receive 10% to 30% of monetary sanctions in qualifying prediction market fraud cases exceeding $1 million in penalties."
+    },
+    {
+      "title": "Hong Kong pushes to bring crypto custodians, advisers under licensing rules",
+      "link": "https://cointelegraph.com/news/hong-kong-crypto-custody-advisory-licensing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sat, 21 Nov 2026 05:40:35 +0000",
+      "source": "Cointelegraph",
+      "text": "Hong Kong pushes to bring crypto custodians, advisers under licensing rules Hong Kong’s securities regulator says the proposal would strengthen investor protections, with the bill set for its first reading in the Legislative Council on Dec. 2."
+    },
     {
       "title": "Wrapped Monero token crashes 99.8% amid suspected $13.5M exploit",
       "link": "https://cointelegraph.com/news/wrapped-monero-token-crashes-998-amid-suspected-135m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -461,20 +476,6 @@
       "published": "Thu, 19 Nov 2026 21:01:42 +0000",
       "source": "Cointelegraph",
       "text": "MoonPay seeks US bank charter for stablecoin, custody services MoonPay’s proposed national trust bank would offer stablecoin issuance and redemption, reserve management and digital asset custody under federal oversight."
-    },
-    {
-      "title": "Hyperliquid Anthropic futures priced within 1% of Nasdaq opening price",
-      "link": "https://cointelegraph.com/markets/hyperliquid-anthropic-futures-nasdaq-opening-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 19 Nov 2026 20:33:24 +0000",
-      "source": "Cointelegraph",
-      "text": "Hyperliquid Anthropic futures priced within 1% of Nasdaq opening price Hyperliquid traders priced Anthropic futures within 1% of the stock’s Nasdaq opening price, as trading surged ahead of the AI company’s IPO."
-    },
-    {
-      "title": "Trump’s SEC nominee Johnson backs formal rulemaking for tokenized stock trading",
-      "link": "https://cointelegraph.com/news/sec-nominees-johnson-levine-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 19 Nov 2026 20:06:34 +0000",
-      "source": "Cointelegraph",
-      "text": "Trump’s SEC nominee Johnson backs formal rulemaking for tokenized stock trading Former CFTC Commissioner and Democrat Kristin Johnson and ex-SEC aide Steven Levine appeared before lawmakers Thursday."
     }
   ],
   "paper": {
@@ -630,22 +631,22 @@
         "mode": "PAPER ONLY"
       },
       {
-        "symbol": "SOLUSDT",
+        "symbol": "ETHUSDT",
         "side": "BUY",
-        "entry": 68.92,
-        "stopLoss": 67.8862,
-        "takeProfit": 70.9876,
-        "entryTime": "2026-11-21T01:45:17.131992+00:00",
+        "entry": 1631.92,
+        "stopLoss": 1607.4412,
+        "takeProfit": 1680.8776,
+        "entryTime": "2026-11-21T08:49:07.928875+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       },
       {
-        "symbol": "NEARUSDT",
-        "side": "SELL",
-        "entry": 2.797,
-        "stopLoss": 2.838955,
-        "takeProfit": 2.71309,
-        "entryTime": "2026-11-21T01:45:17.131992+00:00",
+        "symbol": "SOLUSDT",
+        "side": "BUY",
+        "entry": 67.42,
+        "stopLoss": 66.4087,
+        "takeProfit": 69.4426,
+        "entryTime": "2026-11-21T08:49:07.928875+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       }
@@ -3432,6 +3433,32 @@
         "exitPrice": 33.51,
         "exitTime": "2026-11-21T01:45:17.131992+00:00",
         "pnlPercent": -7.542
+      },
+      {
+        "symbol": "SOLUSDT",
+        "side": "BUY",
+        "entry": 68.92,
+        "stopLoss": 67.8862,
+        "takeProfit": 70.9876,
+        "entryTime": "2026-11-21T01:45:17.131992+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 67.42,
+        "exitTime": "2026-11-21T08:49:07.928875+00:00",
+        "pnlPercent": -2.176
+      },
+      {
+        "symbol": "NEARUSDT",
+        "side": "SELL",
+        "entry": 2.797,
+        "stopLoss": 2.838955,
+        "takeProfit": 2.71309,
+        "entryTime": "2026-11-21T01:45:17.131992+00:00",
+        "status": "TAKE_PROFIT",
+        "mode": "PAPER ONLY",
+        "exitPrice": 2.679,
+        "exitTime": "2026-11-21T08:49:07.928875+00:00",
+        "pnlPercent": 4.219
       }
     ]
   },
