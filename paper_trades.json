@@ -179,6 +179,26 @@
       "entryTime": "2026-11-22T08:50:14.510388+00:00",
       "status": "OPEN",
       "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "XRPUSDT",
+      "side": "SELL",
+      "entry": 0.9254,
+      "stopLoss": 0.939281,
+      "takeProfit": 0.897638,
+      "entryTime": "2026-11-22T22:05:59.611291+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "NEARUSDT",
+      "side": "SELL",
+      "entry": 2.996,
+      "stopLoss": 3.04094,
+      "takeProfit": 2.90612,
+      "entryTime": "2026-11-22T22:05:59.611291+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
     }
   ],
   "closed": [
