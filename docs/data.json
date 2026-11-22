@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22 08:50:14 UTC",
+  "generatedAt": "2026-11-22 16:43:07 UTC",
   "interval": "15m candles",
   "marketSentiment": -62,
   "overallNewsScore": -33,
@@ -12,17 +12,17 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 59654.15,
-      "change24h": 2.763,
-      "volume24h": 1586106202.3497422,
+      "price": 61388.25,
+      "change24h": 2.402,
+      "volume24h": 1213542392.1799479,
       "technical": {
-        "rsi": 62.7,
-        "ema9": 59393.011665792874,
-        "ema21": 59365.845697480676,
-        "macdBull": true,
+        "rsi": 65.1,
+        "ema9": 60960.70646993928,
+        "ema21": 60806.50032568323,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 4.02,
-        "score": 94
+        "volumeRatio": 1.89,
+        "score": 70
       },
       "newsScore": -10,
       "newsCount": 5,
@@ -30,9 +30,16 @@
         {
           "title": "Here’s what happened in crypto today",
           "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Sat, 21 Nov 2026 11:18:52 +0000",
+          "published": "Sun, 22 Nov 2026 11:25:27 +0000",
           "source": "Cointelegraph",
           "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+        },
+        {
+          "title": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades",
+          "link": "https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Sun, 22 Nov 2026 09:33:06 +0000",
+          "source": "Cointelegraph",
+          "text": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades Kraken said all orders were processed correctly and found no evidence of a security breach or compromised accounts."
         },
         {
           "title": "Bitcoin falls below $60K for first time since July amid broader market selloff",
@@ -54,36 +61,29 @@
           "published": "Fri, 20 Nov 2026 10:29:10 +0000",
           "source": "Cointelegraph",
           "text": "Bitcoin nears repeat of chart pattern that preceded 2023’s $25K retest Bitcoin’s 21-day moving average fell below its 200-day average, and analyst Keith Alan expects a second bearish crossover by Sunday."
-        },
-        {
-          "title": "BlackRock’s IBIT loses record $541M amid Anthropic market debut",
-          "link": "https://cointelegraph.com/markets/blackrock-ibit-record-single-day-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Fri, 20 Nov 2026 08:18:42 +0000",
-          "source": "Cointelegraph",
-          "text": "BlackRock’s IBIT loses record $541M amid Anthropic market debut BlackRock’s IBIT posted its largest daily outflow on record, taking three-session outflows near $900 million as BTC dipped amid a broader market selloff."
         }
       ],
       "marketSentiment": -62,
-      "combinedScore": 64,
+      "combinedScore": 52,
       "signal": "WAIT",
-      "reason": "Technical 94/100; News -10; Market sentiment -62."
+      "reason": "Technical 70/100; News -10; Market sentiment -62."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 1683.02,
-      "change24h": 3.04,
-      "volume24h": 565550158.60491,
+      "price": 1723.83,
+      "change24h": 2.54,
+      "volume24h": 398113401.145037,
       "technical": {
-        "rsi": 70.0,
-        "ema9": 1673.0693772947843,
-        "ema21": 1669.5070703905028,
+        "rsi": 66.5,
+        "ema9": 1716.0169944160016,
+        "ema21": 1710.0933700316646,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 1.97,
+        "volumeRatio": 1.56,
         "score": 94
       },
-      "newsScore": -6,
+      "newsScore": -7,
       "newsCount": 5,
       "news": [
         {
@@ -108,39 +108,39 @@
           "text": "Ethereum’s Glamsterdam upgrade could slip to May 2027 over compatibility concerns Ethereum developers are weighing changes to gas pricing proposals that could disrupt existing smart contracts, after contacting at least 50 affected companies."
         },
         {
-          "title": "Ethereum’s new DeFi security tool raises questions over censorship",
-          "link": "https://cointelegraph.com/magazine/ethereums-new-defi-security-tool-raises-questions-over-censorship?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Thu, 19 Nov 2026 13:30:00 +0000",
-          "source": "Cointelegraph",
-          "text": "Ethereum’s new DeFi security tool raises questions over censorship Phylax’s system lets decentralized protocols block potentially harmful transactions, but raises questions about potential censorship and Ethereum’s concentrated builder market."
-        },
-        {
           "title": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
           "link": "https://www.coindesk.com/markets/2026/11/21/ether-treasury-firm-btcs-warns-sec-its-usd54-million-aave-loan-could-be-liquidated",
           "published": "Sat, 21 Nov 2026 12:30:00 +0000",
           "source": "CoinDesk",
           "text": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated BTCS cut its reported Aave debt by about $10 million in ten days, but falling ether prices are keeping its collateral under pressure."
+        },
+        {
+          "title": "Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
+          "link": "https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment",
+          "published": "Fri, 20 Nov 2026 22:05:31 +0000",
+          "source": "CoinDesk",
+          "text": "Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment The firm is the latest to join in building blockchain-based stock markets under the agency’s five-year \"innovation exemption\" for tokenized trading."
         }
       ],
       "marketSentiment": -62,
       "combinedScore": 65,
       "signal": "BUY",
-      "reason": "Technical 94/100; News -6; Market sentiment -62."
+      "reason": "Technical 94/100; News -7; Market sentiment -62."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 69.72,
-      "change24h": 3.212,
-      "volume24h": 170026617.4333,
+      "price": 70.68,
+      "change24h": 0.27,
+      "volume24h": 134959135.34463,
       "technical": {
-        "rsi": 62.5,
-        "ema9": 69.49090731342945,
-        "ema21": 69.46050490546808,
-        "macdBull": true,
+        "rsi": 57.3,
+        "ema9": 70.36655249171719,
+        "ema21": 70.30255419875571,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 2.47,
-        "score": 94
+        "volumeRatio": 1.41,
+        "score": 65
       },
       "newsScore": -100,
       "newsCount": 1,
@@ -154,23 +154,23 @@
         }
       ],
       "marketSentiment": -62,
-      "combinedScore": 51,
+      "combinedScore": 36,
       "signal": "WAIT",
-      "reason": "Technical 94/100; News -100; Market sentiment -62."
+      "reason": "Technical 65/100; News -100; Market sentiment -62."
     },
     {
       "symbol": "USD1USDT",
       "coin": "USD1",
-      "price": 1.00097,
-      "change24h": 0.061,
-      "volume24h": 153376557.17039,
+      "price": 1.00064,
+      "change24h": 0.009,
+      "volume24h": 123052948.38604,
       "technical": {
-        "rsi": 36.0,
-        "ema9": 1.000955128184963,
-        "ema21": 1.0010116294975409,
+        "rsi": 31.1,
+        "ema9": 1.000871243540408,
+        "ema21": 1.000915387135251,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 1.27,
+        "volumeRatio": 1.03,
         "score": 11
       },
       "newsScore": 0,
@@ -184,71 +184,40 @@
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 791.41,
-      "change24h": 8.22,
-      "volume24h": 146808907.10605,
+      "price": 795.06,
+      "change24h": 1.596,
+      "volume24h": 100849422.17638,
       "technical": {
-        "rsi": 69.5,
-        "ema9": 787.299570736309,
-        "ema21": 782.6588438902448,
-        "macdBull": true,
+        "rsi": 53.5,
+        "ema9": 794.7267657393699,
+        "ema21": 794.0620395108498,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 2.31,
-        "score": 94
+        "volumeRatio": 0.76,
+        "score": 53
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": -62,
-      "combinedScore": 66,
-      "signal": "BUY",
-      "reason": "Technical 94/100; News +0; Market sentiment -62."
-    },
-    {
-      "symbol": "XRPUSDT",
-      "coin": "XRP",
-      "price": 0.9242,
-      "change24h": 3.866,
-      "volume24h": 86267589.24396,
-      "technical": {
-        "rsi": 64.2,
-        "ema9": 0.9202929339681097,
-        "ema21": 0.9199902633998588,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 3.52,
-        "score": 94
-      },
-      "newsScore": -100,
-      "newsCount": 1,
-      "news": [
-        {
-          "title": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
-          "link": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion",
-          "published": "Sat, 21 Nov 2026 05:59:19 +0000",
-          "source": "CoinDesk",
-          "text": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion The token broke its previous November lows during Saturday's crypto selloff, with long positions accounting for most XRP liquidations and technical indicators showing further weakness."
-        }
-      ],
-      "marketSentiment": -62,
-      "combinedScore": 51,
+      "combinedScore": 45,
       "signal": "WAIT",
-      "reason": "Technical 94/100; News -100; Market sentiment -62."
+      "reason": "Technical 53/100; News +0; Market sentiment -62."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 2.91,
-      "change24h": 8.34,
-      "volume24h": 85666418.3909,
+      "price": 3.003,
+      "change24h": 5.479,
+      "volume24h": 78831472.8319,
       "technical": {
-        "rsi": 67.5,
-        "ema9": 2.8862817744833325,
-        "ema21": 2.880103481577922,
-        "macdBull": true,
+        "rsi": 51.1,
+        "ema9": 3.006212063900504,
+        "ema21": 2.9982962895301934,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 4.1,
-        "score": 94
+        "volumeRatio": 2.05,
+        "score": 48
       },
       "newsScore": 0,
       "newsCount": 1,
@@ -262,70 +231,55 @@
         }
       ],
       "marketSentiment": -62,
-      "combinedScore": 66,
-      "signal": "BUY",
-      "reason": "Technical 94/100; News +0; Market sentiment -62."
+      "combinedScore": 43,
+      "signal": "WAIT",
+      "reason": "Technical 48/100; News +0; Market sentiment -62."
     },
     {
-      "symbol": "BNBUSDT",
-      "coin": "BNB",
-      "price": 544.84,
-      "change24h": 4.013,
-      "volume24h": 61545490.3126,
+      "symbol": "XRPUSDT",
+      "coin": "XRP",
+      "price": 0.9307,
+      "change24h": 0.172,
+      "volume24h": 76291276.76741,
       "technical": {
-        "rsi": 66.4,
-        "ema9": 542.5513369552093,
-        "ema21": 542.1421091395864,
+        "rsi": 57.0,
+        "ema9": 0.9252648899247509,
+        "ema21": 0.9250616838964506,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 1.99,
-        "score": 94
+        "volumeRatio": 1.33,
+        "score": 89
       },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
+      "newsScore": -100,
+      "newsCount": 1,
+      "news": [
+        {
+          "title": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
+          "link": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion",
+          "published": "Sat, 21 Nov 2026 05:59:19 +0000",
+          "source": "CoinDesk",
+          "text": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion The token broke its previous November lows during Saturday's crypto selloff, with long positions accounting for most XRP liquidations and technical indicators showing further weakness."
+        }
+      ],
       "marketSentiment": -62,
-      "combinedScore": 66,
-      "signal": "BUY",
-      "reason": "Technical 94/100; News +0; Market sentiment -62."
-    },
-    {
-      "symbol": "RLUSDUSDT",
-      "coin": "RLUSD",
-      "price": 1.0018,
-      "change24h": -0.01,
-      "volume24h": 53788438.6135,
-      "technical": {
-        "rsi": 32.5,
-        "ema9": 1.0018740903432262,
-        "ema21": 1.0019874077565127,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 1.87,
-        "score": 16
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -62,
-      "combinedScore": 27,
-      "signal": "SELL",
-      "reason": "Technical 16/100; News +0; Market sentiment -62."
+      "combinedScore": 48,
+      "signal": "WAIT",
+      "reason": "Technical 89/100; News -100; Market sentiment -62."
     },
     {
       "symbol": "UUSDT",
       "coin": "U",
-      "price": 1.0014,
-      "change24h": 0.07,
-      "volume24h": 46857604.772,
+      "price": 1.0013,
+      "change24h": 0.04,
+      "volume24h": 49677204.5907,
       "technical": {
-        "rsi": 35.9,
-        "ema9": 1.0015157991701542,
-        "ema21": 1.0015740417497954,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 2.84,
-        "score": 6
+        "rsi": 48.1,
+        "ema9": 1.001354747489796,
+        "ema21": 1.0013292545273362,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 2.55,
+        "score": 72
       },
       "newsScore": -25,
       "newsCount": 4,
@@ -360,12 +314,79 @@
         }
       ],
       "marketSentiment": -62,
-      "combinedScore": 18,
-      "signal": "SELL",
-      "reason": "Technical 6/100; News -25; Market sentiment -62."
+      "combinedScore": 51,
+      "signal": "WAIT",
+      "reason": "Technical 72/100; News -25; Market sentiment -62."
+    },
+    {
+      "symbol": "BNBUSDT",
+      "coin": "BNB",
+      "price": 560.46,
+      "change24h": 2.571,
+      "volume24h": 48660520.05098,
+      "technical": {
+        "rsi": 66.5,
+        "ema9": 557.4153096462844,
+        "ema21": 555.4738446328078,
+        "macdBull": false,
+        "emaBull": true,
+        "volumeRatio": 1.24,
+        "score": 65
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -62,
+      "combinedScore": 51,
+      "signal": "WAIT",
+      "reason": "Technical 65/100; News +0; Market sentiment -62."
+    },
+    {
+      "symbol": "RLUSDUSDT",
+      "coin": "RLUSD",
+      "price": 1.0013,
+      "change24h": -0.06,
+      "volume24h": 48494058.3387,
+      "technical": {
+        "rsi": 38.0,
+        "ema9": 1.0013718351021157,
+        "ema21": 1.001450951833344,
+        "macdBull": true,
+        "emaBull": false,
+        "volumeRatio": 0.08,
+        "score": 35
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -62,
+      "combinedScore": 36,
+      "signal": "WAIT",
+      "reason": "Technical 35/100; News +0; Market sentiment -62."
     }
   ],
   "news": [
+    {
+      "title": "The future of onchain FX could start with users, not institutional liquidity",
+      "link": "https://cointelegraph.com/opinion/future-onchain-fx-could-start-with-users-not-institutional-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sun, 22 Nov 2026 14:30:00 +0000",
+      "source": "Cointelegraph",
+      "text": "The future of onchain FX could start with users, not institutional liquidity Onchain FX does not need to recreate the trillion-dollar institutional market to become useful. Real demand can make smaller markets work first."
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sun, 22 Nov 2026 11:25:27 +0000",
+      "source": "Cointelegraph",
+      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "title": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades",
+      "link": "https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sun, 22 Nov 2026 09:33:06 +0000",
+      "source": "Cointelegraph",
+      "text": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades Kraken said all orders were processed correctly and found no evidence of a security breach or compromised accounts."
+    },
     {
       "title": "South Korean exchanges halt CYBER transfers amid suspected bridge exploit",
       "link": "https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -379,13 +400,6 @@
       "published": "Sun, 22 Nov 2026 05:28:43 +0000",
       "source": "Cointelegraph",
       "text": "Chainflip confirms $12M hack, offers attacker 10% bounty Chainflip offered the attacker a 10% bounty to return 90% of the stolen funds by Nov. 23, promising to treat the return as a white-hat recovery and withdraw law enforcement complaints."
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 21 Nov 2026 11:18:52 +0000",
-      "source": "Cointelegraph",
-      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
       "title": "ECB seeks industry partners for tokenized deposits, securities experiments",
@@ -491,20 +505,6 @@
       "published": "Fri, 20 Nov 2026 08:03:34 +0000",
       "source": "Cointelegraph",
       "text": "SEC charges 8 firms over fake crypto platforms tied to $37M fraud The SEC says the operators showed investors fake certificates and pointed them to filings on the agency’s website as proof of regulatory approval."
-    },
-    {
-      "title": "Anthropic’s $81B IPO draws half the net retail buying of SpaceX’s",
-      "link": "https://cointelegraph.com/markets/anthropic-ipo-spacex-retail-buying-first-day-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 20 Nov 2026 06:24:41 +0000",
-      "source": "Cointelegraph",
-      "text": "Anthropic’s $81B IPO draws half the net retail buying of SpaceX’s Retail investors traded $772 million in Anthropic shares on Thursday, the most Vanda Research has recorded for a market debut since 2012."
-    },
-    {
-      "title": "Institutions pile back into US Bitcoin ETFs in Q3 after selling streak",
-      "link": "https://cointelegraph.com/markets/institutional-bitcoin-etf-holdings-clock-record-quarter-after-selling-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 20 Nov 2026 03:33:22 +0000",
-      "source": "Cointelegraph",
-      "text": "Institutions pile back into US Bitcoin ETFs in Q3 after selling streak Asset managers added the equivalent of 49,229 Bitcoin to their US Bitcoin ETF holdings in the third quarter, reversing three quarters of net selling."
     }
   ],
   "paper": {
@@ -660,16 +660,6 @@
         "mode": "PAPER ONLY"
       },
       {
-        "symbol": "BTCUSDT",
-        "side": "SELL",
-        "entry": 60027.37,
-        "stopLoss": 60927.78055,
-        "takeProfit": 58226.5489,
-        "entryTime": "2026-11-22T01:40:12.830559+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
         "symbol": "ETHUSDT",
         "side": "BUY",
         "entry": 1683.02,
@@ -685,16 +675,6 @@
         "entry": 791.41,
         "stopLoss": 779.53885,
         "takeProfit": 815.1523,
-        "entryTime": "2026-11-22T08:50:14.510388+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
-        "symbol": "NEARUSDT",
-        "side": "BUY",
-        "entry": 2.91,
-        "stopLoss": 2.86635,
-        "takeProfit": 2.9973,
         "entryTime": "2026-11-22T08:50:14.510388+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
@@ -3570,6 +3550,32 @@
         "exitPrice": 791.41,
         "exitTime": "2026-11-22T08:50:14.510388+00:00",
         "pnlPercent": -1.571
+      },
+      {
+        "symbol": "BTCUSDT",
+        "side": "SELL",
+        "entry": 60027.37,
+        "stopLoss": 60927.78055,
+        "takeProfit": 58226.5489,
+        "entryTime": "2026-11-22T01:40:12.830559+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 61388.25,
+        "exitTime": "2026-11-22T16:43:07.408952+00:00",
+        "pnlPercent": -2.267
+      },
+      {
+        "symbol": "NEARUSDT",
+        "side": "BUY",
+        "entry": 2.91,
+        "stopLoss": 2.86635,
+        "takeProfit": 2.9973,
+        "entryTime": "2026-11-22T08:50:14.510388+00:00",
+        "status": "TAKE_PROFIT",
+        "mode": "PAPER ONLY",
+        "exitPrice": 3.003,
+        "exitTime": "2026-11-22T16:43:07.408952+00:00",
+        "pnlPercent": 3.196
       }
     ]
   },
