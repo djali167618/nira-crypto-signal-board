@@ -161,12 +161,42 @@
       "mode": "PAPER ONLY"
     },
     {
+      "symbol": "ETHUSDT",
+      "side": "BUY",
+      "entry": 1683.02,
+      "stopLoss": 1657.7747,
+      "takeProfit": 1733.5106,
+      "entryTime": "2026-11-22T08:50:14.510388+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
+    },
+    {
       "symbol": "ZECUSDT",
-      "side": "SELL",
-      "entry": 779.17,
-      "stopLoss": 790.85755,
-      "takeProfit": 755.7949,
-      "entryTime": "2026-11-22T01:40:12.830559+00:00",
+      "side": "BUY",
+      "entry": 791.41,
+      "stopLoss": 779.53885,
+      "takeProfit": 815.1523,
+      "entryTime": "2026-11-22T08:50:14.510388+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "NEARUSDT",
+      "side": "BUY",
+      "entry": 2.91,
+      "stopLoss": 2.86635,
+      "takeProfit": 2.9973,
+      "entryTime": "2026-11-22T08:50:14.510388+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "BNBUSDT",
+      "side": "BUY",
+      "entry": 544.84,
+      "stopLoss": 536.6674,
+      "takeProfit": 561.1852,
+      "entryTime": "2026-11-22T08:50:14.510388+00:00",
       "status": "OPEN",
       "mode": "PAPER ONLY"
     }
@@ -3018,6 +3048,19 @@
       "exitPrice": 70.38,
       "exitTime": "2026-11-21T16:26:01.069073+00:00",
       "pnlPercent": 4.39
+    },
+    {
+      "symbol": "ZECUSDT",
+      "side": "SELL",
+      "entry": 779.17,
+      "stopLoss": 790.85755,
+      "takeProfit": 755.7949,
+      "entryTime": "2026-11-22T01:40:12.830559+00:00",
+      "status": "STOP_LOSS",
+      "mode": "PAPER ONLY",
+      "exitPrice": 791.41,
+      "exitTime": "2026-11-22T08:50:14.510388+00:00",
+      "pnlPercent": -1.571
     }
   ]
 }
