@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-23 02:37:13 UTC",
+  "generatedAt": "2026-11-23 11:13:51 UTC",
   "interval": "15m candles",
-  "marketSentiment": -62,
-  "overallNewsScore": -33,
+  "marketSentiment": -68,
+  "overallNewsScore": -50,
   "fearGreed": {
     "value": 11,
     "label": "Extreme Fear",
@@ -12,34 +12,41 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 60756.85,
-      "change24h": 1.827,
-      "volume24h": 1241908326.4559946,
+      "price": 61350.01,
+      "change24h": 0.554,
+      "volume24h": 1076891454.6932147,
       "technical": {
-        "rsi": 40.3,
-        "ema9": 60971.26439783378,
-        "ema21": 60998.299757622925,
+        "rsi": 50.8,
+        "ema9": 61440.46107633788,
+        "ema21": 61434.52830045805,
         "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.7,
-        "score": 11
+        "emaBull": true,
+        "volumeRatio": 0.89,
+        "score": 53
       },
-      "newsScore": -10,
+      "newsScore": -20,
       "newsCount": 5,
       "news": [
+        {
+          "title": "Bitcoin ETFs shed $1.8B in third-largest weekly outflow",
+          "link": "https://cointelegraph.com/markets/bitcoin-etfs-third-largest-weekly-outflows-1-8-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Mon, 23 Nov 2026 08:08:52 +0000",
+          "source": "Cointelegraph",
+          "text": "Bitcoin ETFs shed $1.8B in third-largest weekly outflow Bitcoin ETF outflows reached $4.14 billion in November through Friday, nearing June’s $4.51 billion total."
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Mon, 23 Nov 2026 06:00:00 +0000",
+          "source": "Cointelegraph",
+          "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+        },
         {
           "title": "Will Bitcoin’s big rebound hold? More tampered Ledgers found: Hodler’s Digest",
           "link": "https://cointelegraph.com/magazine/will-bitcoins-big-rebound-hold-more-tampered-ledgers-found-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "published": "Sun, 22 Nov 2026 22:47:09 +0000",
           "source": "Cointelegraph",
           "text": "Will Bitcoin’s big rebound hold? More tampered Ledgers found: Hodler’s Digest Bitcoin rebounds sharply from its new cycle low, but is $55,111 really the bottom? Ledger investigates new reports of tampered devices in Berlin and the UAE."
-        },
-        {
-          "title": "Here’s what happened in crypto today",
-          "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Sun, 22 Nov 2026 11:25:27 +0000",
-          "source": "Cointelegraph",
-          "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
         },
         {
           "title": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades",
@@ -54,37 +61,30 @@
           "published": "Fri, 20 Nov 2026 16:55:51 +0000",
           "source": "Cointelegraph",
           "text": "Bitcoin falls below $60K for first time since July amid broader market selloff Bitcoin fell nearly 6% as US stocks declined, with the Nasdaq dropping more than 2% and Anthropic shares losing almost 10%."
-        },
-        {
-          "title": "Bitcoin price drops to $60K as Anthropic drops to $87 in tech sell-off",
-          "link": "https://cointelegraph.com/markets/bitcoin-hits-new-20-week-low-anthropic-drops-87-tech-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Fri, 20 Nov 2026 15:52:06 +0000",
-          "source": "Cointelegraph",
-          "text": "Bitcoin price drops to $60K as Anthropic drops to $87 in tech sell-off Bitcoin price strength felt pressure from falling US equities as traders reassessed AI prospects after Anthropic’s IPO."
         }
       ],
-      "marketSentiment": -62,
-      "combinedScore": 23,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News -10; Market sentiment -62."
+      "marketSentiment": -68,
+      "combinedScore": 42,
+      "signal": "WAIT",
+      "reason": "Technical 53/100; News -20; Market sentiment -68."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 1704.64,
-      "change24h": 1.626,
-      "volume24h": 407094537.303419,
+      "price": 1723.79,
+      "change24h": 0.706,
+      "volume24h": 387193222.885289,
       "technical": {
-        "rsi": 34.6,
-        "ema9": 1713.7759646143647,
-        "ema21": 1716.271711754206,
+        "rsi": 50.7,
+        "ema9": 1724.2513019694625,
+        "ema21": 1724.6250551069318,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.91,
-        "score": 11
+        "volumeRatio": 1.13,
+        "score": 23
       },
-      "newsScore": -7,
-      "newsCount": 5,
+      "newsScore": -33,
+      "newsCount": 4,
       "news": [
         {
           "title": "South Korean exchanges halt CYBER transfers amid suspected bridge exploit",
@@ -101,13 +101,6 @@
           "text": "Binance hacker moves nearly $600M in ETH, routes funds through THORChain, Chainflip OnChain Lens tracked nearly $600 million in ETH transfers over two days as the Binance hackers moved the stolen funds through fresh wallets and cross-chain protocols to obscure their trail."
         },
         {
-          "title": "Ethereum’s Glamsterdam upgrade could slip to May 2027 over compatibility concerns",
-          "link": "https://cointelegraph.com/news/ethereum-glamsterdam-could-slip-to-may-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Thu, 19 Nov 2026 18:20:49 +0000",
-          "source": "Cointelegraph",
-          "text": "Ethereum’s Glamsterdam upgrade could slip to May 2027 over compatibility concerns Ethereum developers are weighing changes to gas pricing proposals that could disrupt existing smart contracts, after contacting at least 50 affected companies."
-        },
-        {
           "title": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
           "link": "https://www.coindesk.com/markets/2026/11/21/ether-treasury-firm-btcs-warns-sec-its-usd54-million-aave-loan-could-be-liquidated",
           "published": "Sat, 21 Nov 2026 12:30:00 +0000",
@@ -122,25 +115,25 @@
           "text": "Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment The firm is the latest to join in building blockchain-based stock markets under the agency’s five-year \"innovation exemption\" for tokenized trading."
         }
       ],
-      "marketSentiment": -62,
-      "combinedScore": 23,
+      "marketSentiment": -68,
+      "combinedScore": 25,
       "signal": "SELL",
-      "reason": "Technical 11/100; News -7; Market sentiment -62."
+      "reason": "Technical 23/100; News -33; Market sentiment -68."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 70.23,
-      "change24h": 0.53,
-      "volume24h": 135959353.36173,
+      "price": 72.35,
+      "change24h": 2.175,
+      "volume24h": 134765707.54881,
       "technical": {
-        "rsi": 45.2,
-        "ema9": 70.50051650850828,
-        "ema21": 70.4844909226506,
+        "rsi": 59.0,
+        "ema9": 72.31972404622871,
+        "ema21": 72.13146239395121,
         "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 0.69,
-        "score": 53
+        "volumeRatio": 0.83,
+        "score": 65
       },
       "newsScore": -100,
       "newsCount": 1,
@@ -153,71 +146,71 @@
           "text": "South Korean exchanges halt CYBER transfers amid suspected bridge exploit Cyber reported unexpected minting of CYBER tokens on Solana, followed by tokens moving out of its Ethereum bridge lockbox, prompting an investigation."
         }
       ],
-      "marketSentiment": -62,
-      "combinedScore": 30,
+      "marketSentiment": -68,
+      "combinedScore": 36,
       "signal": "WAIT",
-      "reason": "Technical 53/100; News -100; Market sentiment -62."
+      "reason": "Technical 65/100; News -100; Market sentiment -68."
     },
     {
       "symbol": "USD1USDT",
       "coin": "USD1",
-      "price": 1.00093,
-      "change24h": -0.018,
-      "volume24h": 106974183.38406,
+      "price": 1.00071,
+      "change24h": -0.023,
+      "volume24h": 96215829.51325,
       "technical": {
-        "rsi": 49.5,
-        "ema9": 1.0009690735915295,
-        "ema21": 1.0009549799970692,
+        "rsi": 53.1,
+        "ema9": 1.0006658496053835,
+        "ema21": 1.000704844303478,
+        "macdBull": true,
+        "emaBull": false,
+        "volumeRatio": 2.0,
+        "score": 52
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -68,
+      "combinedScore": 44,
+      "signal": "WAIT",
+      "reason": "Technical 52/100; News +0; Market sentiment -68."
+    },
+    {
+      "symbol": "ZECUSDT",
+      "coin": "ZEC",
+      "price": 791.56,
+      "change24h": -0.852,
+      "volume24h": 83136618.20348,
+      "technical": {
+        "rsi": 48.3,
+        "ema9": 793.7014058840839,
+        "ema21": 793.0910227089521,
         "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 0.3,
+        "volumeRatio": 0.64,
         "score": 53
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -62,
+      "marketSentiment": -68,
       "combinedScore": 45,
       "signal": "WAIT",
-      "reason": "Technical 53/100; News +0; Market sentiment -62."
-    },
-    {
-      "symbol": "ZECUSDT",
-      "coin": "ZEC",
-      "price": 782.7,
-      "change24h": 1.222,
-      "volume24h": 81404569.18308,
-      "technical": {
-        "rsi": 42.0,
-        "ema9": 789.0203957922126,
-        "ema21": 790.5900298040754,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 1.21,
-        "score": 11
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -62,
-      "combinedScore": 24,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment -62."
+      "reason": "Technical 53/100; News +0; Market sentiment -68."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 0.9163,
-      "change24h": -1.09,
-      "volume24h": 73678694.75493,
+      "price": 0.9398,
+      "change24h": 0.599,
+      "volume24h": 75983360.94138,
       "technical": {
-        "rsi": 35.7,
-        "ema9": 0.9210220413621367,
-        "ema21": 0.9231757260972395,
+        "rsi": 55.8,
+        "ema9": 0.939500495928342,
+        "ema21": 0.9382693704130557,
         "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.95,
-        "score": 11
+        "emaBull": true,
+        "volumeRatio": 0.73,
+        "score": 65
       },
       "newsScore": -100,
       "newsCount": 1,
@@ -230,25 +223,25 @@
           "text": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion The token broke its previous November lows during Saturday's crypto selloff, with long positions accounting for most XRP liquidations and technical indicators showing further weakness."
         }
       ],
-      "marketSentiment": -62,
-      "combinedScore": 9,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News -100; Market sentiment -62."
+      "marketSentiment": -68,
+      "combinedScore": 36,
+      "signal": "WAIT",
+      "reason": "Technical 65/100; News -100; Market sentiment -68."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 2.954,
-      "change24h": 2.321,
-      "volume24h": 67438570.9966,
+      "price": 3.011,
+      "change24h": 0.033,
+      "volume24h": 66345672.5496,
       "technical": {
-        "rsi": 40.2,
-        "ema9": 2.972953297801037,
-        "ema21": 2.9785859892374997,
+        "rsi": 50.6,
+        "ema9": 3.000829646210287,
+        "ema21": 3.0020268722754855,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.48,
-        "score": 11
+        "volumeRatio": 0.44,
+        "score": 23
       },
       "newsScore": 0,
       "newsCount": 1,
@@ -261,82 +254,117 @@
           "text": "BlackRock’s IBIT loses record $541M amid Anthropic market debut BlackRock’s IBIT posted its largest daily outflow on record, taking three-session outflows near $900 million as BTC dipped amid a broader market selloff."
         }
       ],
-      "marketSentiment": -62,
-      "combinedScore": 24,
+      "marketSentiment": -68,
+      "combinedScore": 30,
       "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment -62."
+      "reason": "Technical 23/100; News +0; Market sentiment -68."
     },
     {
       "symbol": "BNBUSDT",
       "coin": "BNB",
-      "price": 553.55,
-      "change24h": 1.591,
-      "volume24h": 52161937.60152,
+      "price": 556.5,
+      "change24h": 0.58,
+      "volume24h": 60591582.87532,
       "technical": {
-        "rsi": 34.8,
-        "ema9": 557.0605689946981,
-        "ema21": 557.6132323285989,
+        "rsi": 44.9,
+        "ema9": 557.0851759980627,
+        "ema21": 557.582333123481,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 1.88,
-        "score": 6
+        "volumeRatio": 0.55,
+        "score": 11
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -62,
-      "combinedScore": 22,
+      "marketSentiment": -68,
+      "combinedScore": 24,
       "signal": "SELL",
-      "reason": "Technical 6/100; News +0; Market sentiment -62."
+      "reason": "Technical 11/100; News +0; Market sentiment -68."
     },
     {
       "symbol": "SOXLBUSDT",
       "coin": "SOXLB",
-      "price": 33.31,
-      "change24h": 2.021,
-      "volume24h": 48875998.04145,
+      "price": 36.36,
+      "change24h": 6.878,
+      "volume24h": 60422260.4334,
       "technical": {
-        "rsi": 45.2,
-        "ema9": 34.47093902355251,
-        "ema21": 34.33609924982176,
+        "rsi": 58.1,
+        "ema9": 36.393801302073925,
+        "ema21": 36.103407316821,
         "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 0.59,
-        "score": 53
+        "volumeRatio": 0.91,
+        "score": 65
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -62,
-      "combinedScore": 45,
+      "marketSentiment": -68,
+      "combinedScore": 51,
       "signal": "WAIT",
-      "reason": "Technical 53/100; News +0; Market sentiment -62."
+      "reason": "Technical 65/100; News +0; Market sentiment -68."
     },
     {
-      "symbol": "RLUSDUSDT",
-      "coin": "RLUSD",
-      "price": 1.0016,
-      "change24h": -0.04,
-      "volume24h": 45428155.7991,
+      "symbol": "NVDABUSDT",
+      "coin": "NVDAB",
+      "price": 136.42,
+      "change24h": 2.803,
+      "volume24h": 58344699.67919,
       "technical": {
-        "rsi": 49.4,
-        "ema9": 1.0016309808083117,
-        "ema21": 1.0016203988664854,
+        "rsi": 56.4,
+        "ema9": 136.26756679850325,
+        "ema21": 135.75470738468735,
         "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 0.01,
-        "score": 53
+        "volumeRatio": 1.11,
+        "score": 65
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -62,
-      "combinedScore": 45,
+      "marketSentiment": -68,
+      "combinedScore": 51,
       "signal": "WAIT",
-      "reason": "Technical 53/100; News +0; Market sentiment -62."
+      "reason": "Technical 65/100; News +0; Market sentiment -68."
     }
   ],
   "news": [
+    {
+      "title": "‘MoldyRoost’ ads can steal crypto wallet recovery phrases from iPhones",
+      "link": "https://cointelegraph.com/news/moldyroost-malware-drain-iphone-wallets-one-tap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 23 Nov 2026 09:05:44 +0000",
+      "source": "Cointelegraph",
+      "text": "‘MoldyRoost’ ads can steal crypto wallet recovery phrases from iPhones The campaign used at least 480 ad domains to target users in more than 47 countries and could infect a vulnerable iPhone with a single tap."
+    },
+    {
+      "title": "Bitcoin ETFs shed $1.8B in third-largest weekly outflow",
+      "link": "https://cointelegraph.com/markets/bitcoin-etfs-third-largest-weekly-outflows-1-8-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 23 Nov 2026 08:08:52 +0000",
+      "source": "Cointelegraph",
+      "text": "Bitcoin ETFs shed $1.8B in third-largest weekly outflow Bitcoin ETF outflows reached $4.14 billion in November through Friday, nearing June’s $4.51 billion total."
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 23 Nov 2026 06:00:00 +0000",
+      "source": "Cointelegraph",
+      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "title": "Trump renews call for Nvidia to rehire Jensen Huang as CEO",
+      "link": "https://cointelegraph.com/news/trump-renews-call-for-nvidia-to-rehire-jensen-huang-as-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 23 Nov 2026 03:37:20 +0000",
+      "source": "Cointelegraph",
+      "text": "Trump renews call for Nvidia to rehire Jensen Huang as CEO In a Truth Social post on Monday, Trump said rehiring Jensen Huang would benefit both Nvidia and the US."
+    },
+    {
+      "title": "Billionaire Bill Ackman warns Fed will make a rate ‘mistake’ in December",
+      "link": "https://cointelegraph.com/markets/billionaire-bill-ackman-warns-fed-rate-hikes-could-trigger-recession?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 23 Nov 2026 02:47:39 +0000",
+      "source": "Cointelegraph",
+      "text": "Billionaire Bill Ackman warns Fed will make a rate ‘mistake’ in December Markets and economists widely expect the US Federal Reserve to raise interest rates by 25 basis points in its December meeting."
+    },
     {
       "title": "Half of wallets on Trump’s dinner list got tokens from non-US exchanges",
       "link": "https://cointelegraph.com/news/half-wallets-trumps-dinner-list-got-tokens-from-non-us-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -357,13 +385,6 @@
       "published": "Sun, 22 Nov 2026 14:30:00 +0000",
       "source": "Cointelegraph",
       "text": "The future of onchain FX could start with users, not institutional liquidity Onchain FX does not need to recreate the trillion-dollar institutional market to become useful. Real demand can make smaller markets work first."
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 22 Nov 2026 11:25:27 +0000",
-      "source": "Cointelegraph",
-      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
       "title": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades",
@@ -448,34 +469,6 @@
       "published": "Fri, 20 Nov 2026 15:32:30 +0000",
       "source": "Cointelegraph",
       "text": "DBS bets it can lose the deposit and keep the client The Singapore bank earned a record $208 million in transaction services fees in the third quarter — now it’s helping companies turn deposits into stablecoins they can spend without it."
-    },
-    {
-      "title": "Lagarde warns Europe could miss chance to unify tokenized markets",
-      "link": "https://cointelegraph.com/news/lagarde-europe-limited-window-tokenization-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 20 Nov 2026 13:21:39 +0000",
-      "source": "Cointelegraph",
-      "text": "Lagarde warns Europe could miss chance to unify tokenized markets The ECB president said Europe’s market for tokenized securities could split into platforms that cannot settle trades with one another."
-    },
-    {
-      "title": "Binance hacker moves nearly $600M in ETH, routes funds through THORChain, Chainflip",
-      "link": "https://cointelegraph.com/news/binance-hacker-600m-eth-routes-thorchain-chainflip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 20 Nov 2026 11:31:41 +0000",
-      "source": "Cointelegraph",
-      "text": "Binance hacker moves nearly $600M in ETH, routes funds through THORChain, Chainflip OnChain Lens tracked nearly $600 million in ETH transfers over two days as the Binance hackers moved the stolen funds through fresh wallets and cross-chain protocols to obscure their trail."
-    },
-    {
-      "title": "VanEck to end Gemini ETF custody deals, keeps Coinbase",
-      "link": "https://cointelegraph.com/news/vaneck-gemini-etf-custody-end-keep-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 20 Nov 2026 10:54:38 +0000",
-      "source": "Cointelegraph",
-      "text": "VanEck to end Gemini ETF custody deals, keeps Coinbase VanEck plans to end Gemini’s custody agreements for three crypto ETFs in February 2027, while Coinbase will continue serving as a custodian for the funds."
-    },
-    {
-      "title": "Bitcoin nears repeat of chart pattern that preceded 2023’s $25K retest",
-      "link": "https://cointelegraph.com/markets/bitcoin-first-death-cross-repeat-2023-bottom-25k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 20 Nov 2026 10:29:10 +0000",
-      "source": "Cointelegraph",
-      "text": "Bitcoin nears repeat of chart pattern that preceded 2023’s $25K retest Bitcoin’s 21-day moving average fell below its 200-day average, and analyst Keith Alan expects a second bearish crossover by Sunday."
     }
   ],
   "paper": {
@@ -657,16 +650,6 @@
         "stopLoss": 536.6674,
         "takeProfit": 561.1852,
         "entryTime": "2026-11-22T08:50:14.510388+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
-        "symbol": "XRPUSDT",
-        "side": "SELL",
-        "entry": 0.9254,
-        "stopLoss": 0.939281,
-        "takeProfit": 0.897638,
-        "entryTime": "2026-11-22T22:05:59.611291+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       },
@@ -3577,6 +3560,19 @@
         "exitPrice": 3.003,
         "exitTime": "2026-11-22T16:43:07.408952+00:00",
         "pnlPercent": 3.196
+      },
+      {
+        "symbol": "XRPUSDT",
+        "side": "SELL",
+        "entry": 0.9254,
+        "stopLoss": 0.939281,
+        "takeProfit": 0.897638,
+        "entryTime": "2026-11-22T22:05:59.611291+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 0.9398,
+        "exitTime": "2026-11-23T11:13:51.131189+00:00",
+        "pnlPercent": -1.556
       }
     ]
   },
