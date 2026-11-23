@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22 22:05:59 UTC",
+  "generatedAt": "2026-11-23 02:37:13 UTC",
   "interval": "15m candles",
   "marketSentiment": -62,
   "overallNewsScore": -33,
@@ -12,21 +12,28 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 60918.48,
-      "change24h": 1.178,
-      "volume24h": 1200502929.7355342,
+      "price": 60756.85,
+      "change24h": 1.827,
+      "volume24h": 1241908326.4559946,
       "technical": {
-        "rsi": 55.7,
-        "ema9": 60894.114090808434,
-        "ema21": 60847.06699310525,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.45,
-        "score": 89
+        "rsi": 40.3,
+        "ema9": 60971.26439783378,
+        "ema21": 60998.299757622925,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.7,
+        "score": 11
       },
       "newsScore": -10,
       "newsCount": 5,
       "news": [
+        {
+          "title": "Will Bitcoin’s big rebound hold? More tampered Ledgers found: Hodler’s Digest",
+          "link": "https://cointelegraph.com/magazine/will-bitcoins-big-rebound-hold-more-tampered-ledgers-found-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Sun, 22 Nov 2026 22:47:09 +0000",
+          "source": "Cointelegraph",
+          "text": "Will Bitcoin’s big rebound hold? More tampered Ledgers found: Hodler’s Digest Bitcoin rebounds sharply from its new cycle low, but is $55,111 really the bottom? Ledger investigates new reports of tampered devices in Berlin and the UAE."
+        },
         {
           "title": "Here’s what happened in crypto today",
           "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -54,34 +61,27 @@
           "published": "Fri, 20 Nov 2026 15:52:06 +0000",
           "source": "Cointelegraph",
           "text": "Bitcoin price drops to $60K as Anthropic drops to $87 in tech sell-off Bitcoin price strength felt pressure from falling US equities as traders reassessed AI prospects after Anthropic’s IPO."
-        },
-        {
-          "title": "Bitcoin nears repeat of chart pattern that preceded 2023’s $25K retest",
-          "link": "https://cointelegraph.com/markets/bitcoin-first-death-cross-repeat-2023-bottom-25k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Fri, 20 Nov 2026 10:29:10 +0000",
-          "source": "Cointelegraph",
-          "text": "Bitcoin nears repeat of chart pattern that preceded 2023’s $25K retest Bitcoin’s 21-day moving average fell below its 200-day average, and analyst Keith Alan expects a second bearish crossover by Sunday."
         }
       ],
       "marketSentiment": -62,
-      "combinedScore": 62,
-      "signal": "WAIT",
-      "reason": "Technical 89/100; News -10; Market sentiment -62."
+      "combinedScore": 23,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News -10; Market sentiment -62."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 1717.19,
-      "change24h": 2.085,
-      "volume24h": 388033273.953231,
+      "price": 1704.64,
+      "change24h": 1.626,
+      "volume24h": 407094537.303419,
       "technical": {
-        "rsi": 57.0,
-        "ema9": 1720.4607819906882,
-        "ema21": 1717.639672831571,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.93,
-        "score": 89
+        "rsi": 34.6,
+        "ema9": 1713.7759646143647,
+        "ema21": 1716.271711754206,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.91,
+        "score": 11
       },
       "newsScore": -7,
       "newsCount": 5,
@@ -123,24 +123,24 @@
         }
       ],
       "marketSentiment": -62,
-      "combinedScore": 62,
-      "signal": "WAIT",
-      "reason": "Technical 89/100; News -7; Market sentiment -62."
+      "combinedScore": 23,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News -7; Market sentiment -62."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 70.42,
-      "change24h": 0.371,
-      "volume24h": 131239580.28132,
+      "price": 70.23,
+      "change24h": 0.53,
+      "volume24h": 135959353.36173,
       "technical": {
-        "rsi": 56.6,
-        "ema9": 70.32805950156968,
-        "ema21": 70.31618831178625,
-        "macdBull": true,
+        "rsi": 45.2,
+        "ema9": 70.50051650850828,
+        "ema21": 70.4844909226506,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 0.86,
-        "score": 89
+        "volumeRatio": 0.69,
+        "score": 53
       },
       "newsScore": -100,
       "newsCount": 1,
@@ -154,70 +154,70 @@
         }
       ],
       "marketSentiment": -62,
-      "combinedScore": 48,
+      "combinedScore": 30,
       "signal": "WAIT",
-      "reason": "Technical 89/100; News -100; Market sentiment -62."
+      "reason": "Technical 53/100; News -100; Market sentiment -62."
     },
     {
       "symbol": "USD1USDT",
       "coin": "USD1",
-      "price": 1.00109,
-      "change24h": 0.031,
-      "volume24h": 109226100.55625,
+      "price": 1.00093,
+      "change24h": -0.018,
+      "volume24h": 106974183.38406,
       "technical": {
-        "rsi": 63.8,
-        "ema9": 1.0009366236962687,
-        "ema21": 1.0008918003422622,
-        "macdBull": true,
+        "rsi": 49.5,
+        "ema9": 1.0009690735915295,
+        "ema21": 1.0009549799970692,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 1.9,
-        "score": 94
+        "volumeRatio": 0.3,
+        "score": 53
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": -62,
-      "combinedScore": 66,
-      "signal": "BUY",
-      "reason": "Technical 94/100; News +0; Market sentiment -62."
+      "combinedScore": 45,
+      "signal": "WAIT",
+      "reason": "Technical 53/100; News +0; Market sentiment -62."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 795.89,
-      "change24h": 1.657,
-      "volume24h": 85319331.88202,
+      "price": 782.7,
+      "change24h": 1.222,
+      "volume24h": 81404569.18308,
       "technical": {
-        "rsi": 58.0,
-        "ema9": 792.9345705625444,
-        "ema21": 792.4705219637216,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.37,
-        "score": 89
+        "rsi": 42.0,
+        "ema9": 789.0203957922126,
+        "ema21": 790.5900298040754,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 1.21,
+        "score": 11
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": -62,
-      "combinedScore": 63,
-      "signal": "WAIT",
-      "reason": "Technical 89/100; News +0; Market sentiment -62."
+      "combinedScore": 24,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment -62."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 0.9254,
-      "change24h": -0.226,
-      "volume24h": 70318238.37445,
+      "price": 0.9163,
+      "change24h": -1.09,
+      "volume24h": 73678694.75493,
       "technical": {
-        "rsi": 47.4,
-        "ema9": 0.9267627244731003,
-        "ema21": 0.9269494539626613,
+        "rsi": 35.7,
+        "ema9": 0.9210220413621367,
+        "ema21": 0.9231757260972395,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.55,
-        "score": 23
+        "volumeRatio": 0.95,
+        "score": 11
       },
       "newsScore": -100,
       "newsCount": 1,
@@ -231,24 +231,24 @@
         }
       ],
       "marketSentiment": -62,
-      "combinedScore": 15,
+      "combinedScore": 9,
       "signal": "SELL",
-      "reason": "Technical 23/100; News -100; Market sentiment -62."
+      "reason": "Technical 11/100; News -100; Market sentiment -62."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 2.996,
-      "change24h": 4.064,
-      "volume24h": 68116537.2829,
+      "price": 2.954,
+      "change24h": 2.321,
+      "volume24h": 67438570.9966,
       "technical": {
-        "rsi": 50.8,
-        "ema9": 2.9923041127732897,
-        "ema21": 2.9937505200245886,
+        "rsi": 40.2,
+        "ema9": 2.972953297801037,
+        "ema21": 2.9785859892374997,
         "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.46,
-        "score": 23
+        "volumeRatio": 0.48,
+        "score": 11
       },
       "newsScore": 0,
       "newsCount": 1,
@@ -262,110 +262,95 @@
         }
       ],
       "marketSentiment": -62,
-      "combinedScore": 30,
+      "combinedScore": 24,
       "signal": "SELL",
-      "reason": "Technical 23/100; News +0; Market sentiment -62."
+      "reason": "Technical 11/100; News +0; Market sentiment -62."
     },
     {
       "symbol": "BNBUSDT",
       "coin": "BNB",
-      "price": 557.25,
-      "change24h": 1.731,
-      "volume24h": 50541647.24769,
+      "price": 553.55,
+      "change24h": 1.591,
+      "volume24h": 52161937.60152,
       "technical": {
-        "rsi": 55.3,
-        "ema9": 557.634966405268,
-        "ema21": 557.3034199545997,
+        "rsi": 34.8,
+        "ema9": 557.0605689946981,
+        "ema21": 557.6132323285989,
         "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.53,
-        "score": 65
+        "emaBull": false,
+        "volumeRatio": 1.88,
+        "score": 6
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": -62,
-      "combinedScore": 51,
-      "signal": "WAIT",
-      "reason": "Technical 65/100; News +0; Market sentiment -62."
+      "combinedScore": 22,
+      "signal": "SELL",
+      "reason": "Technical 6/100; News +0; Market sentiment -62."
     },
     {
-      "symbol": "UUSDT",
-      "coin": "U",
-      "price": 1.0019,
-      "change24h": 0.09,
-      "volume24h": 47773697.4524,
+      "symbol": "SOXLBUSDT",
+      "coin": "SOXLB",
+      "price": 33.31,
+      "change24h": 2.021,
+      "volume24h": 48875998.04145,
       "technical": {
-        "rsi": 70.6,
-        "ema9": 1.0016086557835087,
-        "ema21": 1.0015150321059747,
-        "macdBull": true,
+        "rsi": 45.2,
+        "ema9": 34.47093902355251,
+        "ema21": 34.33609924982176,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 2.58,
-        "score": 94
+        "volumeRatio": 0.59,
+        "score": 53
       },
-      "newsScore": -25,
-      "newsCount": 4,
-      "news": [
-        {
-          "title": "Kalshi races to get ahead of New York order that could shut down exchange",
-          "link": "https://www.coindesk.com/policy/2026/11/20/kalshi-races-to-get-ahead-of-new-york-order-that-could-shut-down-exchange",
-          "published": "Fri, 20 Nov 2026 22:51:14 +0000",
-          "source": "CoinDesk",
-          "text": "Kalshi races to get ahead of New York order that could shut down exchange The U.S. prediction market firm asked a New York court to give the company a chance to argue against a pending restraining order stemming from a new court loss."
-        },
-        {
-          "title": "U.S. Senate passes bill to ban prediction market bets on war and death",
-          "link": "https://www.coindesk.com/policy/2026/11/20/u-s-senated-passes-bill-to-ban-prediction-market-best-on-war-and-death",
-          "published": "Fri, 20 Nov 2026 14:25:57 +0000",
-          "source": "CoinDesk",
-          "text": "U.S. Senate passes bill to ban prediction market bets on war and death The bill would ban bets on war, assassinations and military operations amid concerns that traders could profit from inside information, as has already occurred."
-        },
-        {
-          "title": "Live news: Bitcoin slips to fresh lows below $59,000 as Anthropic slides after Nasdaq debut",
-          "link": "https://www.coindesk.com/tech/2026/11/20/live-news-bitcoin-hovers-just-above-usd61-000-as-anthropic-slides-13-after-nasdaq-debut",
-          "published": "Fri, 20 Nov 2026 13:35:33 +0000",
-          "source": "CoinDesk",
-          "text": "Live news: Bitcoin slips to fresh lows below $59,000 as Anthropic slides after Nasdaq debut BlackRock’s bitcoin ETF saw a record $541.1 million outflow as the U.S. tech selloff spread to Asia, sending South Korea’s Kospi down more than 5%."
-        },
-        {
-          "title": "No special rules for Hyperliquid or other onchain trading platforms, CFTC says",
-          "link": "https://www.coindesk.com/markets/2026/11/20/cftc-tells-hyperliquid-and-crypto-rivals-no-special-rules-for-onchain-trading",
-          "published": "Fri, 20 Nov 2026 10:02:03 +0000",
-          "source": "CoinDesk",
-          "text": "No special rules for Hyperliquid or other onchain trading platforms, CFTC says Hyperliquid and other onchain exchanges can offer derivatives to U.S. traders if they obtain the required licenses or work with a registered exchange, the CFTC chairman said."
-        }
-      ],
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
       "marketSentiment": -62,
-      "combinedScore": 62,
+      "combinedScore": 45,
       "signal": "WAIT",
-      "reason": "Technical 94/100; News -25; Market sentiment -62."
+      "reason": "Technical 53/100; News +0; Market sentiment -62."
     },
     {
       "symbol": "RLUSDUSDT",
       "coin": "RLUSD",
-      "price": 1.002,
-      "change24h": -0.02,
-      "volume24h": 42944060.9465,
+      "price": 1.0016,
+      "change24h": -0.04,
+      "volume24h": 45428155.7991,
       "technical": {
-        "rsi": 73.2,
-        "ema9": 1.0015759568625244,
-        "ema21": 1.0015098260493702,
-        "macdBull": true,
+        "rsi": 49.4,
+        "ema9": 1.0016309808083117,
+        "ema21": 1.0016203988664854,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 2.8,
-        "score": 77
+        "volumeRatio": 0.01,
+        "score": 53
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": -62,
-      "combinedScore": 57,
+      "combinedScore": 45,
       "signal": "WAIT",
-      "reason": "Technical 77/100; News +0; Market sentiment -62."
+      "reason": "Technical 53/100; News +0; Market sentiment -62."
     }
   ],
   "news": [
+    {
+      "title": "Half of wallets on Trump’s dinner list got tokens from non-US exchanges",
+      "link": "https://cointelegraph.com/news/half-wallets-trumps-dinner-list-got-tokens-from-non-us-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 23 Nov 2026 00:53:49 +0000",
+      "source": "Cointelegraph",
+      "text": "Half of wallets on Trump’s dinner list got tokens from non-US exchanges Public Citizen traced 66 of 130 qualifying wallets to exchanges that restrict US users, raising questions over who is attending Trump’s memecoin dinner on Sunday."
+    },
+    {
+      "title": "Will Bitcoin’s big rebound hold? More tampered Ledgers found: Hodler’s Digest",
+      "link": "https://cointelegraph.com/magazine/will-bitcoins-big-rebound-hold-more-tampered-ledgers-found-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sun, 22 Nov 2026 22:47:09 +0000",
+      "source": "Cointelegraph",
+      "text": "Will Bitcoin’s big rebound hold? More tampered Ledgers found: Hodler’s Digest Bitcoin rebounds sharply from its new cycle low, but is $55,111 really the bottom? Ledger investigates new reports of tampered devices in Berlin and the UAE."
+    },
     {
       "title": "The future of onchain FX could start with users, not institutional liquidity",
       "link": "https://cointelegraph.com/opinion/future-onchain-fx-could-start-with-users-not-institutional-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -491,20 +476,6 @@
       "published": "Fri, 20 Nov 2026 10:29:10 +0000",
       "source": "Cointelegraph",
       "text": "Bitcoin nears repeat of chart pattern that preceded 2023’s $25K retest Bitcoin’s 21-day moving average fell below its 200-day average, and analyst Keith Alan expects a second bearish crossover by Sunday."
-    },
-    {
-      "title": "BlackRock’s IBIT loses record $541M amid Anthropic market debut",
-      "link": "https://cointelegraph.com/markets/blackrock-ibit-record-single-day-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 20 Nov 2026 08:18:42 +0000",
-      "source": "Cointelegraph",
-      "text": "BlackRock’s IBIT loses record $541M amid Anthropic market debut BlackRock’s IBIT posted its largest daily outflow on record, taking three-session outflows near $900 million as BTC dipped amid a broader market selloff."
-    },
-    {
-      "title": "SEC charges 8 firms over fake crypto platforms tied to $37M fraud",
-      "link": "https://cointelegraph.com/news/sec-charges-eight-fake-crypto-platforms-37m-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 20 Nov 2026 08:03:34 +0000",
-      "source": "Cointelegraph",
-      "text": "SEC charges 8 firms over fake crypto platforms tied to $37M fraud The SEC says the operators showed investors fake certificates and pointed them to filings on the agency’s website as proof of regulatory approval."
     }
   ],
   "paper": {
@@ -706,6 +677,16 @@
         "stopLoss": 3.04094,
         "takeProfit": 2.90612,
         "entryTime": "2026-11-22T22:05:59.611291+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "BTCUSDT",
+        "side": "SELL",
+        "entry": 60756.85,
+        "stopLoss": 61668.20275,
+        "takeProfit": 58934.1445,
+        "entryTime": "2026-11-23T02:37:13.238878+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       }
