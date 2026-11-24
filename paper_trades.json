@@ -171,16 +171,6 @@
       "mode": "PAPER ONLY"
     },
     {
-      "symbol": "NEARUSDT",
-      "side": "SELL",
-      "entry": 2.996,
-      "stopLoss": 3.04094,
-      "takeProfit": 2.90612,
-      "entryTime": "2026-11-22T22:05:59.611291+00:00",
-      "status": "OPEN",
-      "mode": "PAPER ONLY"
-    },
-    {
       "symbol": "BTCUSDT",
       "side": "SELL",
       "entry": 60756.85,
@@ -191,32 +181,12 @@
       "mode": "PAPER ONLY"
     },
     {
-      "symbol": "ZECUSDT",
-      "side": "SELL",
-      "entry": 770.94,
-      "stopLoss": 782.5041,
-      "takeProfit": 747.8118,
-      "entryTime": "2026-11-23T22:39:57.244641+00:00",
-      "status": "OPEN",
-      "mode": "PAPER ONLY"
-    },
-    {
       "symbol": "XRPUSDT",
       "side": "SELL",
       "entry": 0.9367,
       "stopLoss": 0.9507505,
       "takeProfit": 0.908599,
       "entryTime": "2026-11-23T22:39:57.244641+00:00",
-      "status": "OPEN",
-      "mode": "PAPER ONLY"
-    },
-    {
-      "symbol": "NVDABUSDT",
-      "side": "SELL",
-      "entry": 162.74,
-      "stopLoss": 165.1811,
-      "takeProfit": 157.8578,
-      "entryTime": "2026-11-24T06:24:15.263242+00:00",
       "status": "OPEN",
       "mode": "PAPER ONLY"
     }
@@ -3133,6 +3103,45 @@
       "exitPrice": 770.94,
       "exitTime": "2026-11-23T22:39:57.244641+00:00",
       "pnlPercent": -2.587
+    },
+    {
+      "symbol": "NEARUSDT",
+      "side": "SELL",
+      "entry": 2.996,
+      "stopLoss": 3.04094,
+      "takeProfit": 2.90612,
+      "entryTime": "2026-11-22T22:05:59.611291+00:00",
+      "status": "TAKE_PROFIT",
+      "mode": "PAPER ONLY",
+      "exitPrice": 2.865,
+      "exitTime": "2026-11-24T18:00:31.286839+00:00",
+      "pnlPercent": 4.372
+    },
+    {
+      "symbol": "ZECUSDT",
+      "side": "SELL",
+      "entry": 770.94,
+      "stopLoss": 782.5041,
+      "takeProfit": 747.8118,
+      "entryTime": "2026-11-23T22:39:57.244641+00:00",
+      "status": "TAKE_PROFIT",
+      "mode": "PAPER ONLY",
+      "exitPrice": 722.43,
+      "exitTime": "2026-11-24T18:00:31.286839+00:00",
+      "pnlPercent": 6.292
+    },
+    {
+      "symbol": "NVDABUSDT",
+      "side": "SELL",
+      "entry": 162.74,
+      "stopLoss": 165.1811,
+      "takeProfit": 157.8578,
+      "entryTime": "2026-11-24T06:24:15.263242+00:00",
+      "status": "TAKE_PROFIT",
+      "mode": "PAPER ONLY",
+      "exitPrice": 153.68,
+      "exitTime": "2026-11-24T18:00:31.286839+00:00",
+      "pnlPercent": 5.567
     }
   ]
 }
