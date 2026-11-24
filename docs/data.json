@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-23 22:39:57 UTC",
+  "generatedAt": "2026-11-24 06:24:15 UTC",
   "interval": "15m candles",
-  "marketSentiment": -66,
-  "overallNewsScore": -43,
+  "marketSentiment": -62,
+  "overallNewsScore": -33,
   "fearGreed": {
     "value": 11,
     "label": "Extreme Fear",
@@ -12,27 +12,41 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 61201.23,
-      "change24h": 0.524,
-      "volume24h": 1739781451.4296691,
+      "price": 60394.0,
+      "change24h": -1.846,
+      "volume24h": 1764503939.6745243,
       "technical": {
-        "rsi": 42.2,
-        "ema9": 61304.71400935302,
-        "ema21": 61475.75166035893,
+        "rsi": 43.8,
+        "ema9": 60555.207888010955,
+        "ema21": 60659.747202627965,
         "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.51,
+        "volumeRatio": 0.6,
         "score": 35
       },
-      "newsScore": -20,
+      "newsScore": -10,
       "newsCount": 5,
       "news": [
         {
           "title": "Here’s what happened in crypto today",
           "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Mon, 23 Nov 2026 21:40:44 +0000",
+          "published": "Tue, 24 Nov 2026 06:00:00 +0000",
           "source": "Cointelegraph",
           "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+        },
+        {
+          "title": "Why 42 Macro says it’s waiting to buy the Bitcoin dip",
+          "link": "https://cointelegraph.com/markets/why-42-macro-says-its-waiting-to-buy-the-bitcoin-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Tue, 24 Nov 2026 05:07:30 +0000",
+          "source": "Cointelegraph",
+          "text": "Why 42 Macro says it’s waiting to buy the Bitcoin dip The independent macro research company warns the Bitcoin sell-off may not have yet run its course."
+        },
+        {
+          "title": "CFTC staff say exchanges can count Bitcoin toward operating reserves",
+          "link": "https://cointelegraph.com/news/cftc-staff-say-exchanges-can-count-bitcoin-toward-operating-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Mon, 23 Nov 2026 23:43:34 +0000",
+          "source": "Cointelegraph",
+          "text": "CFTC staff say exchanges can count Bitcoin toward operating reserves The staff guidance allows Bitcoin, Ether and payment stablecoins to count towards operating reserves."
         },
         {
           "title": "US seeks to recover $1.1B in crypto stolen in North Korea-linked Binance hack",
@@ -47,45 +61,45 @@
           "published": "Mon, 23 Nov 2026 16:51:17 +0000",
           "source": "Cointelegraph",
           "text": "Bitcoin rebounds 17% from $55K lows as Nvidia rally sparks $500M crypto liquidations Bitcoin price upside hit $64,500 as risk assets surged on Nvidia CEO Jensen Huang’s reinstatement, while crypto liquidations topped $500 million four hours."
-        },
-        {
-          "title": "Cross River Bank enters Bitcoin-backed lending with $250K loans",
-          "link": "https://cointelegraph.com/news/cross-river-bank-bitcoin-backed-lending-250k-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Mon, 23 Nov 2026 16:23:37 +0000",
-          "source": "Cointelegraph",
-          "text": "Cross River Bank enters Bitcoin-backed lending with $250K loans The US bank is offering Bitcoin-backed loans ranging from $10,000 to $250,000 through LendingUSA, allowing borrowers to access cash without selling their holdings."
-        },
-        {
-          "title": "How market depth shapes the price of a weekend Bitcoin sale",
-          "link": "https://cointelegraph.com/news/how-market-depth-shapes-the-price-of-a-weekend-bitcoin-sale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Mon, 23 Nov 2026 15:57:55 +0000",
-          "source": "Cointelegraph",
-          "text": "How market depth shapes the price of a weekend Bitcoin sale Over 14 hours, Bitcoin traded on Kraken’s Canadian dollar market at an average 37.3% discount to a benchmark based on the exchange’s US dollar trades."
         }
       ],
-      "marketSentiment": -66,
-      "combinedScore": 33,
+      "marketSentiment": -62,
+      "combinedScore": 35,
       "signal": "SELL",
-      "reason": "Technical 35/100; News -20; Market sentiment -66."
+      "reason": "Technical 35/100; News -10; Market sentiment -62."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 1711.51,
-      "change24h": -0.208,
-      "volume24h": 759700280.786895,
+      "price": 1698.43,
+      "change24h": -1.439,
+      "volume24h": 802337311.737352,
       "technical": {
-        "rsi": 36.1,
-        "ema9": 1723.680291245568,
-        "ema21": 1732.7129831397447,
-        "macdBull": false,
+        "rsi": 46.0,
+        "ema9": 1703.1195249382374,
+        "ema21": 1703.9883263904153,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.84,
-        "score": 11
+        "volumeRatio": 0.49,
+        "score": 47
       },
-      "newsScore": -67,
-      "newsCount": 3,
+      "newsScore": -20,
+      "newsCount": 5,
       "news": [
+        {
+          "title": "Ethereum Foundation doubles protocol security team ahead of overhaul",
+          "link": "https://cointelegraph.com/news/ethereum-foundation-doubles-protocol-security-team-amid-ai-quantum-overhaul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Tue, 24 Nov 2026 00:36:26 +0000",
+          "source": "Cointelegraph",
+          "text": "Ethereum Foundation doubles protocol security team ahead of overhaul The foundation said its next upgrade will be harder than the Merge, and the required pace of development will make it easier to ship bugs."
+        },
+        {
+          "title": "CFTC staff say exchanges can count Bitcoin toward operating reserves",
+          "link": "https://cointelegraph.com/news/cftc-staff-say-exchanges-can-count-bitcoin-toward-operating-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Mon, 23 Nov 2026 23:43:34 +0000",
+          "source": "Cointelegraph",
+          "text": "CFTC staff say exchanges can count Bitcoin toward operating reserves The staff guidance allows Bitcoin, Ether and payment stablecoins to count towards operating reserves."
+        },
         {
           "title": "BTCS offloads $44M in ETH to reduce DeFi debt amid market downturn",
           "link": "https://cointelegraph.com/news/btcs-offloads-44m-eth-reduce-defi-debt-market-downturn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -108,25 +122,25 @@
           "text": "Ethereum wallets holding $72 billion ETH are under threat of a future quantum attack Researchers find that accounts with visible public keys hold nearly 55% of ether outside staking, and propose a way to move them to quantum-resistant security."
         }
       ],
-      "marketSentiment": -66,
-      "combinedScore": 14,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News -67; Market sentiment -66."
+      "marketSentiment": -62,
+      "combinedScore": 39,
+      "signal": "WAIT",
+      "reason": "Technical 47/100; News -20; Market sentiment -62."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 72.07,
-      "change24h": 2.752,
-      "volume24h": 289419967.23673,
+      "price": 71.54,
+      "change24h": -0.348,
+      "volume24h": 287881546.33788,
       "technical": {
-        "rsi": 33.5,
-        "ema9": 72.56447174639406,
-        "ema21": 73.04450805775593,
-        "macdBull": false,
+        "rsi": 47.6,
+        "ema9": 71.69866844513876,
+        "ema21": 71.7422928566855,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.9,
-        "score": 11
+        "volumeRatio": 0.54,
+        "score": 47
       },
       "newsScore": -100,
       "newsCount": 1,
@@ -139,180 +153,208 @@
           "text": "South Korean exchanges halt CYBER transfers amid suspected bridge exploit Cyber reported unexpected minting of CYBER tokens on Solana, followed by tokens moving out of its Ethereum bridge lockbox, prompting an investigation."
         }
       ],
-      "marketSentiment": -66,
-      "combinedScore": 9,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News -100; Market sentiment -66."
+      "marketSentiment": -62,
+      "combinedScore": 27,
+      "signal": "WAIT",
+      "reason": "Technical 47/100; News -100; Market sentiment -62."
     },
     {
       "symbol": "NVDABUSDT",
       "coin": "NVDAB",
-      "price": 166.42,
-      "change24h": 25.175,
-      "volume24h": 256087946.5347,
+      "price": 162.74,
+      "change24h": 20.996,
+      "volume24h": 236330263.28498,
       "technical": {
-        "rsi": 59.7,
-        "ema9": 165.25615486156252,
-        "ema21": 164.28246403054533,
+        "rsi": 44.2,
+        "ema9": 163.98506802361055,
+        "ema21": 164.36864708603417,
         "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.17,
-        "score": 65
+        "emaBull": false,
+        "volumeRatio": 0.47,
+        "score": 11
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -66,
-      "combinedScore": 51,
-      "signal": "WAIT",
-      "reason": "Technical 65/100; News +0; Market sentiment -66."
+      "marketSentiment": -62,
+      "combinedScore": 24,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment -62."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 770.94,
-      "change24h": -2.225,
-      "volume24h": 203490294.87335,
+      "price": 764.91,
+      "change24h": -2.788,
+      "volume24h": 205697924.04405,
       "technical": {
-        "rsi": 24.0,
-        "ema9": 785.2226836245108,
-        "ema21": 799.4727762809267,
-        "macdBull": false,
+        "rsi": 50.7,
+        "ema9": 766.6085613677268,
+        "ema21": 767.7758584806929,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.83,
-        "score": 28
+        "volumeRatio": 0.41,
+        "score": 47
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -66,
-      "combinedScore": 32,
-      "signal": "SELL",
-      "reason": "Technical 28/100; News +0; Market sentiment -66."
+      "marketSentiment": -62,
+      "combinedScore": 42,
+      "signal": "WAIT",
+      "reason": "Technical 47/100; News +0; Market sentiment -62."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 0.9367,
-      "change24h": 1.55,
-      "volume24h": 168962731.12557,
+      "price": 0.9506,
+      "change24h": 1.02,
+      "volume24h": 173911076.26869,
       "technical": {
-        "rsi": 37.2,
-        "ema9": 0.9413783666380097,
-        "ema21": 0.9474706069704754,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.67,
-        "score": 11
+        "rsi": 54.3,
+        "ema9": 0.9537146329506386,
+        "ema21": 0.9506400668741519,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.44,
+        "score": 77
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -66,
-      "combinedScore": 24,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment -66."
+      "marketSentiment": -62,
+      "combinedScore": 57,
+      "signal": "WAIT",
+      "reason": "Technical 77/100; News +0; Market sentiment -62."
     },
     {
       "symbol": "USD1USDT",
       "coin": "USD1",
-      "price": 1.00068,
-      "change24h": -0.018,
-      "volume24h": 147985363.40158,
+      "price": 1.00058,
+      "change24h": -0.023,
+      "volume24h": 152331968.11672,
       "technical": {
-        "rsi": 51.8,
-        "ema9": 1.000701014020544,
-        "ema21": 1.0006982304944325,
+        "rsi": 48.1,
+        "ema9": 1.000610532799595,
+        "ema21": 1.0006347774482933,
         "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.41,
-        "score": 53
+        "emaBull": false,
+        "volumeRatio": 0.77,
+        "score": 23
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -66,
-      "combinedScore": 45,
-      "signal": "WAIT",
-      "reason": "Technical 53/100; News +0; Market sentiment -66."
-    },
-    {
-      "symbol": "SOXLBUSDT",
-      "coin": "SOXLB",
-      "price": 43.78,
-      "change24h": 30.414,
-      "volume24h": 109121756.4503,
-      "technical": {
-        "rsi": 59.0,
-        "ema9": 43.144499194139776,
-        "ema21": 42.802690579609305,
-        "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.42,
-        "score": 65
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -66,
-      "combinedScore": 51,
-      "signal": "WAIT",
-      "reason": "Technical 65/100; News +0; Market sentiment -66."
+      "marketSentiment": -62,
+      "combinedScore": 30,
+      "signal": "SELL",
+      "reason": "Technical 23/100; News +0; Market sentiment -62."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 2.951,
-      "change24h": -0.573,
-      "volume24h": 97507220.6827,
+      "price": 3.024,
+      "change24h": 1.036,
+      "volume24h": 97948637.8629,
       "technical": {
-        "rsi": 30.1,
-        "ema9": 2.988049986065249,
-        "ema21": 3.019922798924187,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 0.63,
-        "score": 11
+        "rsi": 61.0,
+        "ema9": 3.021672528319494,
+        "ema21": 3.001865948382631,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.58,
+        "score": 89
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -66,
-      "combinedScore": 24,
-      "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment -66."
+      "marketSentiment": -62,
+      "combinedScore": 63,
+      "signal": "WAIT",
+      "reason": "Technical 89/100; News +0; Market sentiment -62."
     },
     {
       "symbol": "BNBUSDT",
       "coin": "BNB",
-      "price": 556.38,
-      "change24h": 0.103,
-      "volume24h": 95933635.75575,
+      "price": 551.96,
+      "change24h": -0.99,
+      "volume24h": 91500659.16168,
       "technical": {
-        "rsi": 39.1,
-        "ema9": 558.1092848000784,
-        "ema21": 559.7603162403537,
-        "macdBull": false,
+        "rsi": 44.8,
+        "ema9": 554.2083905624906,
+        "ema21": 554.6736903150675,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 1.03,
-        "score": 11
+        "volumeRatio": 0.41,
+        "score": 35
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -66,
-      "combinedScore": 24,
+      "marketSentiment": -62,
+      "combinedScore": 36,
+      "signal": "WAIT",
+      "reason": "Technical 35/100; News +0; Market sentiment -62."
+    },
+    {
+      "symbol": "RLUSDUSDT",
+      "coin": "RLUSD",
+      "price": 1.0012,
+      "change24h": -0.03,
+      "volume24h": 69638720.6729,
+      "technical": {
+        "rsi": 51.2,
+        "ema9": 1.0011694694767,
+        "ema21": 1.0011837528730037,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.05,
+        "score": 23
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -62,
+      "combinedScore": 30,
       "signal": "SELL",
-      "reason": "Technical 11/100; News +0; Market sentiment -66."
+      "reason": "Technical 23/100; News +0; Market sentiment -62."
     }
   ],
   "news": [
     {
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 23 Nov 2026 21:40:44 +0000",
+      "published": "Tue, 24 Nov 2026 06:00:00 +0000",
       "source": "Cointelegraph",
       "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "title": "Why 42 Macro says it’s waiting to buy the Bitcoin dip",
+      "link": "https://cointelegraph.com/markets/why-42-macro-says-its-waiting-to-buy-the-bitcoin-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 24 Nov 2026 05:07:30 +0000",
+      "source": "Cointelegraph",
+      "text": "Why 42 Macro says it’s waiting to buy the Bitcoin dip The independent macro research company warns the Bitcoin sell-off may not have yet run its course."
+    },
+    {
+      "title": "Google wants to make you the star of your own AI slop movies",
+      "link": "https://cointelegraph.com/news/google-wants-make-you-star-your-own-ai-slop-movies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 24 Nov 2026 03:13:22 +0000",
+      "source": "Cointelegraph",
+      "text": "Google wants to make you the star of your own AI slop movies Viewers could find their AI-doppelgangers inserted into the crowd during the Cricket World Cup, or take a leading role in their very own romantic comedy."
+    },
+    {
+      "title": "Ethereum Foundation doubles protocol security team ahead of overhaul",
+      "link": "https://cointelegraph.com/news/ethereum-foundation-doubles-protocol-security-team-amid-ai-quantum-overhaul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 24 Nov 2026 00:36:26 +0000",
+      "source": "Cointelegraph",
+      "text": "Ethereum Foundation doubles protocol security team ahead of overhaul The foundation said its next upgrade will be harder than the Merge, and the required pace of development will make it easier to ship bugs."
+    },
+    {
+      "title": "CFTC staff say exchanges can count Bitcoin toward operating reserves",
+      "link": "https://cointelegraph.com/news/cftc-staff-say-exchanges-can-count-bitcoin-toward-operating-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 23 Nov 2026 23:43:34 +0000",
+      "source": "Cointelegraph",
+      "text": "CFTC staff say exchanges can count Bitcoin toward operating reserves The staff guidance allows Bitcoin, Ether and payment stablecoins to count towards operating reserves."
     },
     {
       "title": "US seeks to recover $1.1B in crypto stolen in North Korea-linked Binance hack",
@@ -418,34 +460,6 @@
       "published": "Mon, 23 Nov 2026 11:49:38 +0000",
       "source": "Cointelegraph",
       "text": "ECB to let banks pledge more tokenized securities as collateral The ECB aims to start accepting securities issued on platforms licensed under the EU’s distributed ledger pilot program in June 2027."
-    },
-    {
-      "title": "BTC price gains 12% from $55K: Three things to know in Bitcoin this week",
-      "link": "https://cointelegraph.com/markets/btc-price-stock-futures-rebound-three-things-know-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 23 Nov 2026 11:20:57 +0000",
-      "source": "Cointelegraph",
-      "text": "BTC price gains 12% from $55K: Three things to know in Bitcoin this week Nasdaq-100 futures rose 3.1% before Monday’s open, while Wednesday’s US inflation report could shape expectations for a December rate hike."
-    },
-    {
-      "title": "‘MoldyRoost’ ads can steal crypto wallet recovery phrases from iPhones",
-      "link": "https://cointelegraph.com/news/moldyroost-malware-drain-iphone-wallets-one-tap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 23 Nov 2026 09:05:44 +0000",
-      "source": "Cointelegraph",
-      "text": "‘MoldyRoost’ ads can steal crypto wallet recovery phrases from iPhones The campaign used at least 480 ad domains to target users in more than 47 countries and could infect a vulnerable iPhone with a single tap."
-    },
-    {
-      "title": "Bitcoin ETFs shed $1.8B in third-largest weekly outflow",
-      "link": "https://cointelegraph.com/markets/bitcoin-etfs-third-largest-weekly-outflows-1-8-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 23 Nov 2026 08:08:52 +0000",
-      "source": "Cointelegraph",
-      "text": "Bitcoin ETFs shed $1.8B in third-largest weekly outflow Bitcoin ETF outflows reached $4.14 billion in November through Friday, nearing June’s $4.51 billion total."
-    },
-    {
-      "title": "Trump renews call for Nvidia to rehire Jensen Huang as CEO",
-      "link": "https://cointelegraph.com/news/trump-renews-call-for-nvidia-to-rehire-jensen-huang-as-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 23 Nov 2026 03:37:20 +0000",
-      "source": "Cointelegraph",
-      "text": "Trump renews call for Nvidia to rehire Jensen Huang as CEO In a Truth Social post on Monday, Trump said rehiring Jensen Huang would benefit both Nvidia and the US."
     }
   ],
   "paper": {
@@ -657,6 +671,16 @@
         "stopLoss": 0.9507505,
         "takeProfit": 0.908599,
         "entryTime": "2026-11-23T22:39:57.244641+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "NVDABUSDT",
+        "side": "SELL",
+        "entry": 162.74,
+        "stopLoss": 165.1811,
+        "takeProfit": 157.8578,
+        "entryTime": "2026-11-24T06:24:15.263242+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       }

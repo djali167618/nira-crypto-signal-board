@@ -209,6 +209,16 @@
       "entryTime": "2026-11-23T22:39:57.244641+00:00",
       "status": "OPEN",
       "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "NVDABUSDT",
+      "side": "SELL",
+      "entry": 162.74,
+      "stopLoss": 165.1811,
+      "takeProfit": 157.8578,
+      "entryTime": "2026-11-24T06:24:15.263242+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
     }
   ],
   "closed": [
