@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-24 18:00:31 UTC",
+  "generatedAt": "2026-11-25 02:11:24 UTC",
   "interval": "15m candles",
   "marketSentiment": -48,
-  "overallNewsScore": 9,
+  "overallNewsScore": 0,
   "fearGreed": {
-    "value": 11,
+    "value": 13,
     "label": "Extreme Fear",
     "source": "Alternative.me"
   },
@@ -12,76 +12,76 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 60114.57,
-      "change24h": -2.574,
-      "volume24h": 1241040245.0643084,
+      "price": 59040.9,
+      "change24h": -3.046,
+      "volume24h": 1233089952.1979144,
       "technical": {
-        "rsi": 53.1,
-        "ema9": 59892.09535403009,
-        "ema21": 59947.5497368891,
-        "macdBull": true,
+        "rsi": 33.1,
+        "ema9": 59539.35942966525,
+        "ema21": 59686.3113448724,
+        "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.53,
-        "score": 47
+        "volumeRatio": 3.41,
+        "score": 6
       },
       "newsScore": 0,
       "newsCount": 5,
       "news": [
+        {
+          "title": "CleanSpark weighs selling more Bitcoin than it mines to ‘de-risk’ books",
+          "link": "https://cointelegraph.com/news/cleanspark-weighs-selling-more-bitcoin-than-it-mines-to-de-risk-books?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Wed, 25 Nov 2026 01:40:59 +0000",
+          "source": "Cointelegraph",
+          "text": "CleanSpark weighs selling more Bitcoin than it mines to ‘de-risk’ books The Bitcoin miner sold 2,102 BTC while it produced just 1,708 BTC in the September quarter."
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Tue, 24 Nov 2026 22:12:10 +0000",
+          "source": "Cointelegraph",
+          "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+        },
+        {
+          "title": "Bitcoin sell-off driven by weak demand, forced liquidations: 21Shares",
+          "link": "https://cointelegraph.com/news/bitcoin-selloff-weak-demand-forced-liquidations-21shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Tue, 24 Nov 2026 19:44:23 +0000",
+          "source": "Cointelegraph",
+          "text": "Bitcoin sell-off driven by weak demand, forced liquidations: 21Shares The crypto asset manager warned that Bitcoin’s downturn could persist amid weak investor demand, while forecasting an uneven recovery across crypto sectors."
+        },
+        {
+          "title": "Coldcard reveals how Bitcoin wallet flaw went undetected for over 5 years",
+          "link": "https://cointelegraph.com/news/coldcard-how-security-reviews-missed-bitcoin-wallet-flaw-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Tue, 24 Nov 2026 19:04:26 +0000",
+          "source": "Cointelegraph",
+          "text": "Coldcard reveals how Bitcoin wallet flaw went undetected for over 5 years Coldcard maker Coinkite explained why years of security checks failed to catch the flaw and said it has yet to decide on compensation for affected customers."
+        },
         {
           "title": "Bitcoin slides amid US tariff nerves as Anthropic falls below IPO price",
           "link": "https://cointelegraph.com/markets/bitcoin-slides-us-tariff-nerves-anthropic-falls-ipo-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "published": "Tue, 24 Nov 2026 17:09:11 +0000",
           "source": "Cointelegraph",
           "text": "Bitcoin slides amid US tariff nerves as Anthropic falls below IPO price Bitcoin gave up gains above $60,000 as tariff concerns weighed on US stocks and Anthropic shares hit new lows below $76."
-        },
-        {
-          "title": "Grayscale calls Bitcoin ‘oversold’ at $62K but warns of AI risks",
-          "link": "https://cointelegraph.com/markets/bitcoin-oversold-ai-risks-grayscale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Tue, 24 Nov 2026 13:11:44 +0000",
-          "source": "Cointelegraph",
-          "text": "Grayscale calls Bitcoin ‘oversold’ at $62K but warns of AI risks Grayscale said Bitcoin’s bear market was its longest on record at 411 days and counting, though the 56% drop was the smallest percentage decline."
-        },
-        {
-          "title": "Bitcoin dipped on Huang’s Nvidia exit but jumped 5% on his return",
-          "link": "https://cointelegraph.com/markets/bitcoin-huangs-return-18-below-pre-resignation-levels?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Tue, 24 Nov 2026 11:40:33 +0000",
-          "source": "Cointelegraph",
-          "text": "Bitcoin dipped on Huang’s Nvidia exit but jumped 5% on his return Bitcoin rose about 5% on Jensen Huang’s return, more than the 3.5% it lost on news of his exit, but remained 19.2% below its pre-resignation price."
-        },
-        {
-          "title": "Bitcoin dips back under $60K as gold seals worst 60-day loss since 1980s",
-          "link": "https://cointelegraph.com/markets/bitcoin-dips-60k-gold-worst-60-day-loss-1980s?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Tue, 24 Nov 2026 09:25:45 +0000",
-          "source": "Cointelegraph",
-          "text": "Bitcoin dips back under $60K as gold seals worst 60-day loss since 1980s Bitcoin continued to threaten the loss of $60,000 support as gold attempted to bounce from a 60-day losing streak during which it fell nearly 25%."
-        },
-        {
-          "title": "Bitcoin ETFs keep bleeding as BlackRock’s IBIT shares gain nearly 5%",
-          "link": "https://cointelegraph.com/markets/bitcoin-etfs-bleed-ibit-shares-gain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Tue, 24 Nov 2026 07:41:50 +0000",
-          "source": "Cointelegraph",
-          "text": "Bitcoin ETFs keep bleeding as BlackRock’s IBIT shares gain nearly 5% BlackRock’s IBIT shares gained 4.85% on Monday despite continued Bitcoin ETF withdrawals that pushed November’s net outflows to $4.71 billion."
         }
       ],
       "marketSentiment": -48,
-      "combinedScore": 44,
-      "signal": "WAIT",
-      "reason": "Technical 47/100; News +0; Market sentiment -48."
+      "combinedScore": 23,
+      "signal": "SELL",
+      "reason": "Technical 6/100; News +0; Market sentiment -48."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 1685.61,
-      "change24h": -3.363,
-      "volume24h": 583817734.874645,
+      "price": 1654.76,
+      "change24h": -2.853,
+      "volume24h": 490166187.855476,
       "technical": {
-        "rsi": 50.5,
-        "ema9": 1680.405398931697,
-        "ema21": 1683.2815377516445,
-        "macdBull": true,
+        "rsi": 28.7,
+        "ema9": 1668.7717460750298,
+        "ema21": 1673.8820320766902,
+        "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.43,
-        "score": 47
+        "volumeRatio": 1.18,
+        "score": 11
       },
       "newsScore": 25,
       "newsCount": 4,
@@ -116,139 +116,139 @@
         }
       ],
       "marketSentiment": -48,
-      "combinedScore": 47,
-      "signal": "WAIT",
-      "reason": "Technical 47/100; News +25; Market sentiment -48."
+      "combinedScore": 29,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +25; Market sentiment -48."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 69.59,
-      "change24h": -5.564,
-      "volume24h": 201701567.39357,
+      "price": 68.79,
+      "change24h": -4.325,
+      "volume24h": 172479011.96319,
       "technical": {
-        "rsi": 46.3,
-        "ema9": 69.40246279843485,
-        "ema21": 69.61199959284131,
-        "macdBull": true,
+        "rsi": 35.6,
+        "ema9": 69.45047086699473,
+        "ema21": 69.53457300603344,
+        "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.44,
-        "score": 47
+        "volumeRatio": 2.09,
+        "score": 6
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": -48,
-      "combinedScore": 44,
-      "signal": "WAIT",
-      "reason": "Technical 47/100; News +0; Market sentiment -48."
+      "combinedScore": 23,
+      "signal": "SELL",
+      "reason": "Technical 6/100; News +0; Market sentiment -48."
     },
     {
       "symbol": "USD1USDT",
       "coin": "USD1",
-      "price": 1.00098,
-      "change24h": 0.031,
-      "volume24h": 148185287.5209,
+      "price": 1.00114,
+      "change24h": 0.04,
+      "volume24h": 162904826.56027,
       "technical": {
-        "rsi": 62.2,
-        "ema9": 1.000916189505392,
-        "ema21": 1.0008216234633085,
-        "macdBull": true,
+        "rsi": 55.7,
+        "ema9": 1.0011489091700727,
+        "ema21": 1.001119687820468,
+        "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 1.13,
-        "score": 89
+        "volumeRatio": 1.67,
+        "score": 60
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": -48,
-      "combinedScore": 65,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment -48."
+      "combinedScore": 50,
+      "signal": "WAIT",
+      "reason": "Technical 60/100; News +0; Market sentiment -48."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 722.43,
-      "change24h": -11.926,
-      "volume24h": 143350454.38212,
+      "price": 726.9,
+      "change24h": -5.61,
+      "volume24h": 125617018.69905,
       "technical": {
-        "rsi": 46.4,
-        "ema9": 717.2608957929434,
-        "ema21": 721.8473467014678,
-        "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.98,
-        "score": 47
+        "rsi": 47.0,
+        "ema9": 733.5678109354346,
+        "ema21": 733.030021624687,
+        "macdBull": false,
+        "emaBull": true,
+        "volumeRatio": 1.08,
+        "score": 53
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": -48,
-      "combinedScore": 44,
+      "combinedScore": 47,
       "signal": "WAIT",
-      "reason": "Technical 47/100; News +0; Market sentiment -48."
+      "reason": "Technical 53/100; News +0; Market sentiment -48."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 0.9247,
-      "change24h": -3.426,
-      "volume24h": 120946771.02497,
+      "price": 0.9117,
+      "change24h": -3.728,
+      "volume24h": 98671564.81736,
       "technical": {
-        "rsi": 53.3,
-        "ema9": 0.9188803842399405,
-        "ema21": 0.9204536361170326,
-        "macdBull": true,
+        "rsi": 32.8,
+        "ema9": 0.9196270145062327,
+        "ema21": 0.9211685057554283,
+        "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.26,
-        "score": 47
+        "volumeRatio": 1.38,
+        "score": 11
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": -48,
-      "combinedScore": 44,
-      "signal": "WAIT",
-      "reason": "Technical 47/100; News +0; Market sentiment -48."
+      "combinedScore": 26,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment -48."
     },
     {
-      "symbol": "NVDABUSDT",
-      "coin": "NVDAB",
-      "price": 153.68,
-      "change24h": -6.532,
-      "volume24h": 81770648.74253,
+      "symbol": "SOXLBUSDT",
+      "coin": "SOXLB",
+      "price": 31.07,
+      "change24h": -27.542,
+      "volume24h": 78760720.7534,
       "technical": {
-        "rsi": 44.5,
-        "ema9": 153.2714612593598,
-        "ema21": 154.3186163973191,
-        "macdBull": true,
+        "rsi": 34.8,
+        "ema9": 32.056574978240235,
+        "ema21": 32.44262099877044,
+        "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.57,
-        "score": 35
+        "volumeRatio": 0.78,
+        "score": 11
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": -48,
-      "combinedScore": 38,
-      "signal": "WAIT",
-      "reason": "Technical 35/100; News +0; Market sentiment -48."
+      "combinedScore": 26,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment -48."
     },
     {
       "symbol": "NEARUSDT",
       "coin": "NEAR",
-      "price": 2.865,
-      "change24h": -6.373,
-      "volume24h": 77188279.2258,
+      "price": 2.841,
+      "change24h": -4.408,
+      "volume24h": 72924070.3533,
       "technical": {
-        "rsi": 48.2,
-        "ema9": 2.8484753266992486,
-        "ema21": 2.860490964002867,
-        "macdBull": true,
+        "rsi": 41.3,
+        "ema9": 2.854760592083548,
+        "ema21": 2.861543147630775,
+        "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.29,
-        "score": 47
+        "volumeRatio": 0.95,
+        "score": 11
       },
       "newsScore": 0,
       "newsCount": 1,
@@ -262,58 +262,121 @@
         }
       ],
       "marketSentiment": -48,
-      "combinedScore": 44,
-      "signal": "WAIT",
-      "reason": "Technical 47/100; News +0; Market sentiment -48."
+      "combinedScore": 26,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment -48."
     },
     {
-      "symbol": "SOXLBUSDT",
-      "coin": "SOXLB",
-      "price": 33.45,
-      "change24h": -22.264,
-      "volume24h": 75878488.59374,
+      "symbol": "NVDABUSDT",
+      "coin": "NVDAB",
+      "price": 151.95,
+      "change24h": -7.887,
+      "volume24h": 58140421.11496,
       "technical": {
-        "rsi": 42.2,
-        "ema9": 32.89869923569705,
-        "ema21": 34.06426645056875,
-        "macdBull": true,
+        "rsi": 41.4,
+        "ema9": 152.64856764347633,
+        "ema21": 153.04081395844918,
+        "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.32,
-        "score": 35
+        "volumeRatio": 0.55,
+        "score": 11
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": -48,
-      "combinedScore": 38,
-      "signal": "WAIT",
-      "reason": "Technical 35/100; News +0; Market sentiment -48."
+      "combinedScore": 26,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment -48."
     },
     {
-      "symbol": "BNBUSDT",
-      "coin": "BNB",
-      "price": 550.16,
-      "change24h": -2.185,
-      "volume24h": 52632387.18902,
+      "symbol": "HYPEUSDT",
+      "coin": "HYPE",
+      "price": 58.77,
+      "change24h": -7.39,
+      "volume24h": 53034301.10624,
       "technical": {
-        "rsi": 54.5,
-        "ema9": 548.2586371440858,
-        "ema21": 548.3696906776819,
-        "macdBull": true,
+        "rsi": 31.0,
+        "ema9": 59.2792369233053,
+        "ema21": 59.66864727525101,
+        "macdBull": false,
         "emaBull": false,
-        "volumeRatio": 0.36,
-        "score": 47
+        "volumeRatio": 0.58,
+        "score": 11
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
       "marketSentiment": -48,
-      "combinedScore": 44,
-      "signal": "WAIT",
-      "reason": "Technical 47/100; News +0; Market sentiment -48."
+      "combinedScore": 26,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment -48."
     }
   ],
   "news": [
+    {
+      "title": "CleanSpark weighs selling more Bitcoin than it mines to ‘de-risk’ books",
+      "link": "https://cointelegraph.com/news/cleanspark-weighs-selling-more-bitcoin-than-it-mines-to-de-risk-books?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 25 Nov 2026 01:40:59 +0000",
+      "source": "Cointelegraph",
+      "text": "CleanSpark weighs selling more Bitcoin than it mines to ‘de-risk’ books The Bitcoin miner sold 2,102 BTC while it produced just 1,708 BTC in the September quarter."
+    },
+    {
+      "title": "Hackers breach CIA intelligence network in latest US cyberattack",
+      "link": "https://cointelegraph.com/news/hackers-breach-cia-intelligence-network-in-latest-us-cyberattack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 24 Nov 2026 23:48:16 +0000",
+      "source": "Cointelegraph",
+      "text": "Hackers breach CIA intelligence network in latest US cyberattack The reported breach follows cyber incidents involving the FBI, Department of Homeland Security and Department of Agriculture."
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 24 Nov 2026 22:12:10 +0000",
+      "source": "Cointelegraph",
+      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "title": "Europol follows $28.5M crypto trail in streaming piracy crackdown",
+      "link": "https://cointelegraph.com/news/europol-crypto-trail-streaming-piracy-crackdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 24 Nov 2026 21:50:25 +0000",
+      "source": "Cointelegraph",
+      "text": "Europol follows $28.5M crypto trail in streaming piracy crackdown Authorities from 11 countries worked with Binance, Coinbase and Chainalysis to trace financial transactions and disrupt illegal streaming services."
+    },
+    {
+      "title": "Utah moves to dismiss criminal charges against Kalshi after trading halt",
+      "link": "https://cointelegraph.com/news/utah-moves-to-dismiss-criminal-charges-against-kalshi-after-trading-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 24 Nov 2026 20:48:27 +0000",
+      "source": "Cointelegraph",
+      "text": "Utah moves to dismiss criminal charges against Kalshi after trading halt Utah’s attorney general warned that the criminal charges could be refiled if Kalshi resumes operations in the state, while separate civil litigation remains unresolved."
+    },
+    {
+      "title": "Bitcoin sell-off driven by weak demand, forced liquidations: 21Shares",
+      "link": "https://cointelegraph.com/news/bitcoin-selloff-weak-demand-forced-liquidations-21shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 24 Nov 2026 19:44:23 +0000",
+      "source": "Cointelegraph",
+      "text": "Bitcoin sell-off driven by weak demand, forced liquidations: 21Shares The crypto asset manager warned that Bitcoin’s downturn could persist amid weak investor demand, while forecasting an uneven recovery across crypto sectors."
+    },
+    {
+      "title": "Coldcard reveals how Bitcoin wallet flaw went undetected for over 5 years",
+      "link": "https://cointelegraph.com/news/coldcard-how-security-reviews-missed-bitcoin-wallet-flaw-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 24 Nov 2026 19:04:26 +0000",
+      "source": "Cointelegraph",
+      "text": "Coldcard reveals how Bitcoin wallet flaw went undetected for over 5 years Coldcard maker Coinkite explained why years of security checks failed to catch the flaw and said it has yet to decide on compensation for affected customers."
+    },
+    {
+      "title": "CFTC sets new prediction market rules as more firms seek US entry",
+      "link": "https://cointelegraph.com/news/cftc-new-prediction-market-rules-firms-seek-us-entry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 24 Nov 2026 18:31:42 +0000",
+      "source": "Cointelegraph",
+      "text": "CFTC sets new prediction market rules as more firms seek US entry The US regulator has approved permanent reporting rules for certain event contracts as more companies look to launch prediction markets."
+    },
+    {
+      "title": "BlackRock launches tokenized money market fund accepting stablecoins in Hong Kong",
+      "link": "https://cointelegraph.com/news/blackrock-launches-tokenized-money-market-fund-stablecoins-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 24 Nov 2026 18:07:22 +0000",
+      "source": "Cointelegraph",
+      "text": "BlackRock launches tokenized money market fund accepting stablecoins in Hong Kong The tokenized fund launched with approximately $100 million in assets, with Standard Chartered and Ant International participating as seed investors."
+    },
     {
       "title": "Bitcoin slides amid US tariff nerves as Anthropic falls below IPO price",
       "link": "https://cointelegraph.com/markets/bitcoin-slides-us-tariff-nerves-anthropic-falls-ipo-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -385,74 +448,11 @@
       "text": "Bitcoin ETFs keep bleeding as BlackRock’s IBIT shares gain nearly 5% BlackRock’s IBIT shares gained 4.85% on Monday despite continued Bitcoin ETF withdrawals that pushed November’s net outflows to $4.71 billion."
     },
     {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 24 Nov 2026 06:00:00 +0000",
-      "source": "Cointelegraph",
-      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-    },
-    {
       "title": "Why 42 Macro says it’s waiting to buy the Bitcoin dip",
       "link": "https://cointelegraph.com/markets/why-42-macro-says-its-waiting-to-buy-the-bitcoin-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 24 Nov 2026 05:07:30 +0000",
       "source": "Cointelegraph",
       "text": "Why 42 Macro says it’s waiting to buy the Bitcoin dip The independent macro research company warns the Bitcoin sell-off may not have yet run its course."
-    },
-    {
-      "title": "Google wants to make you the star of your own AI slop movies",
-      "link": "https://cointelegraph.com/news/google-wants-make-you-star-your-own-ai-slop-movies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 24 Nov 2026 03:13:22 +0000",
-      "source": "Cointelegraph",
-      "text": "Google wants to make you the star of your own AI slop movies Viewers could find their AI-doppelgangers inserted into the crowd during the Cricket World Cup, or take a leading role in their very own romantic comedy."
-    },
-    {
-      "title": "Ethereum Foundation doubles protocol security team ahead of overhaul",
-      "link": "https://cointelegraph.com/news/ethereum-foundation-doubles-protocol-security-team-amid-ai-quantum-overhaul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 24 Nov 2026 00:36:26 +0000",
-      "source": "Cointelegraph",
-      "text": "Ethereum Foundation doubles protocol security team ahead of overhaul The foundation said its next upgrade will be harder than the Merge, and the required pace of development will make it easier to ship bugs."
-    },
-    {
-      "title": "CFTC staff say exchanges can count Bitcoin toward operating reserves",
-      "link": "https://cointelegraph.com/news/cftc-staff-say-exchanges-can-count-bitcoin-toward-operating-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 23 Nov 2026 23:43:34 +0000",
-      "source": "Cointelegraph",
-      "text": "CFTC staff say exchanges can count Bitcoin toward operating reserves The staff guidance allows Bitcoin, Ether and payment stablecoins to count towards operating reserves."
-    },
-    {
-      "title": "US seeks to recover $1.1B in crypto stolen in North Korea-linked Binance hack",
-      "link": "https://cointelegraph.com/news/us-seeks-11b-crypto-stolen-north-korea-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 23 Nov 2026 21:04:03 +0000",
-      "source": "Cointelegraph",
-      "text": "US seeks to recover $1.1B in crypto stolen in North Korea-linked Binance hack US prosecutors are seeking control of stolen USDC, while Elliptic says hackers have moved $247 million through Bitcoin mixers."
-    },
-    {
-      "title": "Kalshi secures temporary win in New York gambling law dispute",
-      "link": "https://cointelegraph.com/news/kalshi-temporary-win-new-york-gambling-law-dispute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 23 Nov 2026 20:38:43 +0000",
-      "source": "Cointelegraph",
-      "text": "Kalshi secures temporary win in New York gambling law dispute The ruling allows Kalshi to continue operating as its legal battle with New York over sports-related event contracts moves toward a January hearing."
-    },
-    {
-      "title": "BTCS offloads $44M in ETH to reduce DeFi debt amid market downturn",
-      "link": "https://cointelegraph.com/news/btcs-offloads-44m-eth-reduce-defi-debt-market-downturn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 23 Nov 2026 19:35:06 +0000",
-      "source": "Cointelegraph",
-      "text": "BTCS offloads $44M in ETH to reduce DeFi debt amid market downturn BTCS sold more than half its Ether holdings to reduce leverage following the market sell-off, while BitMine added another 7,819 ETH to its treasury."
-    },
-    {
-      "title": "Base makes quantum security a 2027 priority as regulators warn of risks",
-      "link": "https://cointelegraph.com/interview/base-quantum-security-2027-priority-regulators-warn-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 23 Nov 2026 19:16:46 +0000",
-      "source": "Cointelegraph",
-      "text": "Base makes quantum security a 2027 priority as regulators warn of risks Base creator Jesse Pollak says the upcoming Everest upgrade will help prepare wallets for future quantum threats, although further changes will be needed."
-    },
-    {
-      "title": "Cuomo says rivals urged companies to opt out of OKXICE tokenized stocks",
-      "link": "https://cointelegraph.com/news/cuomo-rivals-urged-companies-reject-okx-ice-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 23 Nov 2026 17:42:18 +0000",
-      "source": "Cointelegraph",
-      "text": "Cuomo says rivals urged companies to opt out of OKXICE tokenized stocks Former New York Gov. Andrew Cuomo said competitors encouraged companies to opt out of OKXICE’s rollout, while some issuers simply wanted more time."
     }
   ],
   "paper": {
@@ -598,26 +598,6 @@
         "mode": "PAPER ONLY"
       },
       {
-        "symbol": "SOLUSDT",
-        "side": "BUY",
-        "entry": 70.38,
-        "stopLoss": 69.3243,
-        "takeProfit": 72.4914,
-        "entryTime": "2026-11-21T16:26:01.069073+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
-        "symbol": "ETHUSDT",
-        "side": "BUY",
-        "entry": 1683.02,
-        "stopLoss": 1657.7747,
-        "takeProfit": 1733.5106,
-        "entryTime": "2026-11-22T08:50:14.510388+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
         "symbol": "BNBUSDT",
         "side": "BUY",
         "entry": 544.84,
@@ -644,6 +624,66 @@
         "stopLoss": 0.9507505,
         "takeProfit": 0.908599,
         "entryTime": "2026-11-23T22:39:57.244641+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "ETHUSDT",
+        "side": "SELL",
+        "entry": 1654.76,
+        "stopLoss": 1679.5814,
+        "takeProfit": 1605.1172,
+        "entryTime": "2026-11-25T02:11:24.409740+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "SOLUSDT",
+        "side": "SELL",
+        "entry": 68.79,
+        "stopLoss": 69.82185,
+        "takeProfit": 66.7263,
+        "entryTime": "2026-11-25T02:11:24.409740+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "SOXLBUSDT",
+        "side": "SELL",
+        "entry": 31.07,
+        "stopLoss": 31.53605,
+        "takeProfit": 30.1379,
+        "entryTime": "2026-11-25T02:11:24.409740+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "NEARUSDT",
+        "side": "SELL",
+        "entry": 2.841,
+        "stopLoss": 2.883615,
+        "takeProfit": 2.75577,
+        "entryTime": "2026-11-25T02:11:24.409740+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "NVDABUSDT",
+        "side": "SELL",
+        "entry": 151.95,
+        "stopLoss": 154.22925,
+        "takeProfit": 147.3915,
+        "entryTime": "2026-11-25T02:11:24.409740+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "HYPEUSDT",
+        "side": "SELL",
+        "entry": 58.77,
+        "stopLoss": 59.65155,
+        "takeProfit": 57.0069,
+        "entryTime": "2026-11-25T02:11:24.409740+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       }
@@ -3599,6 +3639,32 @@
         "exitPrice": 153.68,
         "exitTime": "2026-11-24T18:00:31.286839+00:00",
         "pnlPercent": 5.567
+      },
+      {
+        "symbol": "SOLUSDT",
+        "side": "BUY",
+        "entry": 70.38,
+        "stopLoss": 69.3243,
+        "takeProfit": 72.4914,
+        "entryTime": "2026-11-21T16:26:01.069073+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 68.79,
+        "exitTime": "2026-11-25T02:11:24.409740+00:00",
+        "pnlPercent": -2.259
+      },
+      {
+        "symbol": "ETHUSDT",
+        "side": "BUY",
+        "entry": 1683.02,
+        "stopLoss": 1657.7747,
+        "takeProfit": 1733.5106,
+        "entryTime": "2026-11-22T08:50:14.510388+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 1654.76,
+        "exitTime": "2026-11-25T02:11:24.409740+00:00",
+        "pnlPercent": -1.679
       }
     ]
   },
