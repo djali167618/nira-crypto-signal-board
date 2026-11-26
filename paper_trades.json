@@ -151,26 +151,6 @@
       "mode": "PAPER ONLY"
     },
     {
-      "symbol": "XRPUSDT",
-      "side": "SELL",
-      "entry": 0.9367,
-      "stopLoss": 0.9507505,
-      "takeProfit": 0.908599,
-      "entryTime": "2026-11-23T22:39:57.244641+00:00",
-      "status": "OPEN",
-      "mode": "PAPER ONLY"
-    },
-    {
-      "symbol": "NEARUSDT",
-      "side": "SELL",
-      "entry": 2.841,
-      "stopLoss": 2.883615,
-      "takeProfit": 2.75577,
-      "entryTime": "2026-11-25T02:11:24.409740+00:00",
-      "status": "OPEN",
-      "mode": "PAPER ONLY"
-    },
-    {
       "symbol": "NVDABUSDT",
       "side": "SELL",
       "entry": 151.95,
@@ -197,6 +177,16 @@
       "stopLoss": 69.3637,
       "takeProfit": 72.5326,
       "entryTime": "2026-11-25T20:29:50.582170+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "XRPUSDT",
+      "side": "BUY",
+      "entry": 0.9559,
+      "stopLoss": 0.9415615,
+      "takeProfit": 0.984577,
+      "entryTime": "2026-11-26T02:59:45.391417+00:00",
       "status": "OPEN",
       "mode": "PAPER ONLY"
     }
@@ -3256,6 +3246,32 @@
       "exitPrice": 756.56,
       "exitTime": "2026-11-25T20:29:50.582170+00:00",
       "pnlPercent": -3.972
+    },
+    {
+      "symbol": "XRPUSDT",
+      "side": "SELL",
+      "entry": 0.9367,
+      "stopLoss": 0.9507505,
+      "takeProfit": 0.908599,
+      "entryTime": "2026-11-23T22:39:57.244641+00:00",
+      "status": "STOP_LOSS",
+      "mode": "PAPER ONLY",
+      "exitPrice": 0.9559,
+      "exitTime": "2026-11-26T02:59:45.391417+00:00",
+      "pnlPercent": -2.05
+    },
+    {
+      "symbol": "NEARUSDT",
+      "side": "SELL",
+      "entry": 2.841,
+      "stopLoss": 2.883615,
+      "takeProfit": 2.75577,
+      "entryTime": "2026-11-25T02:11:24.409740+00:00",
+      "status": "STOP_LOSS",
+      "mode": "PAPER ONLY",
+      "exitPrice": 3.072,
+      "exitTime": "2026-11-26T02:59:45.391417+00:00",
+      "pnlPercent": -8.131
     }
   ]
 }
