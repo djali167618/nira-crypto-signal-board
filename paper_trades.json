@@ -189,6 +189,16 @@
       "entryTime": "2026-11-26T02:59:45.391417+00:00",
       "status": "OPEN",
       "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "side": "SELL",
+      "entry": 60842.05,
+      "stopLoss": 61754.68075,
+      "takeProfit": 59016.7885,
+      "entryTime": "2026-11-26T12:06:24.237996+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
     }
   ],
   "closed": [
