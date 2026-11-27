@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-27 13:08:22 UTC",
+  "generatedAt": "2026-11-27 21:55:38 UTC",
   "interval": "15m candles",
-  "marketSentiment": -52,
-  "overallNewsScore": -8,
+  "marketSentiment": -46,
+  "overallNewsScore": 11,
   "fearGreed": {
     "value": 12,
     "label": "Extreme Fear",
@@ -12,21 +12,42 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 61478.16,
-      "change24h": 1.026,
-      "volume24h": 949033334.5420258,
+      "price": 59805.61,
+      "change24h": -1.758,
+      "volume24h": 1260245612.4904718,
       "technical": {
-        "rsi": 50.9,
-        "ema9": 61629.53937440585,
-        "ema21": 61641.07017177221,
-        "macdBull": false,
+        "rsi": 41.0,
+        "ema9": 59844.380949383216,
+        "ema21": 59969.519578159656,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.5,
-        "score": 23
+        "volumeRatio": 0.45,
+        "score": 35
       },
-      "newsScore": -20,
+      "newsScore": -10,
       "newsCount": 5,
       "news": [
+        {
+          "title": "Bitcoin whales pile into BTC despite shrinking profit cushion",
+          "link": "https://cointelegraph.com/markets/bitcoin-whales-pile-btc-despite-shrinking-profit-cushion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Fri, 27 Nov 2026 19:23:00 +0000",
+          "source": "Cointelegraph",
+          "text": "Bitcoin whales pile into BTC despite shrinking profit cushion CryptoQuant data shows Bitcoin whales are breaking with historical fourth-quarter selling patterns despite a market downturn."
+        },
+        {
+          "title": "Bitcoin price drops below $59K as Anthropic joins tech stock rebound",
+          "link": "https://cointelegraph.com/markets/bitcoin-price-below-59k-anthropic-tech-stock-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Fri, 27 Nov 2026 16:48:51 +0000",
+          "source": "Cointelegraph",
+          "text": "Bitcoin price drops below $59K as Anthropic joins tech stock rebound Bitcoin price volatility returned at the Wall Street open as BTC/USD dropped to local lows of $58,700 while stocks and gold headed higher."
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Fri, 27 Nov 2026 13:28:26 +0000",
+          "source": "Cointelegraph",
+          "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+        },
         {
           "title": "Bitcoin supply metric hits 11-year low as new ‘capitulation’ signal arrives",
           "link": "https://cointelegraph.com/markets/bitcoin-supply-metric-new-capitulation-signal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -35,53 +56,32 @@
           "text": "Bitcoin supply metric hits 11-year low as new ‘capitulation’ signal arrives The seven-day moving average of Bitcoin’s supply profit/loss ratio hit an 11-year low as BTC price losses month-to-date remain near 20%."
         },
         {
-          "title": "Here’s what happened in crypto today",
-          "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Fri, 27 Nov 2026 06:00:00 +0000",
-          "source": "Cointelegraph",
-          "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-        },
-        {
           "title": "Binance completes withdrawal recovery four weeks after $6.3B hack",
           "link": "https://cointelegraph.com/news/binance-completes-withdrawal-recovery-four-weeks-after-63b-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "published": "Thu, 26 Nov 2026 21:33:47 +0000",
           "source": "Cointelegraph",
           "text": "Binance completes withdrawal recovery four weeks after $6.3B hack The announcement concludes a phased withdrawal recovery that began on Nov. 1, when Binance restored Bitcoin withdrawals following the record crypto theft."
-        },
-        {
-          "title": "Bitcoin price eyes $61K as Talos warns of thin Thanksgiving liquidity",
-          "link": "https://cointelegraph.com/markets/bitcoin-price-talos-warns-thin-thanksgiving-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Thu, 26 Nov 2026 11:22:59 +0000",
-          "source": "Cointelegraph",
-          "text": "Bitcoin price eyes $61K as Talos warns of thin Thanksgiving liquidity Bitcoin joined US stock futures in a modest relief rally as Talos questioned crypto demand and the broader outlook for the AI trade."
-        },
-        {
-          "title": "Bitcoin ETF November outflows top $5B, Morgan Stanley bucks trend",
-          "link": "https://cointelegraph.com/markets/morgan-stanley-bitcoin-etf-trend-outflows-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Thu, 26 Nov 2026 09:42:34 +0000",
-          "source": "Cointelegraph",
-          "text": "Bitcoin ETF November outflows top $5B, Morgan Stanley bucks trend The Morgan Stanley Bitcoin Trust drew $114.1 million in monthly net inflows through Wednesday, while US spot Bitcoin ETF outflows reached $5.39 billion."
         }
       ],
-      "marketSentiment": -52,
-      "combinedScore": 28,
-      "signal": "SELL",
-      "reason": "Technical 23/100; News -20; Market sentiment -52."
+      "marketSentiment": -46,
+      "combinedScore": 36,
+      "signal": "WAIT",
+      "reason": "Technical 35/100; News -10; Market sentiment -46."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 1720.69,
-      "change24h": 0.765,
-      "volume24h": 440343995.111865,
+      "price": 1664.12,
+      "change24h": -2.505,
+      "volume24h": 605529196.909517,
       "technical": {
-        "rsi": 45.9,
-        "ema9": 1724.9924359444158,
-        "ema21": 1727.218238327986,
-        "macdBull": false,
+        "rsi": 37.5,
+        "ema9": 1667.7422080890963,
+        "ema21": 1672.3001257797239,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.66,
-        "score": 23
+        "volumeRatio": 2.93,
+        "score": 40
       },
       "newsScore": 50,
       "newsCount": 2,
@@ -101,102 +101,94 @@
           "text": "Ethereum's much-awaited Glamsterdam upgrade cleared for December test. Here's what to know Developers have agreed to keep the planned storage charges despite concerns about some existing smart contracts, ending seven weeks of delays to the next major test."
         }
       ],
-      "marketSentiment": -52,
-      "combinedScore": 39,
+      "marketSentiment": -46,
+      "combinedScore": 48,
       "signal": "WAIT",
-      "reason": "Technical 23/100; News +50; Market sentiment -52."
+      "reason": "Technical 40/100; News +50; Market sentiment -46."
     },
     {
       "symbol": "ZECUSDT",
       "coin": "ZEC",
-      "price": 757.81,
-      "change24h": 4.138,
-      "volume24h": 206799365.3659,
+      "price": 736.91,
+      "change24h": 3.018,
+      "volume24h": 190312344.08642,
       "technical": {
-        "rsi": 62.2,
-        "ema9": 758.2724346648762,
-        "ema21": 755.3846212371179,
+        "rsi": 43.1,
+        "ema9": 739.3915175880145,
+        "ema21": 741.9210237579938,
         "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.63,
-        "score": 65
+        "emaBull": false,
+        "volumeRatio": 0.33,
+        "score": 11
       },
-      "newsScore": 100,
-      "newsCount": 1,
-      "news": [
-        {
-          "title": "Zcash devs urge users to migrate 2% of ZEC supply to accelerate Sapling pool retirement",
-          "link": "https://cointelegraph.com/news/zcash-users-migrate-zec-supply-sapling-pool-retirement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Thu, 26 Nov 2026 10:15:28 +0000",
-          "source": "Cointelegraph",
-          "text": "Zcash devs urge users to migrate 2% of ZEC supply to accelerate Sapling pool retirement Zcash developers urged users to move funds out of an older shielded transaction pool over concerns that AI advances could compromise its cryptography."
-        }
-      ],
-      "marketSentiment": -52,
-      "combinedScore": 67,
-      "signal": "BUY",
-      "reason": "Technical 65/100; News +100; Market sentiment -52."
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -46,
+      "combinedScore": 26,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment -46."
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "price": 73.04,
-      "change24h": 2.902,
-      "volume24h": 137367876.05306,
+      "price": 72.01,
+      "change24h": 0.474,
+      "volume24h": 187108997.11175,
       "technical": {
-        "rsi": 51.2,
-        "ema9": 73.19768281850128,
-        "ema21": 73.2054003526515,
-        "macdBull": false,
+        "rsi": 46.1,
+        "ema9": 71.99683015208771,
+        "ema21": 72.06982555993186,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.51,
-        "score": 23
+        "volumeRatio": 0.88,
+        "score": 47
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -52,
-      "combinedScore": 31,
-      "signal": "SELL",
-      "reason": "Technical 23/100; News +0; Market sentiment -52."
+      "marketSentiment": -46,
+      "combinedScore": 44,
+      "signal": "WAIT",
+      "reason": "Technical 47/100; News +0; Market sentiment -46."
     },
     {
       "symbol": "USD1USDT",
       "coin": "USD1",
-      "price": 1.00101,
-      "change24h": 0.027,
-      "volume24h": 93992588.38188,
+      "price": 1.00073,
+      "change24h": 0.0,
+      "volume24h": 136405581.56475,
       "technical": {
-        "rsi": 58.1,
-        "ema9": 1.00099850982852,
-        "ema21": 1.0009443383071217,
+        "rsi": 47.3,
+        "ema9": 1.0007381905880341,
+        "ema21": 1.0007408155826951,
         "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.64,
-        "score": 89
+        "emaBull": false,
+        "volumeRatio": 0.08,
+        "score": 47
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -52,
-      "combinedScore": 64,
+      "marketSentiment": -46,
+      "combinedScore": 44,
       "signal": "WAIT",
-      "reason": "Technical 89/100; News +0; Market sentiment -52."
+      "reason": "Technical 47/100; News +0; Market sentiment -46."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 0.9717,
-      "change24h": 2.263,
-      "volume24h": 83978446.16156,
+      "price": 0.9489,
+      "change24h": -0.555,
+      "volume24h": 106940833.49628,
       "technical": {
-        "rsi": 48.5,
-        "ema9": 0.9756684379866145,
-        "ema21": 0.9758215012712839,
-        "macdBull": false,
+        "rsi": 43.1,
+        "ema9": 0.9491726859100139,
+        "ema21": 0.9505807748516903,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 1.0,
-        "score": 23
+        "volumeRatio": 1.59,
+        "score": 40
       },
       "newsScore": 0,
       "newsCount": 1,
@@ -209,86 +201,48 @@
           "text": "Ripple's lending plan moves closer to tapping XRP Ledger's $800 million in stablecoins The vaults that would hold lenders' money are on track to switch on Dec. 9. The loan system that draws from them still needs one more validator to start its own two-week clock."
         }
       ],
-      "marketSentiment": -52,
-      "combinedScore": 31,
-      "signal": "SELL",
-      "reason": "Technical 23/100; News +0; Market sentiment -52."
-    },
-    {
-      "symbol": "NEARUSDT",
-      "coin": "NEAR",
-      "price": 3.105,
-      "change24h": 0.323,
-      "volume24h": 54280878.1524,
-      "technical": {
-        "rsi": 52.9,
-        "ema9": 3.11913827566402,
-        "ema21": 3.1168278207394047,
-        "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 1.14,
-        "score": 53
-      },
-      "newsScore": 0,
-      "newsCount": 2,
-      "news": [
-        {
-          "title": "Bitcoin supply metric hits 11-year low as new ‘capitulation’ signal arrives",
-          "link": "https://cointelegraph.com/markets/bitcoin-supply-metric-new-capitulation-signal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Fri, 27 Nov 2026 11:14:28 +0000",
-          "source": "Cointelegraph",
-          "text": "Bitcoin supply metric hits 11-year low as new ‘capitulation’ signal arrives The seven-day moving average of Bitcoin’s supply profit/loss ratio hit an 11-year low as BTC price losses month-to-date remain near 20%."
-        },
-        {
-          "title": "Bitcoin little changed, DeFi tokens lead the bounce as U.S. marks Thanksgiving",
-          "link": "https://www.coindesk.com/markets/2026/11/26/bitcoin-little-changed-defi-tokens-lead-the-bounce-as-u-s-marks-thanksgiving",
-          "published": "Thu, 26 Nov 2026 11:17:22 +0000",
-          "source": "CoinDesk",
-          "text": "Bitcoin little changed, DeFi tokens lead the bounce as U.S. marks Thanksgiving Bitcoin is holding near $60,800 after rebounding from Wednesday's $57,500 low, while DeFi and infrastructure tokens are gaining nearly twice as much."
-        }
-      ],
-      "marketSentiment": -52,
-      "combinedScore": 46,
+      "marketSentiment": -46,
+      "combinedScore": 40,
       "signal": "WAIT",
-      "reason": "Technical 53/100; News +0; Market sentiment -52."
+      "reason": "Technical 40/100; News +0; Market sentiment -46."
     },
     {
-      "symbol": "RLUSDUSDT",
-      "coin": "RLUSD",
-      "price": 1.0013,
-      "change24h": 0.02,
-      "volume24h": 42425835.8767,
+      "symbol": "SOXLBUSDT",
+      "coin": "SOXLB",
+      "price": 35.92,
+      "change24h": 4.54,
+      "volume24h": 61763018.52651,
       "technical": {
-        "rsi": 53.7,
-        "ema9": 1.0012370064521952,
-        "ema21": 1.001237921618565,
+        "rsi": 52.2,
+        "ema9": 35.89876635136241,
+        "ema21": 35.77254823273878,
         "macdBull": true,
-        "emaBull": false,
-        "volumeRatio": 0.02,
-        "score": 47
+        "emaBull": true,
+        "volumeRatio": 0.15,
+        "score": 77
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -52,
-      "combinedScore": 43,
+      "marketSentiment": -46,
+      "combinedScore": 59,
       "signal": "WAIT",
-      "reason": "Technical 47/100; News +0; Market sentiment -52."
+      "reason": "Technical 77/100; News +0; Market sentiment -46."
     },
     {
       "symbol": "BNBUSDT",
       "coin": "BNB",
-      "price": 563.18,
-      "change24h": 1.83,
-      "volume24h": 42085051.75342,
+      "price": 553.16,
+      "change24h": -0.672,
+      "volume24h": 61031960.26091,
       "technical": {
-        "rsi": 50.9,
-        "ema9": 563.9171378085908,
-        "ema21": 564.0197545891714,
-        "macdBull": false,
+        "rsi": 45.8,
+        "ema9": 553.4112233623864,
+        "ema21": 553.7937482805366,
+        "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.51,
-        "score": 23
+        "volumeRatio": 0.33,
+        "score": 47
       },
       "newsScore": 0,
       "newsCount": 1,
@@ -301,36 +255,130 @@
           "text": "BNB Chain details new layer-1 for trading, private finance and AI The proposed network will operate alongside BNB Smart Chain and retain BNB as its native token, with a public testnet targeted for the first quarter of 2027."
         }
       ],
-      "marketSentiment": -52,
-      "combinedScore": 31,
-      "signal": "SELL",
-      "reason": "Technical 23/100; News +0; Market sentiment -52."
+      "marketSentiment": -46,
+      "combinedScore": 44,
+      "signal": "WAIT",
+      "reason": "Technical 47/100; News +0; Market sentiment -46."
     },
     {
-      "symbol": "HYPEUSDT",
-      "coin": "HYPE",
-      "price": 65.84,
-      "change24h": 7.634,
-      "volume24h": 35597596.59809,
+      "symbol": "PORTALUSDT",
+      "coin": "PORTAL",
+      "price": 0.03968,
+      "change24h": 218.204,
+      "volume24h": 59459030.440539,
       "technical": {
-        "rsi": 55.4,
-        "ema9": 65.88325385859095,
-        "ema21": 65.84515269875354,
+        "rsi": 68.5,
+        "ema9": 0.039260277355612834,
+        "ema21": 0.037074291678683,
         "macdBull": false,
         "emaBull": true,
-        "volumeRatio": 0.97,
+        "volumeRatio": 0.14,
         "score": 65
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -52,
-      "combinedScore": 52,
+      "marketSentiment": -46,
+      "combinedScore": 53,
       "signal": "WAIT",
-      "reason": "Technical 65/100; News +0; Market sentiment -52."
+      "reason": "Technical 65/100; News +0; Market sentiment -46."
+    },
+    {
+      "symbol": "NEARUSDT",
+      "coin": "NEAR",
+      "price": 3.046,
+      "change24h": -1.551,
+      "volume24h": 58116921.5354,
+      "technical": {
+        "rsi": 48.1,
+        "ema9": 3.0446305527111472,
+        "ema21": 3.043272123363993,
+        "macdBull": true,
+        "emaBull": true,
+        "volumeRatio": 0.47,
+        "score": 77
+      },
+      "newsScore": 0,
+      "newsCount": 3,
+      "news": [
+        {
+          "title": "Bitcoin supply metric hits 11-year low as new ‘capitulation’ signal arrives",
+          "link": "https://cointelegraph.com/markets/bitcoin-supply-metric-new-capitulation-signal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "Fri, 27 Nov 2026 11:14:28 +0000",
+          "source": "Cointelegraph",
+          "text": "Bitcoin supply metric hits 11-year low as new ‘capitulation’ signal arrives The seven-day moving average of Bitcoin’s supply profit/loss ratio hit an 11-year low as BTC price losses month-to-date remain near 20%."
+        },
+        {
+          "title": "Live updates: Bitcoin's Thanksgiving gains prove fleeting",
+          "link": "https://www.coindesk.com/tech/2026/11/27/live-news-bitcoin-rebounds-above-usd61-000-as-ai-stocks-lead-premarket-gains",
+          "published": "Fri, 27 Nov 2026 11:34:37 +0000",
+          "source": "CoinDesk",
+          "text": "Live updates: Bitcoin's Thanksgiving gains prove fleeting Stocks are broadly higher, but bitcoin has slipped back near $60,000, reversing a turkey day advance."
+        },
+        {
+          "title": "Bitcoin little changed, DeFi tokens lead the bounce as U.S. marks Thanksgiving",
+          "link": "https://www.coindesk.com/markets/2026/11/26/bitcoin-little-changed-defi-tokens-lead-the-bounce-as-u-s-marks-thanksgiving",
+          "published": "Thu, 26 Nov 2026 11:17:22 +0000",
+          "source": "CoinDesk",
+          "text": "Bitcoin little changed, DeFi tokens lead the bounce as U.S. marks Thanksgiving Bitcoin is holding near $60,800 after rebounding from Wednesday's $57,500 low, while DeFi and infrastructure tokens are gaining nearly twice as much."
+        }
+      ],
+      "marketSentiment": -46,
+      "combinedScore": 59,
+      "signal": "WAIT",
+      "reason": "Technical 77/100; News +0; Market sentiment -46."
     }
   ],
   "news": [
+    {
+      "title": "Franklin Templeton makes room for HYPE in crypto index ETF",
+      "link": "https://cointelegraph.com/news/franklin-templeton-hype-crypto-index-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 27 Nov 2026 21:15:29 +0000",
+      "source": "Cointelegraph",
+      "text": "Franklin Templeton makes room for HYPE in crypto index ETF The addition comes as US spot investment products tracking Hyperliquid’s native token reach $266.5 million in assets under management."
+    },
+    {
+      "title": "Bitcoin whales pile into BTC despite shrinking profit cushion",
+      "link": "https://cointelegraph.com/markets/bitcoin-whales-pile-btc-despite-shrinking-profit-cushion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 27 Nov 2026 19:23:00 +0000",
+      "source": "Cointelegraph",
+      "text": "Bitcoin whales pile into BTC despite shrinking profit cushion CryptoQuant data shows Bitcoin whales are breaking with historical fourth-quarter selling patterns despite a market downturn."
+    },
+    {
+      "title": "China sets March 2027 rollout for blockchain identity regulations",
+      "link": "https://cointelegraph.com/news/china-march-2027-rollout-blockchain-identity-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 27 Nov 2026 17:37:23 +0000",
+      "source": "Cointelegraph",
+      "text": "China sets March 2027 rollout for blockchain identity regulations China has issued new regulations governing blockchain-based digital identities, setting rules for cross-platform verification and data privacy."
+    },
+    {
+      "title": "Bitcoin price drops below $59K as Anthropic joins tech stock rebound",
+      "link": "https://cointelegraph.com/markets/bitcoin-price-below-59k-anthropic-tech-stock-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 27 Nov 2026 16:48:51 +0000",
+      "source": "Cointelegraph",
+      "text": "Bitcoin price drops below $59K as Anthropic joins tech stock rebound Bitcoin price volatility returned at the Wall Street open as BTC/USD dropped to local lows of $58,700 while stocks and gold headed higher."
+    },
+    {
+      "title": "What was Coinbase worth while Nasdaq was closed?",
+      "link": "https://cointelegraph.com/news/what-was-coinbase-worth-while-nasdaq-was-closed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 27 Nov 2026 14:40:54 +0000",
+      "source": "Cointelegraph",
+      "text": "What was Coinbase worth while Nasdaq was closed? A Thanksgiving buyer paid 106.24 USDC per Coinbase share. Whether that looked like a holiday rally depended on when you’d last checked the stock."
+    },
+    {
+      "title": "Binance to launch tokenized IPO program after regulatory approval: Yi He",
+      "link": "https://cointelegraph.com/news/binance-ipo-program-regulatory-approval-yi-he?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 27 Nov 2026 13:44:00 +0000",
+      "source": "Cointelegraph",
+      "text": "Binance to launch tokenized IPO program after regulatory approval: Yi He Binance is hiring for equity capital markets roles, including an analyst to develop tokenized equity products and assess prospective issuers."
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 27 Nov 2026 13:28:26 +0000",
+      "source": "Cointelegraph",
+      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
     {
       "title": "Brazil’s stock exchange pushes stablecoin launch back to 2027",
       "link": "https://cointelegraph.com/news/brazil-b3-stablecoin-tokenization-launch-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -372,13 +420,6 @@
       "published": "Fri, 27 Nov 2026 07:19:44 +0000",
       "source": "Cointelegraph",
       "text": "New York AG secures $1.37B court judgment against NovaTech founders The judgment follows an August 2025 default ruling against the founders over a Ponzi scheme that targeted Haitian and other immigrant communities."
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 27 Nov 2026 06:00:00 +0000",
-      "source": "Cointelegraph",
-      "text": "Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
       "title": "Japan’s crypto security group taps SEAL to speed up hack response",
@@ -428,48 +469,6 @@
       "published": "Thu, 26 Nov 2026 21:33:47 +0000",
       "source": "Cointelegraph",
       "text": "Binance completes withdrawal recovery four weeks after $6.3B hack The announcement concludes a phased withdrawal recovery that began on Nov. 1, when Binance restored Bitcoin withdrawals following the record crypto theft."
-    },
-    {
-      "title": "UK is ‘getting it wrong’ on DeFi regulation, says Coinbase",
-      "link": "https://cointelegraph.com/news/uk-wrong-defi-regulation-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 26 Nov 2026 21:13:53 +0000",
-      "source": "Cointelegraph",
-      "text": "UK is ‘getting it wrong’ on DeFi regulation, says Coinbase Coinbase and Stand With Crypto argue that the FCA’s proposed DeFi rules could leave UK users without regulated access to decentralized finance."
-    },
-    {
-      "title": "Japan weighs tighter oversight of DeFi, self-custodial wallets",
-      "link": "https://cointelegraph.com/news/japan-tighter-oversight-defi-self-custodial-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 26 Nov 2026 20:05:18 +0000",
-      "source": "Cointelegraph",
-      "text": "Japan weighs tighter oversight of DeFi, self-custodial wallets Japan’s financial regulator is exploring measures to curb illicit finance risks, including potential restrictions on access to DeFi services."
-    },
-    {
-      "title": "Spain moves to grant financial watchdog power to freeze crypto accounts",
-      "link": "https://cointelegraph.com/news/spain-moves-grant-financial-watchdog-power-freeze-crypto-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 26 Nov 2026 18:26:31 +0000",
-      "source": "Cointelegraph",
-      "text": "Spain moves to grant financial watchdog power to freeze crypto accounts A new decree would allow Spain’s financial intelligence unit to suspend crypto accounts, with firms facing fines for noncompliance."
-    },
-    {
-      "title": "Crypto on notice as hawkish Fed risks December ‘meltdown’",
-      "link": "https://cointelegraph.com/markets/crypto-hawkish-fed-risks-december-meltdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 26 Nov 2026 17:39:53 +0000",
-      "source": "Cointelegraph",
-      "text": "Crypto on notice as hawkish Fed risks December ‘meltdown’ Economist Robin Brooks warned of dire consequences for stocks if the Federal Reserve fails to deliver dovish cues before the FOMC blackout period."
-    },
-    {
-      "title": "BIS chief Pablo Hernández de Cos set to become next ECB president: FT",
-      "link": "https://cointelegraph.com/news/bis-chief-pablo-hernndez-de-cos-next-ecb-president?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 26 Nov 2026 16:40:44 +0000",
-      "source": "Cointelegraph",
-      "text": "BIS chief Pablo Hernández de Cos set to become next ECB president: FT The Spanish economist has questioned the viability of stablecoins for widespread payments while backing the development of a digital euro."
-    },
-    {
-      "title": "How EU brokers could lose access to Kyrgyz crypto exchanges",
-      "link": "https://cointelegraph.com/news/how-eu-brokers-could-lose-access-to-kyrgyz-crypto-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 26 Nov 2026 15:45:07 +0000",
-      "source": "Cointelegraph",
-      "text": "How EU brokers could lose access to Kyrgyz crypto exchanges A vote on Kyrgyzstan could make an exchange’s home country the deciding factor in whether a European broker can use it to settle a trade."
     }
   ],
   "paper": {
@@ -645,16 +644,6 @@
         "mode": "PAPER ONLY"
       },
       {
-        "symbol": "ZECUSDT",
-        "side": "BUY",
-        "entry": 757.1,
-        "stopLoss": 745.7435,
-        "takeProfit": 779.813,
-        "entryTime": "2026-11-27T03:42:11.155954+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
         "symbol": "SOLUSDT",
         "side": "SELL",
         "entry": 73.04,
@@ -671,6 +660,16 @@
         "stopLoss": 571.6277,
         "takeProfit": 546.2846,
         "entryTime": "2026-11-27T13:08:22.441262+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "ZECUSDT",
+        "side": "SELL",
+        "entry": 736.91,
+        "stopLoss": 747.96365,
+        "takeProfit": 714.8027,
+        "entryTime": "2026-11-27T21:55:38.851301+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       }
@@ -3808,6 +3807,19 @@
         "exitPrice": 65.84,
         "exitTime": "2026-11-27T13:08:22.441262+00:00",
         "pnlPercent": -12.03
+      },
+      {
+        "symbol": "ZECUSDT",
+        "side": "BUY",
+        "entry": 757.1,
+        "stopLoss": 745.7435,
+        "takeProfit": 779.813,
+        "entryTime": "2026-11-27T03:42:11.155954+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 736.91,
+        "exitTime": "2026-11-27T21:55:38.851301+00:00",
+        "pnlPercent": -2.667
       }
     ]
   },
