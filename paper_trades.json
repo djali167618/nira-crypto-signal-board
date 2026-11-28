@@ -191,12 +191,22 @@
       "mode": "PAPER ONLY"
     },
     {
-      "symbol": "ZECUSDT",
+      "symbol": "PORTALUSDT",
       "side": "SELL",
-      "entry": 736.91,
-      "stopLoss": 747.96365,
-      "takeProfit": 714.8027,
-      "entryTime": "2026-11-27T21:55:38.851301+00:00",
+      "entry": 0.01465,
+      "stopLoss": 0.01486975,
+      "takeProfit": 0.0142105,
+      "entryTime": "2026-11-28T03:41:01.863435+00:00",
+      "status": "OPEN",
+      "mode": "PAPER ONLY"
+    },
+    {
+      "symbol": "SOXLBUSDT",
+      "side": "BUY",
+      "entry": 36.28,
+      "stopLoss": 35.7358,
+      "takeProfit": 37.3684,
+      "entryTime": "2026-11-28T03:41:01.863435+00:00",
       "status": "OPEN",
       "mode": "PAPER ONLY"
     }
@@ -3347,6 +3357,19 @@
       "exitPrice": 736.91,
       "exitTime": "2026-11-27T21:55:38.851301+00:00",
       "pnlPercent": -2.667
+    },
+    {
+      "symbol": "ZECUSDT",
+      "side": "SELL",
+      "entry": 736.91,
+      "stopLoss": 747.96365,
+      "takeProfit": 714.8027,
+      "entryTime": "2026-11-27T21:55:38.851301+00:00",
+      "status": "STOP_LOSS",
+      "mode": "PAPER ONLY",
+      "exitPrice": 750.82,
+      "exitTime": "2026-11-28T03:41:01.863435+00:00",
+      "pnlPercent": -1.888
     }
   ]
 }
