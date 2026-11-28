@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-28 03:41:01 UTC",
+  "generatedAt": "2026-11-28 12:22:19 UTC",
   "interval": "15m candles",
-  "marketSentiment": -48,
-  "overallNewsScore": 11,
+  "marketSentiment": -43,
+  "overallNewsScore": 25,
   "fearGreed": {
     "value": 10,
     "label": "Extreme Fear",
@@ -12,17 +12,17 @@
     {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "price": 59964.31,
-      "change24h": -2.613,
-      "volume24h": 1149173696.766362,
+      "price": 59293.57,
+      "change24h": -3.8,
+      "volume24h": 986368634.7981505,
       "technical": {
-        "rsi": 44.7,
-        "ema9": 60017.29096415143,
-        "ema21": 60000.236743822956,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.71,
-        "score": 65
+        "rsi": 36.0,
+        "ema9": 59310.56739275863,
+        "ema21": 59460.659604461405,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 0.6,
+        "score": 11
       },
       "newsScore": -10,
       "newsCount": 5,
@@ -63,28 +63,28 @@
           "text": "Binance completes withdrawal recovery four weeks after $6.3B hack The announcement concludes a phased withdrawal recovery that began on Nov. 1, when Binance restored Bitcoin withdrawals following the record crypto theft."
         }
       ],
-      "marketSentiment": -48,
-      "combinedScore": 51,
-      "signal": "WAIT",
-      "reason": "Technical 65/100; News -10; Market sentiment -48."
+      "marketSentiment": -43,
+      "combinedScore": 25,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News -10; Market sentiment -43."
     },
     {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "price": 1664.56,
-      "change24h": -3.817,
-      "volume24h": 544534051.109336,
+      "price": 1651.52,
+      "change24h": -4.061,
+      "volume24h": 500005040.862474,
       "technical": {
-        "rsi": 42.2,
-        "ema9": 1665.4158209884115,
-        "ema21": 1665.8028544518654,
+        "rsi": 45.1,
+        "ema9": 1649.3604843739945,
+        "ema21": 1651.86113843158,
         "macdBull": true,
         "emaBull": false,
-        "volumeRatio": 0.41,
-        "score": 35
+        "volumeRatio": 1.13,
+        "score": 47
       },
-      "newsScore": 50,
-      "newsCount": 2,
+      "newsScore": 22,
+      "newsCount": 3,
       "news": [
         {
           "title": "Ethereum devs set Glamsterdam’s Hoodi rollout for mid-December after delays",
@@ -94,6 +94,13 @@
           "text": "Ethereum devs set Glamsterdam’s Hoodi rollout for mid-December after delays Glamsterdam’s Hoodi upgrade was delayed in October after concerns that changes to gas pricing could break some existing smart contracts."
         },
         {
+          "title": "Trump-linked crypto token WLFI plunges 50% to record lows",
+          "link": "https://www.coindesk.com/markets/2026/11/28/trump-linked-crypto-token-wlfi-plunges-over-50",
+          "published": "Sat, 28 Nov 2026 09:32:51 +0000",
+          "source": "CoinDesk",
+          "text": "Trump-linked crypto token WLFI plunges 50% to record lows As prices tanked, blockchain trackers flagged a large outflow of ether from a wallet linked to World Liberty Financial."
+        },
+        {
           "title": "Ethereum's much-awaited Glamsterdam upgrade cleared for December test. Here's what to know",
           "link": "https://www.coindesk.com/tech/2026/11/27/ethereum-s-much-awaited-glamsterdam-upgrade-cleared-for-december-test-here-s-what-to-know",
           "published": "Fri, 27 Nov 2026 04:29:47 +0000",
@@ -101,94 +108,148 @@
           "text": "Ethereum's much-awaited Glamsterdam upgrade cleared for December test. Here's what to know Developers have agreed to keep the planned storage charges despite concerns about some existing smart contracts, ending seven weeks of delays to the next major test."
         }
       ],
-      "marketSentiment": -48,
-      "combinedScore": 45,
+      "marketSentiment": -43,
+      "combinedScore": 48,
       "signal": "WAIT",
-      "reason": "Technical 35/100; News +50; Market sentiment -48."
-    },
-    {
-      "symbol": "SOLUSDT",
-      "coin": "SOL",
-      "price": 71.73,
-      "change24h": -1.686,
-      "volume24h": 173851428.68318,
-      "technical": {
-        "rsi": 41.3,
-        "ema9": 71.80328000141425,
-        "ema21": 71.83208297946507,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 1.67,
-        "score": 6
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -48,
-      "combinedScore": 23,
-      "signal": "SELL",
-      "reason": "Technical 6/100; News +0; Market sentiment -48."
-    },
-    {
-      "symbol": "ZECUSDT",
-      "coin": "ZEC",
-      "price": 750.82,
-      "change24h": -0.625,
-      "volume24h": 156695532.91076,
-      "technical": {
-        "rsi": 52.2,
-        "ema9": 749.9744347031616,
-        "ema21": 745.8867698747347,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.68,
-        "score": 77
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -48,
-      "combinedScore": 59,
-      "signal": "WAIT",
-      "reason": "Technical 77/100; News +0; Market sentiment -48."
+      "reason": "Technical 47/100; News +22; Market sentiment -43."
     },
     {
       "symbol": "USD1USDT",
       "coin": "USD1",
-      "price": 1.00084,
-      "change24h": 0.004,
-      "volume24h": 126982138.43664,
+      "price": 0.99875,
+      "change24h": -0.226,
+      "volume24h": 480181685.36255,
       "technical": {
-        "rsi": 52.4,
-        "ema9": 1.000841757768142,
-        "ema21": 1.0008135551002986,
+        "rsi": 53.7,
+        "ema9": 0.9984741383599081,
+        "ema21": 0.9973608343797336,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 0.45,
+        "volumeRatio": 0.48,
         "score": 77
       },
       "newsScore": 0,
       "newsCount": 0,
       "news": [],
-      "marketSentiment": -48,
+      "marketSentiment": -43,
       "combinedScore": 59,
       "signal": "WAIT",
-      "reason": "Technical 77/100; News +0; Market sentiment -48."
+      "reason": "Technical 77/100; News +0; Market sentiment -43."
+    },
+    {
+      "symbol": "SOLUSDT",
+      "coin": "SOL",
+      "price": 71.0,
+      "change24h": -2.966,
+      "volume24h": 155259477.65817,
+      "technical": {
+        "rsi": 44.7,
+        "ema9": 70.92197973999501,
+        "ema21": 71.03363794329752,
+        "macdBull": true,
+        "emaBull": false,
+        "volumeRatio": 0.97,
+        "score": 35
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -43,
+      "combinedScore": 38,
+      "signal": "WAIT",
+      "reason": "Technical 35/100; News +0; Market sentiment -43."
+    },
+    {
+      "symbol": "WLFIUSDT",
+      "coin": "WLFI",
+      "price": 0.0198,
+      "change24h": -51.589,
+      "volume24h": 142575985.17213,
+      "technical": {
+        "rsi": 36.2,
+        "ema9": 0.019448388278893593,
+        "ema21": 0.020378432584430242,
+        "macdBull": true,
+        "emaBull": false,
+        "volumeRatio": 0.21,
+        "score": 35
+      },
+      "newsScore": -33,
+      "newsCount": 1,
+      "news": [
+        {
+          "title": "Trump-linked crypto token WLFI plunges 50% to record lows",
+          "link": "https://www.coindesk.com/markets/2026/11/28/trump-linked-crypto-token-wlfi-plunges-over-50",
+          "published": "Sat, 28 Nov 2026 09:32:51 +0000",
+          "source": "CoinDesk",
+          "text": "Trump-linked crypto token WLFI plunges 50% to record lows As prices tanked, blockchain trackers flagged a large outflow of ether from a wallet linked to World Liberty Financial."
+        }
+      ],
+      "marketSentiment": -43,
+      "combinedScore": 33,
+      "signal": "SELL",
+      "reason": "Technical 35/100; News -33; Market sentiment -43."
+    },
+    {
+      "symbol": "ZECUSDT",
+      "coin": "ZEC",
+      "price": 723.59,
+      "change24h": -4.848,
+      "volume24h": 116181586.75549,
+      "technical": {
+        "rsi": 30.6,
+        "ema9": 725.0093251125164,
+        "ema21": 730.0189119543128,
+        "macdBull": false,
+        "emaBull": false,
+        "volumeRatio": 1.27,
+        "score": 11
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -43,
+      "combinedScore": 26,
+      "signal": "SELL",
+      "reason": "Technical 11/100; News +0; Market sentiment -43."
+    },
+    {
+      "symbol": "PORTALUSDT",
+      "coin": "PORTAL",
+      "price": 0.01558,
+      "change24h": -37.405,
+      "volume24h": 91775185.801288,
+      "technical": {
+        "rsi": 34.0,
+        "ema9": 0.01565319048922319,
+        "ema21": 0.016466921044111325,
+        "macdBull": true,
+        "emaBull": false,
+        "volumeRatio": 0.48,
+        "score": 35
+      },
+      "newsScore": 0,
+      "newsCount": 0,
+      "news": [],
+      "marketSentiment": -43,
+      "combinedScore": 38,
+      "signal": "WAIT",
+      "reason": "Technical 35/100; News +0; Market sentiment -43."
     },
     {
       "symbol": "XRPUSDT",
       "coin": "XRP",
-      "price": 0.9488,
-      "change24h": -1.658,
-      "volume24h": 99839605.86057,
+      "price": 0.942,
+      "change24h": -3.395,
+      "volume24h": 81464672.51762,
       "technical": {
-        "rsi": 41.5,
-        "ema9": 0.9503719332016447,
-        "ema21": 0.9502268402675204,
-        "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 1.13,
-        "score": 41
+        "rsi": 46.3,
+        "ema9": 0.9398987620315807,
+        "ema21": 0.94136853541459,
+        "macdBull": true,
+        "emaBull": false,
+        "volumeRatio": 0.73,
+        "score": 47
       },
       "newsScore": 0,
       "newsCount": 1,
@@ -201,88 +262,35 @@
           "text": "Ripple's lending plan moves closer to tapping XRP Ledger's $800 million in stablecoins The vaults that would hold lenders' money are on track to switch on Dec. 9. The loan system that draws from them still needs one more validator to start its own two-week clock."
         }
       ],
-      "marketSentiment": -48,
-      "combinedScore": 41,
+      "marketSentiment": -43,
+      "combinedScore": 44,
       "signal": "WAIT",
-      "reason": "Technical 41/100; News +0; Market sentiment -48."
+      "reason": "Technical 47/100; News +0; Market sentiment -43."
     },
     {
-      "symbol": "PORTALUSDT",
-      "coin": "PORTAL",
-      "price": 0.01465,
-      "change24h": 16.733,
-      "volume24h": 95594095.268489,
+      "symbol": "UUSDT",
+      "coin": "U",
+      "price": 1.0001,
+      "change24h": -0.04,
+      "volume24h": 57693975.468,
       "technical": {
-        "rsi": 16.1,
-        "ema9": 0.0292854240580575,
-        "ema21": 0.03440577247411994,
-        "macdBull": false,
-        "emaBull": false,
-        "volumeRatio": 5.41,
-        "score": 23
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -48,
-      "combinedScore": 32,
-      "signal": "SELL",
-      "reason": "Technical 23/100; News +0; Market sentiment -48."
-    },
-    {
-      "symbol": "SOXLBUSDT",
-      "coin": "SOXLB",
-      "price": 36.28,
-      "change24h": -0.302,
-      "volume24h": 61356864.95265,
-      "technical": {
-        "rsi": 58.2,
-        "ema9": 36.10535810711199,
-        "ema21": 35.951394726790454,
+        "rsi": 53.1,
+        "ema9": 1.000116052415368,
+        "ema21": 1.0001156123909651,
         "macdBull": true,
         "emaBull": true,
-        "volumeRatio": 1.28,
-        "score": 89
-      },
-      "newsScore": 0,
-      "newsCount": 0,
-      "news": [],
-      "marketSentiment": -48,
-      "combinedScore": 65,
-      "signal": "BUY",
-      "reason": "Technical 89/100; News +0; Market sentiment -48."
-    },
-    {
-      "symbol": "NEARUSDT",
-      "coin": "NEAR",
-      "price": 3.058,
-      "change24h": -2.05,
-      "volume24h": 55642592.6699,
-      "technical": {
-        "rsi": 52.7,
-        "ema9": 3.0459658725668715,
-        "ema21": 3.040814153612631,
-        "macdBull": true,
-        "emaBull": true,
-        "volumeRatio": 0.5,
+        "volumeRatio": 0.18,
         "score": 77
       },
       "newsScore": 0,
       "newsCount": 3,
       "news": [
         {
-          "title": "Bitcoin supply metric hits 11-year low as new ‘capitulation’ signal arrives",
-          "link": "https://cointelegraph.com/markets/bitcoin-supply-metric-new-capitulation-signal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "Fri, 27 Nov 2026 11:14:28 +0000",
-          "source": "Cointelegraph",
-          "text": "Bitcoin supply metric hits 11-year low as new ‘capitulation’ signal arrives The seven-day moving average of Bitcoin’s supply profit/loss ratio hit an 11-year low as BTC price losses month-to-date remain near 20%."
-        },
-        {
-          "title": "Live updates: Bitcoin's Thanksgiving gains prove fleeting",
-          "link": "https://www.coindesk.com/tech/2026/11/27/live-news-bitcoin-rebounds-above-usd61-000-as-ai-stocks-lead-premarket-gains",
-          "published": "Fri, 27 Nov 2026 11:34:37 +0000",
+          "title": "Bitcoin tops $61,000 as Nasdaq futures extend Wednesday’s rebound",
+          "link": "https://www.coindesk.com/markets/2026/11/27/bitcoin-tops-usd61-000-as-nasdaq-futures-extend-wednesday-s-rebound",
+          "published": "Fri, 27 Nov 2026 09:49:55 +0000",
           "source": "CoinDesk",
-          "text": "Live updates: Bitcoin's Thanksgiving gains prove fleeting Stocks are broadly higher, but bitcoin has slipped back near $60,000, reversing a turkey day advance."
+          "text": "Bitcoin tops $61,000 as Nasdaq futures extend Wednesday’s rebound U.S. equity futures extended Wednesday’s rebound after markets closed for Thanksgiving, with AI infrastructure stocks leading premarket gains."
         },
         {
           "title": "Bitcoin little changed, DeFi tokens lead the bounce as U.S. marks Thanksgiving",
@@ -290,27 +298,34 @@
           "published": "Thu, 26 Nov 2026 11:17:22 +0000",
           "source": "CoinDesk",
           "text": "Bitcoin little changed, DeFi tokens lead the bounce as U.S. marks Thanksgiving Bitcoin is holding near $60,800 after rebounding from Wednesday's $57,500 low, while DeFi and infrastructure tokens are gaining nearly twice as much."
+        },
+        {
+          "title": "Nvidia shipment freeze and U.S. chip curbs put AI stocks under pressure",
+          "link": "https://www.coindesk.com/markets/2026/11/26/nvidia-shipment-freeze-and-u-s-chip-curbs-put-ai-stocks-under-pressure",
+          "published": "Thu, 26 Nov 2026 10:56:08 +0000",
+          "source": "CoinDesk",
+          "text": "Nvidia shipment freeze and U.S. chip curbs put AI stocks under pressure U.S. export controls have halted Nvidia server shipments to four Southeast Asian countries and put billions in data centre financing under review."
         }
       ],
-      "marketSentiment": -48,
+      "marketSentiment": -43,
       "combinedScore": 59,
       "signal": "WAIT",
-      "reason": "Technical 77/100; News +0; Market sentiment -48."
+      "reason": "Technical 77/100; News +0; Market sentiment -43."
     },
     {
       "symbol": "BNBUSDT",
       "coin": "BNB",
-      "price": 554.62,
-      "change24h": -1.578,
-      "volume24h": 55295983.88304,
+      "price": 550.06,
+      "change24h": -2.461,
+      "volume24h": 54076910.30119,
       "technical": {
-        "rsi": 41.8,
-        "ema9": 555.1131836909701,
-        "ema21": 554.9421175199842,
-        "macdBull": false,
-        "emaBull": true,
-        "volumeRatio": 0.77,
-        "score": 41
+        "rsi": 40.4,
+        "ema9": 549.9510352996749,
+        "ema21": 550.6789603918671,
+        "macdBull": true,
+        "emaBull": false,
+        "volumeRatio": 0.6,
+        "score": 35
       },
       "newsScore": 0,
       "newsCount": 1,
@@ -323,13 +338,27 @@
           "text": "BNB Chain details new layer-1 for trading, private finance and AI The proposed network will operate alongside BNB Smart Chain and retain BNB as its native token, with a public testnet targeted for the first quarter of 2027."
         }
       ],
-      "marketSentiment": -48,
-      "combinedScore": 41,
+      "marketSentiment": -43,
+      "combinedScore": 38,
       "signal": "WAIT",
-      "reason": "Technical 41/100; News +0; Market sentiment -48."
+      "reason": "Technical 35/100; News +0; Market sentiment -43."
     }
   ],
   "news": [
+    {
+      "title": "ASEAN+3 agrees on initiative to explore crypto payments cooperation",
+      "link": "https://cointelegraph.com/news/asean3-agrees-on-initiative-to-explore-crypto-payments-cooperation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sat, 28 Nov 2026 10:31:00 +0000",
+      "source": "Cointelegraph",
+      "text": "ASEAN+3 agrees on initiative to explore crypto payments cooperation A working group will examine enhancing connectivity between domestic digital payment networks and bringing their regulations into more alignment."
+    },
+    {
+      "title": "Binance plans Asia hub in Bhutan, receives preliminary approval",
+      "link": "https://cointelegraph.com/news/binance-receives-in-principle-approval-plans-asia-hub-in-bhutan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sat, 28 Nov 2026 07:43:00 +0000",
+      "source": "Cointelegraph",
+      "text": "Binance plans Asia hub in Bhutan, receives preliminary approval The agreement is a milestone in Binance’s effort to expand its presence in Bhutan since launching a national crypto-powered tourism payment system in 2025."
+    },
     {
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -455,20 +484,6 @@
       "published": "Thu, 26 Nov 2026 22:39:46 +0000",
       "source": "Cointelegraph",
       "text": "‘Very racist’ Netflix SBF series, BitMart’s $319M shortfall: Asia Express Netflix’s The Altruist has been slammed for its ‘very racist’ portrayal of CZ. BitMart reportedly has a $319.5 million shortfall and just $1.9M in liquid assets."
-    },
-    {
-      "title": "BNB Chain details new layer-1 for trading, private finance and AI",
-      "link": "https://cointelegraph.com/news/bnb-chain-details-new-layer-1-trading-private-finance-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 26 Nov 2026 21:42:43 +0000",
-      "source": "Cointelegraph",
-      "text": "BNB Chain details new layer-1 for trading, private finance and AI The proposed network will operate alongside BNB Smart Chain and retain BNB as its native token, with a public testnet targeted for the first quarter of 2027."
-    },
-    {
-      "title": "Binance completes withdrawal recovery four weeks after $6.3B hack",
-      "link": "https://cointelegraph.com/news/binance-completes-withdrawal-recovery-four-weeks-after-63b-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 26 Nov 2026 21:33:47 +0000",
-      "source": "Cointelegraph",
-      "text": "Binance completes withdrawal recovery four weeks after $6.3B hack The announcement concludes a phased withdrawal recovery that began on Nov. 1, when Binance restored Bitcoin withdrawals following the record crypto theft."
     }
   ],
   "paper": {
@@ -664,22 +679,32 @@
         "mode": "PAPER ONLY"
       },
       {
-        "symbol": "PORTALUSDT",
-        "side": "SELL",
-        "entry": 0.01465,
-        "stopLoss": 0.01486975,
-        "takeProfit": 0.0142105,
-        "entryTime": "2026-11-28T03:41:01.863435+00:00",
-        "status": "OPEN",
-        "mode": "PAPER ONLY"
-      },
-      {
         "symbol": "SOXLBUSDT",
         "side": "BUY",
         "entry": 36.28,
         "stopLoss": 35.7358,
         "takeProfit": 37.3684,
         "entryTime": "2026-11-28T03:41:01.863435+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "WLFIUSDT",
+        "side": "SELL",
+        "entry": 0.0198,
+        "stopLoss": 0.020097,
+        "takeProfit": 0.019206,
+        "entryTime": "2026-11-28T12:22:19.102011+00:00",
+        "status": "OPEN",
+        "mode": "PAPER ONLY"
+      },
+      {
+        "symbol": "ZECUSDT",
+        "side": "SELL",
+        "entry": 723.59,
+        "stopLoss": 734.44385,
+        "takeProfit": 701.8823,
+        "entryTime": "2026-11-28T12:22:19.102011+00:00",
         "status": "OPEN",
         "mode": "PAPER ONLY"
       }
@@ -3843,6 +3868,19 @@
         "exitPrice": 750.82,
         "exitTime": "2026-11-28T03:41:01.863435+00:00",
         "pnlPercent": -1.888
+      },
+      {
+        "symbol": "PORTALUSDT",
+        "side": "SELL",
+        "entry": 0.01465,
+        "stopLoss": 0.01486975,
+        "takeProfit": 0.0142105,
+        "entryTime": "2026-11-28T03:41:01.863435+00:00",
+        "status": "STOP_LOSS",
+        "mode": "PAPER ONLY",
+        "exitPrice": 0.01558,
+        "exitTime": "2026-11-28T12:22:19.102011+00:00",
+        "pnlPercent": -6.348
       }
     ]
   },
